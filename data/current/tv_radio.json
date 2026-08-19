@@ -1,0 +1,137 @@
+{
+  "fetched_at": "2026-08-19T16:54:18+00:00",
+  "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
+  "window_days": 7,
+  "channels": [
+    {
+      "id": "bbc_one",
+      "name": "BBC One",
+      "type": "tv",
+      "confidence": "high",
+      "new_series": [
+        {
+          "title": "Ludwig",
+          "series_number": 2,
+          "start_time": "2026-08-20T20:00:00Z",
+          "synopsis": "No longer impersonating his twin, puzzle setter John \u2018Ludwig\u2019 Taylor returns as a crime scene consultant. A murder at a theatre sees John take centre stage.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m002z84p"
+        },
+        {
+          "title": "The Football Interview",
+          "series_number": 2,
+          "start_time": "2026-08-22T11:45:00Z",
+          "synopsis": "Bold, in-depth conversations full of insight about the nation's favourite sport.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0030qmq"
+        },
+        {
+          "title": "Morning Live",
+          "series_number": 8,
+          "start_time": "2026-08-24T08:30:00Z",
+          "synopsis": "Find out if you could be owed money for unclaimed premium bonds and whether there is a correct way to stack a dishwasher.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0030qgf"
+        }
+      ]
+    },
+    {
+      "id": "bbc_two",
+      "name": "BBC Two",
+      "type": "tv",
+      "confidence": "high",
+      "new_series": [
+        {
+          "title": "Couples Therapy",
+          "series_number": 5,
+          "start_time": "2026-08-19T21:00:00Z",
+          "synopsis": "Marjorie and Jason navigate political differences. Chris and Sienna confront betrayal. Clinton and Shay clash over expectations, and Nessa seeks space from Drea.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m002zn4m"
+        }
+      ]
+    },
+    {
+      "id": "bbc_three",
+      "name": "BBC Three",
+      "type": "tv",
+      "confidence": "high",
+      "new_series": []
+    },
+    {
+      "id": "bbc_four",
+      "name": "BBC Four",
+      "type": "tv",
+      "confidence": "high",
+      "new_series": []
+    },
+    {
+      "id": "radio_4",
+      "name": "BBC Radio 4",
+      "type": "radio",
+      "confidence": "medium",
+      "new_series": [
+        {
+          "title": "Drama on 4",
+          "series_number": null,
+          "start_time": "2026-08-23T14:00:00Z",
+          "synopsis": "Joe Buck, a na\u00efve young Texan, leaves his dead-end job to be a hustler in 1960s New York, where he forms a bond with Rico, a physically broken con man. With very strong language.",
+          "url": null
+        },
+        {
+          "title": "Understand",
+          "series_number": null,
+          "start_time": "2026-08-24T10:00:00Z",
+          "synopsis": "Nathan Filer explores how the language of neurodiversity has evolved \u2013 offering a sense of belonging for many, while raising difficult questions about difference and diagnosis.",
+          "url": null
+        },
+        {
+          "title": "Limelight",
+          "series_number": null,
+          "start_time": "2026-08-24T22:00:00Z",
+          "synopsis": "After agreeing to help a mysterious stranger, young couple Jake and Kayla are implicated in an assassination at their hotel. A global thriller of espionage, money and murder.",
+          "url": "https://www.bbc.co.uk/sounds/play/m001pfp2"
+        },
+        {
+          "title": "Everything Is Fake",
+          "series_number": null,
+          "start_time": "2026-08-24T22:30:00Z",
+          "synopsis": "Podcasting has made some people famous very fast. Look closely at how they got there, and you see something revealing about the world we now live in. Jamie Bartlett investigates.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0n72wwt"
+        },
+        {
+          "title": "All the Beauty in the World by Patrick Bringley",
+          "series_number": null,
+          "start_time": "2026-08-24T23:30:00Z",
+          "synopsis": "A portrait of the Metropolitan Museum of Art in New York and the moving story of one guard's quest to find solace and meaning in art.",
+          "url": null
+        },
+        {
+          "title": "The History Podcast",
+          "series_number": null,
+          "start_time": "2026-08-25T22:00:00Z",
+          "synopsis": "Hidden on page 1692 of his great-grandfather Siegfried\u2019s unpublished memoir, the writer Joe Dunthorne discovers a confession.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0m1hmmh"
+        }
+      ]
+    },
+    {
+      "id": "world_service",
+      "name": "BBC World Service",
+      "type": "radio",
+      "confidence": "medium",
+      "new_series": []
+    },
+    {
+      "id": "itv1",
+      "name": "ITV1",
+      "type": "tv",
+      "confidence": "low",
+      "new_series": [
+        {
+          "title": "The Voice UK",
+          "series_number": 14,
+          "start_time": "2026-08-22T18:00:00Z",
+          "synopsis": "Emma Willis returns with the spinning-chair singing contest, with Tom Jones, Will.i.am, Tom Fletcher and Danny Jones joined by new coach Kelly Rowland. With only eight places available on each team, the coaches must choose carefully as they search for the UK's most exciting singing talent. Plus, for the first time, the Rewind button gives them the chance to bring back an artist they regret letting go.",
+          "url": "https://www.tvmaze.com/episodes/3697186/the-voice-uk-14x01-the-blind-auditions-1"
+        }
+      ]
+    }
+  ]
+}

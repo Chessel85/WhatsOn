@@ -65,6 +65,11 @@ a {
   color: var(--muted);
 }
 
+.card-summary ul {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
 .back-link {
   display: inline-block;
   margin-bottom: 1rem;

@@ -265,7 +265,86 @@ const FEEDS = {
       container.replaceChildren(...elements);
     },
   },
+  tv_radio: {
+    dataUrl: 'data/current/tv_radio.json',
+    renderSummary(data, container) {
+      const list = document.createElement('ul');
+      const items = data.channels.map((ch) => {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = `tv-radio.html#${channelAnchor(ch.id)}`;
+        if (ch.new_series.length) {
+          const examples = ch.new_series.slice(0, 2).map((s) => s.title).join(', ');
+          const more = ch.new_series.length > 2 ? ', …' : '';
+          a.textContent = `${ch.name}: ${examples}${more}`;
+        } else {
+          a.textContent = `${ch.name}: no new series this week`;
+        }
+        li.appendChild(a);
+        return li;
+      });
+      list.replaceChildren(...items);
+      container.replaceChildren(list);
+    },
+    renderDetail(data, container) {
+      const elements = [];
+
+      for (const ch of data.channels) {
+        const heading = document.createElement('h2');
+        heading.id = channelAnchor(ch.id);
+        heading.textContent = ch.name;
+        elements.push(heading);
+
+        if (ch.confidence === 'low') {
+          const note = document.createElement('p');
+          note.textContent = 'Lower-confidence detection for this channel — worth double-checking against the broadcaster.';
+          elements.push(note);
+        }
+
+        if (!ch.new_series.length) {
+          const p = document.createElement('p');
+          p.textContent = 'No new series starting in the next 7 days.';
+          elements.push(p);
+          continue;
+        }
+
+        const table = document.createElement('table');
+        table.innerHTML = `
+          <caption>${ch.name} — new series starting soon</caption>
+          <thead>
+            <tr>
+              <th scope="col">Programme</th>
+              <th scope="col">Series</th>
+              <th scope="col">Starts</th>
+              <th scope="col">Synopsis</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${ch.new_series.map((s) => `
+              <tr>
+                <th scope="row">${s.url ? `<a href="${s.url}" target="_blank" rel="noopener noreferrer">${s.title}</a>` : s.title}</th>
+                <td>${s.series_number ?? '—'}</td>
+                <td>${s.start_time ? `<time datetime="${s.start_time}">${formatDayHeading(localDateKey(new Date(s.start_time)))}, ${formatTime(s.start_time)}</time>` : '—'}</td>
+                <td>${s.synopsis || '—'}</td>
+              </tr>
+            `).join('')}
+          </tbody>
+        `;
+        elements.push(table);
+      }
+
+      pushFetchedAt(elements, data, 'BBC iPlayer, BBC Sounds and TVmaze');
+
+      container.replaceChildren(...elements);
+    },
+  },
 };
+
+// "bbc_one" -> "bbc-one" — used both for the overview card's per-channel
+// deep links and the matching <h2 id> on the detail page.
+function channelAnchor(channelId) {
+  return channelId.replace(/_/g, '-');
+}
 
 function pushHeading(elements, text) {
   const heading = document.createElement('h2');

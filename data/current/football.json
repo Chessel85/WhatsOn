@@ -1,0 +1,305 @@
+{
+  "fetched_at": "2026-08-19T17:12:35+00:00",
+  "source": "ESPN",
+  "lookahead_days": 90,
+  "clubs": [
+    {
+      "id": "southampton",
+      "name": "Southampton FC",
+      "fixtures": [
+        {
+          "date": "2026-08-22T14:00Z",
+          "opponent": "Stoke City",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-08-25T18:45Z",
+          "opponent": "West Ham United",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "EFL Cup"
+        },
+        {
+          "date": "2026-08-29T14:00Z",
+          "opponent": "Millwall",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-09-01T18:45Z",
+          "opponent": "Birmingham City",
+          "home_away": "away",
+          "venue": "St. Andrew's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-09-05T11:30Z",
+          "opponent": "Lincoln City",
+          "home_away": "away",
+          "venue": "LNER Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-09-08T18:45Z",
+          "opponent": "Swansea City",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-09-12T14:00Z",
+          "opponent": "Bristol City",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-09-19T14:00Z",
+          "opponent": "Wrexham",
+          "home_away": "away",
+          "venue": "ST\u014dK Cae Ras",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-10-11T11:00Z",
+          "opponent": "Portsmouth",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-10-14T18:45Z",
+          "opponent": "Norwich City",
+          "home_away": "away",
+          "venue": "Carrow Road",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-10-17T14:00Z",
+          "opponent": "Bolton Wanderers",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-10-24T14:00Z",
+          "opponent": "West Ham United",
+          "home_away": "away",
+          "venue": "London Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-10-31T15:00Z",
+          "opponent": "Queens Park Rangers",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-11-03T20:00Z",
+          "opponent": "West Bromwich Albion",
+          "home_away": "away",
+          "venue": "The Hawthorns",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-11-07T15:00Z",
+          "opponent": "Preston North End",
+          "home_away": "away",
+          "venue": "Deepdale",
+          "competition": "Championship"
+        }
+      ]
+    },
+    {
+      "id": "bournemouth",
+      "name": "AFC Bournemouth",
+      "fixtures": [
+        {
+          "date": "2026-08-23T13:00Z",
+          "opponent": "Manchester City",
+          "home_away": "away",
+          "venue": "Etihad Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2026-08-29T14:00Z",
+          "opponent": "Everton",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2026-09-05T11:30Z",
+          "opponent": "Newcastle United",
+          "home_away": "away",
+          "venue": "St. James' Park",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2026-09-12T14:00Z",
+          "opponent": "Brentford",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2026-09-20T13:00Z",
+          "opponent": "Liverpool",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2026-10-10T14:00Z",
+          "opponent": "Chelsea",
+          "home_away": "away",
+          "venue": "Stamford Bridge",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2026-10-18T13:00Z",
+          "opponent": "Sunderland",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2026-10-25T14:00Z",
+          "opponent": "Manchester United",
+          "home_away": "away",
+          "venue": "Old Trafford",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2026-10-31T15:00Z",
+          "opponent": "Leeds United",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2026-11-07T15:00Z",
+          "opponent": "Ipswich Town",
+          "home_away": "away",
+          "venue": "Portman Road",
+          "competition": "Premier League"
+        }
+      ]
+    },
+    {
+      "id": "eastleigh",
+      "name": "Eastleigh FC",
+      "fixtures": [
+        {
+          "date": "2026-08-22T11:30Z",
+          "opponent": "Scunthorpe United",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-08-28T18:45Z",
+          "opponent": "Hartlepool United",
+          "home_away": "away",
+          "venue": "The Suit Direct Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-08-31T14:00Z",
+          "opponent": "Aldershot Town",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-09-04T18:45Z",
+          "opponent": "Altrincham",
+          "home_away": "away",
+          "venue": "J. Davidson Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-09-12T14:00Z",
+          "opponent": "Boreham Wood",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-09-15T18:45Z",
+          "opponent": "Sutton United",
+          "home_away": "away",
+          "venue": "VBS Community Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-09-19T14:00Z",
+          "opponent": "Carlisle United",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-09-26T14:00Z",
+          "opponent": "Harrogate Town",
+          "home_away": "away",
+          "venue": "EnviroVent Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-09-30T18:45Z",
+          "opponent": "Southend United",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-10-03T14:00Z",
+          "opponent": "Woking",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-10-10T14:00Z",
+          "opponent": "AFC Hornchurch",
+          "home_away": "away",
+          "venue": null,
+          "competition": "National League"
+        },
+        {
+          "date": "2026-10-24T11:30Z",
+          "opponent": "Boston United",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-10-28T19:45Z",
+          "opponent": "Forest Green Rovers",
+          "home_away": "away",
+          "venue": "The Bolt New Lawn",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-10-31T15:00Z",
+          "opponent": "Barrow",
+          "home_away": "away",
+          "venue": "SO Legal Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-11-14T15:00Z",
+          "opponent": "AFC Fylde",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        }
+      ]
+    }
+  ]
+}

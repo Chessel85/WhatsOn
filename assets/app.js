@@ -338,6 +338,65 @@ const FEEDS = {
       container.replaceChildren(...elements);
     },
   },
+
+  football: {
+    dataUrl: 'data/current/football.json',
+    renderSummary(data, container) {
+      const list = document.createElement('ul');
+      const items = data.clubs.map((club) => {
+        const li = document.createElement('li');
+        const next = club.fixtures[0];
+        li.textContent = next
+          ? `${club.name}: vs ${next.opponent} (${next.home_away === 'home' ? 'H' : 'A'}), ${formatDayHeading(localDateKey(new Date(next.date)))}, ${formatVenue(next.venue)}`
+          : `${club.name}: no upcoming fixtures found.`;
+        return li;
+      });
+      list.replaceChildren(...items);
+      container.replaceChildren(list);
+    },
+    renderDetail(data, container) {
+      const elements = [];
+
+      for (const club of data.clubs) {
+        pushHeading(elements, club.name);
+
+        if (!club.fixtures.length) {
+          const p = document.createElement('p');
+          p.textContent = 'No upcoming fixtures found in the next 90 days.';
+          elements.push(p);
+          continue;
+        }
+
+        const table = document.createElement('table');
+        table.innerHTML = `
+          <caption>${club.name} — fixtures (next ${data.lookahead_days} days)</caption>
+          <thead>
+            <tr>
+              <th scope="col">Date</th>
+              <th scope="col">Opponent</th>
+              <th scope="col">Venue</th>
+              <th scope="col">Competition</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${club.fixtures.map((f) => `
+              <tr>
+                <th scope="row"><time datetime="${f.date}">${formatDayHeading(localDateKey(new Date(f.date)))}, ${formatTime(f.date)}</time></th>
+                <td>${f.opponent} (${f.home_away === 'home' ? 'H' : 'A'})</td>
+                <td>${formatVenue(f.venue)}</td>
+                <td>${f.competition}</td>
+              </tr>
+            `).join('')}
+          </tbody>
+        `;
+        elements.push(table);
+      }
+
+      pushFetchedAt(elements, data, 'ESPN');
+
+      container.replaceChildren(...elements);
+    },
+  },
 };
 
 // "bbc_one" -> "bbc-one" — used both for the overview card's per-channel
@@ -368,6 +427,10 @@ function formatShipNameLink(links, shipName) {
   const url = links.cruisemapper_url || links.wikipedia_search_url;
   if (!url) return shipName;
   return `<a href="${url}" target="_blank" rel="noopener noreferrer">${shipName}</a>`;
+}
+
+function formatVenue(venue) {
+  return venue || '—';
 }
 
 function formatShipTime(event) {

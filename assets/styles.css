@@ -75,6 +75,23 @@ a {
   margin-bottom: 1rem;
 }
 
+.refresh-button {
+  display: block;
+  margin-bottom: 1rem;
+  padding: 0.4rem 0.8rem;
+  font: inherit;
+  color: var(--fg);
+  background: var(--bg);
+  border: 1px solid var(--card-border);
+  border-radius: 0.3rem;
+  cursor: pointer;
+}
+
+.refresh-button:disabled {
+  color: var(--muted);
+  cursor: default;
+}
+
 table {
   border-collapse: collapse;
   width: 100%;

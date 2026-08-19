@@ -397,6 +397,130 @@ const FEEDS = {
       container.replaceChildren(...elements);
     },
   },
+  airport: {
+    dataUrl: 'data/current/airport.json',
+    renderSummary(data, container) {
+      const now = new Date();
+      const nextArrival = data.arrivals.find((a) => new Date(a.time) >= now);
+      const nextDeparture = data.departures.find((d) => new Date(d.time) >= now);
+
+      const countsP = document.createElement('p');
+      countsP.textContent = `${data.arrivals.length} arrivals and ${data.departures.length} departures today.`;
+
+      const arrivalP = document.createElement('p');
+      arrivalP.textContent = nextArrival
+        ? `Next arrival: ${formatTime(nextArrival.time)} from ${nextArrival.from} (${nextArrival.flight_number}).`
+        : 'No more arrivals today.';
+
+      const departureP = document.createElement('p');
+      departureP.textContent = nextDeparture
+        ? `Next departure: ${formatTime(nextDeparture.time)} to ${nextDeparture.to} (${nextDeparture.flight_number}).`
+        : 'No more departures today.';
+
+      container.replaceChildren(countsP, arrivalP, departureP);
+    },
+    renderDetail(data, container) {
+      const elements = [];
+
+      pushHeading(elements, 'Arrivals');
+      const arrivalsTable = document.createElement('table');
+      arrivalsTable.innerHTML = `
+        <caption>Southampton Airport — arrivals</caption>
+        <thead>
+          <tr>
+            <th scope="col">Time</th>
+            <th scope="col">Flight</th>
+            <th scope="col">From</th>
+            <th scope="col">Airline</th>
+            <th scope="col">Status</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${data.arrivals.map((a) => `
+            <tr>
+              <th scope="row">${formatFlightTime(a.time)}</th>
+              <td>${a.flight_number}</td>
+              <td>${a.from}</td>
+              <td>${a.airline}</td>
+              <td>${a.status || '—'}</td>
+            </tr>
+          `).join('')}
+        </tbody>
+      `;
+      elements.push(arrivalsTable);
+
+      pushHeading(elements, 'Departures');
+      const departuresTable = document.createElement('table');
+      departuresTable.innerHTML = `
+        <caption>Southampton Airport — departures</caption>
+        <thead>
+          <tr>
+            <th scope="col">Time</th>
+            <th scope="col">Flight</th>
+            <th scope="col">To</th>
+            <th scope="col">Airline</th>
+            <th scope="col">Check-in desk</th>
+            <th scope="col">Status</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${data.departures.map((d) => `
+            <tr>
+              <th scope="row">${formatFlightTime(d.time)}</th>
+              <td>${d.flight_number}</td>
+              <td>${d.to}</td>
+              <td>${d.airline}</td>
+              <td>${d.check_in_desk || '—'}</td>
+              <td>${d.status || '—'}</td>
+            </tr>
+          `).join('')}
+        </tbody>
+      `;
+      elements.push(departuresTable);
+
+      pushHeading(elements, 'Aircraft rotations today');
+
+      const rotationsNote = document.createElement('p');
+      rotationsNote.textContent = "Southampton Airport doesn't publish which aircraft flies which flight, so these pairings are inferred from the schedule — same route, landed before it took off again — not a confirmed match to a specific airframe.";
+      elements.push(rotationsNote);
+
+      if (data.rotations.length) {
+        const rotationsTable = document.createElement('table');
+        rotationsTable.innerHTML = `
+          <caption>Inferred aircraft rotations — same plane, arrival then departure</caption>
+          <thead>
+            <tr>
+              <th scope="col">Arrives</th>
+              <th scope="col">From</th>
+              <th scope="col">Departs</th>
+              <th scope="col">To</th>
+              <th scope="col">Turnaround</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${data.rotations.map((r) => `
+              <tr>
+                <th scope="row">${formatFlightTime(r.arrival_time)} ${r.arrival_flight_number}</th>
+                <td>${r.arrival_from}</td>
+                <td>${formatFlightTime(r.departure_time)} ${r.departure_flight_number}</td>
+                <td>${r.departure_to}</td>
+                <td>${formatTurnaround(r.turnaround_minutes)}</td>
+              </tr>
+            `).join('')}
+          </tbody>
+        `;
+        elements.push(rotationsTable);
+      } else {
+        const p = document.createElement('p');
+        p.textContent = 'No aircraft rotations could be inferred from today’s schedule.';
+        elements.push(p);
+      }
+
+      pushFetchedAt(elements, data, 'Southampton Airport');
+
+      container.replaceChildren(...elements);
+    },
+  },
 };
 
 // "bbc_one" -> "bbc-one" — used both for the overview card's per-channel
@@ -431,6 +555,18 @@ function formatShipNameLink(links, shipName) {
 
 function formatVenue(venue) {
   return venue || '—';
+}
+
+// Airport board rows are almost always "today", with an occasional stray
+// next-day entry (e.g. an overnight aircraft's first flight out) — showing
+// the day name alongside the time, same as the football fixtures table,
+// means those rows read correctly without a separate day-grouped table.
+function formatFlightTime(isoLike) {
+  return `${formatDayHeading(localDateKey(new Date(isoLike)))}, ${formatTime(isoLike)}`;
+}
+
+function formatTurnaround(minutes) {
+  return formatHoursMinutes({ hours: Math.floor(minutes / 60), minutes: minutes % 60 });
 }
 
 function formatShipTime(event) {
@@ -533,10 +669,7 @@ async function initOverviewCards() {
   }
 }
 
-async function initDetailPage() {
-  const container = document.querySelector('[data-feed-detail]');
-  if (!container) return;
-  const feedName = container.dataset.feedDetail;
+async function loadAndRenderDetail(feedName, container) {
   const feed = FEEDS[feedName];
   if (!feed) return;
   try {
@@ -545,6 +678,30 @@ async function initDetailPage() {
   } catch (err) {
     container.textContent = 'Unable to load this data right now.';
   }
+}
+
+// Opt-in per page: a page whose data changes fast enough within a day to be
+// worth manually refreshing (e.g. airport gate/boarding status) adds a
+// `<button data-refresh-feed>` before its data-feed-detail container; pages
+// without one (most feeds, which only change a few times a day) just don't
+// get a button.
+async function initDetailPage() {
+  const container = document.querySelector('[data-feed-detail]');
+  if (!container) return;
+  const feedName = container.dataset.feedDetail;
+
+  await loadAndRenderDetail(feedName, container);
+
+  const refreshButton = document.querySelector('[data-refresh-feed]');
+  if (!refreshButton) return;
+  refreshButton.addEventListener('click', async () => {
+    const originalText = refreshButton.textContent;
+    refreshButton.disabled = true;
+    refreshButton.textContent = 'Refreshing…';
+    await loadAndRenderDetail(feedName, container);
+    refreshButton.textContent = originalText;
+    refreshButton.disabled = false;
+  });
 }
 
 document.addEventListener('DOMContentLoaded', () => {

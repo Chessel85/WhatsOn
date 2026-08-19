@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Southampton Airport — WhatsOn Southampton</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Southampton Airport</h1>
+    <p class="tagline">Today's arrivals and departures (SOU / EGHI)</p>
+  </header>
+
+  <main id="main">
+    <a class="back-link" href="index.html">← Back to dashboard</a>
+
+    <button type="button" data-refresh-feed class="refresh-button">Refresh flight status</button>
+
+    <div data-feed-detail="airport" aria-live="polite">
+      <p>Loading airport flights…</p>
+    </div>
+  </main>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

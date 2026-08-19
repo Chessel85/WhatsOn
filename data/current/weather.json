@@ -1,30 +1,19 @@
 {
-  "fetched_at": "2026-08-19T18:40:16+00:00",
+  "fetched_at": "2026-08-19T19:29:19+00:00",
   "source": "https://open-meteo.com/",
   "location": "Southampton, UK",
   "current": {
-    "time": "2026-08-19T19:00",
-    "temperature_c": 21.2,
-    "feels_like_c": 18.6,
-    "precipitation_probability": 43,
+    "time": "2026-08-19T20:00",
+    "temperature_c": 19.9,
+    "feels_like_c": 17.7,
+    "precipitation_probability": 28,
     "precipitation_mm": 0.0,
-    "wind_speed_mph": 11.0,
-    "wind_direction": "West",
-    "humidity_percent": 48,
+    "wind_speed_mph": 9.4,
+    "wind_direction": "Northwest",
+    "humidity_percent": 53,
     "condition": "Clear sky"
   },
   "hourly": [
-    {
-      "time": "2026-08-19T19:00",
-      "temperature_c": 21.2,
-      "feels_like_c": 18.6,
-      "precipitation_probability": 43,
-      "precipitation_mm": 0.0,
-      "wind_speed_mph": 11.0,
-      "wind_direction": "West",
-      "humidity_percent": 48,
-      "condition": "Clear sky"
-    },
     {
       "time": "2026-08-19T20:00",
       "temperature_c": 19.9,
@@ -541,6 +530,17 @@
       "wind_direction": "South",
       "humidity_percent": 44,
       "condition": "Partly cloudy"
+    },
+    {
+      "time": "2026-08-21T19:00",
+      "temperature_c": 18.6,
+      "feels_like_c": 16.8,
+      "precipitation_probability": 35,
+      "precipitation_mm": 0.23,
+      "wind_speed_mph": 5.7,
+      "wind_direction": "North",
+      "humidity_percent": 52,
+      "condition": "Clear sky"
     }
   ],
   "recent_days": [

@@ -1,16 +1,7 @@
 {
-  "fetched_at": "2026-08-19T20:27:24+00:00",
+  "fetched_at": "2026-08-19T20:56:03+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-19T15:45:00",
-      "scheduled_time": "2026-08-19T15:45:00",
-      "flight_number": "EI3606",
-      "airline": "Aer Lingus",
-      "status": "Arrived 15:31. Bags at carousel 3",
-      "from": "Belfast City",
-      "from_code": "BHD"
-    },
     {
       "time": "2026-08-19T16:20:00",
       "scheduled_time": "2026-08-19T16:20:00",
@@ -70,7 +61,7 @@
       "scheduled_time": "2026-08-19T21:05:00",
       "flight_number": "LM539",
       "airline": "Loganair",
-      "status": "Arrived 21:12",
+      "status": "Arrived 21:12. Bags at carousel 3",
       "from": "Newcastle",
       "from_code": "NCL"
     },
@@ -145,19 +136,18 @@
       "status": "Scheduled",
       "from": "Amsterdam",
       "from_code": "AMS"
+    },
+    {
+      "time": "2026-08-20T09:45:00",
+      "scheduled_time": "2026-08-20T09:45:00",
+      "flight_number": "LM533",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "from": "Newcastle",
+      "from_code": "NCL"
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-19T15:15:00",
-      "scheduled_time": "2026-08-19T15:15:00",
-      "flight_number": "GR657",
-      "airline": "Aurigny",
-      "status": "Airborne 15:35",
-      "to": "Guernsey",
-      "to_code": "GCI",
-      "check_in_desk": "16-17"
-    },
     {
       "time": "2026-08-19T16:15:00",
       "scheduled_time": "2026-08-19T16:15:00",
@@ -320,15 +310,6 @@
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "EI3606",
-      "arrival_time": "2026-08-19T15:45:00",
-      "arrival_from": "Belfast City",
-      "departure_flight_number": "EI3607",
-      "departure_time": "2026-08-19T16:15:00",
-      "departure_to": "Belfast City",
-      "turnaround_minutes": 30
-    },
     {
       "arrival_flight_number": "LM555",
       "arrival_time": "2026-08-19T16:20:00",

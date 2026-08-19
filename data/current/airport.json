@@ -1,16 +1,7 @@
 {
-  "fetched_at": "2026-08-19T18:26:21+00:00",
+  "fetched_at": "2026-08-19T19:24:45+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-19T13:40:00",
-      "scheduled_time": "2026-08-19T13:40:00",
-      "flight_number": "EJU4915",
-      "airline": "easyJet",
-      "status": "Arrived 13:47. Bags at carousel 2",
-      "from": "Paris Orly",
-      "from_code": "ORY"
-    },
     {
       "time": "2026-08-19T14:25:00",
       "scheduled_time": "2026-08-19T14:25:00",
@@ -88,7 +79,7 @@
       "scheduled_time": "2026-08-19T19:25:00",
       "flight_number": "GR658",
       "airline": "Aurigny",
-      "status": "Arrived 19:09",
+      "status": "Arrived 19:09. Bags at carousel 2",
       "from": "Guernsey",
       "from_code": "GCI"
     },
@@ -97,7 +88,7 @@
       "scheduled_time": "2026-08-19T19:30:00",
       "flight_number": "EI3308",
       "airline": "Aer Lingus",
-      "status": "Arrived 19:18",
+      "status": "Arrived 19:18. Bags at carousel 1",
       "from": "Dublin",
       "from_code": "DUB"
     },
@@ -109,19 +100,27 @@
       "status": "Scheduled",
       "from": "Newcastle",
       "from_code": "NCL"
+    },
+    {
+      "time": "2026-08-20T07:30:00",
+      "scheduled_time": "2026-08-20T07:30:00",
+      "flight_number": "GR650",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "from": "Guernsey",
+      "from_code": "GCI"
+    },
+    {
+      "time": "2026-08-20T07:55:00",
+      "scheduled_time": "2026-08-20T07:55:00",
+      "flight_number": "LM551",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "from": "Jersey",
+      "from_code": "JER"
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-19T11:20:00",
-      "scheduled_time": "2026-08-19T11:20:00",
-      "flight_number": "GR502",
-      "airline": "Aurigny",
-      "status": "Airborne 13:46",
-      "to": "Alderney",
-      "to_code": "ACI",
-      "check_in_desk": "16-17"
-    },
     {
       "time": "2026-08-19T14:20:00",
       "scheduled_time": "2026-08-19T14:20:00",
@@ -217,7 +216,7 @@
       "scheduled_time": "2026-08-19T19:40:00",
       "flight_number": "LM558",
       "airline": "Loganair",
-      "status": "Gate Closed",
+      "status": "Airborne 19:32",
       "to": "Jersey",
       "to_code": "JER",
       "check_in_desk": "14-15"
@@ -227,7 +226,7 @@
       "scheduled_time": "2026-08-19T19:55:00",
       "flight_number": "GR659",
       "airline": "Aurigny",
-      "status": "Boarding at Gate 7",
+      "status": "Airborne 19:48",
       "to": "Guernsey",
       "to_code": "GCI",
       "check_in_desk": "16-17"
@@ -237,7 +236,7 @@
       "scheduled_time": "2026-08-19T20:00:00",
       "flight_number": "EI3309",
       "airline": "Aer Lingus",
-      "status": "Final Call to Gate 3",
+      "status": "Airborne 19:56",
       "to": "Dublin",
       "to_code": "DUB",
       "check_in_desk": "08-09"
@@ -251,18 +250,19 @@
       "to": "Newcastle",
       "to_code": "NCL",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-20T08:00:00",
+      "scheduled_time": "2026-08-20T08:00:00",
+      "flight_number": "GR651",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "to": "Guernsey",
+      "to_code": "GCI",
+      "check_in_desk": null
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "EJU4915",
-      "arrival_time": "2026-08-19T13:40:00",
-      "arrival_from": "Paris Orly",
-      "departure_flight_number": "EJU4916",
-      "departure_time": "2026-08-19T14:20:00",
-      "departure_to": "Paris Orly",
-      "turnaround_minutes": 40
-    },
     {
       "arrival_flight_number": "GR505",
       "arrival_time": "2026-08-19T14:25:00",
@@ -361,6 +361,15 @@
       "departure_time": "2026-08-20T06:50:00",
       "departure_to": "Newcastle",
       "turnaround_minutes": 585
+    },
+    {
+      "arrival_flight_number": "GR650",
+      "arrival_time": "2026-08-20T07:30:00",
+      "arrival_from": "Guernsey",
+      "departure_flight_number": "GR651",
+      "departure_time": "2026-08-20T08:00:00",
+      "departure_to": "Guernsey",
+      "turnaround_minutes": 30
     }
   ]
 }

@@ -1,16 +1,7 @@
 {
-  "fetched_at": "2026-08-19T21:52:20+00:00",
+  "fetched_at": "2026-08-19T22:24:02+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-19T16:50:00",
-      "scheduled_time": "2026-08-19T16:50:00",
-      "flight_number": "EI3304",
-      "airline": "Aer Lingus",
-      "status": "Arrived 16:57. Bags at carousel 2",
-      "from": "Dublin",
-      "from_code": "DUB"
-    },
     {
       "time": "2026-08-19T17:35:00",
       "scheduled_time": "2026-08-19T17:35:00",
@@ -77,20 +68,20 @@
     {
       "time": "2026-08-20T08:25:00",
       "scheduled_time": "2026-08-20T08:25:00",
-      "flight_number": "LM321",
-      "airline": "Loganair",
-      "status": "Scheduled",
-      "from": "Edinburgh",
-      "from_code": "EDI"
-    },
-    {
-      "time": "2026-08-20T08:25:00",
-      "scheduled_time": "2026-08-20T08:25:00",
       "flight_number": "EI3600",
       "airline": "Aer Lingus",
       "status": "Scheduled",
       "from": "Belfast City",
       "from_code": "BHD"
+    },
+    {
+      "time": "2026-08-20T08:25:00",
+      "scheduled_time": "2026-08-20T08:25:00",
+      "flight_number": "LM321",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "from": "Edinburgh",
+      "from_code": "EDI"
     },
     {
       "time": "2026-08-20T08:35:00",
@@ -145,6 +136,15 @@
       "status": "Scheduled",
       "from": "Alderney",
       "from_code": "ACI"
+    },
+    {
+      "time": "2026-08-20T11:05:00",
+      "scheduled_time": "2026-08-20T11:05:00",
+      "flight_number": "EZY415",
+      "airline": "easyJet",
+      "status": "Scheduled",
+      "from": "Glasgow",
+      "from_code": "GLA"
     }
   ],
   "departures": [
@@ -290,15 +290,6 @@
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "EI3304",
-      "arrival_time": "2026-08-19T16:50:00",
-      "arrival_from": "Dublin",
-      "departure_flight_number": "EI3305",
-      "departure_time": "2026-08-19T17:20:00",
-      "departure_to": "Dublin",
-      "turnaround_minutes": 30
-    },
     {
       "arrival_flight_number": "KL1071",
       "arrival_time": "2026-08-19T17:35:00",

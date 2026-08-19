@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T23:22:02+00:00",
+  "fetched_at": "2026-08-19T23:47:47+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -149,16 +149,6 @@
   ],
   "departures": [
     {
-      "time": "2026-08-19T18:05:00",
-      "scheduled_time": "2026-08-19T18:05:00",
-      "flight_number": "KL1072",
-      "airline": "KLM",
-      "status": "Airborne 18:22",
-      "to": "Amsterdam",
-      "to_code": "AMS",
-      "check_in_desk": "12-13"
-    },
-    {
       "time": "2026-08-19T19:40:00",
       "scheduled_time": "2026-08-19T19:40:00",
       "flight_number": "LM558",
@@ -297,6 +287,16 @@
       "to": "Glasgow",
       "to_code": "GLA",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-20T12:35:00",
+      "scheduled_time": "2026-08-20T12:35:00",
+      "flight_number": "EI3605",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "to": "Belfast City",
+      "to_code": "BHD",
+      "check_in_desk": null
     }
   ],
   "rotations": [
@@ -425,6 +425,15 @@
       "departure_time": "2026-08-20T11:40:00",
       "departure_to": "Glasgow",
       "turnaround_minutes": 35
+    },
+    {
+      "arrival_flight_number": "EI3604",
+      "arrival_time": "2026-08-20T12:05:00",
+      "arrival_from": "Belfast City",
+      "departure_flight_number": "EI3605",
+      "departure_time": "2026-08-20T12:35:00",
+      "departure_to": "Belfast City",
+      "turnaround_minutes": 30
     }
   ]
 }

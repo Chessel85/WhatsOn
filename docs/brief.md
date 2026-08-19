@@ -1,0 +1,18 @@
+# Original project brief
+
+I want to develop a whats on dashboard. Starting requirements are:
+
+- I want a web page that is a dashboard for what is happening in my home city of Southampton, UK.
+- I want categories of things like weather, tides, cruise ship movements, major roadworks, when Southampton FC are next playing and where, what is on at theatres, which pubs have live music in the next week, any special events being put on in the city centre like free family events, free music events, the marathon / half marathon / 10k / 5k and so on.
+- Also want non local info such as what new series are starting on my favourite radio and TV channels, weather in my favourite parts of the world, upcoming sporting events.
+- The time range for each category will vary from hours, to day, to weeks, months and even years. Some may also require storing data so historical comparisons can be made.
+- I want this information to be gathered from a whole host of sources so it is accurate.
+- I want performance to be good so the page loads in less than a few seconds.
+- Don't want to have to set up a server of any sort. I want a local only page.
+- Any application should run whilst the machine is either idle or because certain time thresholds have been exceeded. But it should never add to the load on machine switch on so a delay needs to be built in.
+
+Can you comment on the feasibility and some high level architectural considerations? I'm on Windows 11.
+
+## Note on architecture
+
+The "no server, no PC load at startup" goal above is now met via **GitHub Actions + GitHub Pages** rather than a local background app + SQLite database — see `CLAUDE.md` for the current architecture and build order.

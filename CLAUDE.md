@@ -38,8 +38,8 @@ Secrets (API keys) go in GitHub repo secrets, injected as env vars only inside t
 
 The dashboard is built and verified against **NVDA + Firefox** (the maintainer's daily setup), with a Chrome spot-check per feed. Practical implications for any frontend change:
 
-- Real semantic HTML only — `<header>`/`<nav>`/`<main>`, a skip-to-main link, one `<h1>` per page, proper heading hierarchy. No custom interactive widgets or hand-rolled ARIA.
-- Overview cards are `<a>` elements, never `<div onclick>`.
+- Real semantic HTML only — `<header>`/`<nav>`/`<main>`, one `<h1>` per page, proper heading hierarchy. No custom interactive widgets or hand-rolled ARIA. No skip-to-content link — the maintainer navigates by heading (NVDA's `H` key) rather than relying on one.
+- **Never make a heading itself a link.** A card is a heading (plain text) followed by its content, with any link (e.g. "View weather details") as its own element within that content — not wrapping the whole card/heading in an `<a>`. Overview cards are still real `<a>` elements for the actual link, never `<div onclick>`.
 - Client-side data loading needs a visible loading state and a *scoped* `aria-live="polite"` region around just the content that updates (not the whole page).
 - Tabular data (tide times, hourly forecasts, ship listings) uses real `<table>`/`<caption>`/`<th scope>` markup, not div-grids — NVDA's table navigation depends on it.
 - Dates/times use `<time datetime="...">`.
@@ -81,4 +81,9 @@ requirements.txt          # Python deps for the fetch scripts
 
 Feeds are built one at a time, fully shipped (script + workflow + page + NVDA-verified) before the next starts. Current order: weather → tides → cruise ships, then further categories as they're scoped. Check `data/current/` and `.github/workflows/` for what's actually live versus still planned — this file won't stay in sync with day-to-day progress.
 
-Cruise ship data has no official API and requires scraping Southampton VTS's shipping movements page; that feed carries a ToS judgment call (see `scripts/fetch_cruise_ships.py` if present, or the project plan) that shouldn't be worked around technically.
+Two feeds rely on undocumented endpoints rather than official APIs, both a deliberate judgment call by the maintainer (weighed against the alternative of an official signup) — don't "fix" fragility here by working around it technically, just expect occasional maintenance if the source changes:
+
+- **Tides** (`scripts/fetch_tides.py`) calls EasyTide's own internal `Home/GetPredictionData` endpoint (reverse-engineered from its frontend JS) rather than the official ADMIRALTY UK Tidal API, because that API's developer-portal signup was too cumbersome. No API key needed.
+- **Cruise ships** (`scripts/fetch_cruise_ships.py`) reads ABP Southampton VTS's public XML feed at `/xml/sotcruiseship.xml` — the same feed their own "Cruise Ship Schedule" page renders client-side via XSLT (`/xsl/sotcruiseship.xsl`). Not a documented API, but it's the actual data ABP serves to any visitor's browser, so a step more solid than scraping rendered HTML. Extends months ahead; capped to a 14-day window in the script (`LOOKAHEAD_DAYS`) to keep the page a manageable size — raise that constant if more lookahead is ever wanted.
+
+Each cruise ship visit also gets a **MarineTraffic** tracking link (built directly from the IMO number, always available) and a **"ship details" link** — resolved automatically every fetch against CruiseMapper's own `sitemap-ships.xml` (explicitly crawler-permitted by their `robots.txt`), matched by exact ship name only. No manual ship→ID mapping file: unmatched/ambiguous names (e.g. a generic name that collides with an unrelated vessel in the sitemap) just fall back to a Wikipedia search link rather than risk linking the wrong ship. This also covers passenger/cabin capacity and itinerary/next-port questions — rather than scraping that data out, we link to CruiseMapper's own page where it's already shown, keeping the fetch script free of fragile HTML scraping.

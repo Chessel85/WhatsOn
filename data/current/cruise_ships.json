@@ -1,0 +1,671 @@
+{
+  "fetched_at": "2026-08-19T10:15:06+00:00",
+  "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
+  "location": "Southampton",
+  "visits": [
+    {
+      "ship_name": "AURORA",
+      "berth": "106",
+      "arrival": {
+        "date": "2026-08-19",
+        "time": "2026-08-19T05:03:00Z"
+      },
+      "departure": {
+        "date": "2026-08-19",
+        "time": "2026-08-19T15:00:00Z"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9169524",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Aurora-648",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=AURORA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "MSC VIRTUOSA",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-08-20",
+        "time": "2026-08-20T05:00:00Z"
+      },
+      "departure": {
+        "date": "2026-08-20",
+        "time": "2026-08-20T16:00:00Z"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9803625",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/MSC-Virtuosa-1981",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MSC%20VIRTUOSA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "BOREALIS",
+      "berth": "101",
+      "arrival": {
+        "date": "2026-08-20",
+        "time": "2026-08-20T05:15:00Z"
+      },
+      "departure": {
+        "date": "2026-08-20",
+        "time": "2026-08-20T16:00:00Z"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9122552",
+        "cruisemapper_url": null,
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BOREALIS%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "MEIN SCHIFF 3",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-08-20",
+        "time": "2026-08-20T05:15:00Z"
+      },
+      "departure": {
+        "date": "2026-08-20",
+        "time": "2026-08-20T19:00:00Z"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9641730",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Mein-Schiff-3-816",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MEIN%20SCHIFF%203%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "NORWEGIAN SKY",
+      "berth": "38/9",
+      "arrival": {
+        "date": "2026-08-20",
+        "time": "2026-08-20T05:30:00Z"
+      },
+      "departure": {
+        "date": "2026-08-20",
+        "time": "2026-08-20T15:00:00Z"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9128532",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Norwegian-Sky-543",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=NORWEGIAN%20SKY%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "ARCADIA",
+      "berth": "106",
+      "arrival": {
+        "date": "2026-08-21",
+        "time": "2026-08-21T05:00:00Z"
+      },
+      "departure": {
+        "date": "2026-08-21",
+        "time": "2026-08-21T15:00:00Z"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9226906",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Arcadia-626",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=ARCADIA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "DISNEY DREAM",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-08-21",
+        "time": "2026-08-21T05:00:00Z"
+      },
+      "departure": {
+        "date": "2026-08-21",
+        "time": "2026-08-21T16:00:00Z"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9434254",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Disney-Dream-548",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=DISNEY%20DREAM%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "CELEBRITY APEX",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-08-22",
+        "time": "2026-08-22T05:15:00Z"
+      },
+      "departure": {
+        "date": "2026-08-22",
+        "time": "2026-08-22T15:00:00Z"
+      },
+      "agent": "Intercruises Shoreside & Port",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9838383",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Celebrity-Apex-1587",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=CELEBRITY%20APEX%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "IONA",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-08-22",
+        "time": "2026-08-22T05:15:00Z"
+      },
+      "departure": {
+        "date": "2026-08-22",
+        "time": "2026-08-22T16:00:00Z"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9826548",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Iona-1858",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=IONA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "VENTURA",
+      "berth": "106",
+      "arrival": {
+        "date": "2026-08-22",
+        "time": "2026-08-22T05:15:00Z"
+      },
+      "departure": {
+        "date": "2026-08-22",
+        "time": "2026-08-22T15:00:00Z"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9333175",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Ventura-669",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=VENTURA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "SKY PRINCESS",
+      "berth": "38/9",
+      "arrival": {
+        "date": "2026-08-22",
+        "time": "2026-08-22T05:30:00Z"
+      },
+      "departure": {
+        "date": "2026-08-22",
+        "time": "2026-08-22T15:00:00Z"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9802396",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Sky-Princess-2154",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=SKY%20PRINCESS%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "LIBERTY OF THE SEAS",
+      "berth": "101",
+      "arrival": {
+        "date": "2026-08-23",
+        "time": "2026-08-23T04:45:00Z"
+      },
+      "departure": {
+        "date": "2026-08-23",
+        "time": "2026-08-23T16:00:00Z"
+      },
+      "agent": "Intercruises Shoreside & Port",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9330032",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Liberty-Of-The-Seas-731",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=LIBERTY%20OF%20THE%20SEAS%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "NORWEGIAN STAR",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-08-23",
+        "time": "2026-08-23T05:30:00Z"
+      },
+      "departure": {
+        "date": "2026-08-23",
+        "time": "2026-08-23T16:00:00Z"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9195157",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Norwegian-Star-706",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=NORWEGIAN%20STAR%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "DISNEY DREAM",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-08-24",
+        "time": "2026-08-24T05:00:00Z"
+      },
+      "departure": {
+        "date": "2026-08-24",
+        "time": "2026-08-24T16:00:00Z"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9434254",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Disney-Dream-548",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=DISNEY%20DREAM%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "AIDAPERLA",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-08-25",
+        "time": "2026-08-25T04:45:00Z"
+      },
+      "departure": {
+        "date": "2026-08-25",
+        "time": "2026-08-25T18:00:00Z"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9636967",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/AIDAperla-1243",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=AIDAPERLA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "QUEEN MARY 2",
+      "berth": "38/9",
+      "arrival": {
+        "date": "2026-08-25",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-08-25",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9241061",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Queen-Mary-2-721",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=QUEEN%20MARY%202%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "MAJESTIC PRINCESS",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-08-26",
+        "time": "2026-08-26T05:30:00Z"
+      },
+      "departure": {
+        "date": "2026-08-26",
+        "time": "2026-08-26T15:00:00Z"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614141",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Majestic-Princess-1194",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MAJESTIC%20PRINCESS%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "SILVER SPIRIT",
+      "berth": "101",
+      "arrival": {
+        "date": "2026-08-27",
+        "time": "2026-08-27T05:00:00Z"
+      },
+      "departure": {
+        "date": "2026-08-27",
+        "time": "2026-08-27T18:00:00Z"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9437866",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Silver-Spirit-722",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=SILVER%20SPIRIT%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "VISTA",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-08-27",
+        "time": "2026-08-27T05:45:00Z"
+      },
+      "departure": {
+        "date": "2026-08-27",
+        "time": "2026-08-27T20:00:00Z"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9876957",
+        "cruisemapper_url": null,
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=VISTA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "BOREALIS",
+      "berth": "101",
+      "arrival": {
+        "date": "2026-08-28",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-08-28",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9122552",
+        "cruisemapper_url": null,
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BOREALIS%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "BRITANNIA",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-08-28",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-08-28",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614036",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Britannia-1028",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BRITANNIA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "DISNEY DREAM",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-08-28",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-08-28",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9434254",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Disney-Dream-548",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=DISNEY%20DREAM%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "CELEBRITY APEX",
+      "berth": "101",
+      "arrival": {
+        "date": "2026-08-29",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-08-29",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "Intercruises Shoreside & Port",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9838383",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Celebrity-Apex-1587",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=CELEBRITY%20APEX%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "IONA",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-08-29",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-08-29",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9826548",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Iona-1858",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=IONA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "MSC VIRTUOSA",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-08-29",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-08-29",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9803625",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/MSC-Virtuosa-1981",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MSC%20VIRTUOSA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "SKY PRINCESS",
+      "berth": "38/9",
+      "arrival": {
+        "date": "2026-08-29",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-08-29",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9802396",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Sky-Princess-2154",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=SKY%20PRINCESS%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "VENTURA",
+      "berth": "106",
+      "arrival": {
+        "date": "2026-08-29",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-08-29",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9333175",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Ventura-669",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=VENTURA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "ARVIA",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-08-30",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-08-30",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9849693",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Arvia-2158",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=ARVIA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "QUEEN ANNE",
+      "berth": "106",
+      "arrival": {
+        "date": "2026-08-30",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-08-30",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9839399",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Queen-Anne-2141",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=QUEEN%20ANNE%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "DISNEY DREAM",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-08-31",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-08-31",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9434254",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Disney-Dream-548",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=DISNEY%20DREAM%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "LIBERTY OF THE SEAS",
+      "berth": "101",
+      "arrival": {
+        "date": "2026-08-31",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-08-31",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "Intercruises Shoreside & Port",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9330032",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Liberty-Of-The-Seas-731",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=LIBERTY%20OF%20THE%20SEAS%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "SEVEN SEAS VOYAGER",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-09-01",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-02",
+        "time": null,
+        "time_label": "AM"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9247144",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Seven-Seas-Voyager-695",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=SEVEN%20SEAS%20VOYAGER%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "VENTURA",
+      "berth": "106",
+      "arrival": {
+        "date": "2026-09-01",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-01",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9333175",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Ventura-669",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=VENTURA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "ARCADIA",
+      "berth": "106",
+      "arrival": {
+        "date": "2026-09-02",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-02",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9226906",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Arcadia-626",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=ARCADIA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "BOREALIS",
+      "berth": "101",
+      "arrival": {
+        "date": "2026-09-02",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-02",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9122552",
+        "cruisemapper_url": null,
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BOREALIS%20cruise%20ship"
+      }
+    }
+  ]
+}

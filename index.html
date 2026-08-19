@@ -7,19 +7,35 @@
   <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
-  <a class="skip-link" href="#main">Skip to main content</a>
-
   <header>
     <h1>WhatsOn — Southampton</h1>
     <p class="tagline">What's happening in and around Southampton, UK.</p>
   </header>
 
   <main id="main">
-    <p>The dashboard is being built one data feed at a time. Nothing is live yet — weather is next.</p>
+    <div class="card-grid">
+      <div class="card" data-feed="weather">
+        <h2>Weather</h2>
+        <div class="card-summary" aria-live="polite">Loading…</div>
+        <a href="weather.html">View weather details</a>
+      </div>
+      <div class="card" data-feed="tides">
+        <h2>Tides</h2>
+        <div class="card-summary" aria-live="polite">Loading…</div>
+        <a href="tides.html">View tide times</a>
+      </div>
+      <div class="card" data-feed="cruise_ships">
+        <h2>Cruise ships</h2>
+        <div class="card-summary" aria-live="polite">Loading…</div>
+        <a href="cruise-ships.html">View cruise ship schedule</a>
+      </div>
+    </div>
   </main>
 
   <footer>
     <p>Data refreshed automatically via scheduled GitHub Actions.</p>
   </footer>
+
+  <script src="assets/app.js"></script>
 </body>
 </html>

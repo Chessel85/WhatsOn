@@ -26,11 +26,11 @@ Each category (a "feed") is fully independent: its own fetch script, its own sch
 
 Follow the pattern of existing feeds (check `scripts/`, `.github/workflows/`, and `data/current/` for the latest example):
 
-1. `scripts/fetch_<feed>.py` — calls the external source, normalizes the result, overwrites `data/current/<feed>.json`, appends a dated row to `data/history/<feed>.csv` if historical comparison is useful, exits non-zero on failure (no silent stale data).
+1. `scripts/fetch_<feed>.py` — calls the external source, normalizes the result, overwrites `data/current/<feed>.json`, appends a dated row to `data/history/<feed>.csv` if historical comparison is useful, exits non-zero on failure (no silent stale data). Use the shared helpers in `scripts/_common.py` rather than re-implementing them: `REPO_ROOT`, `USER_AGENT`, `fetch_text(url)` (GET with the shared UA + `raise_for_status`, returns `.text`), `write_json(path, data)`, and `run(main, label)` (wraps `main()` in the standard try/except → stderr + `sys.exit(1)` pattern — the whole `if __name__ == "__main__":` block should just be `run(main, "<feed>")`).
 2. `.github/workflows/fetch-<feed>.yml` — `schedule:` (cadence appropriate to how often the source actually changes) + `workflow_dispatch:` (for manual testing), `permissions: contents: write`, installs `requirements.txt`, runs the script, commits+pushes only if `data/` changed.
 3. An overview card on `index.html` (a real `<a>` link, not a clickable `<div>`, whose visible/accessible text includes the current summary value) linking to `<feed>.html`.
 4. `<feed>.html` — a detail page sharing the same header/`styles.css`, with a "Back to dashboard" link before its content.
-5. A registry entry + render function in `assets/app.js` (fetch path, overview summary renderer, detail renderer).
+5. A registry entry + render function in `assets/app.js` (fetch path, overview summary renderer, detail renderer). Reuse the existing shared helpers rather than re-duplicating: `groupByLocalDate`/`localDateKey`/`formatDayHeading`/`formatTime` for date handling, and `pushHeading(elements, text)` / `pushFetchedAt(elements, data, sourceName)` for the two small pieces every `renderDetail` needs (a day/section `<h2>`, and the trailing "Data fetched ... from ..." paragraph).
 
 Secrets (API keys) go in GitHub repo secrets, injected as env vars only inside that feed's workflow — never exposed client-side, since GitHub Pages content is public.
 
@@ -71,7 +71,9 @@ assets/
 data/
   current/<feed>.json     # latest snapshot per feed, read by the frontend
   history/<feed>.csv      # append-only history per feed, where useful
-scripts/fetch_<feed>.py   # one fetch script per feed
+scripts/
+  _common.py              # shared fetch-script helpers — REPO_ROOT, USER_AGENT, fetch_text(), write_json(), run()
+  fetch_<feed>.py          # one fetch script per feed
 .github/workflows/fetch-<feed>.yml   # one scheduled workflow per feed
 docs/brief.md             # original project brief
 requirements.txt          # Python deps for the fetch scripts

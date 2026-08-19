@@ -13,9 +13,7 @@ const FEEDS = {
       const c = data.current;
       const elements = [];
 
-      const currentHeading = document.createElement('h2');
-      currentHeading.textContent = 'Current conditions';
-      elements.push(currentHeading);
+      pushHeading(elements, 'Current conditions');
 
       const current = document.createElement('p');
       current.innerHTML = `
@@ -28,9 +26,7 @@ const FEEDS = {
       for (const [dateKey, hours] of groupByLocalDate(data.hourly)) {
         const dayLabel = formatDayHeading(dateKey);
 
-        const dayHeading = document.createElement('h2');
-        dayHeading.textContent = dayLabel;
-        elements.push(dayHeading);
+        pushHeading(elements, dayLabel);
 
         const table = document.createElement('table');
         table.innerHTML = `
@@ -61,9 +57,7 @@ const FEEDS = {
         elements.push(table);
       }
 
-      const recentHeading = document.createElement('h2');
-      recentHeading.textContent = 'Last 5 days';
-      elements.push(recentHeading);
+      pushHeading(elements, 'Last 5 days');
 
       const recentTable = document.createElement('table');
       recentTable.innerHTML = `
@@ -91,10 +85,7 @@ const FEEDS = {
       `;
       elements.push(recentTable);
 
-      const fetchedAt = document.createElement('p');
-      fetchedAt.className = 'fetched-at';
-      fetchedAt.textContent = `Data fetched ${new Date(data.fetched_at).toLocaleString('en-GB')} from Open-Meteo.`;
-      elements.push(fetchedAt);
+      pushFetchedAt(elements, data, 'Open-Meteo');
 
       container.replaceChildren(...elements);
     },
@@ -121,9 +112,7 @@ const FEEDS = {
     renderDetail(data, container) {
       const elements = [];
 
-      const cycleHeading = document.createElement('h2');
-      cycleHeading.textContent = 'Tidal cycle';
-      elements.push(cycleHeading);
+      pushHeading(elements, 'Tidal cycle');
 
       const cycleP = document.createElement('p');
       cycleP.textContent = formatTidalCycle(data.tidal_cycle);
@@ -132,9 +121,7 @@ const FEEDS = {
       for (const [dateKey, events] of groupByLocalDate(data.events)) {
         const dayLabel = formatDayHeading(dateKey);
 
-        const dayHeading = document.createElement('h2');
-        dayHeading.textContent = dayLabel;
-        elements.push(dayHeading);
+        pushHeading(elements, dayLabel);
 
         const table = document.createElement('table');
         table.innerHTML = `
@@ -159,10 +146,7 @@ const FEEDS = {
         elements.push(table);
       }
 
-      const fetchedAt = document.createElement('p');
-      fetchedAt.className = 'fetched-at';
-      fetchedAt.textContent = `Data fetched ${new Date(data.fetched_at).toLocaleString('en-GB')} from the ADMIRALTY UK Tidal API.`;
-      elements.push(fetchedAt);
+      pushFetchedAt(elements, data, 'the ADMIRALTY UK Tidal API');
 
       container.replaceChildren(...elements);
     },
@@ -200,9 +184,7 @@ const FEEDS = {
       for (const [dateKey, visits] of groups) {
         const dayLabel = formatDayHeading(dateKey);
 
-        const dayHeading = document.createElement('h2');
-        dayHeading.textContent = dayLabel;
-        elements.push(dayHeading);
+        pushHeading(elements, dayLabel);
 
         const table = document.createElement('table');
         table.innerHTML = `
@@ -229,10 +211,7 @@ const FEEDS = {
         elements.push(table);
       }
 
-      const fetchedAt = document.createElement('p');
-      fetchedAt.className = 'fetched-at';
-      fetchedAt.textContent = `Data fetched ${new Date(data.fetched_at).toLocaleString('en-GB')} from Southampton VTS.`;
-      elements.push(fetchedAt);
+      pushFetchedAt(elements, data, 'Southampton VTS');
 
       container.replaceChildren(...elements);
     },
@@ -256,9 +235,7 @@ const FEEDS = {
       for (const [dateKey, events] of groupByLocalDate(data.events)) {
         const dayLabel = formatDayHeading(dateKey);
 
-        const dayHeading = document.createElement('h2');
-        dayHeading.textContent = dayLabel;
-        elements.push(dayHeading);
+        pushHeading(elements, dayLabel);
 
         const table = document.createElement('table');
         table.innerHTML = `
@@ -283,15 +260,25 @@ const FEEDS = {
         elements.push(table);
       }
 
-      const fetchedAt = document.createElement('p');
-      fetchedAt.className = 'fetched-at';
-      fetchedAt.textContent = `Data fetched ${new Date(data.fetched_at).toLocaleString('en-GB')} from hellosouthampton.co.uk.`;
-      elements.push(fetchedAt);
+      pushFetchedAt(elements, data, 'hellosouthampton.co.uk');
 
       container.replaceChildren(...elements);
     },
   },
 };
+
+function pushHeading(elements, text) {
+  const heading = document.createElement('h2');
+  heading.textContent = text;
+  elements.push(heading);
+}
+
+function pushFetchedAt(elements, data, sourceName) {
+  const fetchedAt = document.createElement('p');
+  fetchedAt.className = 'fetched-at';
+  fetchedAt.textContent = `Data fetched ${new Date(data.fetched_at).toLocaleString('en-GB')} from ${sourceName}.`;
+  elements.push(fetchedAt);
+}
 
 // The ship name (row header) links straight to its details page —
 // CruiseMapper (specs, deck plans, itinerary) when we found an exact name

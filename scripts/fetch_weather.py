@@ -5,13 +5,12 @@ Writes data/current/weather.json (overwritten each run) and appends a row
 to data/history/weather.csv. No API key required.
 """
 import csv
-import json
-import sys
 from datetime import datetime, timezone
-from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import requests
+
+from _common import REPO_ROOT, run, write_json
 
 LATITUDE = 50.9097
 LONGITUDE = -1.4044
@@ -20,9 +19,8 @@ LOCAL_TZ = ZoneInfo(TIMEZONE)
 FORECAST_HOURS = 48
 RECENT_DAYS = 5
 
-ROOT = Path(__file__).resolve().parent.parent
-CURRENT_PATH = ROOT / "data" / "current" / "weather.json"
-HISTORY_PATH = ROOT / "data" / "history" / "weather.csv"
+CURRENT_PATH = REPO_ROOT / "data" / "current" / "weather.json"
+HISTORY_PATH = REPO_ROOT / "data" / "history" / "weather.csv"
 
 API_URL = "https://api.open-meteo.com/v1/forecast"
 
@@ -164,11 +162,6 @@ def build_recent_days(daily):
     ]
 
 
-def write_current(data):
-    CURRENT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    CURRENT_PATH.write_text(json.dumps(data, indent=2), encoding="utf-8")
-
-
 def append_history(data):
     HISTORY_PATH.parent.mkdir(parents=True, exist_ok=True)
     is_new = not HISTORY_PATH.exists()
@@ -193,14 +186,10 @@ def append_history(data):
 
 def main():
     data = build_output(fetch_raw())
-    write_current(data)
+    write_json(CURRENT_PATH, data)
     append_history(data)
     print(f"Weather updated: {data['current']['temperature_c']}°C, {data['current']['condition']}")
 
 
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception as exc:  # noqa: BLE001 - top-level script guard
-        print(f"Failed to fetch weather: {exc}", file=sys.stderr)
-        sys.exit(1)
+    run(main, "weather")

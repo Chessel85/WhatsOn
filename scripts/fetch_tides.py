@@ -11,18 +11,16 @@ it without notice — if this script starts failing, first check whether
 https://easytide.admiralty.co.uk/?PortID=0062 still works in a browser
 before assuming the script itself is broken.
 """
-import json
-import sys
 from datetime import datetime, timezone
-from pathlib import Path
 
 import requests
+
+from _common import REPO_ROOT, USER_AGENT, run, write_json
 
 STATION_ID = "0062"  # Southampton — see https://easytide.admiralty.co.uk/?PortID=0062
 STATION_NAME = "Southampton"
 
-ROOT = Path(__file__).resolve().parent.parent
-CURRENT_PATH = ROOT / "data" / "current" / "tides.json"
+CURRENT_PATH = REPO_ROOT / "data" / "current" / "tides.json"
 
 PREDICTION_URL = "https://easytide.admiralty.co.uk/Home/GetPredictionData"
 
@@ -71,7 +69,7 @@ def fetch_events():
         headers={
             "Accept": "application/json",
             "Referer": f"https://easytide.admiralty.co.uk/?PortID={STATION_ID}",
-            "User-Agent": "WhatsOn-Southampton-Dashboard/1.0 (personal, non-commercial; https://github.com/Chessel85/WhatsOn)",
+            "User-Agent": USER_AGENT,
         },
         timeout=30,
     )
@@ -98,11 +96,6 @@ def fetch_events():
     return events
 
 
-def write_current(data):
-    CURRENT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    CURRENT_PATH.write_text(json.dumps(data, indent=2), encoding="utf-8")
-
-
 def main():
     events = fetch_events()
     output = {
@@ -112,13 +105,9 @@ def main():
         "events": events,
         "tidal_cycle": tidal_cycle_info(),
     }
-    write_current(output)
+    write_json(CURRENT_PATH, output)
     print(f"Tides updated: {len(events)} events")
 
 
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception as exc:  # noqa: BLE001 - top-level script guard
-        print(f"Failed to fetch tides: {exc}", file=sys.stderr)
-        sys.exit(1)
+    run(main, "tides")

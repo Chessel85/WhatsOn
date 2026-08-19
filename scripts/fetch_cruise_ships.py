@@ -12,22 +12,20 @@ without notice.
 The feed itself extends for months ahead, but is capped here to
 LOOKAHEAD_DAYS to keep the page a manageable size.
 """
-import json
 import re
-import sys
 from datetime import datetime, timedelta, timezone
-from pathlib import Path
 from urllib.parse import quote
 from xml.etree import ElementTree
 from zoneinfo import ZoneInfo
 
 import requests
 
+from _common import REPO_ROOT, fetch_text, run, write_json
+
 LOCAL_TZ = ZoneInfo("Europe/London")
 LOOKAHEAD_DAYS = 14
 
-ROOT = Path(__file__).resolve().parent.parent
-CURRENT_PATH = ROOT / "data" / "current" / "cruise_ships.json"
+CURRENT_PATH = REPO_ROOT / "data" / "current" / "cruise_ships.json"
 
 FEED_URL = "https://www.southamptonvts.co.uk/xml/sotcruiseship.xml"
 
@@ -41,16 +39,6 @@ FEED_URL = "https://www.southamptonvts.co.uk/xml/sotcruiseship.xml"
 # (e.g. "BOREALIS" also matches an unrelated icebreaker) and a wrong link is
 # worse than no link.
 CRUISEMAPPER_SITEMAP_URL = "https://www.cruisemapper.com/sitemap-ships.xml"
-
-
-USER_AGENT = "WhatsOn-Southampton-Dashboard/1.0 (personal, non-commercial; https://github.com/Chessel85/WhatsOn)"
-
-
-def fetch_text(url):
-    response = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=30)
-    response.raise_for_status()
-    return response.text
-
 
 SHIP_SLUG_RE = re.compile(r"/ships/([^/<]+)-(\d+)$")
 
@@ -155,11 +143,6 @@ def fetch_visits():
     return visits
 
 
-def write_current(data):
-    CURRENT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    CURRENT_PATH.write_text(json.dumps(data, indent=2), encoding="utf-8")
-
-
 def main():
     visits = fetch_visits()
     output = {
@@ -168,13 +151,9 @@ def main():
         "location": "Southampton",
         "visits": visits,
     }
-    write_current(output)
+    write_json(CURRENT_PATH, output)
     print(f"Cruise ships updated: {len(visits)} visits over the next {LOOKAHEAD_DAYS} days")
 
 
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception as exc:  # noqa: BLE001 - top-level script guard
-        print(f"Failed to fetch cruise ships: {exc}", file=sys.stderr)
-        sys.exit(1)
+    run(main, "cruise ships")

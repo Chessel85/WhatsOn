@@ -8,25 +8,19 @@ Terms of Service. The listing page server-renders ~45 upcoming events
 (roughly a month out); more are behind a JS "Load More" button, not
 pursued here.
 """
-import json
-import sys
 from datetime import datetime, timezone
-from pathlib import Path
 
-import requests
 from bs4 import BeautifulSoup
 
-EVENTS_URL = "https://hellosouthampton.co.uk/whats-on-in-southampton/"
-USER_AGENT = "WhatsOn-Southampton-Dashboard/1.0 (personal, non-commercial; https://github.com/Chessel85/WhatsOn)"
+from _common import REPO_ROOT, fetch_text, run, write_json
 
-ROOT = Path(__file__).resolve().parent.parent
-CURRENT_PATH = ROOT / "data" / "current" / "city_events.json"
+EVENTS_URL = "https://hellosouthampton.co.uk/whats-on-in-southampton/"
+
+CURRENT_PATH = REPO_ROOT / "data" / "current" / "city_events.json"
 
 
 def fetch_events():
-    response = requests.get(EVENTS_URL, headers={"User-Agent": USER_AGENT}, timeout=30)
-    response.raise_for_status()
-    soup = BeautifulSoup(response.text, "html.parser")
+    soup = BeautifulSoup(fetch_text(EVENTS_URL), "html.parser")
 
     events = []
     for article in soup.find_all("article", class_="type-event"):
@@ -51,11 +45,6 @@ def fetch_events():
     return events
 
 
-def write_current(data):
-    CURRENT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    CURRENT_PATH.write_text(json.dumps(data, indent=2), encoding="utf-8")
-
-
 def main():
     events = fetch_events()
     output = {
@@ -64,13 +53,9 @@ def main():
         "location": "Southampton, UK",
         "events": events,
     }
-    write_current(output)
+    write_json(CURRENT_PATH, output)
     print(f"City events updated: {len(events)} events")
 
 
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception as exc:  # noqa: BLE001 - top-level script guard
-        print(f"Failed to fetch city events: {exc}", file=sys.stderr)
-        sys.exit(1)
+    run(main, "city events")

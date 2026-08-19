@@ -9,3 +9,4 @@ fetched_at,temperature_c,feels_like_c,condition,wind_speed_mph,precipitation_mm
 2026-08-19T13:31:10+00:00,19.3,20.6,Dense drizzle,3.6,1.0
 2026-08-19T13:48:16+00:00,19.3,20.6,Dense drizzle,3.6,1.0
 2026-08-19T14:37:50+00:00,20.7,21.8,Overcast,3.1,0.0
+2026-08-19T15:35:10+00:00,22.3,21.0,Partly cloudy,8.7,0.0

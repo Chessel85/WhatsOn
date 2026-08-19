@@ -237,6 +237,60 @@ const FEEDS = {
       container.replaceChildren(...elements);
     },
   },
+
+  city_events: {
+    dataUrl: 'data/current/city_events.json',
+    renderSummary(data, container) {
+      const p = document.createElement('p');
+      if (!data.events.length) {
+        p.textContent = 'No upcoming events listed.';
+      } else {
+        const next = data.events[0];
+        p.textContent = `${data.events.length} upcoming events. Next: ${next.title} (${formatDayHeading(localDateKey(new Date(next.time)))}).`;
+      }
+      container.replaceChildren(p);
+    },
+    renderDetail(data, container) {
+      const elements = [];
+
+      for (const [dateKey, events] of groupByLocalDate(data.events)) {
+        const dayLabel = formatDayHeading(dateKey);
+
+        const dayHeading = document.createElement('h2');
+        dayHeading.textContent = dayLabel;
+        elements.push(dayHeading);
+
+        const table = document.createElement('table');
+        table.innerHTML = `
+          <caption>City events — ${dayLabel}</caption>
+          <thead>
+            <tr>
+              <th scope="col">Event</th>
+              <th scope="col">Venue</th>
+              <th scope="col">Time</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${events.map((e) => `
+              <tr>
+                <th scope="row"><a href="${e.url}" target="_blank" rel="noopener noreferrer">${e.title}</a></th>
+                <td>${e.venue || '—'}</td>
+                <td>${formatTime(e.time)}</td>
+              </tr>
+            `).join('')}
+          </tbody>
+        `;
+        elements.push(table);
+      }
+
+      const fetchedAt = document.createElement('p');
+      fetchedAt.className = 'fetched-at';
+      fetchedAt.textContent = `Data fetched ${new Date(data.fetched_at).toLocaleString('en-GB')} from hellosouthampton.co.uk.`;
+      elements.push(fetchedAt);
+
+      container.replaceChildren(...elements);
+    },
+  },
 };
 
 // The ship name (row header) links straight to its details page —

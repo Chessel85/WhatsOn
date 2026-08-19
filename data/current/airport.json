@@ -1,16 +1,7 @@
 {
-  "fetched_at": "2026-08-19T19:49:55+00:00",
+  "fetched_at": "2026-08-19T20:27:24+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-19T14:45:00",
-      "scheduled_time": "2026-08-19T14:45:00",
-      "flight_number": "GR656",
-      "airline": "Aurigny",
-      "status": "Arrived 14:46. Bags at carousel 2",
-      "from": "Guernsey",
-      "from_code": "GCI"
-    },
     {
       "time": "2026-08-19T15:45:00",
       "scheduled_time": "2026-08-19T15:45:00",
@@ -79,7 +70,7 @@
       "scheduled_time": "2026-08-19T21:05:00",
       "flight_number": "LM539",
       "airline": "Loganair",
-      "status": "Expected 21:05",
+      "status": "Arrived 21:12",
       "from": "Newcastle",
       "from_code": "NCL"
     },
@@ -157,36 +148,6 @@
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-19T14:20:00",
-      "scheduled_time": "2026-08-19T14:20:00",
-      "flight_number": "EJU4916",
-      "airline": "easyJet",
-      "status": "Airborne 14:50",
-      "to": "Paris Orly",
-      "to_code": "ORY",
-      "check_in_desk": "04-07"
-    },
-    {
-      "time": "2026-08-19T14:55:00",
-      "scheduled_time": "2026-08-19T14:55:00",
-      "flight_number": "GR506",
-      "airline": "Aurigny",
-      "status": "Airborne 15:11",
-      "to": "Alderney",
-      "to_code": "ACI",
-      "check_in_desk": "16-17"
-    },
-    {
-      "time": "2026-08-19T15:00:00",
-      "scheduled_time": "2026-08-19T15:00:00",
-      "flight_number": "LM326",
-      "airline": "Loganair",
-      "status": "Airborne 15:25",
-      "to": "Edinburgh",
-      "to_code": "EDI",
-      "check_in_desk": "14-15"
-    },
     {
       "time": "2026-08-19T15:15:00",
       "scheduled_time": "2026-08-19T15:15:00",
@@ -296,18 +257,69 @@
       "to": "Jersey",
       "to_code": "JER",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-20T08:55:00",
+      "scheduled_time": "2026-08-20T08:55:00",
+      "flight_number": "LM322",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "to": "Edinburgh",
+      "to_code": "EDI",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-20T08:55:00",
+      "scheduled_time": "2026-08-20T08:55:00",
+      "flight_number": "EI3601",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "to": "Belfast City",
+      "to_code": "BHD",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-20T09:05:00",
+      "scheduled_time": "2026-08-20T09:05:00",
+      "flight_number": "EJU7370",
+      "airline": "easyJet",
+      "status": "Scheduled",
+      "to": "Palma",
+      "to_code": "PMI",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-20T09:15:00",
+      "scheduled_time": "2026-08-20T09:15:00",
+      "flight_number": "KL1070",
+      "airline": "KLM",
+      "status": "Scheduled",
+      "to": "Amsterdam",
+      "to_code": "AMS",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-20T09:20:00",
+      "scheduled_time": "2026-08-20T09:20:00",
+      "flight_number": "EI3301",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "to": "Dublin",
+      "to_code": "DUB",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-20T09:25:00",
+      "scheduled_time": "2026-08-20T09:25:00",
+      "flight_number": "EJU7518",
+      "airline": "easyJet",
+      "status": "Scheduled",
+      "to": "Faro",
+      "to_code": "FAO",
+      "check_in_desk": null
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "GR656",
-      "arrival_time": "2026-08-19T14:45:00",
-      "arrival_from": "Guernsey",
-      "departure_flight_number": "GR657",
-      "departure_time": "2026-08-19T15:15:00",
-      "departure_to": "Guernsey",
-      "turnaround_minutes": 30
-    },
     {
       "arrival_flight_number": "EI3606",
       "arrival_time": "2026-08-19T15:45:00",
@@ -397,6 +409,60 @@
       "departure_time": "2026-08-20T08:25:00",
       "departure_to": "Jersey",
       "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "LM321",
+      "arrival_time": "2026-08-20T08:25:00",
+      "arrival_from": "Edinburgh",
+      "departure_flight_number": "LM322",
+      "departure_time": "2026-08-20T08:55:00",
+      "departure_to": "Edinburgh",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EI3600",
+      "arrival_time": "2026-08-20T08:25:00",
+      "arrival_from": "Belfast City",
+      "departure_flight_number": "EI3601",
+      "departure_time": "2026-08-20T08:55:00",
+      "departure_to": "Belfast City",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EJU7369",
+      "arrival_time": "2026-08-20T08:35:00",
+      "arrival_from": "Palma",
+      "departure_flight_number": "EJU7370",
+      "departure_time": "2026-08-20T09:05:00",
+      "departure_to": "Palma",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "KL1069",
+      "arrival_time": "2026-08-20T08:45:00",
+      "arrival_from": "Amsterdam",
+      "departure_flight_number": "KL1070",
+      "departure_time": "2026-08-20T09:15:00",
+      "departure_to": "Amsterdam",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EI3300",
+      "arrival_time": "2026-08-20T08:40:00",
+      "arrival_from": "Dublin",
+      "departure_flight_number": "EI3301",
+      "departure_time": "2026-08-20T09:20:00",
+      "departure_to": "Dublin",
+      "turnaround_minutes": 40
+    },
+    {
+      "arrival_flight_number": "EJU7517",
+      "arrival_time": "2026-08-20T08:45:00",
+      "arrival_from": "Faro",
+      "departure_flight_number": "EJU7518",
+      "departure_time": "2026-08-20T09:25:00",
+      "departure_to": "Faro",
+      "turnaround_minutes": 40
     }
   ]
 }

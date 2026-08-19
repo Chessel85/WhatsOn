@@ -91,6 +91,64 @@ const FEEDS = {
     },
   },
 
+  astronomy: {
+    dataUrl: 'data/current/astronomy.json',
+    renderSummary(data, container) {
+      const today = data.days.find((d) => d.date === localDateKey(new Date())) || data.days[0];
+
+      const sunP = document.createElement('p');
+      sunP.textContent = `Sunrise ${formatTime(today.sunrise)}, sunset ${formatTime(today.sunset)}.`;
+
+      const moonP = document.createElement('p');
+      const rise = today.moonrise ? formatTime(today.moonrise) : 'none today';
+      const set = today.moonset ? formatTime(today.moonset) : 'none today';
+      moonP.textContent = `Moonrise ${rise}, moonset ${set}. ${today.moon_phase}, ${Math.round(today.moon_illumination_percent)}% illuminated.`;
+
+      container.replaceChildren(sunP, moonP);
+    },
+    renderDetail(data, container) {
+      const elements = [];
+
+      pushHeading(elements, 'Sun & moon — next 7 days');
+
+      const table = document.createElement('table');
+      table.innerHTML = `
+        <caption>Sunrise, sunset and moon phase — Southampton</caption>
+        <thead>
+          <tr>
+            <th scope="col">Date</th>
+            <th scope="col">Sunrise</th>
+            <th scope="col">Sunset</th>
+            <th scope="col">Day length</th>
+            <th scope="col">Moonrise</th>
+            <th scope="col">Moonset</th>
+            <th scope="col">Moon phase</th>
+            <th scope="col">Illuminated</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${data.days.map((d) => `
+            <tr>
+              <th scope="row">${formatDayHeading(d.date)}</th>
+              <td>${formatTime(d.sunrise)}</td>
+              <td>${formatTime(d.sunset)}</td>
+              <td>${formatHoursMinutes(d.day_length)}</td>
+              <td>${d.moonrise ? formatTime(d.moonrise) : '—'}</td>
+              <td>${d.moonset ? formatTime(d.moonset) : '—'}</td>
+              <td>${d.moon_phase}</td>
+              <td>${Math.round(d.moon_illumination_percent)}%</td>
+            </tr>
+          `).join('')}
+        </tbody>
+      `;
+      elements.push(table);
+
+      pushFetchedAt(elements, data, 'sunrisesunset.io');
+
+      container.replaceChildren(...elements);
+    },
+  },
+
   tides: {
     dataUrl: 'data/current/tides.json',
     renderSummary(data, container) {

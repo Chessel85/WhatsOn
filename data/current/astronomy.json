@@ -1,0 +1,98 @@
+{
+  "fetched_at": "2026-08-19T19:04:02+00:00",
+  "source": "https://sunrisesunset.io/",
+  "location": "Southampton, UK",
+  "days": [
+    {
+      "date": "2026-08-19",
+      "sunrise": "2026-08-19T04:57:52+00:00",
+      "sunset": "2026-08-19T19:19:35+00:00",
+      "day_length": {
+        "hours": 14,
+        "minutes": 22
+      },
+      "moonrise": "2026-08-19T13:25:38+00:00",
+      "moonset": "2026-08-19T21:21:47+00:00",
+      "moon_phase": "First Quarter",
+      "moon_illumination_percent": 44.19
+    },
+    {
+      "date": "2026-08-20",
+      "sunrise": "2026-08-20T04:59:25+00:00",
+      "sunset": "2026-08-20T19:17:33+00:00",
+      "day_length": {
+        "hours": 14,
+        "minutes": 18
+      },
+      "moonrise": "2026-08-20T14:37:16+00:00",
+      "moonset": "2026-08-20T21:51:02+00:00",
+      "moon_phase": "First Quarter",
+      "moon_illumination_percent": 53.83
+    },
+    {
+      "date": "2026-08-21",
+      "sunrise": "2026-08-21T05:00:58+00:00",
+      "sunset": "2026-08-21T19:15:31+00:00",
+      "day_length": {
+        "hours": 14,
+        "minutes": 15
+      },
+      "moonrise": "2026-08-21T15:42:13+00:00",
+      "moonset": "2026-08-21T22:30:28+00:00",
+      "moon_phase": "First Quarter",
+      "moon_illumination_percent": 63.2
+    },
+    {
+      "date": "2026-08-22",
+      "sunrise": "2026-08-22T05:02:32+00:00",
+      "sunset": "2026-08-22T19:13:27+00:00",
+      "day_length": {
+        "hours": 14,
+        "minutes": 11
+      },
+      "moonrise": "2026-08-22T16:36:53+00:00",
+      "moonset": "2026-08-22T23:21:57+00:00",
+      "moon_phase": "Waxing Gibbous",
+      "moon_illumination_percent": 72.06
+    },
+    {
+      "date": "2026-08-23",
+      "sunrise": "2026-08-23T05:04:05+00:00",
+      "sunset": "2026-08-23T19:11:22+00:00",
+      "day_length": {
+        "hours": 14,
+        "minutes": 7
+      },
+      "moonrise": "2026-08-23T17:19:36+00:00",
+      "moonset": null,
+      "moon_phase": "Waxing Gibbous",
+      "moon_illumination_percent": 80.14
+    },
+    {
+      "date": "2026-08-24",
+      "sunrise": "2026-08-24T05:05:38+00:00",
+      "sunset": "2026-08-24T19:09:17+00:00",
+      "day_length": {
+        "hours": 14,
+        "minutes": 4
+      },
+      "moonrise": "2026-08-24T17:51:30+00:00",
+      "moonset": "2026-08-24T00:24:46+00:00",
+      "moon_phase": "Waxing Gibbous",
+      "moon_illumination_percent": 87.18
+    },
+    {
+      "date": "2026-08-25",
+      "sunrise": "2026-08-25T05:07:12+00:00",
+      "sunset": "2026-08-25T19:07:11+00:00",
+      "day_length": {
+        "hours": 14,
+        "minutes": 0
+      },
+      "moonrise": "2026-08-25T18:15:13+00:00",
+      "moonset": "2026-08-25T01:35:33+00:00",
+      "moon_phase": "Waxing Gibbous",
+      "moon_illumination_percent": 92.94
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T11:26:05+00:00",
+  "fetched_at": "2026-08-20T11:54:03+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -353,7 +353,7 @@
       "scheduled_time": "2026-08-20T12:35:00",
       "flight_number": "EI3605",
       "airline": "Aer Lingus",
-      "status": "Gate Closed",
+      "status": "Airborne 12:39",
       "to": "Belfast City",
       "to_code": "BHD",
       "check_in_desk": "08-09"
@@ -383,10 +383,10 @@
       "scheduled_time": "2026-08-20T15:00:00",
       "flight_number": "LM326",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 13-15",
       "to": "Edinburgh",
       "to_code": "EDI",
-      "check_in_desk": null
+      "check_in_desk": "13-15"
     },
     {
       "time": "2026-08-20T15:15:00",

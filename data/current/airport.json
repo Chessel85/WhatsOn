@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T10:30:10+00:00",
+  "fetched_at": "2026-08-20T11:26:05+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -88,7 +88,7 @@
       "scheduled_time": "2026-08-20T10:40:00",
       "flight_number": "GR501",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Cancelled, please contact your airline",
       "from": "Alderney",
       "from_code": "ACI"
     },
@@ -106,7 +106,7 @@
       "scheduled_time": "2026-08-20T12:05:00",
       "flight_number": "EI3604",
       "airline": "Aer Lingus",
-      "status": "Expected 12:05",
+      "status": "Arrived 11:53. Bags at carousel 3",
       "from": "Belfast City",
       "from_code": "BHD"
     },
@@ -333,7 +333,7 @@
       "scheduled_time": "2026-08-20T11:20:00",
       "flight_number": "GR502",
       "airline": "Aurigny",
-      "status": "Check In Open  Desks 16-17",
+      "status": "Cancelled, please contact your airline",
       "to": "Alderney",
       "to_code": "ACI",
       "check_in_desk": "16-17"
@@ -343,7 +343,7 @@
       "scheduled_time": "2026-08-20T11:40:00",
       "flight_number": "EZY416",
       "airline": "easyJet",
-      "status": "Final Call to Gate 3",
+      "status": "Airborne 12:03",
       "to": "Glasgow",
       "to_code": "GLA",
       "check_in_desk": "04-07"
@@ -353,7 +353,7 @@
       "scheduled_time": "2026-08-20T12:35:00",
       "flight_number": "EI3605",
       "airline": "Aer Lingus",
-      "status": "Check In Open  Desks 08-09",
+      "status": "Gate Closed",
       "to": "Belfast City",
       "to_code": "BHD",
       "check_in_desk": "08-09"
@@ -363,10 +363,10 @@
       "scheduled_time": "2026-08-20T14:25:00",
       "flight_number": "LM540",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 14-15",
       "to": "Newcastle",
       "to_code": "NCL",
-      "check_in_desk": null
+      "check_in_desk": "14-15"
     },
     {
       "time": "2026-08-20T14:55:00",

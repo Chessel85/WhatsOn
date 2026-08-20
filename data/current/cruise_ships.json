@@ -1,26 +1,8 @@
 {
-  "fetched_at": "2026-08-20T16:18:56+00:00",
+  "fetched_at": "2026-08-20T20:14:38+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "MEIN SCHIFF 3",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-08-20",
-        "time": "2026-08-20T05:31:00Z"
-      },
-      "departure": {
-        "date": "2026-08-20",
-        "time": "2026-08-20T19:00:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9641730",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Mein-Schiff-3-816",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MEIN%20SCHIFF%203%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "ARCADIA",
       "berth": "106",

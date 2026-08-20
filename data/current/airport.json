@@ -1,16 +1,7 @@
 {
-  "fetched_at": "2026-08-20T20:28:16+00:00",
+  "fetched_at": "2026-08-20T20:58:34+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-20T15:45:00",
-      "scheduled_time": "2026-08-20T15:45:00",
-      "flight_number": "EI3606",
-      "airline": "Aer Lingus",
-      "status": "Arrived 15:27. Bags at carousel 3",
-      "from": "Belfast City",
-      "from_code": "BHD"
-    },
     {
       "time": "2026-08-20T16:20:00",
       "scheduled_time": "2026-08-20T16:20:00",
@@ -88,7 +79,7 @@
       "scheduled_time": "2026-08-20T21:05:00",
       "flight_number": "LM539",
       "airline": "Loganair",
-      "status": "Expected 21:05",
+      "status": "Arrived 21:25. Bags at carousel 3",
       "from": "Newcastle",
       "from_code": "NCL"
     },
@@ -113,20 +104,20 @@
     {
       "time": "2026-08-21T08:25:00",
       "scheduled_time": "2026-08-21T08:25:00",
-      "flight_number": "LM321",
-      "airline": "Loganair",
-      "status": "Scheduled",
-      "from": "Edinburgh",
-      "from_code": "EDI"
-    },
-    {
-      "time": "2026-08-21T08:25:00",
-      "scheduled_time": "2026-08-21T08:25:00",
       "flight_number": "EI3600",
       "airline": "Aer Lingus",
       "status": "Scheduled",
       "from": "Belfast City",
       "from_code": "BHD"
+    },
+    {
+      "time": "2026-08-21T08:25:00",
+      "scheduled_time": "2026-08-21T08:25:00",
+      "flight_number": "LM321",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "from": "Edinburgh",
+      "from_code": "EDI"
     },
     {
       "time": "2026-08-21T08:40:00",
@@ -145,6 +136,15 @@
       "status": "Scheduled",
       "from": "Amsterdam",
       "from_code": "AMS"
+    },
+    {
+      "time": "2026-08-21T09:45:00",
+      "scheduled_time": "2026-08-21T09:45:00",
+      "flight_number": "LM533",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "from": "Newcastle",
+      "from_code": "NCL"
     }
   ],
   "departures": [
@@ -159,16 +159,6 @@
       "check_in_desk": "16-17"
     },
     {
-      "time": "2026-08-20T15:00:00",
-      "scheduled_time": "2026-08-20T15:00:00",
-      "flight_number": "LM326",
-      "airline": "Loganair",
-      "status": "Airborne 15:38",
-      "to": "Edinburgh",
-      "to_code": "EDI",
-      "check_in_desk": "13-15"
-    },
-    {
       "time": "2026-08-20T15:15:00",
       "scheduled_time": "2026-08-20T15:15:00",
       "flight_number": "GR657",
@@ -177,16 +167,6 @@
       "to": "Guernsey",
       "to_code": "GCI",
       "check_in_desk": "16-17"
-    },
-    {
-      "time": "2026-08-20T15:25:00",
-      "scheduled_time": "2026-08-20T15:25:00",
-      "flight_number": "EJU5516",
-      "airline": "easyJet",
-      "status": "Airborne 15:45",
-      "to": "Alicante",
-      "to_code": "ALC",
-      "check_in_desk": "04-07"
     },
     {
       "time": "2026-08-20T16:15:00",
@@ -251,22 +231,22 @@
     {
       "time": "2026-08-20T19:55:00",
       "scheduled_time": "2026-08-20T19:55:00",
-      "flight_number": "GR659",
-      "airline": "Aurigny",
-      "status": "Airborne 19:51",
-      "to": "Guernsey",
-      "to_code": "GCI",
-      "check_in_desk": "16-17"
-    },
-    {
-      "time": "2026-08-20T19:55:00",
-      "scheduled_time": "2026-08-20T19:55:00",
       "flight_number": "LM328",
       "airline": "Loganair",
       "status": "Airborne 20:10",
       "to": "Edinburgh",
       "to_code": "EDI",
       "check_in_desk": "14-15"
+    },
+    {
+      "time": "2026-08-20T19:55:00",
+      "scheduled_time": "2026-08-20T19:55:00",
+      "flight_number": "GR659",
+      "airline": "Aurigny",
+      "status": "Airborne 19:51",
+      "to": "Guernsey",
+      "to_code": "GCI",
+      "check_in_desk": "16-17"
     },
     {
       "time": "2026-08-20T20:00:00",
@@ -337,18 +317,19 @@
       "to": "Amsterdam",
       "to_code": "AMS",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-21T09:20:00",
+      "scheduled_time": "2026-08-21T09:20:00",
+      "flight_number": "EI3301",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "to": "Dublin",
+      "to_code": "DUB",
+      "check_in_desk": null
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "EI3606",
-      "arrival_time": "2026-08-20T15:45:00",
-      "arrival_from": "Belfast City",
-      "departure_flight_number": "EI3607",
-      "departure_time": "2026-08-20T16:15:00",
-      "departure_to": "Belfast City",
-      "turnaround_minutes": 30
-    },
     {
       "arrival_flight_number": "LM555",
       "arrival_time": "2026-08-20T16:20:00",
@@ -386,21 +367,21 @@
       "turnaround_minutes": 30
     },
     {
-      "arrival_flight_number": "GR658",
-      "arrival_time": "2026-08-20T19:25:00",
-      "arrival_from": "Guernsey",
-      "departure_flight_number": "GR659",
-      "departure_time": "2026-08-20T19:55:00",
-      "departure_to": "Guernsey",
-      "turnaround_minutes": 30
-    },
-    {
       "arrival_flight_number": "LM329",
       "arrival_time": "2026-08-20T19:25:00",
       "arrival_from": "Edinburgh",
       "departure_flight_number": "LM328",
       "departure_time": "2026-08-20T19:55:00",
       "departure_to": "Edinburgh",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "GR658",
+      "arrival_time": "2026-08-20T19:25:00",
+      "arrival_from": "Guernsey",
+      "departure_flight_number": "GR659",
+      "departure_time": "2026-08-20T19:55:00",
+      "departure_to": "Guernsey",
       "turnaround_minutes": 30
     },
     {
@@ -465,6 +446,15 @@
       "departure_time": "2026-08-21T09:15:00",
       "departure_to": "Amsterdam",
       "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EI3300",
+      "arrival_time": "2026-08-21T08:40:00",
+      "arrival_from": "Dublin",
+      "departure_flight_number": "EI3301",
+      "departure_time": "2026-08-21T09:20:00",
+      "departure_to": "Dublin",
+      "turnaround_minutes": 40
     }
   ]
 }

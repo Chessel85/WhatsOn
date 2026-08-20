@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T16:54:18+00:00",
+  "fetched_at": "2026-08-20T07:09:02+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -37,15 +37,7 @@
       "name": "BBC Two",
       "type": "tv",
       "confidence": "high",
-      "new_series": [
-        {
-          "title": "Couples Therapy",
-          "series_number": 5,
-          "start_time": "2026-08-19T21:00:00Z",
-          "synopsis": "Marjorie and Jason navigate political differences. Chris and Sienna confront betrayal. Clinton and Shay clash over expectations, and Nessa seeks space from Drea.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m002zn4m"
-        }
-      ]
+      "new_series": []
     },
     {
       "id": "bbc_three",
@@ -108,6 +100,13 @@
           "start_time": "2026-08-25T22:00:00Z",
           "synopsis": "Hidden on page 1692 of his great-grandfather Siegfried\u2019s unpublished memoir, the writer Joe Dunthorne discovers a confession.",
           "url": "https://www.bbc.co.uk/sounds/play/p0m1hmmh"
+        },
+        {
+          "title": "Broken Colours",
+          "series_number": null,
+          "start_time": "2026-08-26T13:15:00Z",
+          "synopsis": "Jess meets Dan and falls in love. It changes both of their lives. But who is Dan? Holli Dempsey and Josef Altin star in a new thriller from the creator of Tracks, Matthew Broughton",
+          "url": "https://www.bbc.co.uk/sounds/play/m0014p7w"
         }
       ]
     },

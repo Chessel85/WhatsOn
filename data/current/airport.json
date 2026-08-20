@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T06:44:21+00:00",
+  "fetched_at": "2026-08-20T07:40:14+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -7,7 +7,7 @@
       "scheduled_time": "2026-08-20T07:30:00",
       "flight_number": "GR650",
       "airline": "Aurigny",
-      "status": "Arrived 07:19",
+      "status": "Arrived 07:19. Bags at carousel 2",
       "from": "Guernsey",
       "from_code": "GCI"
     },
@@ -16,7 +16,7 @@
       "scheduled_time": "2026-08-20T07:55:00",
       "flight_number": "LM551",
       "airline": "Loganair",
-      "status": "On Approach",
+      "status": "Arrived 07:44. Bags at carousel 2",
       "from": "Jersey",
       "from_code": "JER"
     },
@@ -25,7 +25,7 @@
       "scheduled_time": "2026-08-20T08:25:00",
       "flight_number": "LM321",
       "airline": "Loganair",
-      "status": "Expected 08:25",
+      "status": "Arrived 08:09. Bags at carousel 3",
       "from": "Edinburgh",
       "from_code": "EDI"
     },
@@ -34,7 +34,7 @@
       "scheduled_time": "2026-08-20T08:25:00",
       "flight_number": "EI3600",
       "airline": "Aer Lingus",
-      "status": "Expected 08:25",
+      "status": "Arrived 08:27. Bags at carousel 3",
       "from": "Belfast City",
       "from_code": "BHD"
     },
@@ -43,7 +43,7 @@
       "scheduled_time": "2026-08-20T08:35:00",
       "flight_number": "EJU7369",
       "airline": "easyJet",
-      "status": "Expected 08:35",
+      "status": "Arrived 08:13. Bags at carousel 1",
       "from": "Palma",
       "from_code": "PMI"
     },
@@ -61,7 +61,7 @@
       "scheduled_time": "2026-08-20T08:45:00",
       "flight_number": "EJU7517",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Arrived 08:30",
       "from": "Faro",
       "from_code": "FAO"
     },
@@ -70,7 +70,7 @@
       "scheduled_time": "2026-08-20T08:45:00",
       "flight_number": "KL1069",
       "airline": "KLM",
-      "status": "Scheduled",
+      "status": "On Approach",
       "from": "Amsterdam",
       "from_code": "AMS"
     },
@@ -235,7 +235,7 @@
       "scheduled_time": "2026-08-20T08:00:00",
       "flight_number": "GR651",
       "airline": "Aurigny",
-      "status": "Gate Closed",
+      "status": "Airborne 07:56",
       "to": "Guernsey",
       "to_code": "GCI",
       "check_in_desk": "16-17"
@@ -245,7 +245,7 @@
       "scheduled_time": "2026-08-20T08:25:00",
       "flight_number": "LM552",
       "airline": "Loganair",
-      "status": "Check In Open  Desks 14-15",
+      "status": "Airborne 08:34",
       "to": "Jersey",
       "to_code": "JER",
       "check_in_desk": "14-15"
@@ -255,7 +255,7 @@
       "scheduled_time": "2026-08-20T08:55:00",
       "flight_number": "LM322",
       "airline": "Loganair",
-      "status": "Check In Open  Desks 14-15",
+      "status": "Boarding at Gate 1",
       "to": "Edinburgh",
       "to_code": "EDI",
       "check_in_desk": "14-15"
@@ -265,7 +265,7 @@
       "scheduled_time": "2026-08-20T08:55:00",
       "flight_number": "EI3601",
       "airline": "Aer Lingus",
-      "status": "Check In Open  Desks 08-09",
+      "status": "Scheduled",
       "to": "Belfast City",
       "to_code": "BHD",
       "check_in_desk": "08-09"
@@ -275,7 +275,7 @@
       "scheduled_time": "2026-08-20T09:05:00",
       "flight_number": "EJU7370",
       "airline": "easyJet",
-      "status": "Check In Open  Desks 04-07",
+      "status": "Final Call to Gate 3",
       "to": "Palma",
       "to_code": "PMI",
       "check_in_desk": "04-07"
@@ -285,7 +285,7 @@
       "scheduled_time": "2026-08-20T09:15:00",
       "flight_number": "KL1070",
       "airline": "KLM",
-      "status": "Check In Open  Desks 12-13",
+      "status": "Go to Gate 7",
       "to": "Amsterdam",
       "to_code": "AMS",
       "check_in_desk": "12-13"
@@ -295,7 +295,7 @@
       "scheduled_time": "2026-08-20T09:20:00",
       "flight_number": "EI3301",
       "airline": "Aer Lingus",
-      "status": "Check In Open  Desks 08-09",
+      "status": "Scheduled",
       "to": "Dublin",
       "to_code": "DUB",
       "check_in_desk": "08-09"
@@ -448,6 +448,36 @@
       "status": "Scheduled",
       "to": "Jersey",
       "to_code": "JER",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-20T19:55:00",
+      "scheduled_time": "2026-08-20T19:55:00",
+      "flight_number": "LM328",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "to": "Edinburgh",
+      "to_code": "EDI",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-20T19:55:00",
+      "scheduled_time": "2026-08-20T19:55:00",
+      "flight_number": "GR659",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "to": "Guernsey",
+      "to_code": "GCI",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-20T20:00:00",
+      "scheduled_time": "2026-08-20T20:00:00",
+      "flight_number": "EI3309",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "to": "Dublin",
+      "to_code": "DUB",
       "check_in_desk": null
     }
   ],
@@ -639,6 +669,33 @@
       "departure_flight_number": "LM558",
       "departure_time": "2026-08-20T19:40:00",
       "departure_to": "Jersey",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "LM329",
+      "arrival_time": "2026-08-20T19:25:00",
+      "arrival_from": "Edinburgh",
+      "departure_flight_number": "LM328",
+      "departure_time": "2026-08-20T19:55:00",
+      "departure_to": "Edinburgh",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "GR658",
+      "arrival_time": "2026-08-20T19:25:00",
+      "arrival_from": "Guernsey",
+      "departure_flight_number": "GR659",
+      "departure_time": "2026-08-20T19:55:00",
+      "departure_to": "Guernsey",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EI3308",
+      "arrival_time": "2026-08-20T19:30:00",
+      "arrival_from": "Dublin",
+      "departure_flight_number": "EI3309",
+      "departure_time": "2026-08-20T20:00:00",
+      "departure_to": "Dublin",
       "turnaround_minutes": 30
     }
   ]

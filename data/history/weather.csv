@@ -33,3 +33,4 @@ fetched_at,temperature_c,feels_like_c,condition,wind_speed_mph,precipitation_mm
 2026-08-20T14:40:11+00:00,18.1,19.6,Slight rain showers,5.6,1.9
 2026-08-20T15:37:28+00:00,19.9,19.2,Partly cloudy,7.6,0.0
 2026-08-20T16:39:04+00:00,21.1,18.7,Partly cloudy,11.0,0.0
+2026-08-20T17:33:49+00:00,20.7,18.4,Overcast,9.8,0.0

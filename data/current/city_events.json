@@ -1,67 +1,55 @@
 {
-  "fetched_at": "2026-08-19T13:31:13+00:00",
+  "fetched_at": "2026-08-20T06:26:11+00:00",
   "source": "https://hellosouthampton.co.uk/whats-on-in-southampton/",
   "location": "Southampton, UK",
   "events": [
     {
       "title": "Nature Guardian Quest 2026",
       "venue": "Itchen Valley Country Park",
-      "time": "2026-08-19T08:30:00Z",
+      "time": "2026-08-20T08:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/nature-guardian-quest-2026/"
-    },
-    {
-      "title": "Zoofest 2026: Summer Holiday Fun at Marwell Zoo",
-      "venue": "Marwell Zoo",
-      "time": "2026-08-19T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/zoofest-2026/"
-    },
-    {
-      "title": "I Spy Trail 2026",
-      "venue": "Royal Victoria Country Park",
-      "time": "2026-08-19T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/i-spy-trail-2026/"
-    },
-    {
-      "title": "Summer Fun at Manor Farm 2026",
-      "venue": "Manor Farm",
-      "time": "2026-08-19T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/summer-fun-at-manor-farm-2026/"
-    },
-    {
-      "title": "Summer Garden Games 2026",
-      "venue": "\u200bExbury Gardens & Steam Railway",
-      "time": "2026-08-19T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/summer-garden-games-2026/"
-    },
-    {
-      "title": "Pony Magic Summer at the Farm!",
-      "venue": "Manor Farm",
-      "time": "2026-08-19T09:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/pony-magic-summer-at-the-farm/"
-    },
-    {
-      "title": "Wild Wednesdays Summer",
-      "venue": "Itchen Valley Country Park",
-      "time": "2026-08-19T09:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/wild-wednesdays-summer/"
-    },
-    {
-      "title": "RollerLand at Westquay 2026",
-      "venue": "The Esplanade",
-      "time": "2026-08-19T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/rollerland-at-westquay/"
-    },
-    {
-      "title": "Fred Goater\u2019s Tea Dance",
-      "venue": "O2 Guildhall Southampton",
-      "time": "2026-08-19T10:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/fred-goaters-tea-dance/"
     },
     {
       "title": "Boogie in the Barn 2026",
       "venue": "Hanger Farm Arts Centre",
       "time": "2026-08-20T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/boogie-in-the-barn-2026/"
+    },
+    {
+      "title": "Zoofest 2026: Summer Holiday Fun at Marwell Zoo",
+      "venue": "Marwell Zoo",
+      "time": "2026-08-20T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/zoofest-2026/"
+    },
+    {
+      "title": "I Spy Trail 2026",
+      "venue": "Royal Victoria Country Park",
+      "time": "2026-08-20T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/i-spy-trail-2026/"
+    },
+    {
+      "title": "Summer Fun at Manor Farm 2026",
+      "venue": "Manor Farm",
+      "time": "2026-08-20T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/summer-fun-at-manor-farm-2026/"
+    },
+    {
+      "title": "Summer Garden Games 2026",
+      "venue": "\u200bExbury Gardens & Steam Railway",
+      "time": "2026-08-20T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/summer-garden-games-2026/"
+    },
+    {
+      "title": "Pony Magic Summer at the Farm!",
+      "venue": "Manor Farm",
+      "time": "2026-08-20T09:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/pony-magic-summer-at-the-farm/"
+    },
+    {
+      "title": "RollerLand at Westquay 2026",
+      "venue": "The Esplanade",
+      "time": "2026-08-20T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/rollerland-at-westquay/"
     },
     {
       "title": "Hampshire vs Yorkshire \u2013 Rothesay County Championship 2026",

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T09:34:17+00:00",
+  "fetched_at": "2026-08-20T10:30:10+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -97,7 +97,7 @@
       "scheduled_time": "2026-08-20T11:05:00",
       "flight_number": "EZY415",
       "airline": "easyJet",
-      "status": "Expected 11:05",
+      "status": "Arrived 11:10. Bags at carousel 3",
       "from": "Glasgow",
       "from_code": "GLA"
     },
@@ -343,7 +343,7 @@
       "scheduled_time": "2026-08-20T11:40:00",
       "flight_number": "EZY416",
       "airline": "easyJet",
-      "status": "Check In Open  Desks 04-07",
+      "status": "Final Call to Gate 3",
       "to": "Glasgow",
       "to_code": "GLA",
       "check_in_desk": "04-07"

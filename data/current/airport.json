@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T08:38:04+00:00",
+  "fetched_at": "2026-08-20T09:34:17+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -61,7 +61,7 @@
       "scheduled_time": "2026-08-20T08:45:00",
       "flight_number": "EJU7517",
       "airline": "easyJet",
-      "status": "Arrived 08:30",
+      "status": "Arrived 08:30. Bags at carousel 1",
       "from": "Faro",
       "from_code": "FAO"
     },
@@ -79,7 +79,7 @@
       "scheduled_time": "2026-08-20T09:45:00",
       "flight_number": "LM533",
       "airline": "Loganair",
-      "status": "Expected 09:45",
+      "status": "Arrived 09:44. Bags at carousel 3",
       "from": "Newcastle",
       "from_code": "NCL"
     },
@@ -97,7 +97,7 @@
       "scheduled_time": "2026-08-20T11:05:00",
       "flight_number": "EZY415",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Expected 11:05",
       "from": "Glasgow",
       "from_code": "GLA"
     },
@@ -303,7 +303,7 @@
       "scheduled_time": "2026-08-20T09:15:00",
       "flight_number": "KL1070",
       "airline": "KLM",
-      "status": "Departed 09:12",
+      "status": "Airborne 09:26",
       "to": "Amsterdam",
       "to_code": "AMS",
       "check_in_desk": "12-13"
@@ -313,7 +313,7 @@
       "scheduled_time": "2026-08-20T09:20:00",
       "flight_number": "EI3301",
       "airline": "Aer Lingus",
-      "status": "Gate Closed",
+      "status": "Airborne 09:44",
       "to": "Dublin",
       "to_code": "DUB",
       "check_in_desk": "08-09"
@@ -323,7 +323,7 @@
       "scheduled_time": "2026-08-20T09:25:00",
       "flight_number": "EJU7518",
       "airline": "easyJet",
-      "status": "Gate Closed",
+      "status": "Airborne 09:39",
       "to": "Faro",
       "to_code": "FAO",
       "check_in_desk": "04-07"
@@ -333,30 +333,30 @@
       "scheduled_time": "2026-08-20T11:20:00",
       "flight_number": "GR502",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 16-17",
       "to": "Alderney",
       "to_code": "ACI",
-      "check_in_desk": null
+      "check_in_desk": "16-17"
     },
     {
       "time": "2026-08-20T11:40:00",
       "scheduled_time": "2026-08-20T11:40:00",
       "flight_number": "EZY416",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 04-07",
       "to": "Glasgow",
       "to_code": "GLA",
-      "check_in_desk": null
+      "check_in_desk": "04-07"
     },
     {
       "time": "2026-08-20T12:35:00",
       "scheduled_time": "2026-08-20T12:35:00",
       "flight_number": "EI3605",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 08-09",
       "to": "Belfast City",
       "to_code": "BHD",
-      "check_in_desk": null
+      "check_in_desk": "08-09"
     },
     {
       "time": "2026-08-20T14:25:00",

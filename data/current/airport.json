@@ -1,25 +1,7 @@
 {
-  "fetched_at": "2026-08-20T11:54:03+00:00",
+  "fetched_at": "2026-08-20T12:49:04+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-20T07:30:00",
-      "scheduled_time": "2026-08-20T07:30:00",
-      "flight_number": "GR650",
-      "airline": "Aurigny",
-      "status": "Arrived 07:19. Bags at carousel 2",
-      "from": "Guernsey",
-      "from_code": "GCI"
-    },
-    {
-      "time": "2026-08-20T07:55:00",
-      "scheduled_time": "2026-08-20T07:55:00",
-      "flight_number": "LM551",
-      "airline": "Loganair",
-      "status": "Arrived 07:44. Bags at carousel 2",
-      "from": "Jersey",
-      "from_code": "JER"
-    },
     {
       "time": "2026-08-20T08:25:00",
       "scheduled_time": "2026-08-20T08:25:00",
@@ -124,7 +106,7 @@
       "scheduled_time": "2026-08-20T14:30:00",
       "flight_number": "LM325",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Expected 14:30",
       "from": "Edinburgh",
       "from_code": "EDI"
     },
@@ -142,7 +124,7 @@
       "scheduled_time": "2026-08-20T14:55:00",
       "flight_number": "EJU5515",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Expected 14:55",
       "from": "Alicante",
       "from_code": "ALC"
     },
@@ -238,16 +220,6 @@
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-20T06:50:00",
-      "scheduled_time": "2026-08-20T06:50:00",
-      "flight_number": "LM534",
-      "airline": "Loganair",
-      "status": "Airborne 06:55",
-      "to": "Newcastle",
-      "to_code": "NCL",
-      "check_in_desk": "15"
-    },
     {
       "time": "2026-08-20T08:00:00",
       "scheduled_time": "2026-08-20T08:00:00",
@@ -363,7 +335,7 @@
       "scheduled_time": "2026-08-20T14:25:00",
       "flight_number": "LM540",
       "airline": "Loganair",
-      "status": "Check In Open  Desks 14-15",
+      "status": "Go to Gate 1",
       "to": "Newcastle",
       "to_code": "NCL",
       "check_in_desk": "14-15"
@@ -373,10 +345,10 @@
       "scheduled_time": "2026-08-20T14:55:00",
       "flight_number": "GR506",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 16-17",
       "to": "Alderney",
       "to_code": "ACI",
-      "check_in_desk": null
+      "check_in_desk": "16-17"
     },
     {
       "time": "2026-08-20T15:00:00",
@@ -393,30 +365,30 @@
       "scheduled_time": "2026-08-20T15:15:00",
       "flight_number": "GR657",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 16-17",
       "to": "Guernsey",
       "to_code": "GCI",
-      "check_in_desk": null
+      "check_in_desk": "16-17"
     },
     {
       "time": "2026-08-20T15:25:00",
       "scheduled_time": "2026-08-20T15:25:00",
       "flight_number": "EJU5516",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 04-07",
       "to": "Alicante",
       "to_code": "ALC",
-      "check_in_desk": null
+      "check_in_desk": "04-07"
     },
     {
       "time": "2026-08-20T16:15:00",
       "scheduled_time": "2026-08-20T16:15:00",
       "flight_number": "EI3607",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 08-09",
       "to": "Belfast City",
       "to_code": "BHD",
-      "check_in_desk": null
+      "check_in_desk": "08-09"
     },
     {
       "time": "2026-08-20T16:50:00",
@@ -500,24 +472,6 @@
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "GR650",
-      "arrival_time": "2026-08-20T07:30:00",
-      "arrival_from": "Guernsey",
-      "departure_flight_number": "GR651",
-      "departure_time": "2026-08-20T08:00:00",
-      "departure_to": "Guernsey",
-      "turnaround_minutes": 30
-    },
-    {
-      "arrival_flight_number": "LM551",
-      "arrival_time": "2026-08-20T07:55:00",
-      "arrival_from": "Jersey",
-      "departure_flight_number": "LM552",
-      "departure_time": "2026-08-20T08:25:00",
-      "departure_to": "Jersey",
-      "turnaround_minutes": 30
-    },
     {
       "arrival_flight_number": "LM321",
       "arrival_time": "2026-08-20T08:25:00",

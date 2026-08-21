@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T10:29:59+00:00",
+  "fetched_at": "2026-08-21T10:59:56+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -88,7 +88,7 @@
       "scheduled_time": "2026-08-21T11:50:00",
       "flight_number": "EZY141",
       "airline": "easyJet",
-      "status": "Expected 11:50",
+      "status": "Arrived 11:36",
       "from": "Belfast Intl",
       "from_code": "BFS"
     },
@@ -97,7 +97,7 @@
       "scheduled_time": "2026-08-21T12:05:00",
       "flight_number": "EI3604",
       "airline": "Aer Lingus",
-      "status": "Expected 12:05",
+      "status": "Arrived 11:42",
       "from": "Belfast City",
       "from_code": "BHD"
     },
@@ -295,7 +295,7 @@
       "scheduled_time": "2026-08-21T11:20:00",
       "flight_number": "GR502",
       "airline": "Aurigny",
-      "status": "Departed 11:07",
+      "status": "Airborne 11:12",
       "to": "Alderney",
       "to_code": "ACI",
       "check_in_desk": "16-17"
@@ -305,7 +305,7 @@
       "scheduled_time": "2026-08-21T11:50:00",
       "flight_number": "EZY416",
       "airline": "easyJet",
-      "status": "Final Call to Gate 2",
+      "status": "Gate Closed",
       "to": "Glasgow",
       "to_code": "GLA",
       "check_in_desk": "04-07"
@@ -315,7 +315,7 @@
       "scheduled_time": "2026-08-21T12:20:00",
       "flight_number": "EZY142",
       "airline": "easyJet",
-      "status": "Check In Open  Desks 04-07",
+      "status": "Final Call to Gate 2",
       "to": "Belfast Intl",
       "to_code": "BFS",
       "check_in_desk": "04-07"
@@ -325,7 +325,7 @@
       "scheduled_time": "2026-08-21T12:35:00",
       "flight_number": "EI3605",
       "airline": "Aer Lingus",
-      "status": "Check In Open  Desks 08-09",
+      "status": "Boarding at Gate 8",
       "to": "Belfast City",
       "to_code": "BHD",
       "check_in_desk": "08-09"

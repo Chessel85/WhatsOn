@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T02:44:23+00:00",
+  "fetched_at": "2026-08-21T03:50:15+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -127,6 +127,24 @@
       "status": "Scheduled",
       "from": "Alderney",
       "from_code": "ACI"
+    },
+    {
+      "time": "2026-08-21T15:45:00",
+      "scheduled_time": "2026-08-21T15:45:00",
+      "flight_number": "EI3606",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "from": "Belfast City",
+      "from_code": "BHD"
+    },
+    {
+      "time": "2026-08-21T16:20:00",
+      "scheduled_time": "2026-08-21T16:20:00",
+      "flight_number": "LM555",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "from": "Jersey",
+      "from_code": "JER"
     }
   ],
   "departures": [
@@ -269,6 +287,26 @@
       "to": "Edinburgh",
       "to_code": "EDI",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-21T15:45:00",
+      "scheduled_time": "2026-08-21T15:45:00",
+      "flight_number": "GR506",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "to": "Alderney",
+      "to_code": "ACI",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-21T16:15:00",
+      "scheduled_time": "2026-08-21T16:15:00",
+      "flight_number": "EI3607",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "to": "Belfast City",
+      "to_code": "BHD",
+      "check_in_desk": null
     }
   ],
   "rotations": [
@@ -387,6 +425,24 @@
       "departure_flight_number": "LM326",
       "departure_time": "2026-08-21T15:00:00",
       "departure_to": "Edinburgh",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "GR505",
+      "arrival_time": "2026-08-21T15:15:00",
+      "arrival_from": "Alderney",
+      "departure_flight_number": "GR506",
+      "departure_time": "2026-08-21T15:45:00",
+      "departure_to": "Alderney",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EI3606",
+      "arrival_time": "2026-08-21T15:45:00",
+      "arrival_from": "Belfast City",
+      "departure_flight_number": "EI3607",
+      "departure_time": "2026-08-21T16:15:00",
+      "departure_to": "Belfast City",
       "turnaround_minutes": 30
     }
   ]

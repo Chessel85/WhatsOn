@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T21:50:01+00:00",
+  "fetched_at": "2026-08-21T22:24:19+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -139,16 +139,6 @@
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-21T16:50:00",
-      "scheduled_time": "2026-08-21T16:50:00",
-      "flight_number": "LM556",
-      "airline": "Loganair",
-      "status": "Airborne 16:56",
-      "to": "Jersey",
-      "to_code": "JER",
-      "check_in_desk": "14-15"
-    },
     {
       "time": "2026-08-21T17:20:00",
       "scheduled_time": "2026-08-21T17:20:00",

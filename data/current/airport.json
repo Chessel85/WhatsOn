@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T07:41:43+00:00",
+  "fetched_at": "2026-08-21T08:39:51+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -43,7 +43,7 @@
       "scheduled_time": "2026-08-21T08:40:00",
       "flight_number": "EI3300",
       "airline": "Aer Lingus",
-      "status": "On Approach",
+      "status": "Arrived 08:42. Bags at carousel 1",
       "from": "Dublin",
       "from_code": "DUB"
     },
@@ -52,7 +52,7 @@
       "scheduled_time": "2026-08-21T08:45:00",
       "flight_number": "KL1069",
       "airline": "KLM",
-      "status": "Expected 08:45",
+      "status": "Arrived 08:50. Bags at carousel 2",
       "from": "Amsterdam",
       "from_code": "AMS"
     },
@@ -61,7 +61,7 @@
       "scheduled_time": "2026-08-21T09:45:00",
       "flight_number": "LM533",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "On Approach",
       "from": "Newcastle",
       "from_code": "NCL"
     },
@@ -208,6 +208,15 @@
       "status": "Scheduled",
       "from": "Barcelona",
       "from_code": "BCN"
+    },
+    {
+      "time": "2026-08-21T21:05:00",
+      "scheduled_time": "2026-08-21T21:05:00",
+      "flight_number": "LM539",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "from": "Newcastle",
+      "from_code": "NCL"
     }
   ],
   "departures": [
@@ -244,29 +253,29 @@
     {
       "time": "2026-08-21T08:55:00",
       "scheduled_time": "2026-08-21T08:55:00",
-      "flight_number": "LM322",
-      "airline": "Loganair",
-      "status": "Boarding at Gate 4",
-      "to": "Edinburgh",
-      "to_code": "EDI",
-      "check_in_desk": "14-15"
+      "flight_number": "EI3601",
+      "airline": "Aer Lingus",
+      "status": "Airborne 08:46",
+      "to": "Belfast City",
+      "to_code": "BHD",
+      "check_in_desk": "08-09"
     },
     {
       "time": "2026-08-21T08:55:00",
       "scheduled_time": "2026-08-21T08:55:00",
-      "flight_number": "EI3601",
-      "airline": "Aer Lingus",
-      "status": "Gate Closed",
-      "to": "Belfast City",
-      "to_code": "BHD",
-      "check_in_desk": "08-09"
+      "flight_number": "LM322",
+      "airline": "Loganair",
+      "status": "Airborne 09:04",
+      "to": "Edinburgh",
+      "to_code": "EDI",
+      "check_in_desk": "14-15"
     },
     {
       "time": "2026-08-21T09:15:00",
       "scheduled_time": "2026-08-21T09:15:00",
       "flight_number": "KL1070",
       "airline": "KLM",
-      "status": "Check In Open  Desks 12-13",
+      "status": "Airborne 09:28",
       "to": "Amsterdam",
       "to_code": "AMS",
       "check_in_desk": "12-13"
@@ -276,7 +285,7 @@
       "scheduled_time": "2026-08-21T09:20:00",
       "flight_number": "EI3301",
       "airline": "Aer Lingus",
-      "status": "Go to Gate 8",
+      "status": "Airborne 09:25",
       "to": "Dublin",
       "to_code": "DUB",
       "check_in_desk": "08-09"
@@ -286,10 +295,10 @@
       "scheduled_time": "2026-08-21T11:20:00",
       "flight_number": "GR502",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 16-17",
       "to": "Alderney",
       "to_code": "ACI",
-      "check_in_desk": null
+      "check_in_desk": "16-17"
     },
     {
       "time": "2026-08-21T11:50:00",
@@ -472,21 +481,21 @@
       "turnaround_minutes": 30
     },
     {
-      "arrival_flight_number": "LM321",
-      "arrival_time": "2026-08-21T08:25:00",
-      "arrival_from": "Edinburgh",
-      "departure_flight_number": "LM322",
-      "departure_time": "2026-08-21T08:55:00",
-      "departure_to": "Edinburgh",
-      "turnaround_minutes": 30
-    },
-    {
       "arrival_flight_number": "EI3600",
       "arrival_time": "2026-08-21T08:25:00",
       "arrival_from": "Belfast City",
       "departure_flight_number": "EI3601",
       "departure_time": "2026-08-21T08:55:00",
       "departure_to": "Belfast City",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "LM321",
+      "arrival_time": "2026-08-21T08:25:00",
+      "arrival_from": "Edinburgh",
+      "departure_flight_number": "LM322",
+      "departure_time": "2026-08-21T08:55:00",
+      "departure_to": "Edinburgh",
       "turnaround_minutes": 30
     },
     {

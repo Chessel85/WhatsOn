@@ -1,25 +1,7 @@
 {
-  "fetched_at": "2026-08-21T16:34:21+00:00",
+  "fetched_at": "2026-08-21T17:28:24+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-21T11:50:00",
-      "scheduled_time": "2026-08-21T11:50:00",
-      "flight_number": "EZY141",
-      "airline": "easyJet",
-      "status": "Arrived 11:36. Bags at carousel 3",
-      "from": "Belfast Intl",
-      "from_code": "BFS"
-    },
-    {
-      "time": "2026-08-21T12:05:00",
-      "scheduled_time": "2026-08-21T12:05:00",
-      "flight_number": "EI3604",
-      "airline": "Aer Lingus",
-      "status": "Arrived 11:42. Bags at carousel 3",
-      "from": "Belfast City",
-      "from_code": "BHD"
-    },
     {
       "time": "2026-08-21T12:45:00",
       "scheduled_time": "2026-08-21T12:45:00",
@@ -79,7 +61,7 @@
       "scheduled_time": "2026-08-21T17:35:00",
       "flight_number": "KL1071",
       "airline": "KLM",
-      "status": "Expected 17:35",
+      "status": "Arrived 17:47. Bags at carousel 2",
       "from": "Amsterdam",
       "from_code": "AMS"
     },
@@ -97,7 +79,7 @@
       "scheduled_time": "2026-08-21T19:25:00",
       "flight_number": "LM329",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Expected 19:25",
       "from": "Edinburgh",
       "from_code": "EDI"
     },
@@ -115,7 +97,7 @@
       "scheduled_time": "2026-08-21T19:30:00",
       "flight_number": "EI3308",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Next Information at 18:30",
       "from": "Dublin",
       "from_code": "DUB"
     },
@@ -139,16 +121,6 @@
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-21T11:50:00",
-      "scheduled_time": "2026-08-21T11:50:00",
-      "flight_number": "EZY416",
-      "airline": "easyJet",
-      "status": "Airborne 11:58",
-      "to": "Glasgow",
-      "to_code": "GLA",
-      "check_in_desk": "04-07"
-    },
     {
       "time": "2026-08-21T12:20:00",
       "scheduled_time": "2026-08-21T12:20:00",
@@ -244,7 +216,7 @@
       "scheduled_time": "2026-08-21T18:05:00",
       "flight_number": "KL1072",
       "airline": "KLM",
-      "status": "Scheduled",
+      "status": "Gate Closed",
       "to": "Amsterdam",
       "to_code": "AMS",
       "check_in_desk": "12-13"
@@ -274,10 +246,10 @@
       "scheduled_time": "2026-08-21T19:55:00",
       "flight_number": "GR659",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 16-17",
       "to": "Guernsey",
       "to_code": "GCI",
-      "check_in_desk": null
+      "check_in_desk": "16-17"
     },
     {
       "time": "2026-08-21T20:00:00",
@@ -294,31 +266,13 @@
       "scheduled_time": "2026-08-21T20:10:00",
       "flight_number": "EJU7120",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 04-07",
       "to": "Barcelona",
       "to_code": "BCN",
-      "check_in_desk": null
+      "check_in_desk": "04-07"
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "EZY141",
-      "arrival_time": "2026-08-21T11:50:00",
-      "arrival_from": "Belfast Intl",
-      "departure_flight_number": "EZY142",
-      "departure_time": "2026-08-21T12:20:00",
-      "departure_to": "Belfast Intl",
-      "turnaround_minutes": 30
-    },
-    {
-      "arrival_flight_number": "EI3604",
-      "arrival_time": "2026-08-21T12:05:00",
-      "arrival_from": "Belfast City",
-      "departure_flight_number": "EI3605",
-      "departure_time": "2026-08-21T12:35:00",
-      "departure_to": "Belfast City",
-      "turnaround_minutes": 30
-    },
     {
       "arrival_flight_number": "GR656",
       "arrival_time": "2026-08-21T12:45:00",

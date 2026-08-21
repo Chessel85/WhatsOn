@@ -1,16 +1,7 @@
 {
-  "fetched_at": "2026-08-21T21:23:57+00:00",
+  "fetched_at": "2026-08-21T21:50:01+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-21T16:50:00",
-      "scheduled_time": "2026-08-21T16:50:00",
-      "flight_number": "EI3304",
-      "airline": "Aer Lingus",
-      "status": "Arrived 16:39. Bags at carousel 1",
-      "from": "Dublin",
-      "from_code": "DUB"
-    },
     {
       "time": "2026-08-21T17:35:00",
       "scheduled_time": "2026-08-21T17:35:00",
@@ -52,7 +43,7 @@
       "scheduled_time": "2026-08-21T19:30:00",
       "flight_number": "EI3308",
       "airline": "Aer Lingus",
-      "status": "Arrived 21:54",
+      "status": "Arrived 21:54. Bags at carousel 2",
       "from": "Dublin",
       "from_code": "DUB"
     },
@@ -136,19 +127,18 @@
       "status": "Scheduled",
       "from": "Edinburgh",
       "from_code": "EDI"
+    },
+    {
+      "time": "2026-08-22T10:40:00",
+      "scheduled_time": "2026-08-22T10:40:00",
+      "flight_number": "GR501",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "from": "Alderney",
+      "from_code": "ACI"
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-21T16:15:00",
-      "scheduled_time": "2026-08-21T16:15:00",
-      "flight_number": "EI3607",
-      "airline": "Aer Lingus",
-      "status": "Airborne 16:23",
-      "to": "Belfast City",
-      "to_code": "BHD",
-      "check_in_desk": "08-09"
-    },
     {
       "time": "2026-08-21T16:50:00",
       "scheduled_time": "2026-08-21T16:50:00",
@@ -214,7 +204,7 @@
       "scheduled_time": "2026-08-21T20:00:00",
       "flight_number": "EI3309",
       "airline": "Aer Lingus",
-      "status": "Gate Closed",
+      "status": "Airborne 22:32",
       "to": "Dublin",
       "to_code": "DUB",
       "check_in_desk": "08-09"
@@ -311,15 +301,6 @@
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "EI3304",
-      "arrival_time": "2026-08-21T16:50:00",
-      "arrival_from": "Dublin",
-      "departure_flight_number": "EI3305",
-      "departure_time": "2026-08-21T17:20:00",
-      "departure_to": "Dublin",
-      "turnaround_minutes": 30
-    },
     {
       "arrival_flight_number": "KL1071",
       "arrival_time": "2026-08-21T17:35:00",

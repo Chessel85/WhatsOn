@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T18:49:09+00:00",
+  "fetched_at": "2026-08-21T19:25:39+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -68,20 +68,20 @@
     {
       "time": "2026-08-21T19:25:00",
       "scheduled_time": "2026-08-21T19:25:00",
-      "flight_number": "GR658",
-      "airline": "Aurigny",
-      "status": "Arrived 19:07. Bags at carousel 2",
-      "from": "Guernsey",
-      "from_code": "GCI"
-    },
-    {
-      "time": "2026-08-21T19:25:00",
-      "scheduled_time": "2026-08-21T19:25:00",
       "flight_number": "LM329",
       "airline": "Loganair",
       "status": "Arrived 19:19. Bags at carousel 3",
       "from": "Edinburgh",
       "from_code": "EDI"
+    },
+    {
+      "time": "2026-08-21T19:25:00",
+      "scheduled_time": "2026-08-21T19:25:00",
+      "flight_number": "GR658",
+      "airline": "Aurigny",
+      "status": "Arrived 19:07. Bags at carousel 2",
+      "from": "Guernsey",
+      "from_code": "GCI"
     },
     {
       "time": "2026-08-21T19:30:00",
@@ -97,7 +97,7 @@
       "scheduled_time": "2026-08-21T19:40:00",
       "flight_number": "EJU7119",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Arrived 20:12",
       "from": "Barcelona",
       "from_code": "BCN"
     },
@@ -106,7 +106,7 @@
       "scheduled_time": "2026-08-21T21:05:00",
       "flight_number": "LM539",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Expected 21:05",
       "from": "Newcastle",
       "from_code": "NCL"
     },
@@ -127,6 +127,15 @@
       "status": "Scheduled",
       "from": "Guernsey",
       "from_code": "GCI"
+    },
+    {
+      "time": "2026-08-22T07:50:00",
+      "scheduled_time": "2026-08-22T07:50:00",
+      "flight_number": "LM551",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "from": "Jersey",
+      "from_code": "JER"
     }
   ],
   "departures": [
@@ -205,7 +214,7 @@
       "scheduled_time": "2026-08-21T19:40:00",
       "flight_number": "LM558",
       "airline": "Loganair",
-      "status": "Airborne 19:35",
+      "status": "Airborne 19:34",
       "to": "Jersey",
       "to_code": "JER",
       "check_in_desk": "14-15"
@@ -213,22 +222,22 @@
     {
       "time": "2026-08-21T19:55:00",
       "scheduled_time": "2026-08-21T19:55:00",
-      "flight_number": "LM328",
-      "airline": "Loganair",
-      "status": "Final Call to Gate 8",
-      "to": "Edinburgh",
-      "to_code": "EDI",
-      "check_in_desk": "14-15"
+      "flight_number": "GR659",
+      "airline": "Aurigny",
+      "status": "Airborne 19:44",
+      "to": "Guernsey",
+      "to_code": "GCI",
+      "check_in_desk": "16-17"
     },
     {
       "time": "2026-08-21T19:55:00",
       "scheduled_time": "2026-08-21T19:55:00",
-      "flight_number": "GR659",
-      "airline": "Aurigny",
-      "status": "Gate Closed",
-      "to": "Guernsey",
-      "to_code": "GCI",
-      "check_in_desk": "16-17"
+      "flight_number": "LM328",
+      "airline": "Loganair",
+      "status": "Airborne 19:58",
+      "to": "Edinburgh",
+      "to_code": "EDI",
+      "check_in_desk": "14-15"
     },
     {
       "time": "2026-08-21T20:00:00",
@@ -245,10 +254,40 @@
       "scheduled_time": "2026-08-21T20:10:00",
       "flight_number": "EJU7120",
       "airline": "easyJet",
-      "status": "Check In Open  Desks 04-07",
+      "status": "Boarding at Gate 3",
       "to": "Barcelona",
       "to_code": "BCN",
       "check_in_desk": "04-07"
+    },
+    {
+      "time": "2026-08-22T07:50:00",
+      "scheduled_time": "2026-08-22T07:50:00",
+      "flight_number": "EZY416",
+      "airline": "easyJet",
+      "status": "Scheduled",
+      "to": "Glasgow",
+      "to_code": "GLA",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-22T07:50:00",
+      "scheduled_time": "2026-08-22T07:50:00",
+      "flight_number": "LM534",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "to": "Newcastle",
+      "to_code": "NCL",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-22T08:00:00",
+      "scheduled_time": "2026-08-22T08:00:00",
+      "flight_number": "GR651",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "to": "Guernsey",
+      "to_code": "GCI",
+      "check_in_desk": null
     }
   ],
   "rotations": [
@@ -316,21 +355,21 @@
       "turnaround_minutes": 30
     },
     {
-      "arrival_flight_number": "LM329",
-      "arrival_time": "2026-08-21T19:25:00",
-      "arrival_from": "Edinburgh",
-      "departure_flight_number": "LM328",
-      "departure_time": "2026-08-21T19:55:00",
-      "departure_to": "Edinburgh",
-      "turnaround_minutes": 30
-    },
-    {
       "arrival_flight_number": "GR658",
       "arrival_time": "2026-08-21T19:25:00",
       "arrival_from": "Guernsey",
       "departure_flight_number": "GR659",
       "departure_time": "2026-08-21T19:55:00",
       "departure_to": "Guernsey",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "LM329",
+      "arrival_time": "2026-08-21T19:25:00",
+      "arrival_from": "Edinburgh",
+      "departure_flight_number": "LM328",
+      "departure_time": "2026-08-21T19:55:00",
+      "departure_to": "Edinburgh",
       "turnaround_minutes": 30
     },
     {
@@ -349,6 +388,33 @@
       "departure_flight_number": "EJU7120",
       "departure_time": "2026-08-21T20:10:00",
       "departure_to": "Barcelona",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EZY415",
+      "arrival_time": "2026-08-22T07:20:00",
+      "arrival_from": "Glasgow",
+      "departure_flight_number": "EZY416",
+      "departure_time": "2026-08-22T07:50:00",
+      "departure_to": "Glasgow",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "LM539",
+      "arrival_time": "2026-08-21T21:05:00",
+      "arrival_from": "Newcastle",
+      "departure_flight_number": "LM534",
+      "departure_time": "2026-08-22T07:50:00",
+      "departure_to": "Newcastle",
+      "turnaround_minutes": 645
+    },
+    {
+      "arrival_flight_number": "GR650",
+      "arrival_time": "2026-08-22T07:30:00",
+      "arrival_from": "Guernsey",
+      "departure_flight_number": "GR651",
+      "departure_time": "2026-08-22T08:00:00",
+      "departure_to": "Guernsey",
       "turnaround_minutes": 30
     }
   ]

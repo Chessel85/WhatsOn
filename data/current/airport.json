@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T09:36:05+00:00",
+  "fetched_at": "2026-08-21T10:29:59+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -61,7 +61,7 @@
       "scheduled_time": "2026-08-21T09:45:00",
       "flight_number": "LM533",
       "airline": "Loganair",
-      "status": "Arrived 09:42",
+      "status": "Arrived 09:42. Bags at carousel 3",
       "from": "Newcastle",
       "from_code": "NCL"
     },
@@ -70,7 +70,7 @@
       "scheduled_time": "2026-08-21T10:40:00",
       "flight_number": "GR501",
       "airline": "Aurigny",
-      "status": "On Approach",
+      "status": "Arrived 10:24. Bags at carousel 2",
       "from": "Alderney",
       "from_code": "ACI"
     },
@@ -79,7 +79,7 @@
       "scheduled_time": "2026-08-21T11:20:00",
       "flight_number": "EZY415",
       "airline": "easyJet",
-      "status": "Expected 11:20",
+      "status": "Arrived 11:04. Bags at carousel 3",
       "from": "Glasgow",
       "from_code": "GLA"
     },
@@ -88,7 +88,7 @@
       "scheduled_time": "2026-08-21T11:50:00",
       "flight_number": "EZY141",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Expected 11:50",
       "from": "Belfast Intl",
       "from_code": "BFS"
     },
@@ -295,7 +295,7 @@
       "scheduled_time": "2026-08-21T11:20:00",
       "flight_number": "GR502",
       "airline": "Aurigny",
-      "status": "Boarding at Gate 8",
+      "status": "Departed 11:07",
       "to": "Alderney",
       "to_code": "ACI",
       "check_in_desk": "16-17"
@@ -305,7 +305,7 @@
       "scheduled_time": "2026-08-21T11:50:00",
       "flight_number": "EZY416",
       "airline": "easyJet",
-      "status": "Check In Open  Desks 04-07",
+      "status": "Final Call to Gate 2",
       "to": "Glasgow",
       "to_code": "GLA",
       "check_in_desk": "04-07"
@@ -335,10 +335,10 @@
       "scheduled_time": "2026-08-21T13:15:00",
       "flight_number": "GR657",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 16-17",
       "to": "Guernsey",
       "to_code": "GCI",
-      "check_in_desk": null
+      "check_in_desk": "16-17"
     },
     {
       "time": "2026-08-21T14:25:00",

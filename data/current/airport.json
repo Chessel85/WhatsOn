@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T05:32:09+00:00",
+  "fetched_at": "2026-08-21T06:45:43+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -7,7 +7,7 @@
       "scheduled_time": "2026-08-21T07:30:00",
       "flight_number": "GR650",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "On Approach",
       "from": "Guernsey",
       "from_code": "GCI"
     },
@@ -16,18 +16,9 @@
       "scheduled_time": "2026-08-21T07:55:00",
       "flight_number": "LM551",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Arrived 07:40",
       "from": "Jersey",
       "from_code": "JER"
-    },
-    {
-      "time": "2026-08-21T08:25:00",
-      "scheduled_time": "2026-08-21T08:25:00",
-      "flight_number": "LM321",
-      "airline": "Loganair",
-      "status": "Scheduled",
-      "from": "Edinburgh",
-      "from_code": "EDI"
     },
     {
       "time": "2026-08-21T08:25:00",
@@ -39,11 +30,20 @@
       "from_code": "BHD"
     },
     {
+      "time": "2026-08-21T08:25:00",
+      "scheduled_time": "2026-08-21T08:25:00",
+      "flight_number": "LM321",
+      "airline": "Loganair",
+      "status": "Expected 08:25",
+      "from": "Edinburgh",
+      "from_code": "EDI"
+    },
+    {
       "time": "2026-08-21T08:40:00",
       "scheduled_time": "2026-08-21T08:40:00",
       "flight_number": "EI3300",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Expected 08:40",
       "from": "Dublin",
       "from_code": "DUB"
     },
@@ -163,6 +163,51 @@
       "status": "Scheduled",
       "from": "Amsterdam",
       "from_code": "AMS"
+    },
+    {
+      "time": "2026-08-21T19:10:00",
+      "scheduled_time": "2026-08-21T19:10:00",
+      "flight_number": "LM557",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "from": "Jersey",
+      "from_code": "JER"
+    },
+    {
+      "time": "2026-08-21T19:25:00",
+      "scheduled_time": "2026-08-21T19:25:00",
+      "flight_number": "LM329",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "from": "Edinburgh",
+      "from_code": "EDI"
+    },
+    {
+      "time": "2026-08-21T19:25:00",
+      "scheduled_time": "2026-08-21T19:25:00",
+      "flight_number": "GR658",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "from": "Guernsey",
+      "from_code": "GCI"
+    },
+    {
+      "time": "2026-08-21T19:30:00",
+      "scheduled_time": "2026-08-21T19:30:00",
+      "flight_number": "EI3308",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "from": "Dublin",
+      "from_code": "DUB"
+    },
+    {
+      "time": "2026-08-21T19:40:00",
+      "scheduled_time": "2026-08-21T19:40:00",
+      "flight_number": "EJU7119",
+      "airline": "easyJet",
+      "status": "Scheduled",
+      "from": "Barcelona",
+      "from_code": "BCN"
     }
   ],
   "departures": [
@@ -171,7 +216,7 @@
       "scheduled_time": "2026-08-21T06:50:00",
       "flight_number": "LM534",
       "airline": "Loganair",
-      "status": "Go to Gate 1",
+      "status": "Airborne 06:59",
       "to": "Newcastle",
       "to_code": "NCL",
       "check_in_desk": "14-15"
@@ -181,10 +226,10 @@
       "scheduled_time": "2026-08-21T08:00:00",
       "flight_number": "GR651",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 16-17",
       "to": "Guernsey",
       "to_code": "GCI",
-      "check_in_desk": null
+      "check_in_desk": "16-17"
     },
     {
       "time": "2026-08-21T08:25:00",
@@ -201,7 +246,7 @@
       "scheduled_time": "2026-08-21T08:55:00",
       "flight_number": "LM322",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 14-15",
       "to": "Edinburgh",
       "to_code": "EDI",
       "check_in_desk": "14-15"
@@ -221,7 +266,7 @@
       "scheduled_time": "2026-08-21T09:15:00",
       "flight_number": "KL1070",
       "airline": "KLM",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 12-13",
       "to": "Amsterdam",
       "to_code": "AMS",
       "check_in_desk": "12-13"
@@ -354,6 +399,16 @@
       "status": "Scheduled",
       "to": "Amsterdam",
       "to_code": "AMS",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-21T19:40:00",
+      "scheduled_time": "2026-08-21T19:40:00",
+      "flight_number": "LM558",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "to": "Jersey",
+      "to_code": "JER",
       "check_in_desk": null
     }
   ],
@@ -518,6 +573,15 @@
       "departure_flight_number": "KL1072",
       "departure_time": "2026-08-21T18:05:00",
       "departure_to": "Amsterdam",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "LM557",
+      "arrival_time": "2026-08-21T19:10:00",
+      "arrival_from": "Jersey",
+      "departure_flight_number": "LM558",
+      "departure_time": "2026-08-21T19:40:00",
+      "departure_to": "Jersey",
       "turnaround_minutes": 30
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T08:39:51+00:00",
+  "fetched_at": "2026-08-21T09:36:05+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -61,7 +61,7 @@
       "scheduled_time": "2026-08-21T09:45:00",
       "flight_number": "LM533",
       "airline": "Loganair",
-      "status": "On Approach",
+      "status": "Arrived 09:42",
       "from": "Newcastle",
       "from_code": "NCL"
     },
@@ -70,7 +70,7 @@
       "scheduled_time": "2026-08-21T10:40:00",
       "flight_number": "GR501",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "On Approach",
       "from": "Alderney",
       "from_code": "ACI"
     },
@@ -79,7 +79,7 @@
       "scheduled_time": "2026-08-21T11:20:00",
       "flight_number": "EZY415",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Expected 11:20",
       "from": "Glasgow",
       "from_code": "GLA"
     },
@@ -97,7 +97,7 @@
       "scheduled_time": "2026-08-21T12:05:00",
       "flight_number": "EI3604",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Expected 12:05",
       "from": "Belfast City",
       "from_code": "BHD"
     },
@@ -295,7 +295,7 @@
       "scheduled_time": "2026-08-21T11:20:00",
       "flight_number": "GR502",
       "airline": "Aurigny",
-      "status": "Check In Open  Desks 16-17",
+      "status": "Boarding at Gate 8",
       "to": "Alderney",
       "to_code": "ACI",
       "check_in_desk": "16-17"
@@ -305,30 +305,30 @@
       "scheduled_time": "2026-08-21T11:50:00",
       "flight_number": "EZY416",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 04-07",
       "to": "Glasgow",
       "to_code": "GLA",
-      "check_in_desk": null
+      "check_in_desk": "04-07"
     },
     {
       "time": "2026-08-21T12:20:00",
       "scheduled_time": "2026-08-21T12:20:00",
       "flight_number": "EZY142",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 04-07",
       "to": "Belfast Intl",
       "to_code": "BFS",
-      "check_in_desk": null
+      "check_in_desk": "04-07"
     },
     {
       "time": "2026-08-21T12:35:00",
       "scheduled_time": "2026-08-21T12:35:00",
       "flight_number": "EI3605",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 08-09",
       "to": "Belfast City",
       "to_code": "BHD",
-      "check_in_desk": null
+      "check_in_desk": "08-09"
     },
     {
       "time": "2026-08-21T13:15:00",

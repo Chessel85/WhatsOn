@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T22:51:19+00:00",
+  "fetched_at": "2026-08-21T23:23:34+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -136,19 +136,18 @@
       "status": "Scheduled",
       "from": "Belfast Intl",
       "from_code": "BFS"
+    },
+    {
+      "time": "2026-08-22T12:05:00",
+      "scheduled_time": "2026-08-22T12:05:00",
+      "flight_number": "EI3604",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "from": "Belfast City",
+      "from_code": "BHD"
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-21T18:05:00",
-      "scheduled_time": "2026-08-21T18:05:00",
-      "flight_number": "KL1072",
-      "airline": "KLM",
-      "status": "Airborne 18:19",
-      "to": "Amsterdam",
-      "to_code": "AMS",
-      "check_in_desk": "12-13"
-    },
     {
       "time": "2026-08-21T19:40:00",
       "scheduled_time": "2026-08-21T19:40:00",
@@ -202,21 +201,21 @@
     {
       "time": "2026-08-22T07:50:00",
       "scheduled_time": "2026-08-22T07:50:00",
-      "flight_number": "LM534",
-      "airline": "Loganair",
-      "status": "Scheduled",
-      "to": "Newcastle",
-      "to_code": "NCL",
-      "check_in_desk": null
-    },
-    {
-      "time": "2026-08-22T07:50:00",
-      "scheduled_time": "2026-08-22T07:50:00",
       "flight_number": "EZY416",
       "airline": "easyJet",
       "status": "Scheduled",
       "to": "Glasgow",
       "to_code": "GLA",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-22T07:50:00",
+      "scheduled_time": "2026-08-22T07:50:00",
+      "flight_number": "LM534",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "to": "Newcastle",
+      "to_code": "NCL",
       "check_in_desk": null
     },
     {
@@ -288,6 +287,16 @@
       "to": "Alderney",
       "to_code": "ACI",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-22T12:15:00",
+      "scheduled_time": "2026-08-22T12:15:00",
+      "flight_number": "EZY142",
+      "airline": "easyJet",
+      "status": "Scheduled",
+      "to": "Belfast Intl",
+      "to_code": "BFS",
+      "check_in_desk": null
     }
   ],
   "rotations": [
@@ -337,15 +346,6 @@
       "turnaround_minutes": 30
     },
     {
-      "arrival_flight_number": "LM539",
-      "arrival_time": "2026-08-21T21:05:00",
-      "arrival_from": "Newcastle",
-      "departure_flight_number": "LM534",
-      "departure_time": "2026-08-22T07:50:00",
-      "departure_to": "Newcastle",
-      "turnaround_minutes": 645
-    },
-    {
       "arrival_flight_number": "EZY415",
       "arrival_time": "2026-08-22T07:20:00",
       "arrival_from": "Glasgow",
@@ -353,6 +353,15 @@
       "departure_time": "2026-08-22T07:50:00",
       "departure_to": "Glasgow",
       "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "LM539",
+      "arrival_time": "2026-08-21T21:05:00",
+      "arrival_from": "Newcastle",
+      "departure_flight_number": "LM534",
+      "departure_time": "2026-08-22T07:50:00",
+      "departure_to": "Newcastle",
+      "turnaround_minutes": 645
     },
     {
       "arrival_flight_number": "GR650",
@@ -416,6 +425,15 @@
       "departure_time": "2026-08-22T11:20:00",
       "departure_to": "Alderney",
       "turnaround_minutes": 40
+    },
+    {
+      "arrival_flight_number": "EZY141",
+      "arrival_time": "2026-08-22T11:45:00",
+      "arrival_from": "Belfast Intl",
+      "departure_flight_number": "EZY142",
+      "departure_time": "2026-08-22T12:15:00",
+      "departure_to": "Belfast Intl",
+      "turnaround_minutes": 30
     }
   ]
 }

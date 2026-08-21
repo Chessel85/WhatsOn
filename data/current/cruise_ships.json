@@ -1,44 +1,8 @@
 {
-  "fetched_at": "2026-08-21T12:19:59+00:00",
+  "fetched_at": "2026-08-21T16:17:01+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "ARCADIA",
-      "berth": "106",
-      "arrival": {
-        "date": "2026-08-21",
-        "time": "2026-08-21T05:00:00Z"
-      },
-      "departure": {
-        "date": "2026-08-21",
-        "time": "2026-08-21T15:00:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9226906",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Arcadia-626",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=ARCADIA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "DISNEY DREAM",
-      "berth": "102",
-      "arrival": {
-        "date": "2026-08-21",
-        "time": "2026-08-21T05:00:00Z"
-      },
-      "departure": {
-        "date": "2026-08-21",
-        "time": "2026-08-21T16:00:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9434254",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Disney-Dream-548",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=DISNEY%20DREAM%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "VENTURA",
       "berth": "106",

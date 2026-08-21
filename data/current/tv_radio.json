@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T07:09:02+00:00",
+  "fetched_at": "2026-08-21T07:09:56+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,20 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Ludwig",
-          "series_number": 2,
-          "start_time": "2026-08-20T20:00:00Z",
-          "synopsis": "No longer impersonating his twin, puzzle setter John \u2018Ludwig\u2019 Taylor returns as a crime scene consultant. A murder at a theatre sees John take centre stage.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m002z84p"
-        },
-        {
-          "title": "The Football Interview",
-          "series_number": 2,
-          "start_time": "2026-08-22T11:45:00Z",
-          "synopsis": "Bold, in-depth conversations full of insight about the nation's favourite sport.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0030qmq"
-        },
         {
           "title": "Morning Live",
           "series_number": 8,

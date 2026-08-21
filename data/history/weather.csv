@@ -44,3 +44,4 @@ fetched_at,temperature_c,feels_like_c,condition,wind_speed_mph,precipitation_mm
 2026-08-21T03:06:50+00:00,15.3,14.2,Overcast,6.3,0.0
 2026-08-21T04:42:34+00:00,14.8,13.6,Overcast,6.9,0.0
 2026-08-21T05:36:38+00:00,14.3,12.9,Partly cloudy,6.9,0.0
+2026-08-21T06:54:04+00:00,13.9,12.7,Overcast,6.0,0.0

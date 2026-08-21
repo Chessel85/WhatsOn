@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T11:34:37+00:00",
+  "fetched_at": "2026-08-21T12:46:38+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -12,13 +12,13 @@
       "from_code": "GCI"
     },
     {
-      "time": "2026-08-21T07:55:00",
-      "scheduled_time": "2026-08-21T07:55:00",
-      "flight_number": "LM551",
-      "airline": "Loganair",
-      "status": "Arrived 07:40. Bags at carousel 1",
-      "from": "Jersey",
-      "from_code": "JER"
+      "time": "2026-08-21T08:25:00",
+      "scheduled_time": "2026-08-21T08:25:00",
+      "flight_number": "EI3600",
+      "airline": "Aer Lingus",
+      "status": "Arrived 07:51. Bags at carousel 3",
+      "from": "Belfast City",
+      "from_code": "BHD"
     },
     {
       "time": "2026-08-21T08:25:00",
@@ -28,15 +28,6 @@
       "status": "Arrived 08:19. Bags at carousel 3",
       "from": "Edinburgh",
       "from_code": "EDI"
-    },
-    {
-      "time": "2026-08-21T08:25:00",
-      "scheduled_time": "2026-08-21T08:25:00",
-      "flight_number": "EI3600",
-      "airline": "Aer Lingus",
-      "status": "Arrived 07:51. Bags at carousel 3",
-      "from": "Belfast City",
-      "from_code": "BHD"
     },
     {
       "time": "2026-08-21T08:40:00",
@@ -106,7 +97,7 @@
       "scheduled_time": "2026-08-21T12:45:00",
       "flight_number": "GR656",
       "airline": "Aurigny",
-      "status": "Expected 12:45",
+      "status": "Arrived 12:43. Bags at carousel 2",
       "from": "Guernsey",
       "from_code": "GCI"
     },
@@ -115,7 +106,7 @@
       "scheduled_time": "2026-08-21T14:30:00",
       "flight_number": "LM325",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Expected 14:30",
       "from": "Edinburgh",
       "from_code": "EDI"
     },
@@ -221,16 +212,6 @@
   ],
   "departures": [
     {
-      "time": "2026-08-21T06:50:00",
-      "scheduled_time": "2026-08-21T06:50:00",
-      "flight_number": "LM534",
-      "airline": "Loganair",
-      "status": "Airborne 06:59",
-      "to": "Newcastle",
-      "to_code": "NCL",
-      "check_in_desk": "14-15"
-    },
-    {
       "time": "2026-08-21T08:00:00",
       "scheduled_time": "2026-08-21T08:00:00",
       "flight_number": "GR651",
@@ -335,7 +316,7 @@
       "scheduled_time": "2026-08-21T13:15:00",
       "flight_number": "GR657",
       "airline": "Aurigny",
-      "status": "Go to Gate 8",
+      "status": "Airborne 13:32",
       "to": "Guernsey",
       "to_code": "GCI",
       "check_in_desk": "16-17"
@@ -345,7 +326,7 @@
       "scheduled_time": "2026-08-21T14:25:00",
       "flight_number": "LM540",
       "airline": "Loganair",
-      "status": "Check In Open  Desks 14-15",
+      "status": "Scheduled",
       "to": "Newcastle",
       "to_code": "NCL",
       "check_in_desk": "14-15"
@@ -469,15 +450,6 @@
       "departure_flight_number": "GR651",
       "departure_time": "2026-08-21T08:00:00",
       "departure_to": "Guernsey",
-      "turnaround_minutes": 30
-    },
-    {
-      "arrival_flight_number": "LM551",
-      "arrival_time": "2026-08-21T07:55:00",
-      "arrival_from": "Jersey",
-      "departure_flight_number": "LM552",
-      "departure_time": "2026-08-21T08:25:00",
-      "departure_to": "Jersey",
       "turnaround_minutes": 30
     },
     {

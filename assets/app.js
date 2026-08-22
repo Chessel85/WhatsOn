@@ -4,13 +4,13 @@ const FEEDS = {
   weather: {
     dataUrl: 'data/current/weather.json',
     renderSummary(data, container) {
-      const c = data.current;
+      const c = currentHourlyReading(data.hourly);
       const p = document.createElement('p');
       p.textContent = `Currently ${Math.round(c.temperature_c)}°C, ${c.condition}`;
       container.replaceChildren(p);
     },
     renderDetail(data, container) {
-      const c = data.current;
+      const c = currentHourlyReading(data.hourly);
       const elements = [];
 
       pushHeading(elements, 'Current conditions');
@@ -662,6 +662,22 @@ function formatTidalCycle(cycle) {
   return `${cycle.days} ${dayWord} ${cycle.direction} ${cycle.type} tide`;
 }
 
+// The weather source's own "current" reading is a snapshot from whenever
+// the fetch last ran (up to an hour stale, longer if a workflow run is
+// late/skipped) — e.g. still showing an 8am reading at 2pm. `hourly` covers
+// the same fetch out to 48h ahead on an hourly grid, so picking the entry
+// for the hour we're actually in gives an always-current reading between
+// fetches without needing to fetch any more often.
+function currentHourlyReading(hourly) {
+  const now = new Date();
+  let current = hourly[0];
+  for (const h of hourly) {
+    if (new Date(h.time) > now) break;
+    current = h;
+  }
+  return current;
+}
+
 function localDateKey(date) {
   return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
 }
@@ -742,27 +758,59 @@ async function loadAndRenderDetail(feedName, container) {
 // worth manually refreshing (e.g. airport gate/boarding status) adds a
 // `<button data-refresh-feed>` before its data-feed-detail container; pages
 // without one (most feeds, which only change a few times a day) just don't
-// get a button.
-async function initDetailPage() {
+// get a button. Returns a reload function for the page's detail container (a
+// no-op if there isn't one), so initAutoRefresh can re-run just the data
+// load without re-attaching the refresh button's click listener every time.
+function initDetailPage() {
   const container = document.querySelector('[data-feed-detail]');
-  if (!container) return;
+  if (!container) return async () => {};
   const feedName = container.dataset.feedDetail;
+  const reload = () => loadAndRenderDetail(feedName, container);
 
-  await loadAndRenderDetail(feedName, container);
+  reload();
 
   const refreshButton = document.querySelector('[data-refresh-feed]');
-  if (!refreshButton) return;
-  refreshButton.addEventListener('click', async () => {
-    const originalText = refreshButton.textContent;
-    refreshButton.disabled = true;
-    refreshButton.textContent = 'Refreshing…';
-    await loadAndRenderDetail(feedName, container);
-    refreshButton.textContent = originalText;
-    refreshButton.disabled = false;
+  if (refreshButton) {
+    refreshButton.addEventListener('click', async () => {
+      const originalText = refreshButton.textContent;
+      refreshButton.disabled = true;
+      refreshButton.textContent = 'Refreshing…';
+      await reload();
+      refreshButton.textContent = originalText;
+      refreshButton.disabled = false;
+    });
+  }
+
+  return reload;
+}
+
+// A tab left open across a fetch cycle (e.g. opened on the 19th, still open
+// on the 22nd) otherwise keeps showing whatever was fetched on load until
+// the user manually reloads. Re-fetching whenever the tab regains
+// visibility — switched back to, or restored from the back/forward cache
+// after the browser was reopened — covers that without polling in the
+// background while the page is out of view (which could otherwise pull the
+// rug from under someone reading it, or announce unrequested changes into a
+// screen reader's aria-live region).
+function initAutoRefresh(reloadDetail) {
+  let refreshing = false;
+  async function refreshIfVisible() {
+    if (document.visibilityState !== 'visible' || refreshing) return;
+    refreshing = true;
+    try {
+      await Promise.all([initOverviewCards(), reloadDetail()]);
+    } finally {
+      refreshing = false;
+    }
+  }
+  document.addEventListener('visibilitychange', refreshIfVisible);
+  window.addEventListener('pageshow', (event) => {
+    if (event.persisted) refreshIfVisible();
   });
 }
 
 document.addEventListener('DOMContentLoaded', () => {
   initOverviewCards();
-  initDetailPage();
+  const reloadDetail = initDetailPage();
+  initAutoRefresh(reloadDetail);
 });

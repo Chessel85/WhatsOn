@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T05:26:29+00:00",
+  "fetched_at": "2026-08-22T05:54:20+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -34,7 +34,7 @@
       "scheduled_time": "2026-08-22T08:25:00",
       "flight_number": "EI3600",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Expected 08:25",
       "from": "Belfast City",
       "from_code": "BHD"
     },
@@ -172,6 +172,15 @@
       "status": "Scheduled",
       "from": "Paris Orly",
       "from_code": "ORY"
+    },
+    {
+      "time": "2026-08-22T18:35:00",
+      "scheduled_time": "2026-08-22T18:35:00",
+      "flight_number": "LM325",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "from": "Edinburgh",
+      "from_code": "EDI"
     }
   ],
   "departures": [
@@ -200,10 +209,10 @@
       "scheduled_time": "2026-08-22T08:00:00",
       "flight_number": "GR651",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 16-17",
       "to": "Guernsey",
       "to_code": "GCI",
-      "check_in_desk": null
+      "check_in_desk": "16-17"
     },
     {
       "time": "2026-08-22T08:20:00",
@@ -230,7 +239,7 @@
       "scheduled_time": "2026-08-22T09:15:00",
       "flight_number": "KL1070",
       "airline": "KLM",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 12-13",
       "to": "Amsterdam",
       "to_code": "AMS",
       "check_in_desk": "12-13"
@@ -363,6 +372,16 @@
       "status": "Scheduled",
       "to": "Faro",
       "to_code": "FAO",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-22T18:50:00",
+      "scheduled_time": "2026-08-22T18:50:00",
+      "flight_number": "EJU4916",
+      "airline": "easyJet",
+      "status": "Scheduled",
+      "to": "Paris Orly",
+      "to_code": "ORY",
       "check_in_desk": null
     }
   ],
@@ -519,6 +538,15 @@
       "departure_time": "2026-08-22T18:10:00",
       "departure_to": "Faro",
       "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EJU4915",
+      "arrival_time": "2026-08-22T18:10:00",
+      "arrival_from": "Paris Orly",
+      "departure_flight_number": "EJU4916",
+      "departure_time": "2026-08-22T18:50:00",
+      "departure_to": "Paris Orly",
+      "turnaround_minutes": 40
     }
   ]
 }

@@ -1,80 +1,8 @@
 {
-  "fetched_at": "2026-08-22T12:13:27+00:00",
+  "fetched_at": "2026-08-22T16:08:40+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "VENTURA",
-      "berth": "106",
-      "arrival": {
-        "date": "2026-08-22",
-        "time": "2026-08-22T05:13:00Z"
-      },
-      "departure": {
-        "date": "2026-08-22",
-        "time": "2026-08-22T15:00:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9333175",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Ventura-669",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=VENTURA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "CELEBRITY APEX",
-      "berth": "102",
-      "arrival": {
-        "date": "2026-08-22",
-        "time": "2026-08-22T05:15:00Z"
-      },
-      "departure": {
-        "date": "2026-08-22",
-        "time": "2026-08-22T15:00:00Z"
-      },
-      "agent": "Intercruises Shoreside & Port",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9838383",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Celebrity-Apex-1587",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=CELEBRITY%20APEX%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "IONA",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-08-22",
-        "time": "2026-08-22T05:34:00Z"
-      },
-      "departure": {
-        "date": "2026-08-22",
-        "time": "2026-08-22T16:00:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9826548",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Iona-1858",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=IONA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "SKY PRINCESS",
-      "berth": "38/9",
-      "arrival": {
-        "date": "2026-08-22",
-        "time": "2026-08-22T05:37:00Z"
-      },
-      "departure": {
-        "date": "2026-08-22",
-        "time": "2026-08-22T15:00:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9802396",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Sky-Princess-2154",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=SKY%20PRINCESS%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "LIBERTY OF THE SEAS",
       "berth": "101",

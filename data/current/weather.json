@@ -1,67 +1,56 @@
 {
-  "fetched_at": "2026-08-22T10:27:32+00:00",
+  "fetched_at": "2026-08-22T11:24:33+00:00",
   "source": "https://open-meteo.com/",
   "location": "Southampton, UK",
   "current": {
-    "time": "2026-08-22T11:00",
-    "temperature_c": 17.0,
-    "feels_like_c": 15.3,
+    "time": "2026-08-22T12:00",
+    "temperature_c": 18.7,
+    "feels_like_c": 17.9,
     "precipitation_probability": 0,
     "precipitation_mm": 0.0,
-    "wind_speed_mph": 5.1,
+    "wind_speed_mph": 4.0,
     "wind_direction": "Northeast",
-    "humidity_percent": 51,
+    "humidity_percent": 45,
     "condition": "Clear sky"
   },
   "hourly": [
     {
-      "time": "2026-08-22T11:00",
-      "temperature_c": 17.0,
-      "feels_like_c": 15.3,
-      "precipitation_probability": 0,
-      "precipitation_mm": 0.0,
-      "wind_speed_mph": 5.1,
-      "wind_direction": "Northeast",
-      "humidity_percent": 51,
-      "condition": "Clear sky"
-    },
-    {
       "time": "2026-08-22T12:00",
-      "temperature_c": 18.3,
-      "feels_like_c": 17.3,
+      "temperature_c": 18.7,
+      "feels_like_c": 17.9,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 4.5,
+      "wind_speed_mph": 4.0,
       "wind_direction": "Northeast",
       "humidity_percent": 45,
-      "condition": "Mainly clear"
+      "condition": "Clear sky"
     },
     {
       "time": "2026-08-22T13:00",
-      "temperature_c": 19.5,
-      "feels_like_c": 18.7,
+      "temperature_c": 20.2,
+      "feels_like_c": 19.0,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 3.6,
-      "wind_direction": "Northeast",
-      "humidity_percent": 41,
-      "condition": "Clear sky"
-    },
-    {
-      "time": "2026-08-22T14:00",
-      "temperature_c": 20.7,
-      "feels_like_c": 18.3,
-      "precipitation_probability": 0,
-      "precipitation_mm": 0.0,
-      "wind_speed_mph": 4.9,
-      "wind_direction": "Northeast",
-      "humidity_percent": 36,
+      "wind_speed_mph": 4.7,
+      "wind_direction": "North",
+      "humidity_percent": 39,
       "condition": "Mainly clear"
     },
     {
+      "time": "2026-08-22T14:00",
+      "temperature_c": 21.0,
+      "feels_like_c": 18.8,
+      "precipitation_probability": 0,
+      "precipitation_mm": 0.0,
+      "wind_speed_mph": 4.7,
+      "wind_direction": "Northeast",
+      "humidity_percent": 36,
+      "condition": "Partly cloudy"
+    },
+    {
       "time": "2026-08-22T15:00",
-      "temperature_c": 21.2,
-      "feels_like_c": 19.0,
+      "temperature_c": 21.5,
+      "feels_like_c": 19.3,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
       "wind_speed_mph": 4.0,
@@ -71,8 +60,19 @@
     },
     {
       "time": "2026-08-22T16:00",
-      "temperature_c": 21.6,
-      "feels_like_c": 19.4,
+      "temperature_c": 21.7,
+      "feels_like_c": 19.5,
+      "precipitation_probability": 0,
+      "precipitation_mm": 0.0,
+      "wind_speed_mph": 3.8,
+      "wind_direction": "North",
+      "humidity_percent": 33,
+      "condition": "Partly cloudy"
+    },
+    {
+      "time": "2026-08-22T17:00",
+      "temperature_c": 21.9,
+      "feels_like_c": 19.9,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
       "wind_speed_mph": 3.6,
@@ -81,47 +81,36 @@
       "condition": "Partly cloudy"
     },
     {
-      "time": "2026-08-22T17:00",
-      "temperature_c": 21.6,
-      "feels_like_c": 19.7,
-      "precipitation_probability": 0,
-      "precipitation_mm": 0.0,
-      "wind_speed_mph": 2.9,
-      "wind_direction": "North",
-      "humidity_percent": 33,
-      "condition": "Partly cloudy"
-    },
-    {
       "time": "2026-08-22T18:00",
       "temperature_c": 21.2,
-      "feels_like_c": 18.9,
+      "feels_like_c": 19.6,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 5.6,
-      "wind_direction": "Southwest",
-      "humidity_percent": 38,
+      "wind_speed_mph": 3.8,
+      "wind_direction": "South",
+      "humidity_percent": 41,
       "condition": "Overcast"
     },
     {
       "time": "2026-08-22T19:00",
-      "temperature_c": 19.3,
-      "feels_like_c": 17.5,
+      "temperature_c": 19.6,
+      "feels_like_c": 17.8,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 6.9,
+      "wind_speed_mph": 7.4,
       "wind_direction": "Southwest",
-      "humidity_percent": 53,
+      "humidity_percent": 52,
       "condition": "Overcast"
     },
     {
       "time": "2026-08-22T20:00",
-      "temperature_c": 18.3,
-      "feels_like_c": 16.9,
+      "temperature_c": 18.5,
+      "feels_like_c": 17.1,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 5.8,
+      "wind_speed_mph": 6.5,
       "wind_direction": "Southwest",
-      "humidity_percent": 58,
+      "humidity_percent": 59,
       "condition": "Clear sky"
     },
     {
@@ -130,7 +119,7 @@
       "feels_like_c": 17.1,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 3.4,
+      "wind_speed_mph": 3.6,
       "wind_direction": "Southwest",
       "humidity_percent": 61,
       "condition": "Partly cloudy"
@@ -138,65 +127,65 @@
     {
       "time": "2026-08-22T22:00",
       "temperature_c": 17.2,
-      "feels_like_c": 16.3,
+      "feels_like_c": 16.5,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 3.6,
-      "wind_direction": "Southwest",
+      "wind_speed_mph": 2.9,
+      "wind_direction": "West",
       "humidity_percent": 62,
       "condition": "Clear sky"
     },
     {
       "time": "2026-08-22T23:00",
       "temperature_c": 16.8,
-      "feels_like_c": 16.2,
+      "feels_like_c": 16.0,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 2.5,
-      "wind_direction": "Southwest",
+      "wind_speed_mph": 3.1,
+      "wind_direction": "Northwest",
       "humidity_percent": 63,
       "condition": "Clear sky"
     },
     {
       "time": "2026-08-23T00:00",
       "temperature_c": 16.0,
-      "feels_like_c": 14.9,
+      "feels_like_c": 15.5,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 4.0,
-      "wind_direction": "Southwest",
+      "wind_speed_mph": 1.8,
+      "wind_direction": "Northwest",
       "humidity_percent": 66,
       "condition": "Clear sky"
     },
     {
       "time": "2026-08-23T01:00",
       "temperature_c": 15.2,
-      "feels_like_c": 14.8,
+      "feels_like_c": 14.5,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 2.0,
-      "wind_direction": "Southwest",
+      "wind_speed_mph": 3.1,
+      "wind_direction": "South",
       "humidity_percent": 71,
       "condition": "Clear sky"
     },
     {
       "time": "2026-08-23T02:00",
       "temperature_c": 14.5,
-      "feels_like_c": 13.8,
+      "feels_like_c": 14.4,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 3.4,
-      "wind_direction": "South",
+      "wind_speed_mph": 0.7,
+      "wind_direction": "Southwest",
       "humidity_percent": 75,
       "condition": "Clear sky"
     },
     {
       "time": "2026-08-23T03:00",
       "temperature_c": 14.2,
-      "feels_like_c": 13.7,
+      "feels_like_c": 14.0,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 2.5,
+      "wind_speed_mph": 1.3,
       "wind_direction": "Southwest",
       "humidity_percent": 77,
       "condition": "Clear sky"
@@ -215,10 +204,10 @@
     {
       "time": "2026-08-23T05:00",
       "temperature_c": 14.4,
-      "feels_like_c": 14.2,
+      "feels_like_c": 13.7,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 0.9,
+      "wind_speed_mph": 2.9,
       "wind_direction": "Northwest",
       "humidity_percent": 75,
       "condition": "Clear sky"
@@ -237,11 +226,11 @@
     {
       "time": "2026-08-23T07:00",
       "temperature_c": 14.8,
-      "feels_like_c": 14.4,
+      "feels_like_c": 14.5,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 2.5,
-      "wind_direction": "North",
+      "wind_speed_mph": 2.0,
+      "wind_direction": "Northeast",
       "humidity_percent": 76,
       "condition": "Partly cloudy"
     },
@@ -251,8 +240,8 @@
       "feels_like_c": 15.5,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 1.8,
-      "wind_direction": "Northeast",
+      "wind_speed_mph": 1.6,
+      "wind_direction": "North",
       "humidity_percent": 73,
       "condition": "Clear sky"
     },
@@ -262,7 +251,7 @@
       "feels_like_c": 17.3,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 2.0,
+      "wind_speed_mph": 1.8,
       "wind_direction": "Northeast",
       "humidity_percent": 66,
       "condition": "Clear sky"
@@ -270,21 +259,21 @@
     {
       "time": "2026-08-23T10:00",
       "temperature_c": 18.8,
-      "feels_like_c": 18.2,
+      "feels_like_c": 18.3,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 2.0,
-      "wind_direction": "Northeast",
+      "wind_speed_mph": 1.3,
+      "wind_direction": "Southeast",
       "humidity_percent": 54,
       "condition": "Clear sky"
     },
     {
       "time": "2026-08-23T11:00",
       "temperature_c": 19.8,
-      "feels_like_c": 18.7,
-      "precipitation_probability": 1,
+      "feels_like_c": 18.5,
+      "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 3.1,
+      "wind_speed_mph": 4.0,
       "wind_direction": "Southeast",
       "humidity_percent": 49,
       "condition": "Partly cloudy"
@@ -292,10 +281,10 @@
     {
       "time": "2026-08-23T12:00",
       "temperature_c": 20.2,
-      "feels_like_c": 18.9,
-      "precipitation_probability": 2,
+      "feels_like_c": 19.0,
+      "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 4.3,
+      "wind_speed_mph": 4.0,
       "wind_direction": "Southeast",
       "humidity_percent": 48,
       "condition": "Overcast"
@@ -303,10 +292,10 @@
     {
       "time": "2026-08-23T13:00",
       "temperature_c": 20.6,
-      "feels_like_c": 18.8,
-      "precipitation_probability": 2,
+      "feels_like_c": 18.9,
+      "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 6.0,
+      "wind_speed_mph": 5.8,
       "wind_direction": "Southeast",
       "humidity_percent": 46,
       "condition": "Overcast"
@@ -314,10 +303,10 @@
     {
       "time": "2026-08-23T14:00",
       "temperature_c": 21.0,
-      "feels_like_c": 19.3,
-      "precipitation_probability": 2,
+      "feels_like_c": 18.9,
+      "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 5.4,
+      "wind_speed_mph": 7.2,
       "wind_direction": "Southeast",
       "humidity_percent": 45,
       "condition": "Overcast"
@@ -326,9 +315,9 @@
       "time": "2026-08-23T15:00",
       "temperature_c": 21.3,
       "feels_like_c": 19.5,
-      "precipitation_probability": 1,
+      "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 6.3,
+      "wind_speed_mph": 6.5,
       "wind_direction": "Southeast",
       "humidity_percent": 45,
       "condition": "Mainly clear"
@@ -336,10 +325,10 @@
     {
       "time": "2026-08-23T16:00",
       "temperature_c": 21.5,
-      "feels_like_c": 19.6,
+      "feels_like_c": 19.5,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 6.9,
+      "wind_speed_mph": 7.4,
       "wind_direction": "Southeast",
       "humidity_percent": 45,
       "condition": "Mainly clear"
@@ -347,10 +336,10 @@
     {
       "time": "2026-08-23T17:00",
       "temperature_c": 21.1,
-      "feels_like_c": 19.2,
+      "feels_like_c": 19.1,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 7.8,
+      "wind_speed_mph": 8.1,
       "wind_direction": "Southeast",
       "humidity_percent": 48,
       "condition": "Partly cloudy"
@@ -358,10 +347,10 @@
     {
       "time": "2026-08-23T18:00",
       "temperature_c": 20.4,
-      "feels_like_c": 18.4,
+      "feels_like_c": 18.3,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 8.5,
+      "wind_speed_mph": 8.9,
       "wind_direction": "Southeast",
       "humidity_percent": 51,
       "condition": "Clear sky"
@@ -369,10 +358,10 @@
     {
       "time": "2026-08-23T19:00",
       "temperature_c": 19.7,
-      "feels_like_c": 17.9,
+      "feels_like_c": 17.5,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 7.8,
+      "wind_speed_mph": 9.6,
       "wind_direction": "Southeast",
       "humidity_percent": 54,
       "condition": "Clear sky"
@@ -380,10 +369,10 @@
     {
       "time": "2026-08-23T20:00",
       "temperature_c": 18.9,
-      "feels_like_c": 17.4,
+      "feels_like_c": 16.9,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 6.9,
+      "wind_speed_mph": 9.2,
       "wind_direction": "Southeast",
       "humidity_percent": 57,
       "condition": "Clear sky"
@@ -394,7 +383,7 @@
       "feels_like_c": 17.0,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 6.9,
+      "wind_speed_mph": 6.7,
       "wind_direction": "Southeast",
       "humidity_percent": 59,
       "condition": "Clear sky"
@@ -424,10 +413,10 @@
     {
       "time": "2026-08-24T00:00",
       "temperature_c": 17.0,
-      "feels_like_c": 15.4,
+      "feels_like_c": 15.0,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 6.3,
+      "wind_speed_mph": 7.6,
       "wind_direction": "East",
       "humidity_percent": 61,
       "condition": "Mainly clear"
@@ -438,7 +427,7 @@
       "feels_like_c": 14.6,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 6.5,
+      "wind_speed_mph": 6.7,
       "wind_direction": "Northeast",
       "humidity_percent": 62,
       "condition": "Partly cloudy"
@@ -479,10 +468,10 @@
     {
       "time": "2026-08-24T05:00",
       "temperature_c": 14.6,
-      "feels_like_c": 12.5,
+      "feels_like_c": 12.3,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 6.9,
+      "wind_speed_mph": 7.4,
       "wind_direction": "Northeast",
       "humidity_percent": 64,
       "condition": "Clear sky"
@@ -490,10 +479,10 @@
     {
       "time": "2026-08-24T06:00",
       "temperature_c": 14.2,
-      "feels_like_c": 11.9,
+      "feels_like_c": 11.7,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 7.4,
+      "wind_speed_mph": 8.1,
       "wind_direction": "Northeast",
       "humidity_percent": 66,
       "condition": "Clear sky"
@@ -501,10 +490,10 @@
     {
       "time": "2026-08-24T07:00",
       "temperature_c": 14.2,
-      "feels_like_c": 11.9,
+      "feels_like_c": 12.0,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 8.1,
+      "wind_speed_mph": 7.6,
       "wind_direction": "Northeast",
       "humidity_percent": 67,
       "condition": "Clear sky"
@@ -512,10 +501,10 @@
     {
       "time": "2026-08-24T08:00",
       "temperature_c": 15.3,
-      "feels_like_c": 12.7,
+      "feels_like_c": 12.8,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 9.6,
+      "wind_speed_mph": 8.9,
       "wind_direction": "Northeast",
       "humidity_percent": 64,
       "condition": "Clear sky"
@@ -523,10 +512,10 @@
     {
       "time": "2026-08-24T09:00",
       "temperature_c": 17.1,
-      "feels_like_c": 14.0,
+      "feels_like_c": 14.3,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 11.7,
+      "wind_speed_mph": 10.7,
       "wind_direction": "East",
       "humidity_percent": 59,
       "condition": "Clear sky"
@@ -534,13 +523,24 @@
     {
       "time": "2026-08-24T10:00",
       "temperature_c": 18.9,
-      "feels_like_c": 15.1,
+      "feels_like_c": 15.8,
       "precipitation_probability": 0,
       "precipitation_mm": 0.0,
-      "wind_speed_mph": 13.4,
+      "wind_speed_mph": 11.9,
       "wind_direction": "East",
       "humidity_percent": 52,
       "condition": "Clear sky"
+    },
+    {
+      "time": "2026-08-24T11:00",
+      "temperature_c": 20.1,
+      "feels_like_c": 16.6,
+      "precipitation_probability": 0,
+      "precipitation_mm": 0.0,
+      "wind_speed_mph": 12.5,
+      "wind_direction": "East",
+      "humidity_percent": 45,
+      "condition": "Mainly clear"
     }
   ],
   "recent_days": [

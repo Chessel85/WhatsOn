@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T07:09:56+00:00",
+  "fetched_at": "2026-08-22T07:02:00+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -15,6 +15,13 @@
           "start_time": "2026-08-24T08:30:00Z",
           "synopsis": "Find out if you could be owed money for unclaimed premium bonds and whether there is a correct way to stack a dishwasher.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0030qgf"
+        },
+        {
+          "title": "Sister Boniface Mysteries",
+          "series_number": 3,
+          "start_time": "2026-08-28T13:00:00Z",
+          "synopsis": "Sister Boniface, Sam and Felix uncover the murderer of one of three actors shortlisted to play the next agent Jonas Best, and Sam is surprised by the return of old flame Ruth Penny.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m002zk56"
         }
       ]
     },
@@ -23,7 +30,15 @@
       "name": "BBC Two",
       "type": "tv",
       "confidence": "high",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "The Marlow Murder Club",
+          "series_number": 1,
+          "start_time": "2026-08-28T20:00:00Z",
+          "synopsis": "When retired archaeologist Judith witnesses a murder, she teams up with vicar\u2019s wife Becks and dog walker Suzie to investigate.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m00303ft"
+        }
+      ]
     },
     {
       "id": "bbc_three",

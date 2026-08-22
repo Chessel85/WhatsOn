@@ -1,25 +1,7 @@
 {
-  "fetched_at": "2026-08-22T16:50:35+00:00",
+  "fetched_at": "2026-08-22T17:20:28+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-22T11:45:00",
-      "scheduled_time": "2026-08-22T11:45:00",
-      "flight_number": "EZY141",
-      "airline": "easyJet",
-      "status": "Arrived 12:07. Bags at carousel 3",
-      "from": "Belfast Intl",
-      "from_code": "BFS"
-    },
-    {
-      "time": "2026-08-22T12:05:00",
-      "scheduled_time": "2026-08-22T12:05:00",
-      "flight_number": "EI3604",
-      "airline": "Aer Lingus",
-      "status": "Arrived 11:52. Bags at carousel 3",
-      "from": "Belfast City",
-      "from_code": "BHD"
-    },
     {
       "time": "2026-08-22T14:25:00",
       "scheduled_time": "2026-08-22T14:25:00",
@@ -133,7 +115,7 @@
       "scheduled_time": "2026-08-22T19:30:00",
       "flight_number": "EI3308",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Expected 19:30",
       "from": "Dublin",
       "from_code": "DUB"
     },
@@ -223,7 +205,7 @@
       "scheduled_time": "2026-08-22T17:20:00",
       "flight_number": "EI3305",
       "airline": "Aer Lingus",
-      "status": "Gate Closed",
+      "status": "Airborne 17:50",
       "to": "Dublin",
       "to_code": "DUB",
       "check_in_desk": "08-09"
@@ -243,7 +225,7 @@
       "scheduled_time": "2026-08-22T18:10:00",
       "flight_number": "EJU7518",
       "airline": "easyJet",
-      "status": "Final Call to Gate 3",
+      "status": "Airborne 18:17",
       "to": "Faro",
       "to_code": "FAO",
       "check_in_desk": "04-07"
@@ -253,7 +235,7 @@
       "scheduled_time": "2026-08-22T18:50:00",
       "flight_number": "EJU4916",
       "airline": "easyJet",
-      "status": "Check In Open  Desks 04-07",
+      "status": "Scheduled",
       "to": "Paris Orly",
       "to_code": "ORY",
       "check_in_desk": "04-07"
@@ -283,10 +265,10 @@
       "scheduled_time": "2026-08-22T19:55:00",
       "flight_number": "GR659",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 16-17",
       "to": "Guernsey",
       "to_code": "GCI",
-      "check_in_desk": null
+      "check_in_desk": "16-17"
     },
     {
       "time": "2026-08-22T20:00:00",
@@ -300,24 +282,6 @@
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "EZY141",
-      "arrival_time": "2026-08-22T11:45:00",
-      "arrival_from": "Belfast Intl",
-      "departure_flight_number": "EZY142",
-      "departure_time": "2026-08-22T12:15:00",
-      "departure_to": "Belfast Intl",
-      "turnaround_minutes": 30
-    },
-    {
-      "arrival_flight_number": "EI3604",
-      "arrival_time": "2026-08-22T12:05:00",
-      "arrival_from": "Belfast City",
-      "departure_flight_number": "EI3605",
-      "departure_time": "2026-08-22T12:35:00",
-      "departure_to": "Belfast City",
-      "turnaround_minutes": 30
-    },
     {
       "arrival_flight_number": "LM323",
       "arrival_time": "2026-08-22T14:25:00",

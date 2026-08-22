@@ -1,16 +1,7 @@
 {
-  "fetched_at": "2026-08-22T19:46:01+00:00",
+  "fetched_at": "2026-08-22T20:21:50+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-22T15:15:00",
-      "scheduled_time": "2026-08-22T15:15:00",
-      "flight_number": "GR505",
-      "airline": "Aurigny",
-      "status": "Arrived 14:57. Bags at carousel 2",
-      "from": "Alderney",
-      "from_code": "ACI"
-    },
     {
       "time": "2026-08-22T16:15:00",
       "scheduled_time": "2026-08-22T16:15:00",
@@ -97,7 +88,7 @@
       "scheduled_time": "2026-08-22T21:20:00",
       "flight_number": "LM557",
       "airline": "Loganair",
-      "status": "Expected 21:20",
+      "status": "Arrived 21:07. Bags at carousel 1",
       "from": "Jersey",
       "from_code": "JER"
     },
@@ -127,29 +118,27 @@
       "status": "Scheduled",
       "from": "Dublin",
       "from_code": "DUB"
+    },
+    {
+      "time": "2026-08-23T08:45:00",
+      "scheduled_time": "2026-08-23T08:45:00",
+      "flight_number": "KL1069",
+      "airline": "KLM",
+      "status": "Scheduled",
+      "from": "Amsterdam",
+      "from_code": "AMS"
+    },
+    {
+      "time": "2026-08-23T09:10:00",
+      "scheduled_time": "2026-08-23T09:10:00",
+      "flight_number": "LM551",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "from": "Jersey",
+      "from_code": "JER"
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-22T14:55:00",
-      "scheduled_time": "2026-08-22T14:55:00",
-      "flight_number": "LM324",
-      "airline": "Loganair",
-      "status": "Airborne 15:15",
-      "to": "Edinburgh",
-      "to_code": "EDI",
-      "check_in_desk": "14-15"
-    },
-    {
-      "time": "2026-08-22T15:10:00",
-      "scheduled_time": "2026-08-22T15:10:00",
-      "flight_number": "LM326",
-      "airline": "Loganair",
-      "status": "Airborne 15:10",
-      "to": "Edinburgh",
-      "to_code": "EDI",
-      "check_in_desk": "14-15"
-    },
     {
       "time": "2026-08-22T15:15:00",
       "scheduled_time": "2026-08-22T15:15:00",
@@ -269,18 +258,29 @@
       "to": "Alicante",
       "to_code": "ALC",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-23T08:55:00",
+      "scheduled_time": "2026-08-23T08:55:00",
+      "flight_number": "EI3601",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "to": "Belfast City",
+      "to_code": "BHD",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-23T09:15:00",
+      "scheduled_time": "2026-08-23T09:15:00",
+      "flight_number": "KL1070",
+      "airline": "KLM",
+      "status": "Scheduled",
+      "to": "Amsterdam",
+      "to_code": "AMS",
+      "check_in_desk": null
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "GR505",
-      "arrival_time": "2026-08-22T15:15:00",
-      "arrival_from": "Alderney",
-      "departure_flight_number": "GR506",
-      "departure_time": "2026-08-22T15:45:00",
-      "departure_to": "Alderney",
-      "turnaround_minutes": 30
-    },
     {
       "arrival_flight_number": "EI3606",
       "arrival_time": "2026-08-22T16:15:00",
@@ -360,6 +360,24 @@
       "departure_flight_number": "EJU5516",
       "departure_time": "2026-08-23T08:25:00",
       "departure_to": "Alicante",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EI3600",
+      "arrival_time": "2026-08-23T08:25:00",
+      "arrival_from": "Belfast City",
+      "departure_flight_number": "EI3601",
+      "departure_time": "2026-08-23T08:55:00",
+      "departure_to": "Belfast City",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "KL1069",
+      "arrival_time": "2026-08-23T08:45:00",
+      "arrival_from": "Amsterdam",
+      "departure_flight_number": "KL1070",
+      "departure_time": "2026-08-23T09:15:00",
+      "departure_to": "Amsterdam",
       "turnaround_minutes": 30
     }
   ]

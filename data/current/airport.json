@@ -1,34 +1,7 @@
 {
-  "fetched_at": "2026-08-21T23:49:26+00:00",
+  "fetched_at": "2026-08-22T01:12:23+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-21T19:10:00",
-      "scheduled_time": "2026-08-21T19:10:00",
-      "flight_number": "LM557",
-      "airline": "Loganair",
-      "status": "Arrived 18:56. Bags at carousel 2",
-      "from": "Jersey",
-      "from_code": "JER"
-    },
-    {
-      "time": "2026-08-21T19:25:00",
-      "scheduled_time": "2026-08-21T19:25:00",
-      "flight_number": "GR658",
-      "airline": "Aurigny",
-      "status": "Arrived 19:07. Bags at carousel 2",
-      "from": "Guernsey",
-      "from_code": "GCI"
-    },
-    {
-      "time": "2026-08-21T19:25:00",
-      "scheduled_time": "2026-08-21T19:25:00",
-      "flight_number": "LM329",
-      "airline": "Loganair",
-      "status": "Arrived 19:19. Bags at carousel 3",
-      "from": "Edinburgh",
-      "from_code": "EDI"
-    },
     {
       "time": "2026-08-21T19:30:00",
       "scheduled_time": "2026-08-21T19:30:00",
@@ -148,36 +121,6 @@
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-21T19:40:00",
-      "scheduled_time": "2026-08-21T19:40:00",
-      "flight_number": "LM558",
-      "airline": "Loganair",
-      "status": "Airborne 19:34",
-      "to": "Jersey",
-      "to_code": "JER",
-      "check_in_desk": "14-15"
-    },
-    {
-      "time": "2026-08-21T19:55:00",
-      "scheduled_time": "2026-08-21T19:55:00",
-      "flight_number": "GR659",
-      "airline": "Aurigny",
-      "status": "Airborne 19:44",
-      "to": "Guernsey",
-      "to_code": "GCI",
-      "check_in_desk": "16-17"
-    },
-    {
-      "time": "2026-08-21T19:55:00",
-      "scheduled_time": "2026-08-21T19:55:00",
-      "flight_number": "LM328",
-      "airline": "Loganair",
-      "status": "Airborne 19:58",
-      "to": "Edinburgh",
-      "to_code": "EDI",
-      "check_in_desk": "14-15"
-    },
     {
       "time": "2026-08-21T20:00:00",
       "scheduled_time": "2026-08-21T20:00:00",
@@ -310,33 +253,6 @@
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "LM557",
-      "arrival_time": "2026-08-21T19:10:00",
-      "arrival_from": "Jersey",
-      "departure_flight_number": "LM558",
-      "departure_time": "2026-08-21T19:40:00",
-      "departure_to": "Jersey",
-      "turnaround_minutes": 30
-    },
-    {
-      "arrival_flight_number": "GR658",
-      "arrival_time": "2026-08-21T19:25:00",
-      "arrival_from": "Guernsey",
-      "departure_flight_number": "GR659",
-      "departure_time": "2026-08-21T19:55:00",
-      "departure_to": "Guernsey",
-      "turnaround_minutes": 30
-    },
-    {
-      "arrival_flight_number": "LM329",
-      "arrival_time": "2026-08-21T19:25:00",
-      "arrival_from": "Edinburgh",
-      "departure_flight_number": "LM328",
-      "departure_time": "2026-08-21T19:55:00",
-      "departure_to": "Edinburgh",
-      "turnaround_minutes": 30
-    },
     {
       "arrival_flight_number": "EI3308",
       "arrival_time": "2026-08-21T19:30:00",

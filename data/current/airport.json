@@ -1,16 +1,7 @@
 {
-  "fetched_at": "2026-08-22T14:48:12+00:00",
+  "fetched_at": "2026-08-22T15:20:19+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-22T10:40:00",
-      "scheduled_time": "2026-08-22T10:40:00",
-      "flight_number": "GR501",
-      "airline": "Aurigny",
-      "status": "Arrived 10:12. Bags at carousel 2",
-      "from": "Alderney",
-      "from_code": "ACI"
-    },
     {
       "time": "2026-08-22T11:45:00",
       "scheduled_time": "2026-08-22T11:45:00",
@@ -70,7 +61,7 @@
       "scheduled_time": "2026-08-22T16:15:00",
       "flight_number": "EI3606",
       "airline": "Aer Lingus",
-      "status": "Expected 16:15",
+      "status": "Arrived 16:01. Bags at carousel 3",
       "from": "Belfast City",
       "from_code": "BHD"
     },
@@ -158,16 +149,6 @@
   ],
   "departures": [
     {
-      "time": "2026-08-22T10:15:00",
-      "scheduled_time": "2026-08-22T10:15:00",
-      "flight_number": "LM322",
-      "airline": "Loganair",
-      "status": "Airborne 10:15",
-      "to": "Edinburgh",
-      "to_code": "EDI",
-      "check_in_desk": "14-15"
-    },
-    {
       "time": "2026-08-22T11:20:00",
       "scheduled_time": "2026-08-22T11:20:00",
       "flight_number": "GR502",
@@ -242,7 +223,7 @@
       "scheduled_time": "2026-08-22T16:45:00",
       "flight_number": "EI3607",
       "airline": "Aer Lingus",
-      "status": "Check In Open  Desks 08-09",
+      "status": "Gate Closed",
       "to": "Belfast City",
       "to_code": "BHD",
       "check_in_desk": "08-09"
@@ -272,20 +253,20 @@
       "scheduled_time": "2026-08-22T18:10:00",
       "flight_number": "EJU7518",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 04-07",
       "to": "Faro",
       "to_code": "FAO",
-      "check_in_desk": null
+      "check_in_desk": "04-07"
     },
     {
       "time": "2026-08-22T18:50:00",
       "scheduled_time": "2026-08-22T18:50:00",
       "flight_number": "EJU4916",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 04-07",
       "to": "Paris Orly",
       "to_code": "ORY",
-      "check_in_desk": null
+      "check_in_desk": "04-07"
     },
     {
       "time": "2026-08-22T19:10:00",
@@ -329,15 +310,6 @@
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "GR501",
-      "arrival_time": "2026-08-22T10:40:00",
-      "arrival_from": "Alderney",
-      "departure_flight_number": "GR502",
-      "departure_time": "2026-08-22T11:20:00",
-      "departure_to": "Alderney",
-      "turnaround_minutes": 40
-    },
     {
       "arrival_flight_number": "EZY141",
       "arrival_time": "2026-08-22T11:45:00",

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T20:21:50+00:00",
+  "fetched_at": "2026-08-22T20:49:31+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -136,29 +136,36 @@
       "status": "Scheduled",
       "from": "Jersey",
       "from_code": "JER"
+    },
+    {
+      "time": "2026-08-23T09:25:00",
+      "scheduled_time": "2026-08-23T09:25:00",
+      "flight_number": "EZY415",
+      "airline": "easyJet",
+      "status": "Scheduled",
+      "from": "Glasgow",
+      "from_code": "GLA"
+    },
+    {
+      "time": "2026-08-23T09:30:00",
+      "scheduled_time": "2026-08-23T09:30:00",
+      "flight_number": "GR654",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "from": "Guernsey",
+      "from_code": "GCI"
+    },
+    {
+      "time": "2026-08-23T09:45:00",
+      "scheduled_time": "2026-08-23T09:45:00",
+      "flight_number": "LM321",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "from": "Edinburgh",
+      "from_code": "EDI"
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-22T15:15:00",
-      "scheduled_time": "2026-08-22T15:15:00",
-      "flight_number": "GR657",
-      "airline": "Aurigny",
-      "status": "Airborne 15:19",
-      "to": "Guernsey",
-      "to_code": "GCI",
-      "check_in_desk": "16-17"
-    },
-    {
-      "time": "2026-08-22T15:45:00",
-      "scheduled_time": "2026-08-22T15:45:00",
-      "flight_number": "GR506",
-      "airline": "Aurigny",
-      "status": "Airborne 15:44",
-      "to": "Alderney",
-      "to_code": "ACI",
-      "check_in_desk": "16-17"
-    },
     {
       "time": "2026-08-22T16:45:00",
       "scheduled_time": "2026-08-22T16:45:00",
@@ -278,6 +285,26 @@
       "to": "Amsterdam",
       "to_code": "AMS",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-23T09:20:00",
+      "scheduled_time": "2026-08-23T09:20:00",
+      "flight_number": "EI3301",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "to": "Dublin",
+      "to_code": "DUB",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-23T09:40:00",
+      "scheduled_time": "2026-08-23T09:40:00",
+      "flight_number": "LM552",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "to": "Jersey",
+      "to_code": "JER",
+      "check_in_desk": null
     }
   ],
   "rotations": [
@@ -379,6 +406,24 @@
       "departure_time": "2026-08-23T09:15:00",
       "departure_to": "Amsterdam",
       "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EI3300",
+      "arrival_time": "2026-08-23T08:35:00",
+      "arrival_from": "Dublin",
+      "departure_flight_number": "EI3301",
+      "departure_time": "2026-08-23T09:20:00",
+      "departure_to": "Dublin",
+      "turnaround_minutes": 45
+    },
+    {
+      "arrival_flight_number": "LM557",
+      "arrival_time": "2026-08-22T21:20:00",
+      "arrival_from": "Jersey",
+      "departure_flight_number": "LM552",
+      "departure_time": "2026-08-23T09:40:00",
+      "departure_to": "Jersey",
+      "turnaround_minutes": 740
     }
   ]
 }

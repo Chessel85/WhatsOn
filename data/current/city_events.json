@@ -1,295 +1,487 @@
 {
-  "fetched_at": "2026-08-22T06:21:54+00:00",
-  "source": "https://hellosouthampton.co.uk/whats-on-in-southampton/",
+  "fetched_at": "2026-08-22T08:22:56+00:00",
+  "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
       "title": "Weekly Street Market in Southampton",
       "venue": "The Bargate",
       "time": "2026-08-22T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/"
+      "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Nature Guardian Quest 2026",
       "venue": "Itchen Valley Country Park",
       "time": "2026-08-22T08:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/nature-guardian-quest-2026/"
+      "url": "https://hellosouthampton.co.uk/events/nature-guardian-quest-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Zoofest 2026: Summer Holiday Fun at Marwell Zoo",
       "venue": "Marwell Zoo",
       "time": "2026-08-22T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/zoofest-2026/"
+      "url": "https://hellosouthampton.co.uk/events/zoofest-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "I Spy Trail 2026",
       "venue": "Royal Victoria Country Park",
       "time": "2026-08-22T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/i-spy-trail-2026/"
+      "url": "https://hellosouthampton.co.uk/events/i-spy-trail-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Summer Fun at Manor Farm 2026",
       "venue": "Manor Farm",
       "time": "2026-08-22T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/summer-fun-at-manor-farm-2026/"
+      "url": "https://hellosouthampton.co.uk/events/summer-fun-at-manor-farm-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Summer Garden Games 2026",
       "venue": "\u200bExbury Gardens & Steam Railway",
       "time": "2026-08-22T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/summer-garden-games-2026/"
+      "url": "https://hellosouthampton.co.uk/events/summer-garden-games-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Pony Magic Summer at the Farm!",
       "venue": "Manor Farm",
       "time": "2026-08-22T09:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/pony-magic-summer-at-the-farm/"
+      "url": "https://hellosouthampton.co.uk/events/pony-magic-summer-at-the-farm/",
+      "source": "hellosouthampton"
     },
     {
       "title": "RollerLand at Westquay 2026",
       "venue": "The Esplanade",
       "time": "2026-08-22T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/rollerland-at-westquay/"
+      "url": "https://hellosouthampton.co.uk/events/rollerland-at-westquay/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Toy Takeover 2026",
       "venue": "Westquay Retail Park Playground",
       "time": "2026-08-22T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/toy-takeover-2026/"
+      "url": "https://hellosouthampton.co.uk/events/toy-takeover-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Sausage and Cider Festival Winchester 2026",
       "venue": "River Park",
       "time": "2026-08-22T11:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/sausage-and-cider-festival-winchester-2026/"
+      "url": "https://hellosouthampton.co.uk/events/sausage-and-cider-festival-winchester-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Eastleigh vs Scunthorpe United Live at Silverlake Stadium",
       "venue": "Silverlake Stadium",
       "time": "2026-08-22T11:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/eastleigh-vs-scunthorpe-united-august-2026/"
+      "url": "https://hellosouthampton.co.uk/events/eastleigh-vs-scunthorpe-united-august-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Southampton vs Stoke City Live at St. Mary\u2019s Stadium",
       "venue": "St. Mary's Stadium",
       "time": "2026-08-22T14:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-vs-stoke-city-august-2026/"
+      "url": "https://hellosouthampton.co.uk/events/southampton-vs-stoke-city-august-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Daytime Clubbing at Medbar",
       "venue": "Medbar",
       "time": "2026-08-22T15:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/daytime-clubbing-at-medbar/"
+      "url": "https://hellosouthampton.co.uk/events/daytime-clubbing-at-medbar/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Olivia Holmes Live at Suburbia Southampton",
       "venue": "Suburbia Southampton",
       "time": "2026-08-22T17:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/olivia-holmes-live-at-suburbia-southampton/"
+      "url": "https://hellosouthampton.co.uk/events/olivia-holmes-live-at-suburbia-southampton/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Nickelback UK Live at The 1865",
       "venue": "The 1865",
       "time": "2026-08-22T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/nickelback-uk-live-at-the-1865/"
+      "url": "https://hellosouthampton.co.uk/events/nickelback-uk-live-at-the-1865/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Agro, Kre & Dilate Live at The Loft Southampton",
       "venue": "The Loft Southampton",
       "time": "2026-08-22T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/agro-kre-dilate-live-at-the-loft-southampton/"
+      "url": "https://hellosouthampton.co.uk/events/agro-kre-dilate-live-at-the-loft-southampton/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Klamp Live at Heartbreakers Southampton",
       "venue": "Heartbreakers",
       "time": "2026-08-22T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/klamp-live-at-heartbreakers-southampton/"
-    },
-    {
-      "title": "Southampton vs West Ham United: Carabao Cup 2026 2nd Round",
-      "venue": "St Mary's Stadium",
-      "time": "2026-08-22T18:45:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-vs-west-ham-united-carabao-cup-2026-2nd-round/"
+      "url": "https://hellosouthampton.co.uk/events/klamp-live-at-heartbreakers-southampton/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Strays (Indie & Emo Club Night) Live at Heartbreakers",
       "venue": "Heartbreakers",
       "time": "2026-08-22T21:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/strays-indie-emo-club-night-live-at-heartbreakers/"
+      "url": "https://hellosouthampton.co.uk/events/strays-indie-emo-club-night-live-at-heartbreakers/",
+      "source": "hellosouthampton"
     },
     {
-      "title": "The Big Pilgrimage 2026",
+      "title": "The Big Pilgrimage: 15 mile and marathon",
       "venue": "Mayflower Park",
-      "time": "2026-08-23T06:20:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-big-pilgrimage-2026/"
+      "time": "2026-08-23T00:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
+      "source": "visit_southampton",
+      "all_day": true
     },
     {
       "title": "Simply Aston Martin 2026",
       "venue": "National Motor Museum",
       "time": "2026-08-23T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/simply-aston-martin-2026/"
+      "url": "https://hellosouthampton.co.uk/events/simply-aston-martin-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Push & Play Hoglands 2026",
       "venue": "Hoglands Park",
       "time": "2026-08-23T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/push-play-hoglands-2026/"
+      "url": "https://hellosouthampton.co.uk/events/push-play-hoglands-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Family Fun Chocolate Making Workshop 2026",
       "venue": "Sir Harold Hillier Gardens",
       "time": "2026-08-23T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/family-fun-chocolate-making-workshop-2026/"
+      "url": "https://hellosouthampton.co.uk/events/family-fun-chocolate-making-workshop-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "KAPOW & SWF Wrestling Live at The Hobbit Pub 2026",
       "venue": "The Hobbit Pub",
       "time": "2026-08-23T13:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/kapow-swf-wrestling-live-at-the-hobbit-pub-2026/"
+      "url": "https://hellosouthampton.co.uk/events/kapow-swf-wrestling-live-at-the-hobbit-pub-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Solstice Live at The 1865",
       "venue": "The 1865",
       "time": "2026-08-23T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/solstice-live-at-the-1865/"
+      "url": "https://hellosouthampton.co.uk/events/solstice-live-at-the-1865/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Michael Cera Palin Live at Heartbreakers Southampton",
       "venue": "Heartbreakers",
       "time": "2026-08-23T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/michael-cera-palin-live-at-heartbreakers-southampton/"
+      "url": "https://hellosouthampton.co.uk/events/michael-cera-palin-live-at-heartbreakers-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Culture Clash III: Consultancy and CPD Skills Development",
+      "venue": "Online - Teams",
+      "time": "2026-08-25T12:30:00Z",
+      "url": "https://www.events.soton.ac.uk/",
+      "source": "university"
     },
     {
       "title": "Board & Video Games Group",
       "venue": "Board in the City CiC",
       "time": "2026-08-25T14:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/board-video-games-group/"
+      "url": "https://hellosouthampton.co.uk/events/board-video-games-group/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton vs West Ham United: Carabao Cup 2026 2nd Round",
+      "venue": "St Mary's Stadium",
+      "time": "2026-08-25T18:45:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-vs-west-ham-united-carabao-cup-2026-2nd-round/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Amateur Art & Craft Exhibition",
       "venue": "Colden Common Community Centre",
       "time": "2026-08-27T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/amateur-art-craft-exhibition/"
+      "url": "https://hellosouthampton.co.uk/events/amateur-art-craft-exhibition/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Exbury Festival of Music 2026",
       "venue": "\u200bExbury Gardens & Steam Railway",
       "time": "2026-08-27T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/exbury-festival-of-music-2026/"
+      "url": "https://hellosouthampton.co.uk/events/exbury-festival-of-music-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Royal Blood",
       "venue": "O2 Guildhall Southampton",
       "time": "2026-08-27T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/royal-blood/"
+      "url": "https://hellosouthampton.co.uk/events/royal-blood/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Lionfest 2026",
       "venue": "The Red Lion",
       "time": "2026-08-28T11:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/lionfest-2026/"
+      "url": "https://hellosouthampton.co.uk/events/lionfest-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "The Lion Inside at Mayflower Studios Southampton",
       "venue": "Mayflower Studios",
       "time": "2026-08-28T12:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-lion-inside-at-mayflower-studios-southampton/"
+      "url": "https://hellosouthampton.co.uk/events/the-lion-inside-at-mayflower-studios-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Otterfest 2026",
+      "venue": "The Otter Pub",
+      "time": "2026-08-28T17:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/otterfest-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Midnight Dynamite",
       "venue": "The Bugle Inn",
       "time": "2026-08-28T19:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/midnight-dynamite/"
+      "url": "https://hellosouthampton.co.uk/events/midnight-dynamite/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton Pride",
+      "venue": "Guildhall Square (FREE)",
+      "time": "2026-08-29T00:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
+      "source": "visit_southampton",
+      "all_day": true
     },
     {
       "title": "Eastleigh Summer Festival 2026",
       "venue": "Itchen Valley Country Park",
       "time": "2026-08-29T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/eastleigh-summer-festival-2026/"
+      "url": "https://hellosouthampton.co.uk/events/eastleigh-summer-festival-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Hampshire Card Show",
       "venue": "Novotel Southampton",
       "time": "2026-08-29T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/hampshire-card-show/"
-    },
-    {
-      "title": "Southampton Pride 2026",
-      "venue": "Guildhall Square",
-      "time": "2026-08-29T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-pride/"
+      "url": "https://hellosouthampton.co.uk/events/hampshire-card-show/",
+      "source": "hellosouthampton"
     },
     {
       "title": "I Was Always Here at Mayflower Studios Southampton",
       "venue": "Mayflower Studios",
       "time": "2026-08-29T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/i-was-always-here-at-mayflower-studios-southampton/"
+      "url": "https://hellosouthampton.co.uk/events/i-was-always-here-at-mayflower-studios-southampton/",
+      "source": "hellosouthampton"
     },
     {
       "title": "WEBfest 2026",
       "venue": "West End Brewery",
       "time": "2026-08-29T11:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/webfest-2026/"
+      "url": "https://hellosouthampton.co.uk/events/webfest-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Gumbofest 51 Rock and Metal Festival",
       "venue": "The Hobbit Pub",
       "time": "2026-08-29T12:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/gumbofest-51-rock-and-metal-festival/"
+      "url": "https://hellosouthampton.co.uk/events/gumbofest-51-rock-and-metal-festival/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Afterglow 2",
       "venue": "The Mailmans",
       "time": "2026-08-29T13:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/afterglow-2/"
+      "url": "https://hellosouthampton.co.uk/events/afterglow-2/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Southampton vs Millwall at St. Mary\u2019s Stadium: Sky Bet Championship 2026",
       "venue": "St. Mary's Stadium",
       "time": "2026-08-29T14:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-vs-millwall-at-st-marys-stadium-sky-bet-championship-2026/"
+      "url": "https://hellosouthampton.co.uk/events/southampton-vs-millwall-at-st-marys-stadium-sky-bet-championship-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Stage & Screen Orchestral Picnic Concert",
       "venue": "Sir Harold Hillier Gardens",
       "time": "2026-08-29T17:15:00Z",
-      "url": "https://hellosouthampton.co.uk/events/stage-screen-orchestral-picnic-concert/"
+      "url": "https://hellosouthampton.co.uk/events/stage-screen-orchestral-picnic-concert/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Time Tunnel Summer Party",
       "venue": "Papillon",
       "time": "2026-08-30T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/time-tunnel-summer-party/"
+      "url": "https://hellosouthampton.co.uk/events/time-tunnel-summer-party/",
+      "source": "hellosouthampton"
     },
     {
       "title": "High Tide Presents James Zabiela",
       "venue": "L Dot Studios",
       "time": "2026-08-30T21:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/high-tide-presents-james-zabiela/"
+      "url": "https://hellosouthampton.co.uk/events/high-tide-presents-james-zabiela/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Inflataplanet\u2019s BIG Bounce Tour Southampton 2026",
       "venue": "Riverside Park",
       "time": "2026-08-31T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/inflataplanets-big-bounce-tour-southampton-2026/"
+      "url": "https://hellosouthampton.co.uk/events/inflataplanets-big-bounce-tour-southampton-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Romsey Farmers\u2019 Market",
       "venue": "Alma Road Car Park",
       "time": "2026-09-06T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/romsey-farmers-market/"
+      "url": "https://hellosouthampton.co.uk/events/romsey-farmers-market/",
+      "source": "hellosouthampton"
     },
     {
-      "title": "Southampton Boat Show 2026",
+      "title": "Music In The City",
+      "venue": "city wide (locations TBC) (FREE)",
+      "time": "2026-09-12T00:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/music-in-the-city/260739101/",
+      "source": "visit_southampton",
+      "all_day": true
+    },
+    {
+      "title": "Purpose driven KEE: Using Theory of Change to shape activities",
+      "venue": "Online - Teams",
+      "time": "2026-09-15T11:00:00Z",
+      "url": "https://www.events.soton.ac.uk/",
+      "source": "university"
+    },
+    {
+      "title": "British Science Festival",
+      "venue": "city wide (locations TBC) (FREE)",
+      "time": "2026-09-16T00:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/british-science-festival/276319101/",
+      "source": "visit_southampton",
+      "all_day": true
+    },
+    {
+      "title": "Southampton International Boat Show",
       "venue": "Mayflower Park",
-      "time": "2026-09-18T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-boat-show/"
+      "time": "2026-09-18T00:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
+      "source": "visit_southampton",
+      "all_day": true
     },
     {
       "title": "Dash in the Dark Southampton 2026",
       "venue": "Southampton Common",
       "time": "2026-09-19T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/dash-in-the-dark-southampton/"
+      "url": "https://hellosouthampton.co.uk/events/dash-in-the-dark-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "KEE Ideas Lab II",
+      "venue": "In-Person",
+      "time": "2026-09-29T12:30:00Z",
+      "url": "https://www.events.soton.ac.uk/",
+      "source": "university"
+    },
+    {
+      "title": "Shine Night Walk",
+      "venue": "Guildhall Square",
+      "time": "2026-10-09T00:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
+      "source": "visit_southampton",
+      "all_day": true
+    },
+    {
+      "title": "RYA Sea Survival",
+      "venue": "Jubilee Sports Centre",
+      "time": "2026-10-11T08:00:00Z",
+      "url": "https://www.events.soton.ac.uk/",
+      "source": "university"
+    },
+    {
+      "title": "Introduction to Enterprise: How to make money from your research",
+      "venue": "Online - Teams",
+      "time": "2026-10-13T11:00:00Z",
+      "url": "https://www.events.soton.ac.uk/",
+      "source": "university"
+    },
+    {
+      "title": "Oktoberfest",
+      "venue": "Guildhall Square",
+      "time": "2026-10-23T00:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
+      "source": "visit_southampton",
+      "all_day": true
+    },
+    {
+      "title": "Enterprise and Growth I: Creative approaches to funding and sustaining KEE work",
+      "venue": "Online - Teams",
+      "time": "2026-10-27T13:30:00Z",
+      "url": "https://www.events.soton.ac.uk/",
+      "source": "university"
+    },
+    {
+      "title": "Southampton Fireworks display",
+      "venue": "Mayflower Park",
+      "time": "2026-11-07T00:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
+      "source": "visit_southampton",
+      "all_day": true
+    },
+    {
+      "title": "KE and Career Development: What\u00e2\u0080\u0099s in it for you?",
+      "venue": "Online - Teams",
+      "time": "2026-11-10T12:00:00Z",
+      "url": "https://www.events.soton.ac.uk/",
+      "source": "university"
+    },
+    {
+      "title": "Southampton Christmas Market",
+      "venue": "city centre (FREE)",
+      "time": "2026-11-12T00:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
+      "source": "visit_southampton",
+      "all_day": true
+    },
+    {
+      "title": "Southampton Film Week",
+      "venue": "Citywide",
+      "time": "2026-11-13T00:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
+      "source": "visit_southampton",
+      "all_day": true
+    },
+    {
+      "title": "Mo Run",
+      "venue": "Southampton Common",
+      "time": "2026-11-15T00:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/the-southampton-1-5k-5k-10k-%26-half-marathon-morun/283533101/",
+      "source": "visit_southampton",
+      "all_day": true
+    },
+    {
+      "title": "Enterprise and Growth II: Pitching and bidding",
+      "venue": "Online - Teams",
+      "time": "2026-11-24T13:30:00Z",
+      "url": "https://www.events.soton.ac.uk/",
+      "source": "university"
+    },
+    {
+      "title": "KE and REF: Pathways to impact",
+      "venue": "Online - Teams",
+      "time": "2026-12-08T12:00:00Z",
+      "url": "https://www.events.soton.ac.uk/",
+      "source": "university"
+    },
+    {
+      "title": "Enterprise and Growth III: Sharing our knowledge - Copyright and IP Masterclass",
+      "venue": "Online - Teams",
+      "time": "2026-12-08T13:30:00Z",
+      "url": "https://www.events.soton.ac.uk/",
+      "source": "university"
     }
   ]
 }

@@ -310,7 +310,7 @@ const FEEDS = {
               <tr>
                 <th scope="row"><a href="${e.url}" target="_blank" rel="noopener noreferrer">${e.title}</a></th>
                 <td>${e.venue || '—'}</td>
-                <td>${formatTime(e.time)}</td>
+                <td>${e.all_day ? 'All day' : formatTime(e.time)}</td>
               </tr>
             `).join('')}
           </tbody>
@@ -318,7 +318,7 @@ const FEEDS = {
         elements.push(table);
       }
 
-      pushFetchedAt(elements, data, 'hellosouthampton.co.uk');
+      pushFetchedAt(elements, data, 'hellosouthampton.co.uk, University of Southampton and Visit Southampton');
 
       container.replaceChildren(...elements);
     },

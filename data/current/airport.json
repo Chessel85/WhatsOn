@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T21:21:27+00:00",
+  "fetched_at": "2026-08-22T21:46:47+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -154,19 +154,18 @@
       "status": "Scheduled",
       "from": "Edinburgh",
       "from_code": "EDI"
+    },
+    {
+      "time": "2026-08-23T10:40:00",
+      "scheduled_time": "2026-08-23T10:40:00",
+      "flight_number": "GR501",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "from": "Alderney",
+      "from_code": "ACI"
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-22T16:45:00",
-      "scheduled_time": "2026-08-22T16:45:00",
-      "flight_number": "EI3607",
-      "airline": "Aer Lingus",
-      "status": "Airborne 16:42",
-      "to": "Belfast City",
-      "to_code": "BHD",
-      "check_in_desk": "08-09"
-    },
     {
       "time": "2026-08-22T17:20:00",
       "scheduled_time": "2026-08-22T17:20:00",

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T08:29:53+00:00",
+  "fetched_at": "2026-08-22T08:59:51+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -61,7 +61,7 @@
       "scheduled_time": "2026-08-22T09:45:00",
       "flight_number": "LM321",
       "airline": "Loganair",
-      "status": "Arrived 09:25",
+      "status": "Arrived 09:25. Bags at carousel 3",
       "from": "Edinburgh",
       "from_code": "EDI"
     },
@@ -275,7 +275,7 @@
       "scheduled_time": "2026-08-22T09:15:00",
       "flight_number": "KL1070",
       "airline": "KLM",
-      "status": "Gate Closed",
+      "status": "Airborne 09:26",
       "to": "Amsterdam",
       "to_code": "AMS",
       "check_in_desk": "12-13"
@@ -295,7 +295,7 @@
       "scheduled_time": "2026-08-22T10:15:00",
       "flight_number": "LM322",
       "airline": "Loganair",
-      "status": "Check In Open  Desks 14-15",
+      "status": "Final Call to Gate 8",
       "to": "Edinburgh",
       "to_code": "EDI",
       "check_in_desk": "14-15"
@@ -305,10 +305,10 @@
       "scheduled_time": "2026-08-22T11:20:00",
       "flight_number": "GR502",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 16-17",
       "to": "Alderney",
       "to_code": "ACI",
-      "check_in_desk": null
+      "check_in_desk": "16-17"
     },
     {
       "time": "2026-08-22T12:15:00",

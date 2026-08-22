@@ -1,25 +1,7 @@
 {
-  "fetched_at": "2026-08-22T23:20:26+00:00",
+  "fetched_at": "2026-08-22T23:45:52+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-22T18:10:00",
-      "scheduled_time": "2026-08-22T18:10:00",
-      "flight_number": "EJU4915",
-      "airline": "easyJet",
-      "status": "Arrived 18:40. Bags at carousel 2",
-      "from": "Paris Orly",
-      "from_code": "ORY"
-    },
-    {
-      "time": "2026-08-22T18:35:00",
-      "scheduled_time": "2026-08-22T18:35:00",
-      "flight_number": "LM325",
-      "airline": "Loganair",
-      "status": "Arrived 18:30. Bags at carousel 3",
-      "from": "Edinburgh",
-      "from_code": "EDI"
-    },
     {
       "time": "2026-08-22T19:10:00",
       "scheduled_time": "2026-08-22T19:10:00",
@@ -157,16 +139,6 @@
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-22T17:30:00",
-      "scheduled_time": "2026-08-22T17:30:00",
-      "flight_number": "KL1072",
-      "airline": "KLM",
-      "status": "Airborne 18:20",
-      "to": "Amsterdam",
-      "to_code": "AMS",
-      "check_in_desk": "12-13"
-    },
     {
       "time": "2026-08-22T18:50:00",
       "scheduled_time": "2026-08-22T18:50:00",
@@ -316,18 +288,29 @@
       "to": "Alderney",
       "to_code": "ACI",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-23T12:35:00",
+      "scheduled_time": "2026-08-23T12:35:00",
+      "flight_number": "EZY142",
+      "airline": "easyJet",
+      "status": "Scheduled",
+      "to": "Belfast Intl",
+      "to_code": "BFS",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-23T12:35:00",
+      "scheduled_time": "2026-08-23T12:35:00",
+      "flight_number": "EI3605",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "to": "Belfast City",
+      "to_code": "BHD",
+      "check_in_desk": null
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "EJU4915",
-      "arrival_time": "2026-08-22T18:10:00",
-      "arrival_from": "Paris Orly",
-      "departure_flight_number": "EJU4916",
-      "departure_time": "2026-08-22T18:50:00",
-      "departure_to": "Paris Orly",
-      "turnaround_minutes": 40
-    },
     {
       "arrival_flight_number": "EI3608",
       "arrival_time": "2026-08-22T19:10:00",
@@ -419,13 +402,13 @@
       "turnaround_minutes": 30
     },
     {
-      "arrival_flight_number": "LM325",
-      "arrival_time": "2026-08-22T18:35:00",
+      "arrival_flight_number": "LM321",
+      "arrival_time": "2026-08-23T09:45:00",
       "arrival_from": "Edinburgh",
       "departure_flight_number": "LM322",
       "departure_time": "2026-08-23T10:15:00",
       "departure_to": "Edinburgh",
-      "turnaround_minutes": 940
+      "turnaround_minutes": 30
     },
     {
       "arrival_flight_number": "GR501",
@@ -435,6 +418,24 @@
       "departure_time": "2026-08-23T11:20:00",
       "departure_to": "Alderney",
       "turnaround_minutes": 40
+    },
+    {
+      "arrival_flight_number": "EZY141",
+      "arrival_time": "2026-08-23T12:05:00",
+      "arrival_from": "Belfast Intl",
+      "departure_flight_number": "EZY142",
+      "departure_time": "2026-08-23T12:35:00",
+      "departure_to": "Belfast Intl",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EI3604",
+      "arrival_time": "2026-08-23T12:05:00",
+      "arrival_from": "Belfast City",
+      "departure_flight_number": "EI3605",
+      "departure_time": "2026-08-23T12:35:00",
+      "departure_to": "Belfast City",
+      "turnaround_minutes": 30
     }
   ]
 }

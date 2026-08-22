@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T20:11:09+00:00",
+  "fetched_at": "2026-08-22T00:27:44+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -557,6 +557,86 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9438066",
         "cruisemapper_url": null,
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MARINA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "IONA",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-09-05",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-05",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9826548",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Iona-1858",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=IONA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "MSC VIRTUOSA",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-09-05",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-05",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9803625",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/MSC-Virtuosa-1981",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MSC%20VIRTUOSA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "QUEEN MARY 2",
+      "berth": "38/9",
+      "arrival": {
+        "date": "2026-09-05",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-05",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9241061",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Queen-Mary-2-721",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=QUEEN%20MARY%202%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "VENTURA",
+      "berth": "106",
+      "arrival": {
+        "date": "2026-09-05",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-05",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9333175",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Ventura-669",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=VENTURA%20cruise%20ship"
       }
     }
   ]

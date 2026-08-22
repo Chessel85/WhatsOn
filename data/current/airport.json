@@ -1,16 +1,7 @@
 {
-  "fetched_at": "2026-08-22T20:49:31+00:00",
+  "fetched_at": "2026-08-22T21:21:27+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-22T16:15:00",
-      "scheduled_time": "2026-08-22T16:15:00",
-      "flight_number": "EI3606",
-      "airline": "Aer Lingus",
-      "status": "Arrived 16:01. Bags at carousel 3",
-      "from": "Belfast City",
-      "from_code": "BHD"
-    },
     {
       "time": "2026-08-22T16:50:00",
       "scheduled_time": "2026-08-22T16:50:00",
@@ -305,18 +296,39 @@
       "to": "Jersey",
       "to_code": "JER",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-23T10:00:00",
+      "scheduled_time": "2026-08-23T10:00:00",
+      "flight_number": "EZY416",
+      "airline": "easyJet",
+      "status": "Scheduled",
+      "to": "Glasgow",
+      "to_code": "GLA",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-23T10:00:00",
+      "scheduled_time": "2026-08-23T10:00:00",
+      "flight_number": "GR655",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "to": "Guernsey",
+      "to_code": "GCI",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-23T10:15:00",
+      "scheduled_time": "2026-08-23T10:15:00",
+      "flight_number": "LM322",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "to": "Edinburgh",
+      "to_code": "EDI",
+      "check_in_desk": null
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "EI3606",
-      "arrival_time": "2026-08-22T16:15:00",
-      "arrival_from": "Belfast City",
-      "departure_flight_number": "EI3607",
-      "departure_time": "2026-08-22T16:45:00",
-      "departure_to": "Belfast City",
-      "turnaround_minutes": 30
-    },
     {
       "arrival_flight_number": "EI3304",
       "arrival_time": "2026-08-22T16:50:00",
@@ -424,6 +436,33 @@
       "departure_time": "2026-08-23T09:40:00",
       "departure_to": "Jersey",
       "turnaround_minutes": 740
+    },
+    {
+      "arrival_flight_number": "EZY415",
+      "arrival_time": "2026-08-23T09:25:00",
+      "arrival_from": "Glasgow",
+      "departure_flight_number": "EZY416",
+      "departure_time": "2026-08-23T10:00:00",
+      "departure_to": "Glasgow",
+      "turnaround_minutes": 35
+    },
+    {
+      "arrival_flight_number": "GR654",
+      "arrival_time": "2026-08-23T09:30:00",
+      "arrival_from": "Guernsey",
+      "departure_flight_number": "GR655",
+      "departure_time": "2026-08-23T10:00:00",
+      "departure_to": "Guernsey",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "LM325",
+      "arrival_time": "2026-08-22T18:35:00",
+      "arrival_from": "Edinburgh",
+      "departure_flight_number": "LM322",
+      "departure_time": "2026-08-23T10:15:00",
+      "departure_to": "Edinburgh",
+      "turnaround_minutes": 940
     }
   ]
 }

@@ -405,7 +405,7 @@ const FEEDS = {
         const li = document.createElement('li');
         const next = club.fixtures[0];
         li.textContent = next
-          ? `${club.name}: vs ${next.opponent} (${next.home_away === 'home' ? 'H' : 'A'}), ${formatDayHeading(localDateKey(new Date(next.date)))}, ${formatVenue(next.venue)}`
+          ? `${club.name}: vs ${next.opponent} (${next.home_away === 'home' ? 'H' : 'A'}), ${formatDayHeading(localDateKey(new Date(next.date)))}, ${formatTime(next.date)} kick-off, ${formatVenue(next.venue)}`
           : `${club.name}: no upcoming fixtures found.`;
         return li;
       });
@@ -430,7 +430,7 @@ const FEEDS = {
           <caption>${club.name} — fixtures (next ${data.lookahead_days} days)</caption>
           <thead>
             <tr>
-              <th scope="col">Date</th>
+              <th scope="col">Kick-off</th>
               <th scope="col">Opponent</th>
               <th scope="col">Venue</th>
               <th scope="col">Competition</th>

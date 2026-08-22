@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T15:20:19+00:00",
+  "fetched_at": "2026-08-22T15:46:50+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -79,7 +79,7 @@
       "scheduled_time": "2026-08-22T17:00:00",
       "flight_number": "KL1071",
       "airline": "KLM",
-      "status": "Scheduled",
+      "status": "Expected 17:00",
       "from": "Amsterdam",
       "from_code": "AMS"
     },
@@ -223,7 +223,7 @@
       "scheduled_time": "2026-08-22T16:45:00",
       "flight_number": "EI3607",
       "airline": "Aer Lingus",
-      "status": "Gate Closed",
+      "status": "Departed 16:33",
       "to": "Belfast City",
       "to_code": "BHD",
       "check_in_desk": "08-09"

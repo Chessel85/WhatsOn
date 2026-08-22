@@ -1,16 +1,7 @@
 {
-  "fetched_at": "2026-08-22T02:34:35+00:00",
+  "fetched_at": "2026-08-22T03:41:10+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-21T19:30:00",
-      "scheduled_time": "2026-08-21T19:30:00",
-      "flight_number": "EI3308",
-      "airline": "Aer Lingus",
-      "status": "Arrived 21:54. Bags at carousel 2",
-      "from": "Dublin",
-      "from_code": "DUB"
-    },
     {
       "time": "2026-08-22T07:20:00",
       "scheduled_time": "2026-08-22T07:20:00",
@@ -136,19 +127,18 @@
       "status": "Scheduled",
       "from": "Alderney",
       "from_code": "ACI"
+    },
+    {
+      "time": "2026-08-22T16:15:00",
+      "scheduled_time": "2026-08-22T16:15:00",
+      "flight_number": "EI3606",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "from": "Belfast City",
+      "from_code": "BHD"
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-21T20:00:00",
-      "scheduled_time": "2026-08-21T20:00:00",
-      "flight_number": "EI3309",
-      "airline": "Aer Lingus",
-      "status": "Airborne 22:32",
-      "to": "Dublin",
-      "to_code": "DUB",
-      "check_in_desk": "08-09"
-    },
     {
       "time": "2026-08-22T07:50:00",
       "scheduled_time": "2026-08-22T07:50:00",
@@ -288,18 +278,19 @@
       "to": "Guernsey",
       "to_code": "GCI",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-22T15:45:00",
+      "scheduled_time": "2026-08-22T15:45:00",
+      "flight_number": "GR506",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "to": "Alderney",
+      "to_code": "ACI",
+      "check_in_desk": null
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "EI3308",
-      "arrival_time": "2026-08-21T19:30:00",
-      "arrival_from": "Dublin",
-      "departure_flight_number": "EI3309",
-      "departure_time": "2026-08-21T20:00:00",
-      "departure_to": "Dublin",
-      "turnaround_minutes": 30
-    },
     {
       "arrival_flight_number": "EZY415",
       "arrival_time": "2026-08-22T07:20:00",
@@ -406,6 +397,15 @@
       "departure_flight_number": "GR657",
       "departure_time": "2026-08-22T15:15:00",
       "departure_to": "Guernsey",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "GR505",
+      "arrival_time": "2026-08-22T15:15:00",
+      "arrival_from": "Alderney",
+      "departure_flight_number": "GR506",
+      "departure_time": "2026-08-22T15:45:00",
+      "departure_to": "Alderney",
       "turnaround_minutes": 30
     }
   ]

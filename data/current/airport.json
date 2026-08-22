@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T09:35:32+00:00",
+  "fetched_at": "2026-08-22T10:22:43+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -70,7 +70,7 @@
       "scheduled_time": "2026-08-22T10:40:00",
       "flight_number": "GR501",
       "airline": "Aurigny",
-      "status": "Arrived 10:12",
+      "status": "Arrived 10:12. Bags at carousel 2",
       "from": "Alderney",
       "from_code": "ACI"
     },
@@ -79,7 +79,7 @@
       "scheduled_time": "2026-08-22T11:45:00",
       "flight_number": "EZY141",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Expected 11:45",
       "from": "Belfast Intl",
       "from_code": "BFS"
     },
@@ -88,7 +88,7 @@
       "scheduled_time": "2026-08-22T12:05:00",
       "flight_number": "EI3604",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Expected 12:05",
       "from": "Belfast City",
       "from_code": "BHD"
     },
@@ -305,7 +305,7 @@
       "scheduled_time": "2026-08-22T11:20:00",
       "flight_number": "GR502",
       "airline": "Aurigny",
-      "status": "Boarding at Gate 8",
+      "status": "Airborne 10:53",
       "to": "Alderney",
       "to_code": "ACI",
       "check_in_desk": "16-17"

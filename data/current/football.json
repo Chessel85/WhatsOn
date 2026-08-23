@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T06:56:32+00:00",
+  "fetched_at": "2026-08-23T06:57:27+00:00",
   "source": "ESPN",
   "lookahead_days": 90,
   "clubs": [
@@ -7,13 +7,6 @@
       "id": "southampton",
       "name": "Southampton FC",
       "fixtures": [
-        {
-          "date": "2026-08-22T14:00Z",
-          "opponent": "Stoke City",
-          "home_away": "home",
-          "venue": "St. Mary's Stadium",
-          "competition": "Championship"
-        },
         {
           "date": "2026-08-25T18:45Z",
           "opponent": "West Ham United",
@@ -111,6 +104,13 @@
           "home_away": "away",
           "venue": "Deepdale",
           "competition": "Championship"
+        },
+        {
+          "date": "2026-11-21T12:30Z",
+          "opponent": "Derby County",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
         }
       ]
     },
@@ -187,6 +187,13 @@
           "home_away": "away",
           "venue": "Portman Road",
           "competition": "Premier League"
+        },
+        {
+          "date": "2026-11-21T15:00Z",
+          "opponent": "Nottingham Forest",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
         }
       ]
     },
@@ -194,13 +201,6 @@
       "id": "eastleigh",
       "name": "Eastleigh FC",
       "fixtures": [
-        {
-          "date": "2026-08-22T11:30Z",
-          "opponent": "Scunthorpe United",
-          "home_away": "home",
-          "venue": "Silverlake Stadium",
-          "competition": "National League"
-        },
         {
           "date": "2026-08-28T18:45Z",
           "opponent": "Hartlepool United",
@@ -268,7 +268,7 @@
           "date": "2026-10-10T14:00Z",
           "opponent": "AFC Hornchurch",
           "home_away": "away",
-          "venue": null,
+          "venue": "Hornchurch Stadium",
           "competition": "National League"
         },
         {
@@ -297,6 +297,13 @@
           "opponent": "AFC Fylde",
           "home_away": "home",
           "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-11-21T12:30Z",
+          "opponent": "Tamworth",
+          "home_away": "away",
+          "venue": "The Lamb Ground",
           "competition": "National League"
         }
       ]

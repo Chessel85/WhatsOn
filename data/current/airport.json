@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-23T19:48:35+00:00",
+  "fetched_at": "2026-08-23T20:22:06+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-23T14:30:00",
-      "scheduled_time": "2026-08-23T14:30:00",
-      "flight_number": "LM325",
-      "airline": "Loganair",
-      "status": "Arrived 14:40. Bags at carousel 3",
-      "distance_miles": null,
-      "from": "Edinburgh",
-      "from_code": "EDI"
-    },
-    {
-      "time": "2026-08-23T14:45:00",
-      "scheduled_time": "2026-08-23T14:45:00",
-      "flight_number": "GR656",
-      "airline": "Aurigny",
-      "status": "Arrived 15:06. Bags at carousel 2",
-      "distance_miles": null,
-      "from": "Guernsey",
-      "from_code": "GCI"
-    },
-    {
-      "time": "2026-08-23T15:15:00",
-      "scheduled_time": "2026-08-23T15:15:00",
-      "flight_number": "GR505",
-      "airline": "Aurigny",
-      "status": "Arrived 15:09. Bags at carousel 2",
-      "distance_miles": null,
-      "from": "Alderney",
-      "from_code": "ACI"
-    },
     {
       "time": "2026-08-23T15:45:00",
       "scheduled_time": "2026-08-23T15:45:00",
@@ -117,7 +87,7 @@
       "scheduled_time": "2026-08-23T21:05:00",
       "flight_number": "LM539",
       "airline": "Loganair",
-      "status": "Expected 21:05",
+      "status": "Arrived 20:49",
       "distance_miles": null,
       "from": "Newcastle",
       "from_code": "NCL"
@@ -171,20 +141,29 @@
       "distance_miles": null,
       "from": "Belfast City",
       "from_code": "BHD"
+    },
+    {
+      "time": "2026-08-24T08:40:00",
+      "scheduled_time": "2026-08-24T08:40:00",
+      "flight_number": "EI3300",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Dublin",
+      "from_code": "DUB"
+    },
+    {
+      "time": "2026-08-24T08:45:00",
+      "scheduled_time": "2026-08-24T08:45:00",
+      "flight_number": "KL1069",
+      "airline": "KLM",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Amsterdam",
+      "from_code": "AMS"
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-23T14:35:00",
-      "scheduled_time": "2026-08-23T14:35:00",
-      "flight_number": "LM540",
-      "airline": "Loganair",
-      "status": "Airborne 14:43",
-      "distance_miles": null,
-      "to": "Newcastle",
-      "to_code": "NCL",
-      "check_in_desk": "14-15"
-    },
     {
       "time": "2026-08-23T15:00:00",
       "scheduled_time": "2026-08-23T15:00:00",
@@ -300,8 +279,8 @@
       "scheduled_time": "2026-08-23T20:50:00",
       "flight_number": "LM328",
       "airline": "Loganair",
-      "status": "Gate Closed",
-      "distance_miles": null,
+      "status": "Airborne 20:40",
+      "distance_miles": 179.9,
       "to": "Edinburgh",
       "to_code": "EDI",
       "check_in_desk": "14-15"
@@ -327,36 +306,53 @@
       "to": "Jersey",
       "to_code": "JER",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-24T08:50:00",
+      "scheduled_time": "2026-08-24T08:50:00",
+      "flight_number": "EZY416",
+      "airline": "easyJet",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Glasgow",
+      "to_code": "GLA",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-24T08:55:00",
+      "scheduled_time": "2026-08-24T08:55:00",
+      "flight_number": "LM322",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Edinburgh",
+      "to_code": "EDI",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-24T08:55:00",
+      "scheduled_time": "2026-08-24T08:55:00",
+      "flight_number": "EI3601",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Belfast City",
+      "to_code": "BHD",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-24T09:15:00",
+      "scheduled_time": "2026-08-24T09:15:00",
+      "flight_number": "KL1070",
+      "airline": "KLM",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Amsterdam",
+      "to_code": "AMS",
+      "check_in_desk": null
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "LM325",
-      "arrival_time": "2026-08-23T14:30:00",
-      "arrival_from": "Edinburgh",
-      "departure_flight_number": "LM326",
-      "departure_time": "2026-08-23T15:00:00",
-      "departure_to": "Edinburgh",
-      "turnaround_minutes": 30
-    },
-    {
-      "arrival_flight_number": "GR656",
-      "arrival_time": "2026-08-23T14:45:00",
-      "arrival_from": "Guernsey",
-      "departure_flight_number": "GR657",
-      "departure_time": "2026-08-23T15:15:00",
-      "departure_to": "Guernsey",
-      "turnaround_minutes": 30
-    },
-    {
-      "arrival_flight_number": "GR505",
-      "arrival_time": "2026-08-23T15:15:00",
-      "arrival_from": "Alderney",
-      "departure_flight_number": "GR506",
-      "departure_time": "2026-08-23T15:45:00",
-      "departure_to": "Alderney",
-      "turnaround_minutes": 30
-    },
     {
       "arrival_flight_number": "EI3606",
       "arrival_time": "2026-08-23T15:45:00",
@@ -445,6 +441,42 @@
       "departure_flight_number": "LM552",
       "departure_time": "2026-08-24T08:25:00",
       "departure_to": "Jersey",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EZY415",
+      "arrival_time": "2026-08-24T08:20:00",
+      "arrival_from": "Glasgow",
+      "departure_flight_number": "EZY416",
+      "departure_time": "2026-08-24T08:50:00",
+      "departure_to": "Glasgow",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "LM321",
+      "arrival_time": "2026-08-24T08:25:00",
+      "arrival_from": "Edinburgh",
+      "departure_flight_number": "LM322",
+      "departure_time": "2026-08-24T08:55:00",
+      "departure_to": "Edinburgh",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EI3600",
+      "arrival_time": "2026-08-24T08:25:00",
+      "arrival_from": "Belfast City",
+      "departure_flight_number": "EI3601",
+      "departure_time": "2026-08-24T08:55:00",
+      "departure_to": "Belfast City",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "KL1069",
+      "arrival_time": "2026-08-24T08:45:00",
+      "arrival_from": "Amsterdam",
+      "departure_flight_number": "KL1070",
+      "departure_time": "2026-08-24T09:15:00",
+      "departure_to": "Amsterdam",
       "turnaround_minutes": 30
     }
   ]

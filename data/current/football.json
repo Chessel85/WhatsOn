@@ -1,11 +1,25 @@
 {
-  "fetched_at": "2026-08-23T06:57:27+00:00",
+  "fetched_at": "2026-08-23T13:29:28+00:00",
   "source": "ESPN",
-  "lookahead_days": 90,
+  "season_start": "2026-08-01",
+  "season_end": "2027-07-31",
   "clubs": [
     {
       "id": "southampton",
       "name": "Southampton FC",
+      "league": {
+        "competition": "Championship",
+        "position": 24,
+        "points": -1,
+        "played": 2,
+        "remaining": 44
+      },
+      "cups": [
+        {
+          "competition": "EFL Cup",
+          "status": "in_progress"
+        }
+      ],
       "fixtures": [
         {
           "date": "2026-08-25T18:45Z",
@@ -111,20 +125,263 @@
           "home_away": "home",
           "venue": "St. Mary's Stadium",
           "competition": "Championship"
+        },
+        {
+          "date": "2026-11-24T19:45Z",
+          "opponent": "Sheffield United",
+          "home_away": "away",
+          "venue": "Bramall Lane",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-11-27T20:00Z",
+          "opponent": "Middlesbrough",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-12-05T15:00Z",
+          "opponent": "Wolverhampton Wanderers",
+          "home_away": "away",
+          "venue": "Molineux Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-12-09T20:00Z",
+          "opponent": "Burnley",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-12-12T15:00Z",
+          "opponent": "Cardiff City",
+          "home_away": "away",
+          "venue": "Cardiff City Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-12-19T15:00Z",
+          "opponent": "Blackburn Rovers",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-12-26T15:00Z",
+          "opponent": "Charlton Athletic",
+          "home_away": "away",
+          "venue": "The Valley",
+          "competition": "Championship"
+        },
+        {
+          "date": "2026-12-29T20:15Z",
+          "opponent": "West Ham United",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-01-01T15:00Z",
+          "opponent": "Cardiff City",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-01-16T15:00Z",
+          "opponent": "Bolton Wanderers",
+          "home_away": "away",
+          "venue": "Toughsheet Community Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-01-23T15:00Z",
+          "opponent": "Queens Park Rangers",
+          "home_away": "away",
+          "venue": "MATRADE Loftus Road",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-01-26T19:45Z",
+          "opponent": "West Bromwich Albion",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-01-30T15:00Z",
+          "opponent": "Preston North End",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-02-06T15:00Z",
+          "opponent": "Derby County",
+          "home_away": "away",
+          "venue": "Pride Park",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-02-13T15:00Z",
+          "opponent": "Bristol City",
+          "home_away": "away",
+          "venue": "Ashton Gate",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-02-17T19:45Z",
+          "opponent": "Norwich City",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-02-20T15:00Z",
+          "opponent": "Wrexham",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-02-28T12:00Z",
+          "opponent": "Portsmouth",
+          "home_away": "away",
+          "venue": "Fratton Park",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-03-03T19:45Z",
+          "opponent": "Stoke City",
+          "home_away": "away",
+          "venue": "bet365 Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-03-06T15:00Z",
+          "opponent": "Watford",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-03-13T15:00Z",
+          "opponent": "Middlesbrough",
+          "home_away": "away",
+          "venue": "Riverside Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-03-16T19:45Z",
+          "opponent": "Wolverhampton Wanderers",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-03-20T15:00Z",
+          "opponent": "Charlton Athletic",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-04-03T14:00Z",
+          "opponent": "Blackburn Rovers",
+          "home_away": "away",
+          "venue": "Ewood Park",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-04-06T18:45Z",
+          "opponent": "Swansea City",
+          "home_away": "away",
+          "venue": "Swansea.com Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-04-10T14:00Z",
+          "opponent": "Lincoln City",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-04-17T14:00Z",
+          "opponent": "Millwall",
+          "home_away": "away",
+          "venue": "The Den",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-04-20T18:45Z",
+          "opponent": "Birmingham City",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-04-24T14:00Z",
+          "opponent": "Burnley",
+          "home_away": "away",
+          "venue": "Turf Moor",
+          "competition": "Championship"
+        },
+        {
+          "date": "2027-05-01T11:30Z",
+          "opponent": "Sheffield United",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship"
+        }
+      ],
+      "past_results": [
+        {
+          "date": "2026-08-08T16:30Z",
+          "opponent": "Colchester United",
+          "home_away": "away",
+          "venue": "JobServe Community Stadium",
+          "competition": "EFL Cup",
+          "goals_for": 2,
+          "goals_against": 0,
+          "outcome": "W"
+        },
+        {
+          "date": "2026-08-16T12:30Z",
+          "opponent": "Watford",
+          "home_away": "away",
+          "venue": "Vicarage Road",
+          "competition": "Championship",
+          "goals_for": 1,
+          "goals_against": 2,
+          "outcome": "L"
+        },
+        {
+          "date": "2026-08-22T14:00Z",
+          "opponent": "Stoke City",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship",
+          "goals_for": 3,
+          "goals_against": 1,
+          "outcome": "W"
         }
       ]
     },
     {
       "id": "bournemouth",
       "name": "AFC Bournemouth",
+      "league": {
+        "competition": "Premier League",
+        "position": 8,
+        "points": 0,
+        "played": 0,
+        "remaining": 37
+      },
+      "cups": [],
       "fixtures": [
-        {
-          "date": "2026-08-23T13:00Z",
-          "opponent": "Manchester City",
-          "home_away": "away",
-          "venue": "Etihad Stadium",
-          "competition": "Premier League"
-        },
         {
           "date": "2026-08-29T14:00Z",
           "opponent": "Everton",
@@ -194,12 +451,210 @@
           "home_away": "home",
           "venue": "Vitality Stadium",
           "competition": "Premier League"
+        },
+        {
+          "date": "2026-11-28T15:00Z",
+          "opponent": "Fulham",
+          "home_away": "away",
+          "venue": "Craven Cottage",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2026-12-02T20:00Z",
+          "opponent": "Brighton & Hove Albion",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2026-12-05T15:00Z",
+          "opponent": "Hull City",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2026-12-12T15:00Z",
+          "opponent": "Arsenal",
+          "home_away": "away",
+          "venue": "Emirates Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2026-12-19T15:00Z",
+          "opponent": "Coventry City",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2026-12-26T15:00Z",
+          "opponent": "Tottenham Hotspur",
+          "home_away": "away",
+          "venue": "Tottenham Hotspur Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2026-12-30T20:00Z",
+          "opponent": "Crystal Palace",
+          "home_away": "away",
+          "venue": "Selhurst Park",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-01-02T15:00Z",
+          "opponent": "Aston Villa",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-01-06T20:00Z",
+          "opponent": "Brighton & Hove Albion",
+          "home_away": "away",
+          "venue": "American Express Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-01-16T15:00Z",
+          "opponent": "Ipswich Town",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-01-23T15:00Z",
+          "opponent": "Nottingham Forest",
+          "home_away": "away",
+          "venue": "The City Ground",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-01-30T15:00Z",
+          "opponent": "Fulham",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-02-06T15:00Z",
+          "opponent": "Leeds United",
+          "home_away": "away",
+          "venue": "Elland Road",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-02-10T20:00Z",
+          "opponent": "Aston Villa",
+          "home_away": "away",
+          "venue": "Villa Park",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-02-20T15:00Z",
+          "opponent": "Crystal Palace",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-02-27T15:00Z",
+          "opponent": "Coventry City",
+          "home_away": "away",
+          "venue": "Coventry Building Society Arena",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-03-03T20:00Z",
+          "opponent": "Tottenham Hotspur",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-03-13T15:00Z",
+          "opponent": "Newcastle United",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-03-20T15:00Z",
+          "opponent": "Brentford",
+          "home_away": "away",
+          "venue": "Gtech Community Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-04-10T14:00Z",
+          "opponent": "Manchester City",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-04-17T14:00Z",
+          "opponent": "Everton",
+          "home_away": "away",
+          "venue": "Hill Dickinson Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-04-24T14:00Z",
+          "opponent": "Arsenal",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-05-01T14:00Z",
+          "opponent": "Hull City",
+          "home_away": "away",
+          "venue": "The MKM Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-05-08T14:00Z",
+          "opponent": "Manchester United",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-05-15T14:00Z",
+          "opponent": "Sunderland",
+          "home_away": "away",
+          "venue": "Stadium of Light",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-05-23T14:00Z",
+          "opponent": "Chelsea",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League"
+        },
+        {
+          "date": "2027-05-30T15:00Z",
+          "opponent": "Liverpool",
+          "home_away": "away",
+          "venue": "Anfield",
+          "competition": "Premier League"
         }
-      ]
+      ],
+      "past_results": []
     },
     {
       "id": "eastleigh",
       "name": "Eastleigh FC",
+      "league": {
+        "competition": "National League",
+        "position": 8,
+        "points": 6,
+        "played": 3,
+        "remaining": 43
+      },
+      "cups": [],
       "fixtures": [
         {
           "date": "2026-08-28T18:45Z",
@@ -305,6 +760,234 @@
           "home_away": "away",
           "venue": "The Lamb Ground",
           "competition": "National League"
+        },
+        {
+          "date": "2026-11-24T19:45Z",
+          "opponent": "Yeovil Town",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-11-28T15:00Z",
+          "opponent": "FC Halifax Town",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-12-05T15:00Z",
+          "opponent": "Solihull Moors",
+          "home_away": "away",
+          "venue": "ARMCO Areana",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-12-08T19:45Z",
+          "opponent": "AFC Hornchurch",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-12-19T12:30Z",
+          "opponent": "Woking",
+          "home_away": "away",
+          "venue": "The Laithwaite Community Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-12-26T15:00Z",
+          "opponent": "Worthing",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2026-12-29T19:45Z",
+          "opponent": "Wealdstone",
+          "home_away": "away",
+          "venue": "Grosvenor Vale",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-01-02T15:00Z",
+          "opponent": "Boston United",
+          "home_away": "away",
+          "venue": "Jakemans Community Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-01-09T15:00Z",
+          "opponent": "Forest Green Rovers",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-01-22T19:45Z",
+          "opponent": "Kidderminster Harriers",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-01-26T19:45Z",
+          "opponent": "Yeovil Town",
+          "home_away": "away",
+          "venue": "Huish Park",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-01-30T15:00Z",
+          "opponent": "Gateshead",
+          "home_away": "away",
+          "venue": "Gateshead International Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-02-06T15:00Z",
+          "opponent": "Tamworth",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-02-13T15:00Z",
+          "opponent": "Harrogate Town",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-02-16T19:45Z",
+          "opponent": "Southend United",
+          "home_away": "away",
+          "venue": "Roots Hall",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-02-20T15:00Z",
+          "opponent": "Carlisle United",
+          "home_away": "away",
+          "venue": "Brunton Park",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-02-23T19:45Z",
+          "opponent": "Sutton United",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-02-27T15:00Z",
+          "opponent": "Scunthorpe United",
+          "home_away": "away",
+          "venue": "Attis Arena",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-03-06T15:00Z",
+          "opponent": "Hartlepool United",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-03-10T19:45Z",
+          "opponent": "Aldershot Town",
+          "home_away": "away",
+          "venue": "The EBB Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-03-13T15:00Z",
+          "opponent": "Altrincham",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-03-20T12:30Z",
+          "opponent": "Boreham Wood",
+          "home_away": "away",
+          "venue": "Meadow Park",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-03-26T15:00Z",
+          "opponent": "Wealdstone",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-03-29T14:00Z",
+          "opponent": "Worthing",
+          "home_away": "away",
+          "venue": "Sussex Transport Community Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-04-03T14:00Z",
+          "opponent": "Barrow",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-04-10T14:00Z",
+          "opponent": "AFC Fylde",
+          "home_away": "away",
+          "venue": "Mill Farm Sports Village",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-04-17T14:00Z",
+          "opponent": "Solihull Moors",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League"
+        },
+        {
+          "date": "2027-04-24T11:30Z",
+          "opponent": "FC Halifax Town",
+          "home_away": "away",
+          "venue": "The MBi Shay Stadium",
+          "competition": "National League"
+        }
+      ],
+      "past_results": [
+        {
+          "date": "2026-08-08T14:00Z",
+          "opponent": "Gateshead",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League",
+          "goals_for": 2,
+          "goals_against": 1,
+          "outcome": "W"
+        },
+        {
+          "date": "2026-08-15T14:00Z",
+          "opponent": "Kidderminster Harriers",
+          "home_away": "away",
+          "venue": null,
+          "competition": "National League",
+          "goals_for": 0,
+          "goals_against": 1,
+          "outcome": "L"
+        },
+        {
+          "date": "2026-08-22T11:30Z",
+          "opponent": "Scunthorpe United",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League",
+          "goals_for": 3,
+          "goals_against": 2,
+          "outcome": "W"
         }
       ]
     }

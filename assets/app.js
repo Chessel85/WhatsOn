@@ -104,7 +104,16 @@ const FEEDS = {
       const set = today.moonset ? formatTime(today.moonset) : 'none today';
       moonP.textContent = `Moonrise ${rise}, moonset ${set}. ${today.moon_phase}, ${Math.round(today.moon_illumination_percent)}% illuminated.`;
 
-      container.replaceChildren(sunP, moonP);
+      const elements = [sunP, moonP];
+
+      const season = data.next_solstice_equinox;
+      if (season && season.days_until <= 7) {
+        const seasonP = document.createElement('p');
+        seasonP.textContent = `${season.name} ${formatDaysUntil(season.days_until)}: ${formatDayHeading(localDateKey(new Date(season.date)))} at ${formatTime(season.date)}.`;
+        elements.push(seasonP);
+      }
+
+      container.replaceChildren(...elements);
     },
     renderDetail(data, container) {
       const elements = [];
@@ -143,7 +152,21 @@ const FEEDS = {
       `;
       elements.push(table);
 
-      pushFetchedAt(elements, data, 'sunrisesunset.io');
+      pushHeading(elements, 'Orbital events');
+
+      const moonApsisP = document.createElement('p');
+      moonApsisP.textContent = `Next lunar ${data.moon_apsis.type}: ${formatDaysUntil(data.moon_apsis.days_until)}, ${formatDayHeading(localDateKey(new Date(data.moon_apsis.date)))} at ${formatTime(data.moon_apsis.date)}.`;
+      elements.push(moonApsisP);
+
+      const earthApsisP = document.createElement('p');
+      earthApsisP.textContent = `Next Earth ${data.earth_apsis.type}: ${formatDaysUntil(data.earth_apsis.days_until)}, ${formatDayHeading(localDateKey(new Date(data.earth_apsis.date)))} at ${formatTime(data.earth_apsis.date)}.`;
+      elements.push(earthApsisP);
+
+      const seasonP = document.createElement('p');
+      seasonP.textContent = `Next solstice/equinox — ${data.next_solstice_equinox.name}: ${formatDaysUntil(data.next_solstice_equinox.days_until)}, ${formatDayHeading(localDateKey(new Date(data.next_solstice_equinox.date)))} at ${formatTime(data.next_solstice_equinox.date)}.`;
+      elements.push(seasonP);
+
+      pushFetchedAt(elements, data, 'sunrisesunset.io / NASA JPL DE421 ephemeris');
 
       container.replaceChildren(...elements);
     },
@@ -401,9 +424,16 @@ const FEEDS = {
     dataUrl: 'data/current/football.json',
     renderSummary(data, container) {
       const list = document.createElement('ul');
-      const items = data.clubs.map((club) => {
+      const ordered = data.clubs
+        .map((club) => ({ club, next: club.fixtures[0] }))
+        .sort((a, b) => {
+          if (!a.next && !b.next) return 0;
+          if (!a.next) return 1;
+          if (!b.next) return -1;
+          return a.next.date < b.next.date ? -1 : a.next.date > b.next.date ? 1 : 0;
+        });
+      const items = ordered.map(({ club, next }) => {
         const li = document.createElement('li');
-        const next = club.fixtures[0];
         li.textContent = next
           ? `${club.name}: vs ${next.opponent} (${next.home_away === 'home' ? 'H' : 'A'}), ${formatDayHeading(localDateKey(new Date(next.date)))}, ${formatTime(next.date)} kick-off, ${formatVenue(next.venue)}`
           : `${club.name}: no upcoming fixtures found.`;
@@ -418,36 +448,72 @@ const FEEDS = {
       for (const club of data.clubs) {
         pushHeading(elements, club.name);
 
+        const statusP = document.createElement('p');
+        statusP.textContent = formatClubStatus(club);
+        elements.push(statusP);
+
         if (!club.fixtures.length) {
           const p = document.createElement('p');
-          p.textContent = 'No upcoming fixtures found in the next 90 days.';
+          p.textContent = 'No fixtures remaining this season.';
           elements.push(p);
-          continue;
+        } else {
+          const table = document.createElement('table');
+          table.innerHTML = `
+            <caption>${club.name} — remaining fixtures this season</caption>
+            <thead>
+              <tr>
+                <th scope="col">Kick-off</th>
+                <th scope="col">Opponent</th>
+                <th scope="col">Venue</th>
+                <th scope="col">Competition</th>
+              </tr>
+            </thead>
+            <tbody>
+              ${club.fixtures.map((f) => `
+                <tr>
+                  <th scope="row"><time datetime="${f.date}">${formatDayHeading(localDateKey(new Date(f.date)))}, ${formatTime(f.date)}</time></th>
+                  <td>${f.opponent} (${f.home_away === 'home' ? 'H' : 'A'})</td>
+                  <td>${formatVenue(f.venue)}</td>
+                  <td>${f.competition}</td>
+                </tr>
+              `).join('')}
+            </tbody>
+          `;
+          elements.push(table);
         }
 
-        const table = document.createElement('table');
-        table.innerHTML = `
-          <caption>${club.name} — fixtures (next ${data.lookahead_days} days)</caption>
-          <thead>
-            <tr>
-              <th scope="col">Kick-off</th>
-              <th scope="col">Opponent</th>
-              <th scope="col">Venue</th>
-              <th scope="col">Competition</th>
-            </tr>
-          </thead>
-          <tbody>
-            ${club.fixtures.map((f) => `
+        if (!club.past_results.length) {
+          const p = document.createElement('p');
+          p.textContent = 'No results yet this season.';
+          elements.push(p);
+        } else {
+          const results = [...club.past_results].reverse(); // most recent first
+          const table = document.createElement('table');
+          table.innerHTML = `
+            <caption>${club.name} — results this season</caption>
+            <thead>
               <tr>
-                <th scope="row"><time datetime="${f.date}">${formatDayHeading(localDateKey(new Date(f.date)))}, ${formatTime(f.date)}</time></th>
-                <td>${f.opponent} (${f.home_away === 'home' ? 'H' : 'A'})</td>
-                <td>${formatVenue(f.venue)}</td>
-                <td>${f.competition}</td>
+                <th scope="col">Date</th>
+                <th scope="col">Opponent</th>
+                <th scope="col">Result</th>
+                <th scope="col">Venue</th>
+                <th scope="col">Competition</th>
               </tr>
-            `).join('')}
-          </tbody>
-        `;
-        elements.push(table);
+            </thead>
+            <tbody>
+              ${results.map((r) => `
+                <tr>
+                  <th scope="row"><time datetime="${r.date}">${formatDayHeading(localDateKey(new Date(r.date)))}</time></th>
+                  <td>${r.opponent} (${r.home_away === 'home' ? 'H' : 'A'})</td>
+                  <td>${r.outcome} ${r.goals_for}–${r.goals_against}</td>
+                  <td>${formatVenue(r.venue)}</td>
+                  <td>${r.competition}</td>
+                </tr>
+              `).join('')}
+            </tbody>
+          `;
+          elements.push(table);
+        }
       }
 
       pushFetchedAt(elements, data, 'ESPN');
@@ -607,6 +673,47 @@ function pushFetchedAt(elements, data, sourceName) {
   fetchedAt.className = 'fetched-at';
   fetchedAt.textContent = `Data fetched ${new Date(data.fetched_at).toLocaleString('en-GB')} from ${sourceName}.`;
   elements.push(fetchedAt);
+}
+
+// 0 -> "today", 1 -> "tomorrow", else -> "in N days".
+function formatDaysUntil(daysUntil) {
+  if (daysUntil === 0) return 'today';
+  if (daysUntil === 1) return 'tomorrow';
+  return `in ${daysUntil} days`;
+}
+
+// 12 -> "12th", 1 -> "1st", 23 -> "23rd", etc.
+function ordinal(n) {
+  const rem100 = n % 100;
+  if (rem100 >= 11 && rem100 <= 13) return `${n}th`;
+  switch (n % 10) {
+    case 1: return `${n}st`;
+    case 2: return `${n}nd`;
+    case 3: return `${n}rd`;
+    default: return `${n}th`;
+  }
+}
+
+// Builds the "Currently 12th in the Championship having played 10
+// matches, 17 remaining to play. Currently in the EFL Cup. Knocked out of
+// the FA Cup." summary sentence(s) shown under each club's heading.
+function formatClubStatus(club) {
+  const { league, cups } = club;
+  const matchWord = (n) => (n === 1 ? 'match' : 'matches');
+  const positionText = league.position != null ? `${ordinal(league.position)} in the ${league.competition}` : `in the ${league.competition}`;
+  let text = `Currently ${positionText}, having played ${league.played} ${matchWord(league.played)} with ${league.remaining} remaining to play.`;
+
+  for (const cup of cups) {
+    if (cup.status === 'in_progress') {
+      text += ` Currently in the ${cup.competition}.`;
+    } else if (cup.status === 'knocked_out') {
+      text += ` Knocked out of the ${cup.competition}.`;
+    } else {
+      text += ` Through in the ${cup.competition} (next round not yet scheduled).`;
+    }
+  }
+
+  return text;
 }
 
 // The ship name (row header) links straight to its details page —

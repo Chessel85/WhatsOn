@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T05:29:05+00:00",
+  "fetched_at": "2026-08-23T05:57:37+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -16,7 +16,7 @@
       "scheduled_time": "2026-08-23T08:25:00",
       "flight_number": "EI3600",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Expected 08:25",
       "from": "Belfast City",
       "from_code": "BHD"
     },
@@ -210,10 +210,10 @@
       "scheduled_time": "2026-08-23T09:20:00",
       "flight_number": "EI3301",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 08-09",
       "to": "Dublin",
       "to_code": "DUB",
-      "check_in_desk": null
+      "check_in_desk": "08-09"
     },
     {
       "time": "2026-08-23T09:40:00",

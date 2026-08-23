@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T17:19:51+00:00",
+  "fetched_at": "2026-08-23T17:46:21+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -87,7 +87,7 @@
       "scheduled_time": "2026-08-23T19:00:00",
       "flight_number": "LM557",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Expected 19:00",
       "distance_miles": null,
       "from": "Jersey",
       "from_code": "JER"
@@ -108,7 +108,7 @@
       "flight_number": "EI3308",
       "airline": "Aer Lingus",
       "status": "Expected 19:30",
-      "distance_miles": 274.5,
+      "distance_miles": 169.9,
       "from": "Dublin",
       "from_code": "DUB"
     },
@@ -144,17 +144,6 @@
       "to": "Belfast Intl",
       "to_code": "BFS",
       "check_in_desk": "04-07"
-    },
-    {
-      "time": "2026-08-23T12:35:00",
-      "scheduled_time": "2026-08-23T12:35:00",
-      "flight_number": "EI3605",
-      "airline": "Aer Lingus",
-      "status": "Airborne 12:30",
-      "distance_miles": null,
-      "to": "Belfast City",
-      "to_code": "BHD",
-      "check_in_desk": "08-09"
     },
     {
       "time": "2026-08-23T14:35:00",
@@ -228,7 +217,7 @@
       "flight_number": "EI3305",
       "airline": "Aer Lingus",
       "status": "Airborne 17:52",
-      "distance_miles": 92.3,
+      "distance_miles": 253.1,
       "to": "Dublin",
       "to_code": "DUB",
       "check_in_desk": "08-09"
@@ -239,7 +228,7 @@
       "flight_number": "KL1072",
       "airline": "KLM",
       "status": "Airborne 17:56",
-      "distance_miles": null,
+      "distance_miles": 234.3,
       "to": "Amsterdam",
       "to_code": "AMS",
       "check_in_desk": "12-13"
@@ -249,7 +238,7 @@
       "scheduled_time": "2026-08-23T19:40:00",
       "flight_number": "LM558",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 14-15",
       "distance_miles": null,
       "to": "Jersey",
       "to_code": "JER",

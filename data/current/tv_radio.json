@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T07:02:00+00:00",
+  "fetched_at": "2026-08-23T07:03:33+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -45,7 +45,15 @@
       "name": "BBC Three",
       "type": "tv",
       "confidence": "high",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "Schitt's Creek",
+          "series_number": 4,
+          "start_time": "2026-08-29T22:35:00Z",
+          "synopsis": "Moira believes she is the cause of a man\u2019s death at the motel. Johnny and Stevie attempt to keep the motel guests distracted while they deal with the removal of the dead body.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m002x3gj"
+        }
+      ]
     },
     {
       "id": "bbc_four",
@@ -123,15 +131,7 @@
       "name": "ITV1",
       "type": "tv",
       "confidence": "low",
-      "new_series": [
-        {
-          "title": "The Voice UK",
-          "series_number": 14,
-          "start_time": "2026-08-22T18:00:00Z",
-          "synopsis": "Emma Willis returns with the spinning-chair singing contest, with Tom Jones, Will.i.am, Tom Fletcher and Danny Jones joined by new coach Kelly Rowland. With only eight places available on each team, the coaches must choose carefully as they search for the UK's most exciting singing talent. Plus, for the first time, the Rewind button gives them the chance to bring back an artist they regret letting go.",
-          "url": "https://www.tvmaze.com/episodes/3697186/the-voice-uk-14x01-the-blind-auditions-1"
-        }
-      ]
+      "new_series": []
     }
   ]
 }

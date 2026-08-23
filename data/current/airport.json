@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T11:46:14+00:00",
+  "fetched_at": "2026-08-23T12:39:00+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -115,7 +115,7 @@
       "scheduled_time": "2026-08-23T14:30:00",
       "flight_number": "LM325",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Expected 14:30",
       "from": "Edinburgh",
       "from_code": "EDI"
     },
@@ -335,7 +335,7 @@
       "scheduled_time": "2026-08-23T12:35:00",
       "flight_number": "EZY142",
       "airline": "easyJet",
-      "status": "Gate Closed",
+      "status": "Airborne 12:40",
       "to": "Belfast Intl",
       "to_code": "BFS",
       "check_in_desk": "04-07"
@@ -365,20 +365,20 @@
       "scheduled_time": "2026-08-23T15:15:00",
       "flight_number": "GR657",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 16-17",
       "to": "Guernsey",
       "to_code": "GCI",
-      "check_in_desk": null
+      "check_in_desk": "16-17"
     },
     {
       "time": "2026-08-23T15:45:00",
       "scheduled_time": "2026-08-23T15:45:00",
       "flight_number": "GR506",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 16-17",
       "to": "Alderney",
       "to_code": "ACI",
-      "check_in_desk": null
+      "check_in_desk": "16-17"
     },
     {
       "time": "2026-08-23T16:15:00",

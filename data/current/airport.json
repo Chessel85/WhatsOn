@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T11:20:19+00:00",
+  "fetched_at": "2026-08-23T11:46:14+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -323,42 +323,42 @@
     {
       "time": "2026-08-23T12:35:00",
       "scheduled_time": "2026-08-23T12:35:00",
-      "flight_number": "EZY142",
-      "airline": "easyJet",
-      "status": "Final Call to Gate 3",
-      "to": "Belfast Intl",
-      "to_code": "BFS",
-      "check_in_desk": "04-07"
+      "flight_number": "EI3605",
+      "airline": "Aer Lingus",
+      "status": "Airborne 12:30",
+      "to": "Belfast City",
+      "to_code": "BHD",
+      "check_in_desk": "08-09"
     },
     {
       "time": "2026-08-23T12:35:00",
       "scheduled_time": "2026-08-23T12:35:00",
-      "flight_number": "EI3605",
-      "airline": "Aer Lingus",
+      "flight_number": "EZY142",
+      "airline": "easyJet",
       "status": "Gate Closed",
-      "to": "Belfast City",
-      "to_code": "BHD",
-      "check_in_desk": "08-09"
+      "to": "Belfast Intl",
+      "to_code": "BFS",
+      "check_in_desk": "04-07"
     },
     {
       "time": "2026-08-23T14:35:00",
       "scheduled_time": "2026-08-23T14:35:00",
       "flight_number": "LM540",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 14-15",
       "to": "Newcastle",
       "to_code": "NCL",
-      "check_in_desk": null
+      "check_in_desk": "14-15"
     },
     {
       "time": "2026-08-23T15:00:00",
       "scheduled_time": "2026-08-23T15:00:00",
       "flight_number": "LM326",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 14-15",
       "to": "Edinburgh",
       "to_code": "EDI",
-      "check_in_desk": null
+      "check_in_desk": "14-15"
     },
     {
       "time": "2026-08-23T15:15:00",
@@ -544,21 +544,21 @@
       "turnaround_minutes": 40
     },
     {
-      "arrival_flight_number": "EZY141",
-      "arrival_time": "2026-08-23T12:05:00",
-      "arrival_from": "Belfast Intl",
-      "departure_flight_number": "EZY142",
-      "departure_time": "2026-08-23T12:35:00",
-      "departure_to": "Belfast Intl",
-      "turnaround_minutes": 30
-    },
-    {
       "arrival_flight_number": "EI3604",
       "arrival_time": "2026-08-23T12:05:00",
       "arrival_from": "Belfast City",
       "departure_flight_number": "EI3605",
       "departure_time": "2026-08-23T12:35:00",
       "departure_to": "Belfast City",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EZY141",
+      "arrival_time": "2026-08-23T12:05:00",
+      "arrival_from": "Belfast Intl",
+      "departure_flight_number": "EZY142",
+      "departure_time": "2026-08-23T12:35:00",
+      "departure_to": "Belfast Intl",
       "turnaround_minutes": 30
     },
     {

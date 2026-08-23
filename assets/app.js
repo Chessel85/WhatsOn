@@ -481,6 +481,11 @@ const FEEDS = {
       const elements = [];
 
       pushHeading(elements, 'Arrivals');
+
+      const distanceNote = document.createElement('p');
+      distanceNote.textContent = "The Distance column shows how far an aircraft currently is from Southampton Airport, live-tracked for flights the board itself shows as in the air. It won't appear for every such flight — matching a flight number to its live tracking is a best-effort guess, not guaranteed for every airline.";
+      elements.push(distanceNote);
+
       const arrivalsTable = document.createElement('table');
       arrivalsTable.innerHTML = `
         <caption>Southampton Airport — arrivals</caption>
@@ -491,6 +496,7 @@ const FEEDS = {
             <th scope="col">From</th>
             <th scope="col">Airline</th>
             <th scope="col">Status</th>
+            <th scope="col">Distance</th>
           </tr>
         </thead>
         <tbody>
@@ -501,6 +507,7 @@ const FEEDS = {
               <td>${a.from}</td>
               <td>${a.airline}</td>
               <td>${a.status || '—'}</td>
+              <td>${a.distance_miles != null ? `${a.distance_miles} miles away` : '—'}</td>
             </tr>
           `).join('')}
         </tbody>
@@ -519,6 +526,7 @@ const FEEDS = {
             <th scope="col">Airline</th>
             <th scope="col">Check-in desk</th>
             <th scope="col">Status</th>
+            <th scope="col">Distance</th>
           </tr>
         </thead>
         <tbody>
@@ -530,6 +538,7 @@ const FEEDS = {
               <td>${d.airline}</td>
               <td>${d.check_in_desk || '—'}</td>
               <td>${d.status || '—'}</td>
+              <td>${d.distance_miles != null ? `${d.distance_miles} miles away` : '—'}</td>
             </tr>
           `).join('')}
         </tbody>

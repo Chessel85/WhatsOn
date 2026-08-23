@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T03:50:16+00:00",
+  "fetched_at": "2026-08-23T04:36:39+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -154,6 +154,24 @@
       "status": "Scheduled",
       "from": "Jersey",
       "from_code": "JER"
+    },
+    {
+      "time": "2026-08-23T16:50:00",
+      "scheduled_time": "2026-08-23T16:50:00",
+      "flight_number": "EI3304",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "from": "Dublin",
+      "from_code": "DUB"
+    },
+    {
+      "time": "2026-08-23T17:00:00",
+      "scheduled_time": "2026-08-23T17:00:00",
+      "flight_number": "KL1071",
+      "airline": "KLM",
+      "status": "Scheduled",
+      "from": "Amsterdam",
+      "from_code": "AMS"
     }
   ],
   "departures": [
@@ -336,6 +354,16 @@
       "to": "Jersey",
       "to_code": "JER",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-23T17:20:00",
+      "scheduled_time": "2026-08-23T17:20:00",
+      "flight_number": "EI3305",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "to": "Dublin",
+      "to_code": "DUB",
+      "check_in_desk": null
     }
   ],
   "rotations": [
@@ -490,6 +518,15 @@
       "departure_flight_number": "LM556",
       "departure_time": "2026-08-23T16:45:00",
       "departure_to": "Jersey",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EI3304",
+      "arrival_time": "2026-08-23T16:50:00",
+      "arrival_from": "Dublin",
+      "departure_flight_number": "EI3305",
+      "departure_time": "2026-08-23T17:20:00",
+      "departure_to": "Dublin",
       "turnaround_minutes": 30
     }
   ]

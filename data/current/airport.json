@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T10:23:41+00:00",
+  "fetched_at": "2026-08-23T10:50:16+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -88,7 +88,7 @@
       "scheduled_time": "2026-08-23T12:05:00",
       "flight_number": "EI3604",
       "airline": "Aer Lingus",
-      "status": "Expected 12:05",
+      "status": "Arrived 11:32. Bags at carousel 3",
       "from": "Belfast City",
       "from_code": "BHD"
     },
@@ -97,7 +97,7 @@
       "scheduled_time": "2026-08-23T12:05:00",
       "flight_number": "EZY141",
       "airline": "easyJet",
-      "status": "Expected 12:05",
+      "status": "Arrived 11:45. Bags at carousel 3",
       "from": "Belfast Intl",
       "from_code": "BFS"
     },
@@ -325,7 +325,7 @@
       "scheduled_time": "2026-08-23T12:35:00",
       "flight_number": "EZY142",
       "airline": "easyJet",
-      "status": "Check In Open  Desks 04-07",
+      "status": "Boarding at Gate 3",
       "to": "Belfast Intl",
       "to_code": "BFS",
       "check_in_desk": "04-07"
@@ -335,7 +335,7 @@
       "scheduled_time": "2026-08-23T12:35:00",
       "flight_number": "EI3605",
       "airline": "Aer Lingus",
-      "status": "Check In Open  Desks 08-09",
+      "status": "Boarding at Gate 8",
       "to": "Belfast City",
       "to_code": "BHD",
       "check_in_desk": "08-09"

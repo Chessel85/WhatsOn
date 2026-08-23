@@ -1,17 +1,7 @@
 {
-  "fetched_at": "2026-08-23T15:21:51+00:00",
+  "fetched_at": "2026-08-23T15:47:50+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-23T10:40:00",
-      "scheduled_time": "2026-08-23T10:40:00",
-      "flight_number": "GR501",
-      "airline": "Aurigny",
-      "status": "Arrived 10:32. Bags at carousel 2",
-      "distance_miles": null,
-      "from": "Alderney",
-      "from_code": "ACI"
-    },
     {
       "time": "2026-08-23T12:05:00",
       "scheduled_time": "2026-08-23T12:05:00",
@@ -98,7 +88,7 @@
       "flight_number": "EI3304",
       "airline": "Aer Lingus",
       "status": "Expected 16:50",
-      "distance_miles": 103.8,
+      "distance_miles": 35.8,
       "from": "Dublin",
       "from_code": "DUB"
     },
@@ -107,7 +97,7 @@
       "scheduled_time": "2026-08-23T17:00:00",
       "flight_number": "KL1071",
       "airline": "KLM",
-      "status": "Scheduled",
+      "status": "Expected 17:00",
       "distance_miles": null,
       "from": "Amsterdam",
       "from_code": "AMS"
@@ -225,7 +215,7 @@
       "flight_number": "LM326",
       "airline": "Loganair",
       "status": "Airborne 15:24",
-      "distance_miles": 254.4,
+      "distance_miles": null,
       "to": "Edinburgh",
       "to_code": "EDI",
       "check_in_desk": "14-15"
@@ -268,7 +258,7 @@
       "scheduled_time": "2026-08-23T16:45:00",
       "flight_number": "LM556",
       "airline": "Loganair",
-      "status": "Boarding at Gate 3",
+      "status": "Gate Closed",
       "distance_miles": null,
       "to": "Jersey",
       "to_code": "JER",
@@ -279,7 +269,7 @@
       "scheduled_time": "2026-08-23T17:20:00",
       "flight_number": "EI3305",
       "airline": "Aer Lingus",
-      "status": "Check In Open  Desks 08-09",
+      "status": "Scheduled",
       "distance_miles": null,
       "to": "Dublin",
       "to_code": "DUB",
@@ -342,15 +332,6 @@
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "GR501",
-      "arrival_time": "2026-08-23T10:40:00",
-      "arrival_from": "Alderney",
-      "departure_flight_number": "GR502",
-      "departure_time": "2026-08-23T11:20:00",
-      "departure_to": "Alderney",
-      "turnaround_minutes": 40
-    },
     {
       "arrival_flight_number": "EI3604",
       "arrival_time": "2026-08-23T12:05:00",

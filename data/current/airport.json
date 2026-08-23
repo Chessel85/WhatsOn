@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T05:57:37+00:00",
+  "fetched_at": "2026-08-23T06:52:10+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -7,7 +7,7 @@
       "scheduled_time": "2026-08-23T07:55:00",
       "flight_number": "EJU5515",
       "airline": "easyJet",
-      "status": "Expected 07:55",
+      "status": "Arrived 07:40. Bags at carousel 1",
       "from": "Alicante",
       "from_code": "ALC"
     },
@@ -16,7 +16,7 @@
       "scheduled_time": "2026-08-23T08:25:00",
       "flight_number": "EI3600",
       "airline": "Aer Lingus",
-      "status": "Expected 08:25",
+      "status": "On Approach",
       "from": "Belfast City",
       "from_code": "BHD"
     },
@@ -25,7 +25,7 @@
       "scheduled_time": "2026-08-23T08:35:00",
       "flight_number": "EI3300",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Expected 08:35",
       "from": "Dublin",
       "from_code": "DUB"
     },
@@ -172,6 +172,33 @@
       "status": "Scheduled",
       "from": "Amsterdam",
       "from_code": "AMS"
+    },
+    {
+      "time": "2026-08-23T19:00:00",
+      "scheduled_time": "2026-08-23T19:00:00",
+      "flight_number": "LM557",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "from": "Jersey",
+      "from_code": "JER"
+    },
+    {
+      "time": "2026-08-23T19:25:00",
+      "scheduled_time": "2026-08-23T19:25:00",
+      "flight_number": "GR658",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "from": "Guernsey",
+      "from_code": "GCI"
+    },
+    {
+      "time": "2026-08-23T19:30:00",
+      "scheduled_time": "2026-08-23T19:30:00",
+      "flight_number": "EI3308",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "from": "Dublin",
+      "from_code": "DUB"
     }
   ],
   "departures": [
@@ -180,7 +207,7 @@
       "scheduled_time": "2026-08-23T08:25:00",
       "flight_number": "EJU5516",
       "airline": "easyJet",
-      "status": "Check In Open  Desks 04-07",
+      "status": "Final Call to Gate 2",
       "to": "Alicante",
       "to_code": "ALC",
       "check_in_desk": "04-07"
@@ -200,10 +227,10 @@
       "scheduled_time": "2026-08-23T09:15:00",
       "flight_number": "KL1070",
       "airline": "KLM",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 12-13",
       "to": "Amsterdam",
       "to_code": "AMS",
-      "check_in_desk": null
+      "check_in_desk": "12-13"
     },
     {
       "time": "2026-08-23T09:20:00",
@@ -220,20 +247,20 @@
       "scheduled_time": "2026-08-23T09:40:00",
       "flight_number": "LM552",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 14-15",
       "to": "Jersey",
       "to_code": "JER",
-      "check_in_desk": null
+      "check_in_desk": "14-15"
     },
     {
       "time": "2026-08-23T10:00:00",
       "scheduled_time": "2026-08-23T10:00:00",
       "flight_number": "EZY416",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 04-07",
       "to": "Glasgow",
       "to_code": "GLA",
-      "check_in_desk": null
+      "check_in_desk": "04-07"
     },
     {
       "time": "2026-08-23T10:00:00",
@@ -250,10 +277,10 @@
       "scheduled_time": "2026-08-23T10:15:00",
       "flight_number": "LM322",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 14-15",
       "to": "Edinburgh",
       "to_code": "EDI",
-      "check_in_desk": null
+      "check_in_desk": "14-15"
     },
     {
       "time": "2026-08-23T11:05:00",
@@ -373,6 +400,16 @@
       "status": "Scheduled",
       "to": "Amsterdam",
       "to_code": "AMS",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-23T19:40:00",
+      "scheduled_time": "2026-08-23T19:40:00",
+      "flight_number": "LM558",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "to": "Jersey",
+      "to_code": "JER",
       "check_in_desk": null
     }
   ],
@@ -547,6 +584,15 @@
       "departure_time": "2026-08-23T17:30:00",
       "departure_to": "Amsterdam",
       "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "LM557",
+      "arrival_time": "2026-08-23T19:00:00",
+      "arrival_from": "Jersey",
+      "departure_flight_number": "LM558",
+      "departure_time": "2026-08-23T19:40:00",
+      "departure_to": "Jersey",
+      "turnaround_minutes": 40
     }
   ]
 }

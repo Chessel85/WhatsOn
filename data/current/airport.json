@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T19:28:43+00:00",
+  "fetched_at": "2026-08-23T19:48:35+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -107,7 +107,7 @@
       "scheduled_time": "2026-08-23T20:20:00",
       "flight_number": "LM329",
       "airline": "Loganair",
-      "status": "Arrived 20:00",
+      "status": "Arrived 20:00. Bags at carousel 3",
       "distance_miles": null,
       "from": "Edinburgh",
       "from_code": "EDI"
@@ -141,6 +141,36 @@
       "distance_miles": null,
       "from": "Jersey",
       "from_code": "JER"
+    },
+    {
+      "time": "2026-08-24T08:20:00",
+      "scheduled_time": "2026-08-24T08:20:00",
+      "flight_number": "EZY415",
+      "airline": "easyJet",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Glasgow",
+      "from_code": "GLA"
+    },
+    {
+      "time": "2026-08-24T08:25:00",
+      "scheduled_time": "2026-08-24T08:25:00",
+      "flight_number": "LM321",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Edinburgh",
+      "from_code": "EDI"
+    },
+    {
+      "time": "2026-08-24T08:25:00",
+      "scheduled_time": "2026-08-24T08:25:00",
+      "flight_number": "EI3600",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Belfast City",
+      "from_code": "BHD"
     }
   ],
   "departures": [
@@ -248,7 +278,7 @@
       "scheduled_time": "2026-08-23T19:55:00",
       "flight_number": "GR659",
       "airline": "Aurigny",
-      "status": "Departed 20:04",
+      "status": "Airborne 20:21",
       "distance_miles": null,
       "to": "Guernsey",
       "to_code": "GCI",
@@ -259,7 +289,7 @@
       "scheduled_time": "2026-08-23T20:00:00",
       "flight_number": "EI3309",
       "airline": "Aer Lingus",
-      "status": "Gate Closed",
+      "status": "Airborne 20:13",
       "distance_miles": null,
       "to": "Dublin",
       "to_code": "DUB",
@@ -270,7 +300,7 @@
       "scheduled_time": "2026-08-23T20:50:00",
       "flight_number": "LM328",
       "airline": "Loganair",
-      "status": "Boarding at Gate 8",
+      "status": "Gate Closed",
       "distance_miles": null,
       "to": "Edinburgh",
       "to_code": "EDI",
@@ -285,6 +315,17 @@
       "distance_miles": null,
       "to": "Guernsey",
       "to_code": "GCI",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-24T08:25:00",
+      "scheduled_time": "2026-08-24T08:25:00",
+      "flight_number": "LM552",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Jersey",
+      "to_code": "JER",
       "check_in_desk": null
     }
   ],
@@ -395,6 +436,15 @@
       "departure_flight_number": "GR651",
       "departure_time": "2026-08-24T08:00:00",
       "departure_to": "Guernsey",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "LM551",
+      "arrival_time": "2026-08-24T07:55:00",
+      "arrival_from": "Jersey",
+      "departure_flight_number": "LM552",
+      "departure_time": "2026-08-24T08:25:00",
+      "departure_to": "Jersey",
       "turnaround_minutes": 30
     }
   ]

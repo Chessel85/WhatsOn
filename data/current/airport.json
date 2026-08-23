@@ -1,17 +1,7 @@
 {
-  "fetched_at": "2026-08-23T20:49:27+00:00",
+  "fetched_at": "2026-08-23T21:21:20+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-23T16:15:00",
-      "scheduled_time": "2026-08-23T16:15:00",
-      "flight_number": "LM555",
-      "airline": "Loganair",
-      "status": "Arrived 16:07. Bags at carousel 1",
-      "distance_miles": null,
-      "from": "Jersey",
-      "from_code": "JER"
-    },
     {
       "time": "2026-08-23T16:50:00",
       "scheduled_time": "2026-08-23T16:50:00",
@@ -154,17 +144,6 @@
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-23T16:15:00",
-      "scheduled_time": "2026-08-23T16:15:00",
-      "flight_number": "EI3607",
-      "airline": "Aer Lingus",
-      "status": "Airborne 16:12",
-      "distance_miles": null,
-      "to": "Belfast City",
-      "to_code": "BHD",
-      "check_in_desk": "08-09"
-    },
     {
       "time": "2026-08-23T16:45:00",
       "scheduled_time": "2026-08-23T16:45:00",
@@ -321,15 +300,6 @@
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "LM555",
-      "arrival_time": "2026-08-23T16:15:00",
-      "arrival_from": "Jersey",
-      "departure_flight_number": "LM556",
-      "departure_time": "2026-08-23T16:45:00",
-      "departure_to": "Jersey",
-      "turnaround_minutes": 30
-    },
     {
       "arrival_flight_number": "EI3304",
       "arrival_time": "2026-08-23T16:50:00",

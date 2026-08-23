@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T21:21:20+00:00",
+  "fetched_at": "2026-08-23T21:46:40+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -141,6 +141,16 @@
       "distance_miles": null,
       "from": "Amsterdam",
       "from_code": "AMS"
+    },
+    {
+      "time": "2026-08-24T10:40:00",
+      "scheduled_time": "2026-08-24T10:40:00",
+      "flight_number": "GR501",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Alderney",
+      "from_code": "ACI"
     }
   ],
   "departures": [

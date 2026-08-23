@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T10:50:16+00:00",
+  "fetched_at": "2026-08-23T11:20:19+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -325,7 +325,7 @@
       "scheduled_time": "2026-08-23T12:35:00",
       "flight_number": "EZY142",
       "airline": "easyJet",
-      "status": "Boarding at Gate 3",
+      "status": "Final Call to Gate 3",
       "to": "Belfast Intl",
       "to_code": "BFS",
       "check_in_desk": "04-07"
@@ -335,7 +335,7 @@
       "scheduled_time": "2026-08-23T12:35:00",
       "flight_number": "EI3605",
       "airline": "Aer Lingus",
-      "status": "Boarding at Gate 8",
+      "status": "Gate Closed",
       "to": "Belfast City",
       "to_code": "BHD",
       "check_in_desk": "08-09"

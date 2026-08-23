@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T18:28:48+00:00",
+  "fetched_at": "2026-08-23T18:59:21+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -87,7 +87,7 @@
       "scheduled_time": "2026-08-23T19:00:00",
       "flight_number": "LM557",
       "airline": "Loganair",
-      "status": "Arrived 18:52",
+      "status": "Arrived 18:52. Bags at carousel 2",
       "distance_miles": null,
       "from": "Jersey",
       "from_code": "JER"
@@ -97,7 +97,7 @@
       "scheduled_time": "2026-08-23T19:25:00",
       "flight_number": "GR658",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Arrived 19:36. Bags at carousel 2",
       "distance_miles": null,
       "from": "Guernsey",
       "from_code": "GCI"
@@ -107,7 +107,7 @@
       "scheduled_time": "2026-08-23T19:30:00",
       "flight_number": "EI3308",
       "airline": "Aer Lingus",
-      "status": "Expected 19:30",
+      "status": "Arrived 19:39. Bags at carousel 1",
       "distance_miles": null,
       "from": "Dublin",
       "from_code": "DUB"
@@ -117,8 +117,8 @@
       "scheduled_time": "2026-08-23T20:20:00",
       "flight_number": "LM329",
       "airline": "Loganair",
-      "status": "Expected 20:20",
-      "distance_miles": 190.8,
+      "status": "On Approach",
+      "distance_miles": null,
       "from": "Edinburgh",
       "from_code": "EDI"
     },
@@ -131,6 +131,26 @@
       "distance_miles": null,
       "from": "Newcastle",
       "from_code": "NCL"
+    },
+    {
+      "time": "2026-08-24T07:30:00",
+      "scheduled_time": "2026-08-24T07:30:00",
+      "flight_number": "GR650",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Guernsey",
+      "from_code": "GCI"
+    },
+    {
+      "time": "2026-08-24T07:55:00",
+      "scheduled_time": "2026-08-24T07:55:00",
+      "flight_number": "LM551",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Jersey",
+      "from_code": "JER"
     }
   ],
   "departures": [
@@ -227,8 +247,8 @@
       "scheduled_time": "2026-08-23T19:40:00",
       "flight_number": "LM558",
       "airline": "Loganair",
-      "status": "Final Call to Gate 2",
-      "distance_miles": null,
+      "status": "Airborne 19:42",
+      "distance_miles": 77.8,
       "to": "Jersey",
       "to_code": "JER",
       "check_in_desk": "14-15"
@@ -238,7 +258,7 @@
       "scheduled_time": "2026-08-23T19:55:00",
       "flight_number": "GR659",
       "airline": "Aurigny",
-      "status": "Go to Gate 6",
+      "status": "Gate Closed",
       "distance_miles": null,
       "to": "Guernsey",
       "to_code": "GCI",
@@ -249,7 +269,7 @@
       "scheduled_time": "2026-08-23T20:00:00",
       "flight_number": "EI3309",
       "airline": "Aer Lingus",
-      "status": "Check In Open  Desks 08-09",
+      "status": "Gate Closed",
       "distance_miles": null,
       "to": "Dublin",
       "to_code": "DUB",

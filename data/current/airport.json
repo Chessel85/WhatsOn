@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T04:36:39+00:00",
+  "fetched_at": "2026-08-23T05:29:05+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -7,7 +7,7 @@
       "scheduled_time": "2026-08-23T07:55:00",
       "flight_number": "EJU5515",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Expected 07:55",
       "from": "Alicante",
       "from_code": "ALC"
     },
@@ -180,20 +180,20 @@
       "scheduled_time": "2026-08-23T08:25:00",
       "flight_number": "EJU5516",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 04-07",
       "to": "Alicante",
       "to_code": "ALC",
-      "check_in_desk": null
+      "check_in_desk": "04-07"
     },
     {
       "time": "2026-08-23T08:55:00",
       "scheduled_time": "2026-08-23T08:55:00",
       "flight_number": "EI3601",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 08-09",
       "to": "Belfast City",
       "to_code": "BHD",
-      "check_in_desk": null
+      "check_in_desk": "08-09"
     },
     {
       "time": "2026-08-23T09:15:00",
@@ -364,6 +364,16 @@
       "to": "Dublin",
       "to_code": "DUB",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-23T17:30:00",
+      "scheduled_time": "2026-08-23T17:30:00",
+      "flight_number": "KL1072",
+      "airline": "KLM",
+      "status": "Scheduled",
+      "to": "Amsterdam",
+      "to_code": "AMS",
+      "check_in_desk": null
     }
   ],
   "rotations": [
@@ -527,6 +537,15 @@
       "departure_flight_number": "EI3305",
       "departure_time": "2026-08-23T17:20:00",
       "departure_to": "Dublin",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "KL1071",
+      "arrival_time": "2026-08-23T17:00:00",
+      "arrival_from": "Amsterdam",
+      "departure_flight_number": "KL1072",
+      "departure_time": "2026-08-23T17:30:00",
+      "departure_to": "Amsterdam",
       "turnaround_minutes": 30
     }
   ]

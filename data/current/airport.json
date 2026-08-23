@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T22:20:53+00:00",
+  "fetched_at": "2026-08-23T22:48:31+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -276,6 +276,17 @@
       "to": "Dublin",
       "to_code": "DUB",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-24T11:20:00",
+      "scheduled_time": "2026-08-24T11:20:00",
+      "flight_number": "GR502",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Alderney",
+      "to_code": "ACI",
+      "check_in_desk": null
     }
   ],
   "rotations": [
@@ -376,6 +387,15 @@
       "departure_flight_number": "EI3301",
       "departure_time": "2026-08-24T09:20:00",
       "departure_to": "Dublin",
+      "turnaround_minutes": 40
+    },
+    {
+      "arrival_flight_number": "GR501",
+      "arrival_time": "2026-08-24T10:40:00",
+      "arrival_from": "Alderney",
+      "departure_flight_number": "GR502",
+      "departure_time": "2026-08-24T11:20:00",
+      "departure_to": "Alderney",
       "turnaround_minutes": 40
     }
   ]

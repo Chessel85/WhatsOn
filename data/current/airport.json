@@ -1,17 +1,7 @@
 {
-  "fetched_at": "2026-08-23T18:59:21+00:00",
+  "fetched_at": "2026-08-23T19:28:43+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-23T14:05:00",
-      "scheduled_time": "2026-08-23T14:05:00",
-      "flight_number": "LM533",
-      "airline": "Loganair",
-      "status": "Arrived 13:58. Bags at carousel 3",
-      "distance_miles": null,
-      "from": "Newcastle",
-      "from_code": "NCL"
-    },
     {
       "time": "2026-08-23T14:30:00",
       "scheduled_time": "2026-08-23T14:30:00",
@@ -117,7 +107,7 @@
       "scheduled_time": "2026-08-23T20:20:00",
       "flight_number": "LM329",
       "airline": "Loganair",
-      "status": "On Approach",
+      "status": "Arrived 20:00",
       "distance_miles": null,
       "from": "Edinburgh",
       "from_code": "EDI"
@@ -127,7 +117,7 @@
       "scheduled_time": "2026-08-23T21:05:00",
       "flight_number": "LM539",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Expected 21:05",
       "distance_miles": null,
       "from": "Newcastle",
       "from_code": "NCL"
@@ -248,7 +238,7 @@
       "flight_number": "LM558",
       "airline": "Loganair",
       "status": "Airborne 19:42",
-      "distance_miles": 77.8,
+      "distance_miles": null,
       "to": "Jersey",
       "to_code": "JER",
       "check_in_desk": "14-15"
@@ -258,7 +248,7 @@
       "scheduled_time": "2026-08-23T19:55:00",
       "flight_number": "GR659",
       "airline": "Aurigny",
-      "status": "Gate Closed",
+      "status": "Departed 20:04",
       "distance_miles": null,
       "to": "Guernsey",
       "to_code": "GCI",
@@ -280,23 +270,25 @@
       "scheduled_time": "2026-08-23T20:50:00",
       "flight_number": "LM328",
       "airline": "Loganair",
-      "status": "Check In Open  Desks 14-15",
+      "status": "Boarding at Gate 8",
       "distance_miles": null,
       "to": "Edinburgh",
       "to_code": "EDI",
       "check_in_desk": "14-15"
+    },
+    {
+      "time": "2026-08-24T08:00:00",
+      "scheduled_time": "2026-08-24T08:00:00",
+      "flight_number": "GR651",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Guernsey",
+      "to_code": "GCI",
+      "check_in_desk": null
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "LM533",
-      "arrival_time": "2026-08-23T14:05:00",
-      "arrival_from": "Newcastle",
-      "departure_flight_number": "LM540",
-      "departure_time": "2026-08-23T14:35:00",
-      "departure_to": "Newcastle",
-      "turnaround_minutes": 30
-    },
     {
       "arrival_flight_number": "LM325",
       "arrival_time": "2026-08-23T14:30:00",
@@ -394,6 +386,15 @@
       "departure_flight_number": "LM328",
       "departure_time": "2026-08-23T20:50:00",
       "departure_to": "Edinburgh",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "GR650",
+      "arrival_time": "2026-08-24T07:30:00",
+      "arrival_from": "Guernsey",
+      "departure_flight_number": "GR651",
+      "departure_time": "2026-08-24T08:00:00",
+      "departure_to": "Guernsey",
       "turnaround_minutes": 30
     }
   ]

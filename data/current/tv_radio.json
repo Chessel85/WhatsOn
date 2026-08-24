@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T07:03:33+00:00",
+  "fetched_at": "2026-08-24T07:31:07+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -22,6 +22,13 @@
           "start_time": "2026-08-28T13:00:00Z",
           "synopsis": "Sister Boniface, Sam and Felix uncover the murderer of one of three actors shortlisted to play the next agent Jonas Best, and Sam is surprised by the return of old flame Ruth Penny.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m002zk56"
+        },
+        {
+          "title": "Vigil",
+          "series_number": 3,
+          "start_time": "2026-08-30T20:00:00Z",
+          "synopsis": "DCI Silva and DI Longacre investigate the murder of a British citizen in the Arctic, but they soon find themselves caught in an escalating political situation.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m002zl90"
         }
       ]
     },
@@ -69,20 +76,6 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Drama on 4",
-          "series_number": null,
-          "start_time": "2026-08-23T14:00:00Z",
-          "synopsis": "Joe Buck, a na\u00efve young Texan, leaves his dead-end job to be a hustler in 1960s New York, where he forms a bond with Rico, a physically broken con man. With very strong language.",
-          "url": null
-        },
-        {
-          "title": "Understand",
-          "series_number": null,
-          "start_time": "2026-08-24T10:00:00Z",
-          "synopsis": "Nathan Filer explores how the language of neurodiversity has evolved \u2013 offering a sense of belonging for many, while raising difficult questions about difference and diagnosis.",
-          "url": null
-        },
-        {
           "title": "Limelight",
           "series_number": null,
           "start_time": "2026-08-24T22:00:00Z",
@@ -101,7 +94,7 @@
           "series_number": null,
           "start_time": "2026-08-24T23:30:00Z",
           "synopsis": "A portrait of the Metropolitan Museum of Art in New York and the moving story of one guard's quest to find solace and meaning in art.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0p41nv4"
         },
         {
           "title": "The History Podcast",
@@ -116,6 +109,13 @@
           "start_time": "2026-08-26T13:15:00Z",
           "synopsis": "Jess meets Dan and falls in love. It changes both of their lives. But who is Dan? Holli Dempsey and Josef Altin star in a new thriller from the creator of Tracks, Matthew Broughton",
           "url": "https://www.bbc.co.uk/sounds/play/m0014p7w"
+        },
+        {
+          "title": "Understand",
+          "series_number": null,
+          "start_time": "2026-08-30T16:10:00Z",
+          "synopsis": "Nathan Filer explores how the language of neurodiversity has evolved \u2013 offering a sense of belonging for many, while raising difficult questions about difference and diagnosis.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p5gh92"
         }
       ]
     },

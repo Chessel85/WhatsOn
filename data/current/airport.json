@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T09:13:23+00:00",
+  "fetched_at": "2026-08-24T10:10:41+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -77,7 +77,7 @@
       "scheduled_time": "2026-08-24T10:40:00",
       "flight_number": "GR501",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Arrived 10:26. Bags at carousel 2",
       "distance_miles": null,
       "from": "Alderney",
       "from_code": "ACI"
@@ -97,8 +97,8 @@
       "scheduled_time": "2026-08-24T12:05:00",
       "flight_number": "EI3604",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
-      "distance_miles": null,
+      "status": "Expected 12:05",
+      "distance_miles": 276.9,
       "from": "Belfast City",
       "from_code": "BHD"
     },
@@ -272,7 +272,7 @@
       "flight_number": "EZY416",
       "airline": "easyJet",
       "status": "Airborne 08:59",
-      "distance_miles": 279.8,
+      "distance_miles": null,
       "to": "Glasgow",
       "to_code": "GLA",
       "check_in_desk": "04-07"
@@ -294,7 +294,7 @@
       "flight_number": "EI3601",
       "airline": "Aer Lingus",
       "status": "Airborne 09:10",
-      "distance_miles": 243.8,
+      "distance_miles": null,
       "to": "Belfast City",
       "to_code": "BHD",
       "check_in_desk": "08-09"
@@ -305,7 +305,7 @@
       "flight_number": "KL1070",
       "airline": "KLM",
       "status": "Airborne 09:23",
-      "distance_miles": 236.2,
+      "distance_miles": null,
       "to": "Amsterdam",
       "to_code": "AMS",
       "check_in_desk": "12-13"
@@ -316,7 +316,7 @@
       "flight_number": "EI3301",
       "airline": "Aer Lingus",
       "status": "Airborne 09:20",
-      "distance_miles": 219.1,
+      "distance_miles": null,
       "to": "Dublin",
       "to_code": "DUB",
       "check_in_desk": null
@@ -326,8 +326,8 @@
       "scheduled_time": "2026-08-24T11:20:00",
       "flight_number": "GR502",
       "airline": "Aurigny",
-      "status": "Check In Open  Desks 16-17",
-      "distance_miles": null,
+      "status": "Airborne 11:03",
+      "distance_miles": 21.0,
       "to": "Alderney",
       "to_code": "ACI",
       "check_in_desk": "16-17"
@@ -337,7 +337,7 @@
       "scheduled_time": "2026-08-24T12:25:00",
       "flight_number": "EZY142",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 04-07",
       "distance_miles": null,
       "to": "Belfast Intl",
       "to_code": "BFS",

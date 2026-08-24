@@ -1,104 +1,55 @@
 {
-  "fetched_at": "2026-08-23T06:22:47+00:00",
+  "fetched_at": "2026-08-24T06:35:56+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
-      "title": "The Big Pilgrimage 2026",
-      "venue": "Mayflower Park",
-      "time": "2026-08-23T06:20:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-big-pilgrimage-2026/",
-      "source": "hellosouthampton"
-    },
-    {
       "title": "Nature Guardian Quest 2026",
       "venue": "Itchen Valley Country Park",
-      "time": "2026-08-23T08:30:00Z",
+      "time": "2026-08-24T08:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/nature-guardian-quest-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "Zoofest 2026: Summer Holiday Fun at Marwell Zoo",
       "venue": "Marwell Zoo",
-      "time": "2026-08-23T09:00:00Z",
+      "time": "2026-08-24T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/zoofest-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "I Spy Trail 2026",
       "venue": "Royal Victoria Country Park",
-      "time": "2026-08-23T09:00:00Z",
+      "time": "2026-08-24T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/i-spy-trail-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "Summer Fun at Manor Farm 2026",
       "venue": "Manor Farm",
-      "time": "2026-08-23T09:00:00Z",
+      "time": "2026-08-24T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/summer-fun-at-manor-farm-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "Summer Garden Games 2026",
       "venue": "\u200bExbury Gardens & Steam Railway",
-      "time": "2026-08-23T09:00:00Z",
+      "time": "2026-08-24T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/summer-garden-games-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Simply Aston Martin 2026",
-      "venue": "National Motor Museum",
-      "time": "2026-08-23T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/simply-aston-martin-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "Pony Magic Summer at the Farm!",
       "venue": "Manor Farm",
-      "time": "2026-08-23T09:30:00Z",
+      "time": "2026-08-24T09:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/pony-magic-summer-at-the-farm/",
       "source": "hellosouthampton"
     },
     {
       "title": "RollerLand at Westquay 2026",
       "venue": "The Esplanade",
-      "time": "2026-08-23T10:00:00Z",
+      "time": "2026-08-24T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/rollerland-at-westquay/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Push & Play Hoglands 2026",
-      "venue": "Hoglands Park",
-      "time": "2026-08-23T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/push-play-hoglands-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Family Fun Chocolate Making Workshop 2026",
-      "venue": "Sir Harold Hillier Gardens",
-      "time": "2026-08-23T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/family-fun-chocolate-making-workshop-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "KAPOW & SWF Wrestling Live at The Hobbit Pub 2026",
-      "venue": "The Hobbit Pub",
-      "time": "2026-08-23T13:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/kapow-swf-wrestling-live-at-the-hobbit-pub-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Solstice Live at The 1865",
-      "venue": "The 1865",
-      "time": "2026-08-23T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/solstice-live-at-the-1865/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Michael Cera Palin Live at Heartbreakers Southampton",
-      "venue": "Heartbreakers",
-      "time": "2026-08-23T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/michael-cera-palin-live-at-heartbreakers-southampton/",
       "source": "hellosouthampton"
     },
     {
@@ -148,6 +99,13 @@
       "venue": "Colden Common Community Centre",
       "time": "2026-08-27T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/amateur-art-craft-exhibition/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Fun Fair at Southampton Common",
+      "venue": "Southampton Common",
+      "time": "2026-08-27T12:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/fun-fair-at-southampton-common/",
       "source": "hellosouthampton"
     },
     {
@@ -233,6 +191,13 @@
       "venue": "Novotel Southampton",
       "time": "2026-08-29T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/hampshire-card-show/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Summer Craft Fair at The Bunker",
+      "venue": "The Bunker",
+      "time": "2026-08-29T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/summer-craft-fair-at-the-bunker/",
       "source": "hellosouthampton"
     },
     {
@@ -327,10 +292,31 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Eastleigh\u2019s Big Summer Send Off 2026",
+      "venue": "Eastleigh Town Centre",
+      "time": "2026-08-31T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/eastleighs-big-summer-send-off-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Inflataplanet\u2019s BIG Bounce Tour Southampton 2026",
       "venue": "Riverside Park",
       "time": "2026-08-31T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/inflataplanets-big-bounce-tour-southampton-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Pre-Loved Fair 2026 at The Bunker",
+      "venue": "The Bunker",
+      "time": "2026-08-31T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/pre-loved-fair-2026-at-the-bunker/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Bank Holiday Bash at Dancing Man Brewery",
+      "venue": "Dancing Man Brewery",
+      "time": "2026-08-31T14:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/bank-holiday-bash-at-dancing-man-brewery/",
       "source": "hellosouthampton"
     },
     {

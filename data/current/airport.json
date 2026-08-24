@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T14:41:31+00:00",
+  "fetched_at": "2026-08-24T15:38:52+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -67,7 +67,7 @@
       "scheduled_time": "2026-08-24T15:45:00",
       "flight_number": "EI3606",
       "airline": "Aer Lingus",
-      "status": "Expected 15:45",
+      "status": "Arrived 15:46. Bags at carousel 3",
       "distance_miles": null,
       "from": "Belfast City",
       "from_code": "BHD"
@@ -77,7 +77,7 @@
       "scheduled_time": "2026-08-24T16:20:00",
       "flight_number": "LM555",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Arrived 16:06. Bags at carousel 1",
       "distance_miles": null,
       "from": "Jersey",
       "from_code": "JER"
@@ -88,7 +88,7 @@
       "flight_number": "EI3304",
       "airline": "Aer Lingus",
       "status": "Expected 16:50",
-      "distance_miles": 267.6,
+      "distance_miles": 69.3,
       "from": "Dublin",
       "from_code": "DUB"
     },
@@ -246,7 +246,7 @@
       "flight_number": "LM326",
       "airline": "Loganair",
       "status": "Airborne 15:23",
-      "distance_miles": null,
+      "distance_miles": 248.1,
       "to": "Edinburgh",
       "to_code": "EDI",
       "check_in_desk": "13-15"
@@ -256,8 +256,8 @@
       "scheduled_time": "2026-08-24T16:15:00",
       "flight_number": "EI3607",
       "airline": "Aer Lingus",
-      "status": "Check In Open  Desks 08-09",
-      "distance_miles": null,
+      "status": "Airborne 16:26",
+      "distance_miles": 69.3,
       "to": "Belfast City",
       "to_code": "BHD",
       "check_in_desk": "08-09"
@@ -267,11 +267,11 @@
       "scheduled_time": "2026-08-24T16:50:00",
       "flight_number": "LM556",
       "airline": "Loganair",
-      "status": "Check In Open  Desks 12-15",
+      "status": "Final Call to Gate 4",
       "distance_miles": null,
       "to": "Jersey",
       "to_code": "JER",
-      "check_in_desk": "12-15"
+      "check_in_desk": "14-15"
     },
     {
       "time": "2026-08-24T17:20:00",
@@ -289,7 +289,7 @@
       "scheduled_time": "2026-08-24T17:55:00",
       "flight_number": "EJU7518",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 06-07",
       "distance_miles": null,
       "to": "Faro",
       "to_code": "FAO",
@@ -300,7 +300,7 @@
       "scheduled_time": "2026-08-24T18:05:00",
       "flight_number": "KL1072",
       "airline": "KLM",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 12-13",
       "distance_miles": null,
       "to": "Amsterdam",
       "to_code": "AMS",

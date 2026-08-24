@@ -1,26 +1,8 @@
 {
-  "fetched_at": "2026-08-24T12:20:17+00:00",
+  "fetched_at": "2026-08-24T16:20:48+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "DISNEY DREAM",
-      "berth": "102",
-      "arrival": {
-        "date": "2026-08-24",
-        "time": "2026-08-24T05:01:00Z"
-      },
-      "departure": {
-        "date": "2026-08-24",
-        "time": "2026-08-24T16:00:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9434254",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Disney-Dream-548",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=DISNEY%20DREAM%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "AIDAPERLA",
       "berth": "46",
@@ -112,6 +94,42 @@
       }
     },
     {
+      "ship_name": "DISNEY DREAM",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-08-28",
+        "time": "2026-08-28T04:30:00Z"
+      },
+      "departure": {
+        "date": "2026-08-28",
+        "time": "2026-08-28T16:00:00Z"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9434254",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Disney-Dream-548",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=DISNEY%20DREAM%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "BRITANNIA",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-08-28",
+        "time": "2026-08-28T05:00:00Z"
+      },
+      "departure": {
+        "date": "2026-08-28",
+        "time": "2026-08-28T15:00:00Z"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614036",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Britannia-1028",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BRITANNIA%20cruise%20ship"
+      }
+    },
+    {
       "ship_name": "BOREALIS",
       "berth": "101",
       "arrival": {
@@ -129,46 +147,6 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9122552",
         "cruisemapper_url": null,
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BOREALIS%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "BRITANNIA",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-08-28",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "departure": {
-        "date": "2026-08-28",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614036",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Britannia-1028",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BRITANNIA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "DISNEY DREAM",
-      "berth": "102",
-      "arrival": {
-        "date": "2026-08-28",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "departure": {
-        "date": "2026-08-28",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9434254",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Disney-Dream-548",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=DISNEY%20DREAM%20cruise%20ship"
       }
     },
     {
@@ -272,13 +250,11 @@
       "berth": "46",
       "arrival": {
         "date": "2026-08-30",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-08-30T04:45:00Z"
       },
       "departure": {
         "date": "2026-08-30",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-08-30T16:00:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {
@@ -292,13 +268,11 @@
       "berth": "106",
       "arrival": {
         "date": "2026-08-30",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-08-30T04:45:00Z"
       },
       "departure": {
         "date": "2026-08-30",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-08-30T15:00:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {
@@ -312,13 +286,11 @@
       "berth": "102",
       "arrival": {
         "date": "2026-08-31",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-08-31T05:00:00Z"
       },
       "departure": {
         "date": "2026-08-31",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-08-31T15:00:00Z"
       },
       "agent": "DENHOLM PORT SERVICES LTD",
       "links": {

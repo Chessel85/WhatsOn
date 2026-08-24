@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T11:02:09+00:00",
+  "fetched_at": "2026-08-24T11:54:40+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -97,7 +97,7 @@
       "scheduled_time": "2026-08-24T12:05:00",
       "flight_number": "EI3604",
       "airline": "Aer Lingus",
-      "status": "Expected 12:05",
+      "status": "Arrived 12:03. Bags at carousel 3",
       "distance_miles": null,
       "from": "Belfast City",
       "from_code": "BHD"
@@ -107,7 +107,7 @@
       "scheduled_time": "2026-08-24T12:45:00",
       "flight_number": "GR656",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Arrived 12:24",
       "distance_miles": null,
       "from": "Guernsey",
       "from_code": "GCI"
@@ -337,8 +337,8 @@
       "scheduled_time": "2026-08-24T12:25:00",
       "flight_number": "EZY142",
       "airline": "easyJet",
-      "status": "Final Call to Gate 3",
-      "distance_miles": null,
+      "status": "Airborne 12:23",
+      "distance_miles": 157.5,
       "to": "Belfast Intl",
       "to_code": "BFS",
       "check_in_desk": "04-07"
@@ -348,7 +348,7 @@
       "scheduled_time": "2026-08-24T12:35:00",
       "flight_number": "EI3605",
       "airline": "Aer Lingus",
-      "status": "Go to Gate 8",
+      "status": "Airborne 12:45",
       "distance_miles": null,
       "to": "Belfast City",
       "to_code": "BHD",
@@ -359,7 +359,7 @@
       "scheduled_time": "2026-08-24T13:15:00",
       "flight_number": "GR657",
       "airline": "Aurigny",
-      "status": "Check In Open  Desks 16-17",
+      "status": "Gate Closed",
       "distance_miles": null,
       "to": "Guernsey",
       "to_code": "GCI",
@@ -370,11 +370,11 @@
       "scheduled_time": "2026-08-24T14:25:00",
       "flight_number": "LM540",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 14-16",
       "distance_miles": null,
       "to": "Newcastle",
       "to_code": "NCL",
-      "check_in_desk": null
+      "check_in_desk": "14-16"
     },
     {
       "time": "2026-08-24T14:55:00",
@@ -392,11 +392,11 @@
       "scheduled_time": "2026-08-24T15:00:00",
       "flight_number": "LM326",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 13-15",
       "distance_miles": null,
       "to": "Edinburgh",
       "to_code": "EDI",
-      "check_in_desk": null
+      "check_in_desk": "13-15"
     },
     {
       "time": "2026-08-24T16:15:00",

@@ -112,3 +112,4 @@ fetched_at,temperature_c,feels_like_c,condition,wind_speed_mph,precipitation_mm
 2026-08-24T04:50:08+00:00,14.6,12.8,Clear sky,6.5,0.0
 2026-08-24T05:41:21+00:00,14.2,12.2,Clear sky,7.4,0.0
 2026-08-24T07:06:21+00:00,14.6,12.4,Mainly clear,8.7,0.0
+2026-08-24T08:53:17+00:00,16.3,14.1,Overcast,9.6,0.0

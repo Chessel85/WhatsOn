@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T22:55:27+00:00",
+  "fetched_at": "2026-08-24T23:23:06+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -131,31 +131,19 @@
       "distance_miles": null,
       "from": "Alderney",
       "from_code": "ACI"
+    },
+    {
+      "time": "2026-08-25T12:05:00",
+      "scheduled_time": "2026-08-25T12:05:00",
+      "flight_number": "EI3604",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Belfast City",
+      "from_code": "BHD"
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-24T17:55:00",
-      "scheduled_time": "2026-08-24T17:55:00",
-      "flight_number": "EJU7518",
-      "airline": "easyJet",
-      "status": "Airborne 17:59",
-      "distance_miles": null,
-      "to": "Faro",
-      "to_code": "FAO",
-      "check_in_desk": "06-07"
-    },
-    {
-      "time": "2026-08-24T18:05:00",
-      "scheduled_time": "2026-08-24T18:05:00",
-      "flight_number": "KL1072",
-      "airline": "KLM",
-      "status": "Airborne 18:09",
-      "distance_miles": null,
-      "to": "Amsterdam",
-      "to_code": "AMS",
-      "check_in_desk": "12-13"
-    },
     {
       "time": "2026-08-24T19:40:00",
       "scheduled_time": "2026-08-24T19:40:00",

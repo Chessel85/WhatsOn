@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T13:29:28+00:00",
+  "fetched_at": "2026-08-24T07:16:22+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -375,9 +375,9 @@
       "name": "AFC Bournemouth",
       "league": {
         "competition": "Premier League",
-        "position": 8,
+        "position": 13,
         "points": 0,
-        "played": 0,
+        "played": 1,
         "remaining": 37
       },
       "cups": [],
@@ -642,7 +642,18 @@
           "competition": "Premier League"
         }
       ],
-      "past_results": []
+      "past_results": [
+        {
+          "date": "2026-08-23T13:00Z",
+          "opponent": "Manchester City",
+          "home_away": "away",
+          "venue": "Etihad Stadium",
+          "competition": "Premier League",
+          "goals_for": 1,
+          "goals_against": 2,
+          "outcome": "L"
+        }
+      ]
     },
     {
       "id": "eastleigh",

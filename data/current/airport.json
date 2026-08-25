@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T02:38:55+00:00",
+  "fetched_at": "2026-08-25T03:48:43+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -131,6 +131,26 @@
       "distance_miles": null,
       "from": "Guernsey",
       "from_code": "GCI"
+    },
+    {
+      "time": "2026-08-25T15:45:00",
+      "scheduled_time": "2026-08-25T15:45:00",
+      "flight_number": "EI3606",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Belfast City",
+      "from_code": "BHD"
+    },
+    {
+      "time": "2026-08-25T16:20:00",
+      "scheduled_time": "2026-08-25T16:20:00",
+      "flight_number": "LM555",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Jersey",
+      "from_code": "JER"
     }
   ],
   "departures": [
@@ -276,6 +296,17 @@
       "to": "Guernsey",
       "to_code": "GCI",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-25T16:15:00",
+      "scheduled_time": "2026-08-25T16:15:00",
+      "flight_number": "EI3607",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Belfast City",
+      "to_code": "BHD",
+      "check_in_desk": null
     }
   ],
   "rotations": [
@@ -394,6 +425,15 @@
       "departure_flight_number": "GR657",
       "departure_time": "2026-08-25T15:15:00",
       "departure_to": "Guernsey",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EI3606",
+      "arrival_time": "2026-08-25T15:45:00",
+      "arrival_from": "Belfast City",
+      "departure_flight_number": "EI3607",
+      "departure_time": "2026-08-25T16:15:00",
+      "departure_to": "Belfast City",
       "turnaround_minutes": 30
     }
   ]

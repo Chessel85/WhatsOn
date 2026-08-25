@@ -1,69 +1,55 @@
 {
-  "fetched_at": "2026-08-24T06:35:56+00:00",
+  "fetched_at": "2026-08-25T06:26:58+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
       "title": "Nature Guardian Quest 2026",
       "venue": "Itchen Valley Country Park",
-      "time": "2026-08-24T08:30:00Z",
+      "time": "2026-08-25T08:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/nature-guardian-quest-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "Zoofest 2026: Summer Holiday Fun at Marwell Zoo",
       "venue": "Marwell Zoo",
-      "time": "2026-08-24T09:00:00Z",
+      "time": "2026-08-25T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/zoofest-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "I Spy Trail 2026",
       "venue": "Royal Victoria Country Park",
-      "time": "2026-08-24T09:00:00Z",
+      "time": "2026-08-25T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/i-spy-trail-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "Summer Fun at Manor Farm 2026",
       "venue": "Manor Farm",
-      "time": "2026-08-24T09:00:00Z",
+      "time": "2026-08-25T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/summer-fun-at-manor-farm-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "Summer Garden Games 2026",
       "venue": "\u200bExbury Gardens & Steam Railway",
-      "time": "2026-08-24T09:00:00Z",
+      "time": "2026-08-25T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/summer-garden-games-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "Pony Magic Summer at the Farm!",
       "venue": "Manor Farm",
-      "time": "2026-08-24T09:30:00Z",
+      "time": "2026-08-25T09:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/pony-magic-summer-at-the-farm/",
       "source": "hellosouthampton"
     },
     {
       "title": "RollerLand at Westquay 2026",
       "venue": "The Esplanade",
-      "time": "2026-08-24T10:00:00Z",
+      "time": "2026-08-25T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/rollerland-at-westquay/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Max\u2019s Records Presents: Monkeygun, Ariel & More at Heartbreakers",
-      "venue": "Heartbreakers",
-      "time": "2026-08-24T17:15:00Z",
-      "url": "https://hellosouthampton.co.uk/events/maxs-records-presents-monkeygun-ariel-more-at-heartbreakers/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Gogol Bordello Live in Southampton",
-      "venue": "The 1865",
-      "time": "2026-08-24T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/gogol-bordello-live-in-southampton/",
       "source": "hellosouthampton"
     },
     {
@@ -261,6 +247,13 @@
       "venue": "Hanger Farm",
       "time": "2026-08-29T18:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/fire-and-rain-american-pie-live-at-hanger-farm-arts-centre/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Shirley Swimming Pool Car Boot Sale",
+      "venue": "Shirley Swimming Pool",
+      "time": "2026-08-30T11:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/shirley-swimming-pool-car-boot-sale/",
       "source": "hellosouthampton"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T04:38:46+00:00",
+  "fetched_at": "2026-08-25T05:31:13+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -190,11 +190,11 @@
       "scheduled_time": "2026-08-25T08:25:00",
       "flight_number": "LM552",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 14-15",
       "distance_miles": null,
       "to": "Jersey",
       "to_code": "JER",
-      "check_in_desk": null
+      "check_in_desk": "14-15"
     },
     {
       "time": "2026-08-25T08:55:00",
@@ -212,11 +212,11 @@
       "scheduled_time": "2026-08-25T08:55:00",
       "flight_number": "EI3601",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 08-09",
       "distance_miles": null,
       "to": "Belfast City",
       "to_code": "BHD",
-      "check_in_desk": null
+      "check_in_desk": "08-09"
     },
     {
       "time": "2026-08-25T09:15:00",
@@ -234,11 +234,11 @@
       "scheduled_time": "2026-08-25T09:15:00",
       "flight_number": "EI3301",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 08-09",
       "distance_miles": null,
       "to": "Dublin",
       "to_code": "DUB",
-      "check_in_desk": null
+      "check_in_desk": "08-09"
     },
     {
       "time": "2026-08-25T11:20:00",
@@ -348,6 +348,28 @@
       "distance_miles": null,
       "to": "Dublin",
       "to_code": "DUB",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-25T17:55:00",
+      "scheduled_time": "2026-08-25T17:55:00",
+      "flight_number": "LM540",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Newcastle",
+      "to_code": "NCL",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-25T18:05:00",
+      "scheduled_time": "2026-08-25T18:05:00",
+      "flight_number": "KL1072",
+      "airline": "KLM",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Amsterdam",
+      "to_code": "AMS",
       "check_in_desk": null
     }
   ],
@@ -494,6 +516,15 @@
       "departure_flight_number": "EI3305",
       "departure_time": "2026-08-25T17:20:00",
       "departure_to": "Dublin",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "KL1071",
+      "arrival_time": "2026-08-25T17:35:00",
+      "arrival_from": "Amsterdam",
+      "departure_flight_number": "KL1072",
+      "departure_time": "2026-08-25T18:05:00",
+      "departure_to": "Amsterdam",
       "turnaround_minutes": 30
     }
   ]

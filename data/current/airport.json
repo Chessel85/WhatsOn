@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T09:34:43+00:00",
+  "fetched_at": "2026-08-25T10:32:44+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -67,7 +67,7 @@
       "scheduled_time": "2026-08-25T10:40:00",
       "flight_number": "GR501",
       "airline": "Aurigny",
-      "status": "Arrived 10:24",
+      "status": "Arrived 10:24. Bags at carousel 2",
       "distance_miles": null,
       "from": "Alderney",
       "from_code": "ACI"
@@ -77,8 +77,8 @@
       "scheduled_time": "2026-08-25T12:05:00",
       "flight_number": "EI3604",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
-      "distance_miles": null,
+      "status": "Expected 12:05",
+      "distance_miles": 118.3,
       "from": "Belfast City",
       "from_code": "BHD"
     },
@@ -264,7 +264,7 @@
       "flight_number": "EI3301",
       "airline": "Aer Lingus",
       "status": "Airborne 09:36",
-      "distance_miles": 252.3,
+      "distance_miles": null,
       "to": "Dublin",
       "to_code": "DUB",
       "check_in_desk": "08-09"
@@ -275,7 +275,7 @@
       "flight_number": "KL1070",
       "airline": "KLM",
       "status": "Airborne 09:43",
-      "distance_miles": 206.1,
+      "distance_miles": null,
       "to": "Amsterdam",
       "to_code": "AMS",
       "check_in_desk": "12-13"
@@ -285,7 +285,7 @@
       "scheduled_time": "2026-08-25T11:20:00",
       "flight_number": "GR502",
       "airline": "Aurigny",
-      "status": "Check In Open  Desks 16-17",
+      "status": "Airborne 10:53",
       "distance_miles": null,
       "to": "Alderney",
       "to_code": "ACI",
@@ -318,11 +318,11 @@
       "scheduled_time": "2026-08-25T14:25:00",
       "flight_number": "TOM3200",
       "airline": "TUI Airways",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 11-13",
       "distance_miles": null,
       "to": "Palma",
       "to_code": "PMI",
-      "check_in_desk": null
+      "check_in_desk": "11-13"
     },
     {
       "time": "2026-08-25T14:55:00",

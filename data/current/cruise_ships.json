@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T12:20:50+00:00",
+  "fetched_at": "2026-08-25T16:21:50+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -280,6 +280,24 @@
       }
     },
     {
+      "ship_name": "LIBERTY OF THE SEAS",
+      "berth": "101",
+      "arrival": {
+        "date": "2026-08-31",
+        "time": "2026-08-31T04:15:00Z"
+      },
+      "departure": {
+        "date": "2026-08-31",
+        "time": "2026-08-31T16:00:00Z"
+      },
+      "agent": "Intercruises Shoreside & Port",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9330032",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Liberty-Of-The-Seas-731",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=LIBERTY%20OF%20THE%20SEAS%20cruise%20ship"
+      }
+    },
+    {
       "ship_name": "DISNEY DREAM",
       "berth": "102",
       "arrival": {
@@ -295,26 +313,6 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9434254",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Disney-Dream-548",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=DISNEY%20DREAM%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "LIBERTY OF THE SEAS",
-      "berth": "101",
-      "arrival": {
-        "date": "2026-08-31",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "departure": {
-        "date": "2026-08-31",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "agent": "Intercruises Shoreside & Port",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9330032",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Liberty-Of-The-Seas-731",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=LIBERTY%20OF%20THE%20SEAS%20cruise%20ship"
       }
     },
     {

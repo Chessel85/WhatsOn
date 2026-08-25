@@ -1,44 +1,8 @@
 {
-  "fetched_at": "2026-08-25T16:21:50+00:00",
+  "fetched_at": "2026-08-25T20:14:03+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "AIDAPERLA",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-08-25",
-        "time": "2026-08-25T04:54:00Z"
-      },
-      "departure": {
-        "date": "2026-08-25",
-        "time": "2026-08-25T18:00:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9636967",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/AIDAperla-1243",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=AIDAPERLA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "QUEEN MARY 2",
-      "berth": "38/9",
-      "arrival": {
-        "date": "2026-08-25",
-        "time": "2026-08-25T05:19:00Z"
-      },
-      "departure": {
-        "date": "2026-08-25",
-        "time": "2026-08-25T17:00:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9241061",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Queen-Mary-2-721",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=QUEEN%20MARY%202%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "MAJESTIC PRINCESS",
       "berth": "46",

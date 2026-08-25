@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T23:28:42+00:00",
+  "fetched_at": "2026-08-25T23:51:28+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -254,6 +254,17 @@
       "to": "Alderney",
       "to_code": "ACI",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-26T12:35:00",
+      "scheduled_time": "2026-08-26T12:35:00",
+      "flight_number": "EI3605",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Belfast City",
+      "to_code": "BHD",
+      "check_in_desk": null
     }
   ],
   "rotations": [
@@ -355,6 +366,15 @@
       "departure_time": "2026-08-26T11:20:00",
       "departure_to": "Alderney",
       "turnaround_minutes": 40
+    },
+    {
+      "arrival_flight_number": "EI3604",
+      "arrival_time": "2026-08-26T12:05:00",
+      "arrival_from": "Belfast City",
+      "departure_flight_number": "EI3605",
+      "departure_time": "2026-08-26T12:35:00",
+      "departure_to": "Belfast City",
+      "turnaround_minutes": 30
     }
   ]
 }

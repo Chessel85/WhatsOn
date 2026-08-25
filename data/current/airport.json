@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T10:32:44+00:00",
+  "fetched_at": "2026-08-25T11:27:16+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -77,8 +77,8 @@
       "scheduled_time": "2026-08-25T12:05:00",
       "flight_number": "EI3604",
       "airline": "Aer Lingus",
-      "status": "Expected 12:05",
-      "distance_miles": 118.3,
+      "status": "On Approach",
+      "distance_miles": null,
       "from": "Belfast City",
       "from_code": "BHD"
     },
@@ -87,7 +87,7 @@
       "scheduled_time": "2026-08-25T12:55:00",
       "flight_number": "TOM3201",
       "airline": "TUI Airways",
-      "status": "Scheduled",
+      "status": "Expected 12:55",
       "distance_miles": null,
       "from": "Palma",
       "from_code": "PMI"
@@ -261,17 +261,6 @@
     {
       "time": "2026-08-25T09:15:00",
       "scheduled_time": "2026-08-25T09:15:00",
-      "flight_number": "EI3301",
-      "airline": "Aer Lingus",
-      "status": "Airborne 09:36",
-      "distance_miles": null,
-      "to": "Dublin",
-      "to_code": "DUB",
-      "check_in_desk": "08-09"
-    },
-    {
-      "time": "2026-08-25T09:15:00",
-      "scheduled_time": "2026-08-25T09:15:00",
       "flight_number": "KL1070",
       "airline": "KLM",
       "status": "Airborne 09:43",
@@ -279,6 +268,17 @@
       "to": "Amsterdam",
       "to_code": "AMS",
       "check_in_desk": "12-13"
+    },
+    {
+      "time": "2026-08-25T09:15:00",
+      "scheduled_time": "2026-08-25T09:15:00",
+      "flight_number": "EI3301",
+      "airline": "Aer Lingus",
+      "status": "Airborne 09:36",
+      "distance_miles": null,
+      "to": "Dublin",
+      "to_code": "DUB",
+      "check_in_desk": "08-09"
     },
     {
       "time": "2026-08-25T11:20:00",
@@ -296,7 +296,7 @@
       "scheduled_time": "2026-08-25T12:35:00",
       "flight_number": "EI3605",
       "airline": "Aer Lingus",
-      "status": "Check In Open  Desks 08-09",
+      "status": "Go to Gate 7",
       "distance_miles": null,
       "to": "Belfast City",
       "to_code": "BHD",
@@ -307,11 +307,11 @@
       "scheduled_time": "2026-08-25T14:15:00",
       "flight_number": "EJU7120",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 04-07",
       "distance_miles": null,
       "to": "Barcelona",
       "to_code": "BCN",
-      "check_in_desk": null
+      "check_in_desk": "04-07"
     },
     {
       "time": "2026-08-25T14:25:00",
@@ -484,15 +484,6 @@
       "turnaround_minutes": 30
     },
     {
-      "arrival_flight_number": "EI3300",
-      "arrival_time": "2026-08-25T08:40:00",
-      "arrival_from": "Dublin",
-      "departure_flight_number": "EI3301",
-      "departure_time": "2026-08-25T09:15:00",
-      "departure_to": "Dublin",
-      "turnaround_minutes": 35
-    },
-    {
       "arrival_flight_number": "KL1069",
       "arrival_time": "2026-08-25T08:45:00",
       "arrival_from": "Amsterdam",
@@ -500,6 +491,15 @@
       "departure_time": "2026-08-25T09:15:00",
       "departure_to": "Amsterdam",
       "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EI3300",
+      "arrival_time": "2026-08-25T08:40:00",
+      "arrival_from": "Dublin",
+      "departure_flight_number": "EI3301",
+      "departure_time": "2026-08-25T09:15:00",
+      "departure_to": "Dublin",
+      "turnaround_minutes": 35
     },
     {
       "arrival_flight_number": "GR501",

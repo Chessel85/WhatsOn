@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T15:41:37+00:00",
+  "fetched_at": "2026-08-25T16:36:57+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -87,7 +87,7 @@
       "scheduled_time": "2026-08-25T16:50:00",
       "flight_number": "EI3304",
       "airline": "Aer Lingus",
-      "status": "Expected 16:50",
+      "status": "Arrived 16:47. Bags at carousel 2",
       "distance_miles": null,
       "from": "Dublin",
       "from_code": "DUB"
@@ -97,7 +97,7 @@
       "scheduled_time": "2026-08-25T17:35:00",
       "flight_number": "KL1071",
       "airline": "KLM",
-      "status": "Scheduled",
+      "status": "Arrived 17:25",
       "distance_miles": null,
       "from": "Amsterdam",
       "from_code": "AMS"
@@ -144,17 +144,6 @@
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-25T11:20:00",
-      "scheduled_time": "2026-08-25T11:20:00",
-      "flight_number": "GR502",
-      "airline": "Aurigny",
-      "status": "Airborne 10:53",
-      "distance_miles": null,
-      "to": "Alderney",
-      "to_code": "ACI",
-      "check_in_desk": "16-17"
-    },
     {
       "time": "2026-08-25T12:35:00",
       "scheduled_time": "2026-08-25T12:35:00",
@@ -205,7 +194,7 @@
       "flight_number": "LM326",
       "airline": "Loganair",
       "status": "Airborne 15:30",
-      "distance_miles": 239.4,
+      "distance_miles": null,
       "to": "Edinburgh",
       "to_code": "EDI",
       "check_in_desk": "15"
@@ -237,7 +226,7 @@
       "scheduled_time": "2026-08-25T16:50:00",
       "flight_number": "LM556",
       "airline": "Loganair",
-      "status": "Gate Closed",
+      "status": "Airborne 16:56",
       "distance_miles": null,
       "to": "Jersey",
       "to_code": "JER",
@@ -248,7 +237,7 @@
       "scheduled_time": "2026-08-25T17:20:00",
       "flight_number": "EI3305",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Departed 17:20",
       "distance_miles": null,
       "to": "Dublin",
       "to_code": "DUB",
@@ -259,7 +248,7 @@
       "scheduled_time": "2026-08-25T17:55:00",
       "flight_number": "LM540",
       "airline": "Loganair",
-      "status": "Check In Open  Desks 14-15",
+      "status": "Boarding at Gate 4",
       "distance_miles": null,
       "to": "Newcastle",
       "to_code": "NCL",
@@ -270,7 +259,7 @@
       "scheduled_time": "2026-08-25T18:05:00",
       "flight_number": "KL1072",
       "airline": "KLM",
-      "status": "Check In Open  Desks 12-13",
+      "status": "Gate Closed",
       "distance_miles": null,
       "to": "Amsterdam",
       "to_code": "AMS",
@@ -303,11 +292,11 @@
       "scheduled_time": "2026-08-25T20:00:00",
       "flight_number": "EI3309",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 08-09",
       "distance_miles": null,
       "to": "Dublin",
       "to_code": "DUB",
-      "check_in_desk": null
+      "check_in_desk": "08-09"
     }
   ],
   "rotations": [

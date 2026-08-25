@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T07:31:07+00:00",
+  "fetched_at": "2026-08-25T07:10:33+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Morning Live",
-          "series_number": 8,
-          "start_time": "2026-08-24T08:30:00Z",
-          "synopsis": "Find out if you could be owed money for unclaimed premium bonds and whether there is a correct way to stack a dishwasher.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0030qgf"
-        },
         {
           "title": "Sister Boniface Mysteries",
           "series_number": 3,
@@ -29,6 +22,13 @@
           "start_time": "2026-08-30T20:00:00Z",
           "synopsis": "DCI Silva and DI Longacre investigate the murder of a British citizen in the Arctic, but they soon find themselves caught in an escalating political situation.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m002zl90"
+        },
+        {
+          "title": "Money for Nothing",
+          "series_number": 19,
+          "start_time": "2026-08-31T12:30:00Z",
+          "synopsis": "Expert upcycler Sarah Moore calls on woodworking legend Norman Wilkinson for his biggest ever challenge... a smashed-up organ. ",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m00310sr"
         }
       ]
     },
@@ -76,27 +76,6 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Limelight",
-          "series_number": null,
-          "start_time": "2026-08-24T22:00:00Z",
-          "synopsis": "After agreeing to help a mysterious stranger, young couple Jake and Kayla are implicated in an assassination at their hotel. A global thriller of espionage, money and murder.",
-          "url": "https://www.bbc.co.uk/sounds/play/m001pfp2"
-        },
-        {
-          "title": "Everything Is Fake",
-          "series_number": null,
-          "start_time": "2026-08-24T22:30:00Z",
-          "synopsis": "Podcasting has made some people famous very fast. Look closely at how they got there, and you see something revealing about the world we now live in. Jamie Bartlett investigates.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0n72wwt"
-        },
-        {
-          "title": "All the Beauty in the World by Patrick Bringley",
-          "series_number": null,
-          "start_time": "2026-08-24T23:30:00Z",
-          "synopsis": "A portrait of the Metropolitan Museum of Art in New York and the moving story of one guard's quest to find solace and meaning in art.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0p41nv4"
-        },
-        {
           "title": "The History Podcast",
           "series_number": null,
           "start_time": "2026-08-25T22:00:00Z",
@@ -115,7 +94,35 @@
           "series_number": null,
           "start_time": "2026-08-30T16:10:00Z",
           "synopsis": "Nathan Filer explores how the language of neurodiversity has evolved \u2013 offering a sense of belonging for many, while raising difficult questions about difference and diagnosis.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0p5gh92"
+          "url": "https://www.bbc.co.uk/sounds/play/m0030m4s"
+        },
+        {
+          "title": "Intrigue",
+          "series_number": null,
+          "start_time": "2026-08-31T12:45:00Z",
+          "synopsis": "When two young men with no English and no income want to rent a flat in San Diego, an Arabic-speaking neighbour offers help.",
+          "url": null
+        },
+        {
+          "title": "Unspeakable",
+          "series_number": 4,
+          "start_time": "2026-08-31T17:30:00Z",
+          "synopsis": "Phil Wang and Susie Dent challenge guests to invent new words and help create the new ultimate Unspeakable dictionary. With guests Jessie Cave, Armando Iannucci and Chloe Petts.",
+          "url": null
+        },
+        {
+          "title": "A Working Mother by Agnes Owens",
+          "series_number": null,
+          "start_time": "2026-08-31T21:45:00Z",
+          "synopsis": "Ten years after the Second World War, Betty is married to a troubled veteran who barely looks after their two children while she earns a wage.",
+          "url": null
+        },
+        {
+          "title": "You Do Not Have to Say Anything",
+          "series_number": null,
+          "start_time": "2026-08-31T23:30:00Z",
+          "synopsis": "From high-octane car chases (rare) to being arrested lying in your own bed (common), arrests mean the same thing - a shift from person to suspect, ordinary citizen to \u2018the accused\u2019",
+          "url": "https://www.bbc.co.uk/sounds/play/m00282h8"
         }
       ]
     },

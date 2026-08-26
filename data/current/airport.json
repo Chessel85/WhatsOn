@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T03:53:22+00:00",
+  "fetched_at": "2026-08-26T04:38:54+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -151,6 +151,16 @@
       "distance_miles": null,
       "from": "Jersey",
       "from_code": "JER"
+    },
+    {
+      "time": "2026-08-26T16:50:00",
+      "scheduled_time": "2026-08-26T16:50:00",
+      "flight_number": "EI3304",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Dublin",
+      "from_code": "DUB"
     }
   ],
   "departures": [
@@ -159,11 +169,11 @@
       "scheduled_time": "2026-08-26T06:50:00",
       "flight_number": "LM534",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 14-15",
       "distance_miles": null,
       "to": "Newcastle",
       "to_code": "NCL",
-      "check_in_desk": null
+      "check_in_desk": "14-15"
     },
     {
       "time": "2026-08-26T08:00:00",
@@ -318,6 +328,28 @@
       "to": "Belfast City",
       "to_code": "BHD",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-08-26T16:50:00",
+      "scheduled_time": "2026-08-26T16:50:00",
+      "flight_number": "LM556",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Jersey",
+      "to_code": "JER",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-08-26T17:20:00",
+      "scheduled_time": "2026-08-26T17:20:00",
+      "flight_number": "EI3305",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Dublin",
+      "to_code": "DUB",
+      "check_in_desk": null
     }
   ],
   "rotations": [
@@ -445,6 +477,24 @@
       "departure_flight_number": "EI3607",
       "departure_time": "2026-08-26T16:15:00",
       "departure_to": "Belfast City",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "LM555",
+      "arrival_time": "2026-08-26T16:20:00",
+      "arrival_from": "Jersey",
+      "departure_flight_number": "LM556",
+      "departure_time": "2026-08-26T16:50:00",
+      "departure_to": "Jersey",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "EI3304",
+      "arrival_time": "2026-08-26T16:50:00",
+      "arrival_from": "Dublin",
+      "departure_flight_number": "EI3305",
+      "departure_time": "2026-08-26T17:20:00",
+      "departure_to": "Dublin",
       "turnaround_minutes": 30
     }
   ]

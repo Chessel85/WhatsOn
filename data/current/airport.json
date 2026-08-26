@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T05:33:54+00:00",
+  "fetched_at": "2026-08-26T06:49:43+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -7,7 +7,7 @@
       "scheduled_time": "2026-08-26T07:30:00",
       "flight_number": "GR650",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Arrived 07:25",
       "distance_miles": null,
       "from": "Guernsey",
       "from_code": "GCI"
@@ -17,7 +17,7 @@
       "scheduled_time": "2026-08-26T08:05:00",
       "flight_number": "EI3300",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Expected 08:05",
       "distance_miles": null,
       "from": "Dublin",
       "from_code": "DUB"
@@ -25,22 +25,22 @@
     {
       "time": "2026-08-26T08:25:00",
       "scheduled_time": "2026-08-26T08:25:00",
-      "flight_number": "LM321",
-      "airline": "Loganair",
-      "status": "Scheduled",
+      "flight_number": "EI3600",
+      "airline": "Aer Lingus",
+      "status": "Expected 08:25",
       "distance_miles": null,
-      "from": "Edinburgh",
-      "from_code": "EDI"
+      "from": "Belfast City",
+      "from_code": "BHD"
     },
     {
       "time": "2026-08-26T08:25:00",
       "scheduled_time": "2026-08-26T08:25:00",
-      "flight_number": "EI3600",
-      "airline": "Aer Lingus",
-      "status": "Scheduled",
-      "distance_miles": null,
-      "from": "Belfast City",
-      "from_code": "BHD"
+      "flight_number": "LM321",
+      "airline": "Loganair",
+      "status": "Expected 08:25",
+      "distance_miles": 105.6,
+      "from": "Edinburgh",
+      "from_code": "EDI"
     },
     {
       "time": "2026-08-26T08:45:00",
@@ -171,6 +171,26 @@
       "distance_miles": null,
       "from": "Amsterdam",
       "from_code": "AMS"
+    },
+    {
+      "time": "2026-08-26T19:25:00",
+      "scheduled_time": "2026-08-26T19:25:00",
+      "flight_number": "GR658",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Guernsey",
+      "from_code": "GCI"
+    },
+    {
+      "time": "2026-08-26T19:30:00",
+      "scheduled_time": "2026-08-26T19:30:00",
+      "flight_number": "EI3308",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Dublin",
+      "from_code": "DUB"
     }
   ],
   "departures": [
@@ -179,7 +199,7 @@
       "scheduled_time": "2026-08-26T06:50:00",
       "flight_number": "LM534",
       "airline": "Loganair",
-      "status": "Gate Closed",
+      "status": "Airborne 06:49",
       "distance_miles": null,
       "to": "Newcastle",
       "to_code": "NCL",
@@ -190,22 +210,11 @@
       "scheduled_time": "2026-08-26T08:00:00",
       "flight_number": "GR651",
       "airline": "Aurigny",
-      "status": "Check In Open  Desks 16-17",
+      "status": "Final Call to Gate 8",
       "distance_miles": null,
       "to": "Guernsey",
       "to_code": "GCI",
       "check_in_desk": "16-17"
-    },
-    {
-      "time": "2026-08-26T08:55:00",
-      "scheduled_time": "2026-08-26T08:55:00",
-      "flight_number": "LM322",
-      "airline": "Loganair",
-      "status": "Scheduled",
-      "distance_miles": null,
-      "to": "Edinburgh",
-      "to_code": "EDI",
-      "check_in_desk": "13-15"
     },
     {
       "time": "2026-08-26T08:55:00",
@@ -219,22 +228,33 @@
       "check_in_desk": "08-09"
     },
     {
+      "time": "2026-08-26T08:55:00",
+      "scheduled_time": "2026-08-26T08:55:00",
+      "flight_number": "LM322",
+      "airline": "Loganair",
+      "status": "Check In Open  Desks 14-15",
+      "distance_miles": null,
+      "to": "Edinburgh",
+      "to_code": "EDI",
+      "check_in_desk": "14-15"
+    },
+    {
       "time": "2026-08-26T09:15:00",
       "scheduled_time": "2026-08-26T09:15:00",
       "flight_number": "KL1070",
       "airline": "KLM",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 12-13",
       "distance_miles": null,
       "to": "Amsterdam",
       "to_code": "AMS",
-      "check_in_desk": "11-13"
+      "check_in_desk": "12-13"
     },
     {
       "time": "2026-08-26T09:20:00",
       "scheduled_time": "2026-08-26T09:20:00",
       "flight_number": "EI3301",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 08-09",
       "distance_miles": null,
       "to": "Dublin",
       "to_code": "DUB",
@@ -384,21 +404,21 @@
       "turnaround_minutes": 30
     },
     {
-      "arrival_flight_number": "LM321",
-      "arrival_time": "2026-08-26T08:25:00",
-      "arrival_from": "Edinburgh",
-      "departure_flight_number": "LM322",
-      "departure_time": "2026-08-26T08:55:00",
-      "departure_to": "Edinburgh",
-      "turnaround_minutes": 30
-    },
-    {
       "arrival_flight_number": "EI3600",
       "arrival_time": "2026-08-26T08:25:00",
       "arrival_from": "Belfast City",
       "departure_flight_number": "EI3601",
       "departure_time": "2026-08-26T08:55:00",
       "departure_to": "Belfast City",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "LM321",
+      "arrival_time": "2026-08-26T08:25:00",
+      "arrival_from": "Edinburgh",
+      "departure_flight_number": "LM322",
+      "departure_time": "2026-08-26T08:55:00",
+      "departure_to": "Edinburgh",
       "turnaround_minutes": 30
     },
     {

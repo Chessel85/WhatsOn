@@ -1,28 +1,8 @@
 {
-  "fetched_at": "2026-08-25T05:29:46+00:00",
+  "fetched_at": "2026-08-26T05:32:14+00:00",
   "source": "https://easytide.admiralty.co.uk/",
   "location": "Southampton",
   "events": [
-    {
-      "event_type": "Low tide",
-      "time": "2026-08-25T02:37:00Z",
-      "height_m": 1.8
-    },
-    {
-      "event_type": "High tide",
-      "time": "2026-08-25T08:45:00Z",
-      "height_m": 3.9
-    },
-    {
-      "event_type": "Low tide",
-      "time": "2026-08-25T14:59:00Z",
-      "height_m": 1.8
-    },
-    {
-      "event_type": "High tide",
-      "time": "2026-08-25T20:59:00Z",
-      "height_m": 3.9
-    },
     {
       "event_type": "Low tide",
       "time": "2026-08-26T03:18:00Z",
@@ -137,11 +117,31 @@
       "event_type": "Low tide",
       "time": "2026-08-31T18:27:00Z",
       "height_m": 0.8
+    },
+    {
+      "event_type": "High tide",
+      "time": "2026-09-01T00:58:00Z",
+      "height_m": 4.6
+    },
+    {
+      "event_type": "Low tide",
+      "time": "2026-09-01T06:42:00Z",
+      "height_m": 0.7
+    },
+    {
+      "event_type": "High tide",
+      "time": "2026-09-01T13:24:00Z",
+      "height_m": 4.6
+    },
+    {
+      "event_type": "Low tide",
+      "time": "2026-09-01T19:02:00Z",
+      "height_m": 0.8
     }
   ],
   "tidal_cycle": {
     "type": "spring",
     "direction": "until",
-    "days": 3
+    "days": 2
   }
 }

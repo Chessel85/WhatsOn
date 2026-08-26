@@ -1,17 +1,7 @@
 {
-  "fetched_at": "2026-08-26T11:59:19+00:00",
+  "fetched_at": "2026-08-26T13:09:03+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-08-26T07:30:00",
-      "scheduled_time": "2026-08-26T07:30:00",
-      "flight_number": "GR650",
-      "airline": "Aurigny",
-      "status": "Arrived 07:25. Bags at carousel 2",
-      "distance_miles": null,
-      "from": "Guernsey",
-      "from_code": "GCI"
-    },
     {
       "time": "2026-08-26T08:05:00",
       "scheduled_time": "2026-08-26T08:05:00",
@@ -97,7 +87,7 @@
       "scheduled_time": "2026-08-26T13:40:00",
       "flight_number": "EJU4915",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Arrived 13:46. Bags at carousel 1",
       "distance_miles": null,
       "from": "Paris Orly",
       "from_code": "ORY"
@@ -107,7 +97,7 @@
       "scheduled_time": "2026-08-26T14:25:00",
       "flight_number": "GR505",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Expected 14:25",
       "distance_miles": null,
       "from": "Alderney",
       "from_code": "ACI"
@@ -117,8 +107,8 @@
       "scheduled_time": "2026-08-26T14:30:00",
       "flight_number": "LM325",
       "airline": "Loganair",
-      "status": "Scheduled",
-      "distance_miles": null,
+      "status": "Expected 14:30",
+      "distance_miles": 57.4,
       "from": "Edinburgh",
       "from_code": "EDI"
     },
@@ -205,17 +195,6 @@
   ],
   "departures": [
     {
-      "time": "2026-08-26T06:50:00",
-      "scheduled_time": "2026-08-26T06:50:00",
-      "flight_number": "LM534",
-      "airline": "Loganair",
-      "status": "Airborne 06:49",
-      "distance_miles": null,
-      "to": "Newcastle",
-      "to_code": "NCL",
-      "check_in_desk": "14-15"
-    },
-    {
       "time": "2026-08-26T08:00:00",
       "scheduled_time": "2026-08-26T08:00:00",
       "flight_number": "GR651",
@@ -298,7 +277,7 @@
       "flight_number": "EI3605",
       "airline": "Aer Lingus",
       "status": "Airborne 12:34",
-      "distance_miles": 84.7,
+      "distance_miles": null,
       "to": "Belfast City",
       "to_code": "BHD",
       "check_in_desk": "08-09"
@@ -308,7 +287,7 @@
       "scheduled_time": "2026-08-26T14:20:00",
       "flight_number": "EJU4916",
       "airline": "easyJet",
-      "status": "Check In Open  Desks 04-07",
+      "status": "Final Call to Gate 2",
       "distance_miles": null,
       "to": "Paris Orly",
       "to_code": "ORY",
@@ -319,7 +298,7 @@
       "scheduled_time": "2026-08-26T14:25:00",
       "flight_number": "LM540",
       "airline": "Loganair",
-      "status": "Check In Open  Desks 13-15",
+      "status": "Go to Gate 1",
       "distance_miles": null,
       "to": "Newcastle",
       "to_code": "NCL",
@@ -330,11 +309,11 @@
       "scheduled_time": "2026-08-26T14:55:00",
       "flight_number": "GR506",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 16-17",
       "distance_miles": null,
       "to": "Alderney",
       "to_code": "ACI",
-      "check_in_desk": null
+      "check_in_desk": "16-17"
     },
     {
       "time": "2026-08-26T15:00:00",
@@ -352,22 +331,22 @@
       "scheduled_time": "2026-08-26T15:15:00",
       "flight_number": "GR657",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 16-17",
       "distance_miles": null,
       "to": "Guernsey",
       "to_code": "GCI",
-      "check_in_desk": null
+      "check_in_desk": "16-17"
     },
     {
       "time": "2026-08-26T16:15:00",
       "scheduled_time": "2026-08-26T16:15:00",
       "flight_number": "EI3607",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 08-09",
       "distance_miles": null,
       "to": "Belfast City",
       "to_code": "BHD",
-      "check_in_desk": null
+      "check_in_desk": "08-09"
     },
     {
       "time": "2026-08-26T16:50:00",
@@ -389,7 +368,7 @@
       "distance_miles": null,
       "to": "Dublin",
       "to_code": "DUB",
-      "check_in_desk": null
+      "check_in_desk": "08-09"
     },
     {
       "time": "2026-08-26T18:05:00",
@@ -426,15 +405,6 @@
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "GR650",
-      "arrival_time": "2026-08-26T07:30:00",
-      "arrival_from": "Guernsey",
-      "departure_flight_number": "GR651",
-      "departure_time": "2026-08-26T08:00:00",
-      "departure_to": "Guernsey",
-      "turnaround_minutes": 30
-    },
     {
       "arrival_flight_number": "EI3600",
       "arrival_time": "2026-08-26T08:25:00",

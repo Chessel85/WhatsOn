@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T07:10:33+00:00",
+  "fetched_at": "2026-08-26T07:11:10+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -76,13 +76,6 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "The History Podcast",
-          "series_number": null,
-          "start_time": "2026-08-25T22:00:00Z",
-          "synopsis": "Hidden on page 1692 of his great-grandfather Siegfried\u2019s unpublished memoir, the writer Joe Dunthorne discovers a confession.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0m1hmmh"
-        },
-        {
           "title": "Broken Colours",
           "series_number": null,
           "start_time": "2026-08-26T13:15:00Z",
@@ -94,7 +87,7 @@
           "series_number": null,
           "start_time": "2026-08-30T16:10:00Z",
           "synopsis": "Nathan Filer explores how the language of neurodiversity has evolved \u2013 offering a sense of belonging for many, while raising difficult questions about difference and diagnosis.",
-          "url": "https://www.bbc.co.uk/sounds/play/m0030m4s"
+          "url": "https://www.bbc.co.uk/sounds/play/p0p5gh92"
         },
         {
           "title": "Intrigue",

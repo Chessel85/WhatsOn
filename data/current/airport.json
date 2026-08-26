@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T10:34:40+00:00",
+  "fetched_at": "2026-08-26T11:29:35+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -87,7 +87,7 @@
       "scheduled_time": "2026-08-26T12:05:00",
       "flight_number": "EI3604",
       "airline": "Aer Lingus",
-      "status": "Expected 12:05",
+      "status": "Arrived 11:50. Bags at carousel 3",
       "distance_miles": null,
       "from": "Belfast City",
       "from_code": "BHD"
@@ -276,7 +276,7 @@
       "flight_number": "EZY416",
       "airline": "easyJet",
       "status": "Airborne 11:03",
-      "distance_miles": 141.1,
+      "distance_miles": null,
       "to": "Glasgow",
       "to_code": "GLA",
       "check_in_desk": "04-07"
@@ -297,7 +297,7 @@
       "scheduled_time": "2026-08-26T12:35:00",
       "flight_number": "EI3605",
       "airline": "Aer Lingus",
-      "status": "Check In Open  Desks 08-09",
+      "status": "Departed 12:25",
       "distance_miles": null,
       "to": "Belfast City",
       "to_code": "BHD",
@@ -308,7 +308,7 @@
       "scheduled_time": "2026-08-26T14:20:00",
       "flight_number": "EJU4916",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 04-07",
       "distance_miles": null,
       "to": "Paris Orly",
       "to_code": "ORY",

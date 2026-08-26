@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T15:59:40+00:00",
+  "fetched_at": "2026-08-26T16:54:09+00:00",
   "source": "Southampton Airport",
   "arrivals": [
     {
@@ -87,7 +87,7 @@
       "scheduled_time": "2026-08-26T17:35:00",
       "flight_number": "KL1071",
       "airline": "KLM",
-      "status": "Expected 17:35",
+      "status": "Arrived 17:33",
       "distance_miles": null,
       "from": "Amsterdam",
       "from_code": "AMS"
@@ -124,28 +124,6 @@
     }
   ],
   "departures": [
-    {
-      "time": "2026-08-26T10:45:00",
-      "scheduled_time": "2026-08-26T10:45:00",
-      "flight_number": "EZY416",
-      "airline": "easyJet",
-      "status": "Airborne 11:03",
-      "distance_miles": null,
-      "to": "Glasgow",
-      "to_code": "GLA",
-      "check_in_desk": "04-07"
-    },
-    {
-      "time": "2026-08-26T11:20:00",
-      "scheduled_time": "2026-08-26T11:20:00",
-      "flight_number": "GR502",
-      "airline": "Aurigny",
-      "status": "Airborne 11:09",
-      "distance_miles": null,
-      "to": "Alderney",
-      "to_code": "ACI",
-      "check_in_desk": "16-17"
-    },
     {
       "time": "2026-08-26T12:35:00",
       "scheduled_time": "2026-08-26T12:35:00",
@@ -228,8 +206,8 @@
       "scheduled_time": "2026-08-26T16:50:00",
       "flight_number": "LM556",
       "airline": "Loganair",
-      "status": "Airborne 16:57",
-      "distance_miles": 14.0,
+      "status": "Airborne 16:55",
+      "distance_miles": null,
       "to": "Jersey",
       "to_code": "JER",
       "check_in_desk": "14-15"
@@ -239,7 +217,7 @@
       "scheduled_time": "2026-08-26T17:20:00",
       "flight_number": "EI3305",
       "airline": "Aer Lingus",
-      "status": "Boarding at Gate 8",
+      "status": "Airborne 17:21",
       "distance_miles": null,
       "to": "Dublin",
       "to_code": "DUB",
@@ -250,7 +228,7 @@
       "scheduled_time": "2026-08-26T18:05:00",
       "flight_number": "KL1072",
       "airline": "KLM",
-      "status": "Check In Open  Desks 12-13",
+      "status": "Final Call to Gate 3",
       "distance_miles": null,
       "to": "Amsterdam",
       "to_code": "AMS",
@@ -272,7 +250,7 @@
       "scheduled_time": "2026-08-26T20:00:00",
       "flight_number": "EI3309",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Check In Open  Desks 08-09",
       "distance_miles": null,
       "to": "Dublin",
       "to_code": "DUB",

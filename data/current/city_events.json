@@ -1,83 +1,55 @@
 {
-  "fetched_at": "2026-08-25T06:26:58+00:00",
+  "fetched_at": "2026-08-26T06:29:40+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
       "title": "Nature Guardian Quest 2026",
       "venue": "Itchen Valley Country Park",
-      "time": "2026-08-25T08:30:00Z",
+      "time": "2026-08-26T08:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/nature-guardian-quest-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "Zoofest 2026: Summer Holiday Fun at Marwell Zoo",
       "venue": "Marwell Zoo",
-      "time": "2026-08-25T09:00:00Z",
+      "time": "2026-08-26T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/zoofest-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "I Spy Trail 2026",
       "venue": "Royal Victoria Country Park",
-      "time": "2026-08-25T09:00:00Z",
+      "time": "2026-08-26T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/i-spy-trail-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "Summer Fun at Manor Farm 2026",
       "venue": "Manor Farm",
-      "time": "2026-08-25T09:00:00Z",
+      "time": "2026-08-26T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/summer-fun-at-manor-farm-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "Summer Garden Games 2026",
       "venue": "\u200bExbury Gardens & Steam Railway",
-      "time": "2026-08-25T09:00:00Z",
+      "time": "2026-08-26T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/summer-garden-games-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "Pony Magic Summer at the Farm!",
       "venue": "Manor Farm",
-      "time": "2026-08-25T09:30:00Z",
+      "time": "2026-08-26T09:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/pony-magic-summer-at-the-farm/",
       "source": "hellosouthampton"
     },
     {
       "title": "RollerLand at Westquay 2026",
       "venue": "The Esplanade",
-      "time": "2026-08-25T10:00:00Z",
+      "time": "2026-08-26T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/rollerland-at-westquay/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Culture Clash III: Consultancy and CPD Skills Development",
-      "venue": "Online - Teams",
-      "time": "2026-08-25T12:30:00Z",
-      "url": "https://www.events.soton.ac.uk/",
-      "source": "university"
-    },
-    {
-      "title": "Board & Video Games Group",
-      "venue": "Board in the City CiC",
-      "time": "2026-08-25T14:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/board-video-games-group/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton vs West Ham United: Carabao Cup 2026 2nd Round",
-      "venue": "St Mary's Stadium",
-      "time": "2026-08-25T18:45:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-vs-west-ham-united-carabao-cup-2026-2nd-round/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Concrete Vehicles Live at Heartbreakers Southampton",
-      "venue": "Heartbreakers",
-      "time": "2026-08-25T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/concrete-vehicles-live-at-heartbreakers-southampton/",
       "source": "hellosouthampton"
     },
     {
@@ -310,6 +282,13 @@
       "venue": "Dancing Man Brewery",
       "time": "2026-08-31T14:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/bank-holiday-bash-at-dancing-man-brewery/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Board & Video Games Group",
+      "venue": "Board in the City CiC",
+      "time": "2026-09-01T14:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/board-video-games-group/",
       "source": "hellosouthampton"
     },
     {

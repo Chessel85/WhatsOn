@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T07:11:10+00:00",
+  "fetched_at": "2026-08-27T17:40:11+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -76,13 +76,6 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Broken Colours",
-          "series_number": null,
-          "start_time": "2026-08-26T13:15:00Z",
-          "synopsis": "Jess meets Dan and falls in love. It changes both of their lives. But who is Dan? Holli Dempsey and Josef Altin star in a new thriller from the creator of Tracks, Matthew Broughton",
-          "url": "https://www.bbc.co.uk/sounds/play/m0014p7w"
-        },
-        {
           "title": "Understand",
           "series_number": null,
           "start_time": "2026-08-30T16:10:00Z",
@@ -93,7 +86,7 @@
           "title": "Intrigue",
           "series_number": null,
           "start_time": "2026-08-31T12:45:00Z",
-          "synopsis": "When two young men with no English and no income want to rent a flat in San Diego, an Arabic-speaking neighbour offers help.",
+          "synopsis": "When two Saudi men with no English and no income want to rent a flat in San Diego, an Arabic-speaking neighbour offers help.",
           "url": null
         },
         {
@@ -116,6 +109,13 @@
           "start_time": "2026-08-31T23:30:00Z",
           "synopsis": "From high-octane car chases (rare) to being arrested lying in your own bed (common), arrests mean the same thing - a shift from person to suspect, ordinary citizen to \u2018the accused\u2019",
           "url": "https://www.bbc.co.uk/sounds/play/m00282h8"
+        },
+        {
+          "title": "The Skewer",
+          "series_number": 17,
+          "start_time": "2026-09-02T22:15:00Z",
+          "synopsis": "A twisted comedy treat. The news remixed. Jon Holmes presents The Skewer. Headphones on.",
+          "url": null
         }
       ]
     },
@@ -131,7 +131,15 @@
       "name": "ITV1",
       "type": "tv",
       "confidence": "low",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "Gary Barlow's Wine Tour",
+          "series_number": 3,
+          "start_time": "2026-08-30T11:30:00Z",
+          "synopsis": "The Take That star explore New Zealand's vineyards, food and landscapes, beginning in Auckland, where a traditional Maori welcome sets the tone for his journey. Chef Ben Bayly introduces him to the city's vibrant food scene at Ahi, before taking him across the Hauraki Gulf to Waiheke Island, where he picks olives, samples extra virgin olive oil, flies through an ancient forest by zipline and reaches a winery by the bay. As the sun sets, comedian Jason Manford arrives in spectacular style, ready to join Gary for the rest of the trip.",
+          "url": "https://www.tvmaze.com/episodes/3716928/gary-barlows-wine-tour-3x01-auckland-waiheke"
+        }
+      ]
     }
   ]
 }

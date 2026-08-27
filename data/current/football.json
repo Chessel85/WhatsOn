@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T07:05:02+00:00",
+  "fetched_at": "2026-08-27T17:35:54+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -383,7 +383,12 @@
         "played": 1,
         "remaining": 37
       },
-      "cups": [],
+      "cups": [
+        {
+          "competition": "EFL Cup",
+          "status": "in_progress"
+        }
+      ],
       "fixtures": [
         {
           "date": "2026-08-29T14:00Z",
@@ -398,6 +403,13 @@
           "home_away": "away",
           "venue": "St. James' Park",
           "competition": "Premier League"
+        },
+        {
+          "date": "2026-09-08T18:00Z",
+          "opponent": "Lincoln City",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "EFL Cup"
         },
         {
           "date": "2026-09-12T14:00Z",

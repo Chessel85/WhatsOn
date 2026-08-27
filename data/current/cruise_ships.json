@@ -1,32 +1,14 @@
 {
-  "fetched_at": "2026-08-27T05:16:31+00:00",
+  "fetched_at": "2026-08-27T18:26:30+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "SILVER SPIRIT",
-      "berth": "101",
-      "arrival": {
-        "date": "2026-08-27",
-        "time": "2026-08-27T05:00:00Z"
-      },
-      "departure": {
-        "date": "2026-08-27",
-        "time": "2026-08-27T18:00:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9437866",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Silver-Spirit-722",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=SILVER%20SPIRIT%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "VISTA",
       "berth": "102",
       "arrival": {
         "date": "2026-08-27",
-        "time": "2026-08-27T05:45:00Z"
+        "time": "2026-08-27T05:35:00Z"
       },
       "departure": {
         "date": "2026-08-27",
@@ -98,7 +80,7 @@
       "berth": "102",
       "arrival": {
         "date": "2026-08-29",
-        "time": "2026-08-29T05:00:00Z"
+        "time": "2026-08-29T04:15:00Z"
       },
       "departure": {
         "date": "2026-08-29",
@@ -109,24 +91,6 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9803625",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/MSC-Virtuosa-1981",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MSC%20VIRTUOSA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "VENTURA",
-      "berth": "106",
-      "arrival": {
-        "date": "2026-08-29",
-        "time": "2026-08-29T05:00:00Z"
-      },
-      "departure": {
-        "date": "2026-08-29",
-        "time": "2026-08-29T15:00:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9333175",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Ventura-669",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=VENTURA%20cruise%20ship"
       }
     },
     {
@@ -163,6 +127,24 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9826548",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Iona-1858",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=IONA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "VENTURA",
+      "berth": "106",
+      "arrival": {
+        "date": "2026-08-29",
+        "time": "2026-08-29T05:15:00Z"
+      },
+      "departure": {
+        "date": "2026-08-29",
+        "time": "2026-08-29T15:00:00Z"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9333175",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Ventura-669",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=VENTURA%20cruise%20ship"
       }
     },
     {
@@ -296,13 +278,11 @@
       "berth": "106",
       "arrival": {
         "date": "2026-09-02",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-09-02T05:00:00Z"
       },
       "departure": {
         "date": "2026-09-02",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-09-02T15:30:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {

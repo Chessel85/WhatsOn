@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T03:52:57+00:00",
+  "fetched_at": "2026-08-28T15:43:32+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -8,7 +8,7 @@
       "berth": "102",
       "arrival": {
         "date": "2026-08-28",
-        "time": "2026-08-28T04:30:00Z"
+        "time": "2026-08-28T04:43:00Z"
       },
       "departure": {
         "date": "2026-08-28",
@@ -26,7 +26,7 @@
       "berth": "101",
       "arrival": {
         "date": "2026-08-28",
-        "time": "2026-08-28T04:45:00Z"
+        "time": "2026-08-28T04:51:00Z"
       },
       "departure": {
         "date": "2026-08-28",
@@ -44,11 +44,11 @@
       "berth": "46",
       "arrival": {
         "date": "2026-08-28",
-        "time": "2026-08-28T05:00:00Z"
+        "time": "2026-08-28T05:03:00Z"
       },
       "departure": {
         "date": "2026-08-28",
-        "time": "2026-08-28T15:00:00Z"
+        "time": "2026-08-28T17:00:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {
@@ -102,7 +102,7 @@
       },
       "departure": {
         "date": "2026-08-29",
-        "time": "2026-08-29T16:00:00Z"
+        "time": "2026-08-29T16:45:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {
@@ -138,7 +138,7 @@
       },
       "departure": {
         "date": "2026-08-29",
-        "time": "2026-08-29T15:00:00Z"
+        "time": "2026-08-29T16:30:00Z"
       },
       "agent": "DENHOLM PORT SERVICES LTD",
       "links": {
@@ -278,8 +278,7 @@
       "berth": "101",
       "arrival": {
         "date": "2026-09-02",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-09-02T05:00:00Z"
       },
       "departure": {
         "date": "2026-09-02",

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-27T17:35:54+00:00",
+  "fetched_at": "2026-08-28T18:36:26+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -405,7 +405,7 @@
           "competition": "Premier League"
         },
         {
-          "date": "2026-09-08T18:00Z",
+          "date": "2026-09-08T18:45Z",
           "opponent": "Lincoln City",
           "home_away": "home",
           "venue": "Vitality Stadium",
@@ -675,7 +675,7 @@
       "name": "Eastleigh FC",
       "league": {
         "competition": "National League",
-        "position": 8,
+        "position": 7,
         "points": 6,
         "played": 3,
         "remaining": 43

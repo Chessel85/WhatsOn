@@ -1,78 +1,8 @@
 {
-  "fetched_at": "2026-08-27T17:03:57+00:00",
+  "fetched_at": "2026-08-28T17:52:05+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Zoofest 2026: Summer Holiday Fun at Marwell Zoo",
-      "venue": "Marwell Zoo",
-      "time": "2026-08-27T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/zoofest-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "I Spy Trail 2026",
-      "venue": "Royal Victoria Country Park",
-      "time": "2026-08-27T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/i-spy-trail-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Summer Fun at Manor Farm 2026",
-      "venue": "Manor Farm",
-      "time": "2026-08-27T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/summer-fun-at-manor-farm-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Summer Garden Games 2026",
-      "venue": "\u200bExbury Gardens & Steam Railway",
-      "time": "2026-08-27T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/summer-garden-games-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Amateur Art & Craft Exhibition",
-      "venue": "Colden Common Community Centre",
-      "time": "2026-08-27T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/amateur-art-craft-exhibition/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Pony Magic Summer at the Farm!",
-      "venue": "Manor Farm",
-      "time": "2026-08-27T09:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/pony-magic-summer-at-the-farm/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "RollerLand at Westquay 2026",
-      "venue": "The Esplanade",
-      "time": "2026-08-27T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/rollerland-at-westquay/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Fun Fair at Southampton Common",
-      "venue": "Southampton Common",
-      "time": "2026-08-27T12:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/fun-fair-at-southampton-common/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Exbury Festival of Music 2026",
-      "venue": "\u200bExbury Gardens & Steam Railway",
-      "time": "2026-08-27T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/exbury-festival-of-music-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Royal Blood",
-      "venue": "O2 Guildhall Southampton",
-      "time": "2026-08-27T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/royal-blood/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Weekly Street Market in Southampton",
       "venue": "The Bargate",
@@ -81,10 +11,59 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Zoofest 2026: Summer Holiday Fun at Marwell Zoo",
+      "venue": "Marwell Zoo",
+      "time": "2026-08-28T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/zoofest-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "I Spy Trail 2026",
+      "venue": "Royal Victoria Country Park",
+      "time": "2026-08-28T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/i-spy-trail-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Summer Fun at Manor Farm 2026",
+      "venue": "Manor Farm",
+      "time": "2026-08-28T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/summer-fun-at-manor-farm-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Summer Garden Games 2026",
+      "venue": "\u200bExbury Gardens & Steam Railway",
+      "time": "2026-08-28T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/summer-garden-games-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Amateur Art & Craft Exhibition",
+      "venue": "Colden Common Community Centre",
+      "time": "2026-08-28T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/amateur-art-craft-exhibition/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "RollerLand at Westquay 2026",
+      "venue": "The Esplanade",
+      "time": "2026-08-28T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/rollerland-at-westquay/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Lionfest 2026",
       "venue": "The Red Lion",
       "time": "2026-08-28T11:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/lionfest-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Fun Fair at Southampton Common",
+      "venue": "Southampton Common",
+      "time": "2026-08-28T12:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/fun-fair-at-southampton-common/",
       "source": "hellosouthampton"
     },
     {
@@ -109,6 +88,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Exbury Festival of Music 2026",
+      "venue": "\u200bExbury Gardens & Steam Railway",
+      "time": "2026-08-28T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/exbury-festival-of-music-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Hail Live at Heartbreakers Southampton",
       "venue": "Heartbreakers",
       "time": "2026-08-28T19:00:00Z",
@@ -129,13 +115,6 @@
       "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
       "source": "visit_southampton",
       "all_day": true
-    },
-    {
-      "title": "Eastleigh Summer Festival 2026",
-      "venue": "Itchen Valley Country Park",
-      "time": "2026-08-29T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/eastleigh-summer-festival-2026/",
-      "source": "hellosouthampton"
     },
     {
       "title": "Hampshire Card Show",
@@ -293,10 +272,24 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Eastleigh Pride 2026",
+      "venue": "Leigh Road Recreation Ground",
+      "time": "2026-09-05T10:45:00Z",
+      "url": "https://hellosouthampton.co.uk/events/eastleigh-pride/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Romsey Farmers\u2019 Market",
       "venue": "Alma Road Car Park",
       "time": "2026-09-06T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/romsey-farmers-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Romsey Food Fair 2026",
+      "venue": "Romsey Town Center",
+      "time": "2026-09-06T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/romsey-food-fair/",
       "source": "hellosouthampton"
     },
     {
@@ -306,6 +299,27 @@
       "url": "https://www.visitsouthampton.co.uk/event/music-in-the-city/260739101/",
       "source": "visit_southampton",
       "all_day": true
+    },
+    {
+      "title": "The Romsey Show 2026",
+      "venue": "Broadlands, Romsey",
+      "time": "2026-09-12T07:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-romsey-show/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Beaulieu International Autojumble 2026",
+      "venue": "National Motor Museum",
+      "time": "2026-09-12T08:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/beaulieu-international-autojumble/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "New Forest Marathon 2026",
+      "venue": "The Showground",
+      "time": "2026-09-13T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/new-forest-marathon/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Purpose driven KEE: Using Theory of Change to shape activities",
@@ -335,6 +349,20 @@
       "venue": "Southampton Common",
       "time": "2026-09-19T18:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/dash-in-the-dark-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Concorde Classics Car Show 2026",
+      "venue": "The Concorde",
+      "time": "2026-09-20T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/concorde-classics-car-show/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Eastleigh Summer Festival 2026",
+      "venue": "Itchen Valley Country Park",
+      "time": "2026-09-26T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/eastleigh-summer-festival-2026/",
       "source": "hellosouthampton"
     },
     {

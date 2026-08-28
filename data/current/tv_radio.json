@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-27T17:40:11+00:00",
+  "fetched_at": "2026-08-28T18:45:58+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -59,6 +59,13 @@
           "start_time": "2026-08-29T22:35:00Z",
           "synopsis": "Moira believes she is the cause of a man\u2019s death at the motel. Johnny and Stevie attempt to keep the motel guests distracted while they deal with the removal of the dead body.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m002x3gj"
+        },
+        {
+          "title": "RuPaul's Drag Race UK",
+          "series_number": 8,
+          "start_time": "2026-09-03T21:00:00Z",
+          "synopsis": "A hot new cast of queens enter the werkroom as RuPaul kicks off the legendary race. Thandiwe Newton joins Michelle Visage and Alan Carr on the judging panel.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m002zdy4"
         }
       ]
     },
@@ -87,7 +94,7 @@
           "series_number": null,
           "start_time": "2026-08-31T12:45:00Z",
           "synopsis": "When two Saudi men with no English and no income want to rent a flat in San Diego, an Arabic-speaking neighbour offers help.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0p6ts0g"
         },
         {
           "title": "Unspeakable",

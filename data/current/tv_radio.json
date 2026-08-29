@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T18:45:58+00:00",
+  "fetched_at": "2026-08-29T12:43:08+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Sister Boniface Mysteries",
-          "series_number": 3,
-          "start_time": "2026-08-28T13:00:00Z",
-          "synopsis": "Sister Boniface, Sam and Felix uncover the murderer of one of three actors shortlisted to play the next agent Jonas Best, and Sam is surprised by the return of old flame Ruth Penny.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m002zk56"
-        },
         {
           "title": "Vigil",
           "series_number": 3,
@@ -37,15 +30,7 @@
       "name": "BBC Two",
       "type": "tv",
       "confidence": "high",
-      "new_series": [
-        {
-          "title": "The Marlow Murder Club",
-          "series_number": 1,
-          "start_time": "2026-08-28T20:00:00Z",
-          "synopsis": "When retired archaeologist Judith witnesses a murder, she teams up with vicar\u2019s wife Becks and dog walker Suzie to investigate.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m00303ft"
-        }
-      ]
+      "new_series": []
     },
     {
       "id": "bbc_three",
@@ -123,6 +108,13 @@
           "start_time": "2026-09-02T22:15:00Z",
           "synopsis": "A twisted comedy treat. The news remixed. Jon Holmes presents The Skewer. Headphones on.",
           "url": null
+        },
+        {
+          "title": "The News Quiz",
+          "series_number": 121,
+          "start_time": "2026-09-04T17:30:00Z",
+          "synopsis": "Andy Zaltzman is back for a brand new series of The News Quiz, with panellists including Alasdair Beckett-King, Coco Khan and Kyrah Gray.",
+          "url": null
         }
       ]
     },
@@ -145,6 +137,13 @@
           "start_time": "2026-08-30T11:30:00Z",
           "synopsis": "The Take That star explore New Zealand's vineyards, food and landscapes, beginning in Auckland, where a traditional Maori welcome sets the tone for his journey. Chef Ben Bayly introduces him to the city's vibrant food scene at Ahi, before taking him across the Hauraki Gulf to Waiheke Island, where he picks olives, samples extra virgin olive oil, flies through an ancient forest by zipline and reaches a winery by the bay. As the sun sets, comedian Jason Manford arrives in spectacular style, ready to join Gary for the rest of the trip.",
           "url": "https://www.tvmaze.com/episodes/3716928/gary-barlows-wine-tour-3x01-auckland-waiheke"
+        },
+        {
+          "title": "Millionaire Hot Seat",
+          "series_number": 2,
+          "start_time": "2026-08-31T18:30:00Z",
+          "synopsis": "Jeremy Clarkson returns with the quiz as six more hopefuls compete for \u00a31 million, with only one player at a time able to take a place in the Hot Seat and answer multiple-choice questions to work the way up the Money Ladder. Each question is against the clock and if a player gets one wrong they are eliminated, the top prize drops, and the next player takes their place.",
+          "url": "https://www.tvmaze.com/episodes/3717993/millionaire-hot-seat-2x01-episode-1"
         }
       ]
     }

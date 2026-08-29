@@ -1,120 +1,42 @@
 {
-  "fetched_at": "2026-08-28T17:52:05+00:00",
+  "fetched_at": "2026-08-29T11:56:47+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
       "title": "Weekly Street Market in Southampton",
       "venue": "The Bargate",
-      "time": "2026-08-28T08:00:00Z",
+      "time": "2026-08-29T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
       "source": "hellosouthampton"
     },
     {
       "title": "Zoofest 2026: Summer Holiday Fun at Marwell Zoo",
       "venue": "Marwell Zoo",
-      "time": "2026-08-28T09:00:00Z",
+      "time": "2026-08-29T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/zoofest-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "I Spy Trail 2026",
       "venue": "Royal Victoria Country Park",
-      "time": "2026-08-28T09:00:00Z",
+      "time": "2026-08-29T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/i-spy-trail-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "Summer Fun at Manor Farm 2026",
       "venue": "Manor Farm",
-      "time": "2026-08-28T09:00:00Z",
+      "time": "2026-08-29T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/summer-fun-at-manor-farm-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "Summer Garden Games 2026",
       "venue": "\u200bExbury Gardens & Steam Railway",
-      "time": "2026-08-28T09:00:00Z",
+      "time": "2026-08-29T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/summer-garden-games-2026/",
       "source": "hellosouthampton"
-    },
-    {
-      "title": "Amateur Art & Craft Exhibition",
-      "venue": "Colden Common Community Centre",
-      "time": "2026-08-28T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/amateur-art-craft-exhibition/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "RollerLand at Westquay 2026",
-      "venue": "The Esplanade",
-      "time": "2026-08-28T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/rollerland-at-westquay/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Lionfest 2026",
-      "venue": "The Red Lion",
-      "time": "2026-08-28T11:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/lionfest-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Fun Fair at Southampton Common",
-      "venue": "Southampton Common",
-      "time": "2026-08-28T12:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/fun-fair-at-southampton-common/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Lion Inside at Mayflower Studios Southampton",
-      "venue": "Mayflower Studios",
-      "time": "2026-08-28T12:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-lion-inside-at-mayflower-studios-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Otterfest 2026",
-      "venue": "The Otter Pub",
-      "time": "2026-08-28T17:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/otterfest-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Weetwood Mac Live at The 1865 Southampton",
-      "venue": "The 1865",
-      "time": "2026-08-28T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/weetwood-mac-live-at-the-1865-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Exbury Festival of Music 2026",
-      "venue": "\u200bExbury Gardens & Steam Railway",
-      "time": "2026-08-28T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/exbury-festival-of-music-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Hail Live at Heartbreakers Southampton",
-      "venue": "Heartbreakers",
-      "time": "2026-08-28T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/hail-live-at-heartbreakers-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Midnight Dynamite",
-      "venue": "The Bugle Inn",
-      "time": "2026-08-28T19:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/midnight-dynamite/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Pride",
-      "venue": "Guildhall Square (FREE)",
-      "time": "2026-08-29T00:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
-      "source": "visit_southampton",
-      "all_day": true
     },
     {
       "title": "Hampshire Card Show",
@@ -124,10 +46,31 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Amateur Art & Craft Exhibition",
+      "venue": "Colden Common Community Centre",
+      "time": "2026-08-29T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/amateur-art-craft-exhibition/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Summer Craft Fair at The Bunker",
       "venue": "The Bunker",
       "time": "2026-08-29T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/summer-craft-fair-at-the-bunker/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton Pride 2026",
+      "venue": "Guildhall Square",
+      "time": "2026-08-29T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-pride/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "RollerLand at Westquay 2026",
+      "venue": "The Esplanade",
+      "time": "2026-08-29T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/rollerland-at-westquay/",
       "source": "hellosouthampton"
     },
     {
@@ -145,10 +88,31 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Lionfest 2026",
+      "venue": "The Red Lion",
+      "time": "2026-08-29T11:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/lionfest-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Gumbofest 51 Rock and Metal Festival",
       "venue": "The Hobbit Pub",
       "time": "2026-08-29T12:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/gumbofest-51-rock-and-metal-festival/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Fun Fair at Southampton Common",
+      "venue": "Southampton Common",
+      "time": "2026-08-29T12:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/fun-fair-at-southampton-common/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Lion Inside at Mayflower Studios Southampton",
+      "venue": "Mayflower Studios",
+      "time": "2026-08-29T12:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-lion-inside-at-mayflower-studios-southampton/",
       "source": "hellosouthampton"
     },
     {
@@ -170,6 +134,13 @@
       "venue": "Medbar",
       "time": "2026-08-29T15:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/daytime-clubbing-at-medbar/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Otterfest 2026",
+      "venue": "The Otter Pub",
+      "time": "2026-08-29T17:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/otterfest-2026/",
       "source": "hellosouthampton"
     },
     {

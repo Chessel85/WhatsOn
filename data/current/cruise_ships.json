@@ -1,26 +1,8 @@
 {
-  "fetched_at": "2026-08-29T18:56:53+00:00",
+  "fetched_at": "2026-08-29T22:03:48+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "VENTURA",
-      "berth": "106",
-      "arrival": {
-        "date": "2026-08-29",
-        "time": "2026-08-29T05:46:00Z"
-      },
-      "departure": {
-        "date": "2026-08-29",
-        "time": "2026-08-29T20:00:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9333175",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Ventura-669",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=VENTURA%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "ARVIA",
       "berth": "46",

@@ -1,21 +1,8 @@
 {
-  "fetched_at": "2026-08-28T17:14:20+00:00",
+  "fetched_at": "2026-08-29T11:32:02+00:00",
   "source": "https://sunrisesunset.io/",
   "location": "Southampton, UK",
   "days": [
-    {
-      "date": "2026-08-28",
-      "sunrise": "2026-08-28T05:11:52+00:00",
-      "sunset": "2026-08-28T19:00:48+00:00",
-      "day_length": {
-        "hours": 13,
-        "minutes": 49
-      },
-      "moonrise": "2026-08-28T19:01:01+00:00",
-      "moonset": "2026-08-28T05:22:21+00:00",
-      "moon_phase": "Full Moon",
-      "moon_illumination_percent": 99.89
-    },
     {
       "date": "2026-08-29",
       "sunrise": "2026-08-29T05:13:25+00:00",
@@ -93,12 +80,25 @@
       "moonset": "2026-09-03T13:28:03+00:00",
       "moon_phase": "Last Quarter",
       "moon_illumination_percent": 59.53
+    },
+    {
+      "date": "2026-09-04",
+      "sunrise": "2026-09-04T05:22:44+00:00",
+      "sunset": "2026-09-04T18:45:31+00:00",
+      "day_length": {
+        "hours": 13,
+        "minutes": 23
+      },
+      "moonrise": "2026-09-04T21:42:18+00:00",
+      "moonset": "2026-09-04T14:46:59+00:00",
+      "moon_phase": "Last Quarter",
+      "moon_illumination_percent": 48.14
     }
   ],
   "moon_apsis": {
     "type": "perigee",
     "date": "2026-09-06T20:34:36Z",
-    "days_until": 9
+    "days_until": 8
   },
   "earth_apsis": {
     "type": "perihelion",

@@ -1,26 +1,8 @@
 {
-  "fetched_at": "2026-08-30T15:33:17+00:00",
+  "fetched_at": "2026-08-30T18:51:56+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "ARVIA",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-08-30",
-        "time": "2026-08-30T04:59:00Z"
-      },
-      "departure": {
-        "date": "2026-08-30",
-        "time": "2026-08-30T16:00:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9849693",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Arvia-2158",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=ARVIA%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "LIBERTY OF THE SEAS",
       "berth": "101",
@@ -269,6 +251,24 @@
       }
     },
     {
+      "ship_name": "MAJESTIC PRINCESS",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-09-07",
+        "time": "2026-09-07T05:30:00Z"
+      },
+      "departure": {
+        "date": "2026-09-07",
+        "time": "2026-09-07T15:00:00Z"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614141",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Majestic-Princess-1194",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MAJESTIC%20PRINCESS%20cruise%20ship"
+      }
+    },
+    {
       "ship_name": "AIDAPERLA",
       "berth": "38/9",
       "arrival": {
@@ -306,26 +306,6 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9434254",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Disney-Dream-548",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=DISNEY%20DREAM%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "MAJESTIC PRINCESS",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-09-07",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "departure": {
-        "date": "2026-09-07",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614141",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Majestic-Princess-1194",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MAJESTIC%20PRINCESS%20cruise%20ship"
       }
     },
     {

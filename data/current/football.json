@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T12:38:54+00:00",
+  "fetched_at": "2026-08-30T11:50:41+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -9,10 +9,10 @@
       "name": "Southampton FC",
       "league": {
         "competition": "Championship",
-        "position": 24,
-        "points": -1,
-        "played": 2,
-        "remaining": 44
+        "position": 18,
+        "points": 2,
+        "played": 3,
+        "remaining": 43
       },
       "cups": [
         {
@@ -21,13 +21,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-08-29T14:00Z",
-          "opponent": "Millwall",
-          "home_away": "home",
-          "venue": "St. Mary's Stadium",
-          "competition": "Championship"
-        },
         {
           "date": "2026-09-01T19:00Z",
           "opponent": "Birmingham City",
@@ -370,6 +363,16 @@
           "goals_for": 1,
           "goals_against": 4,
           "outcome": "L"
+        },
+        {
+          "date": "2026-08-29T14:00Z",
+          "opponent": "Millwall",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship",
+          "goals_for": 5,
+          "goals_against": 1,
+          "outcome": "W"
         }
       ]
     },
@@ -378,10 +381,10 @@
       "name": "AFC Bournemouth",
       "league": {
         "competition": "Premier League",
-        "position": 13,
-        "points": 0,
-        "played": 1,
-        "remaining": 37
+        "position": 12,
+        "points": 1,
+        "played": 2,
+        "remaining": 36
       },
       "cups": [
         {
@@ -390,13 +393,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-08-29T14:00Z",
-          "opponent": "Everton",
-          "home_away": "home",
-          "venue": "Vitality Stadium",
-          "competition": "Premier League"
-        },
         {
           "date": "2026-09-05T11:30Z",
           "opponent": "Newcastle United",
@@ -667,6 +663,16 @@
           "goals_for": 1,
           "goals_against": 2,
           "outcome": "L"
+        },
+        {
+          "date": "2026-08-29T14:00Z",
+          "opponent": "Everton",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League",
+          "goals_for": 1,
+          "goals_against": 1,
+          "outcome": "D"
         }
       ]
     },

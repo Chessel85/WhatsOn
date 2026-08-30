@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T12:43:08+00:00",
+  "fetched_at": "2026-08-30T11:57:53+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -38,13 +38,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Schitt's Creek",
-          "series_number": 4,
-          "start_time": "2026-08-29T22:35:00Z",
-          "synopsis": "Moira believes she is the cause of a man\u2019s death at the motel. Johnny and Stevie attempt to keep the motel guests distracted while they deal with the removal of the dead body.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m002x3gj"
-        },
         {
           "title": "RuPaul's Drag Race UK",
           "series_number": 8,
@@ -112,8 +105,15 @@
         {
           "title": "The News Quiz",
           "series_number": 121,
-          "start_time": "2026-09-04T17:30:00Z",
+          "start_time": "2026-09-05T11:30:00Z",
           "synopsis": "Andy Zaltzman is back for a brand new series of The News Quiz, with panellists including Alasdair Beckett-King, Coco Khan and Kyrah Gray.",
+          "url": null
+        },
+        {
+          "title": "Your Mum",
+          "series_number": 2,
+          "start_time": "2026-09-05T22:00:00Z",
+          "synopsis": "Laura Smyth is joined by comedians Sara Barron and Nish Kumar to hear about the indelible mark their mothers left on them.",
           "url": null
         }
       ]
@@ -144,6 +144,13 @@
           "start_time": "2026-08-31T18:30:00Z",
           "synopsis": "Jeremy Clarkson returns with the quiz as six more hopefuls compete for \u00a31 million, with only one player at a time able to take a place in the Hot Seat and answer multiple-choice questions to work the way up the Money Ladder. Each question is against the clock and if a player gets one wrong they are eliminated, the top prize drops, and the next player takes their place.",
           "url": "https://www.tvmaze.com/episodes/3717993/millionaire-hot-seat-2x01-episode-1"
+        },
+        {
+          "title": "The Box",
+          "series_number": 1,
+          "start_time": "2026-09-05T19:15:00Z",
+          "synopsis": "Joey Essex, John Bercow, Jenny Ryan, JB Gill, Danny Aarons, Ranvir Singh, Sara Davies, Graeme Souness, Ellie Taylor and Shakira Khan compete in high-pressure challenges as they try to avoid a head-to-head showdown in the Duel and becoming the first famous face to be sent packing.",
+          "url": "https://www.tvmaze.com/episodes/3700364/the-box-1x01-episode-1"
         }
       ]
     }

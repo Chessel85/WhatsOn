@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T11:57:53+00:00",
+  "fetched_at": "2026-08-31T13:57:08+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Vigil",
-          "series_number": 3,
-          "start_time": "2026-08-30T20:00:00Z",
-          "synopsis": "DCI Silva and DI Longacre investigate the murder of a British citizen in the Arctic, but they soon find themselves caught in an escalating political situation.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m002zl90"
-        },
         {
           "title": "Money for Nothing",
           "series_number": 19,
@@ -61,32 +54,18 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Understand",
-          "series_number": null,
-          "start_time": "2026-08-30T16:10:00Z",
-          "synopsis": "Nathan Filer explores how the language of neurodiversity has evolved \u2013 offering a sense of belonging for many, while raising difficult questions about difference and diagnosis.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0p5gh92"
-        },
-        {
           "title": "Intrigue",
           "series_number": null,
           "start_time": "2026-08-31T12:45:00Z",
           "synopsis": "When two Saudi men with no English and no income want to rent a flat in San Diego, an Arabic-speaking neighbour offers help.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0p6ts0g"
-        },
-        {
-          "title": "Unspeakable",
-          "series_number": 4,
-          "start_time": "2026-08-31T17:30:00Z",
-          "synopsis": "Phil Wang and Susie Dent challenge guests to invent new words and help create the new ultimate Unspeakable dictionary. With guests Jessie Cave, Armando Iannucci and Chloe Petts.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/m0030x8n"
         },
         {
           "title": "A Working Mother by Agnes Owens",
           "series_number": null,
           "start_time": "2026-08-31T21:45:00Z",
           "synopsis": "Ten years after the Second World War, Betty is married to a troubled veteran who barely looks after their two children while she earns a wage.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0p6rkpj"
         },
         {
           "title": "You Do Not Have to Say Anything",
@@ -115,6 +94,20 @@
           "start_time": "2026-09-05T22:00:00Z",
           "synopsis": "Laura Smyth is joined by comedians Sara Barron and Nish Kumar to hear about the indelible mark their mothers left on them.",
           "url": null
+        },
+        {
+          "title": "Unspeakable",
+          "series_number": 4,
+          "start_time": "2026-09-06T11:30:00Z",
+          "synopsis": "Phil Wang and Susie Dent challenge guests to invent new words and help create the new ultimate Unspeakable dictionary. With guests Jessie Cave, Armando Iannucci and Chloe Petts.",
+          "url": null
+        },
+        {
+          "title": "Drama on 4",
+          "series_number": null,
+          "start_time": "2026-09-06T14:00:00Z",
+          "synopsis": "A young conscript joins Alpha Company in Vietnam in 1969. Their aim? To survive. If they can. These are the stories of those who did.",
+          "url": null
         }
       ]
     },
@@ -131,13 +124,6 @@
       "type": "tv",
       "confidence": "low",
       "new_series": [
-        {
-          "title": "Gary Barlow's Wine Tour",
-          "series_number": 3,
-          "start_time": "2026-08-30T11:30:00Z",
-          "synopsis": "The Take That star explore New Zealand's vineyards, food and landscapes, beginning in Auckland, where a traditional Maori welcome sets the tone for his journey. Chef Ben Bayly introduces him to the city's vibrant food scene at Ahi, before taking him across the Hauraki Gulf to Waiheke Island, where he picks olives, samples extra virgin olive oil, flies through an ancient forest by zipline and reaches a winery by the bay. As the sun sets, comedian Jason Manford arrives in spectacular style, ready to join Gary for the rest of the trip.",
-          "url": "https://www.tvmaze.com/episodes/3716928/gary-barlows-wine-tour-3x01-auckland-waiheke"
-        },
         {
           "title": "Millionaire Hot Seat",
           "series_number": 2,

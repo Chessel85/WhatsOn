@@ -1,104 +1,20 @@
 {
-  "fetched_at": "2026-08-30T10:53:55+00:00",
+  "fetched_at": "2026-08-31T12:07:07+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Zoofest 2026: Summer Holiday Fun at Marwell Zoo",
-      "venue": "Marwell Zoo",
-      "time": "2026-08-30T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/zoofest-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "I Spy Trail 2026",
-      "venue": "Royal Victoria Country Park",
-      "time": "2026-08-30T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/i-spy-trail-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Summer Fun at Manor Farm 2026",
-      "venue": "Manor Farm",
-      "time": "2026-08-30T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/summer-fun-at-manor-farm-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Summer Garden Games 2026",
-      "venue": "\u200bExbury Gardens & Steam Railway",
-      "time": "2026-08-30T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/summer-garden-games-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Pride 2026",
-      "venue": "Guildhall Square",
-      "time": "2026-08-30T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-pride/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Lionfest 2026",
-      "venue": "The Red Lion",
-      "time": "2026-08-30T11:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/lionfest-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Shirley Swimming Pool Car Boot Sale",
-      "venue": "Shirley Swimming Pool",
-      "time": "2026-08-30T11:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/shirley-swimming-pool-car-boot-sale/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Fun Fair at Southampton Common",
-      "venue": "Southampton Common",
-      "time": "2026-08-30T12:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/fun-fair-at-southampton-common/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Otterfest 2026",
-      "venue": "The Otter Pub",
-      "time": "2026-08-30T17:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/otterfest-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Time Tunnel Summer Party",
-      "venue": "Papillon",
-      "time": "2026-08-30T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/time-tunnel-summer-party/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Chemistry \u2013 A Tribute to Rush at Hanger Farm Arts Centre",
-      "venue": "Hanger Farm",
-      "time": "2026-08-30T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/chemistry-a-tribute-to-rush-at-hanger-farm-arts-centre/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Blume. Live at Heartbreakers Southampton",
-      "venue": "Heartbreakers",
-      "time": "2026-08-30T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/blume-live-at-heartbreakers-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "High Tide Presents James Zabiela",
-      "venue": "L Dot Studios",
-      "time": "2026-08-30T21:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/high-tide-presents-james-zabiela/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Eastleigh\u2019s Big Summer Send Off 2026",
       "venue": "Eastleigh Town Centre",
       "time": "2026-08-31T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/eastleighs-big-summer-send-off-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Zoofest 2026: Summer Holiday Fun at Marwell Zoo",
+      "venue": "Marwell Zoo",
+      "time": "2026-08-31T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/zoofest-2026/",
       "source": "hellosouthampton"
     },
     {
@@ -109,10 +25,38 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "I Spy Trail 2026",
+      "venue": "Royal Victoria Country Park",
+      "time": "2026-08-31T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/i-spy-trail-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Summer Fun at Manor Farm 2026",
+      "venue": "Manor Farm",
+      "time": "2026-08-31T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/summer-fun-at-manor-farm-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Summer Garden Games 2026",
+      "venue": "\u200bExbury Gardens & Steam Railway",
+      "time": "2026-08-31T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/summer-garden-games-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Pre-Loved Fair 2026 at The Bunker",
       "venue": "The Bunker",
       "time": "2026-08-31T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/pre-loved-fair-2026-at-the-bunker/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Fun Fair at Southampton Common",
+      "venue": "Southampton Common",
+      "time": "2026-08-31T12:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/fun-fair-at-southampton-common/",
       "source": "hellosouthampton"
     },
     {
@@ -145,10 +89,94 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Alan Reed & the Daughters of Expediency",
+      "venue": "The 1865",
+      "time": "2026-09-01T17:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/alan-reed-the-daughters-of-expediency/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Hampshire vs Warwickshire: Vitality County Championship",
+      "venue": "Utilita Bowl",
+      "time": "2026-09-02T09:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/hampshire-vs-warwickshire-vitality-county-championship/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Courettes",
+      "venue": "The 1865",
+      "time": "2026-09-02T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-courettes-live/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Beauty School",
+      "venue": "Heartbreakers",
+      "time": "2026-09-02T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/beauty-school/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Faster Pussycat",
+      "venue": "The Brook Southampton",
+      "time": "2026-09-02T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/faster-pussycat/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "An Audience with Devin Townsend",
+      "venue": "The 1865",
+      "time": "2026-09-03T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/an-audience-with-devin-townsend/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Soulfly + Nailbomb",
+      "venue": "Engine Rooms",
+      "time": "2026-09-03T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/soulfly/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Spiral Drive",
+      "venue": "Heartbreakers",
+      "time": "2026-09-03T19:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/spiral-drive/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Weekly Street Market in Southampton",
       "venue": "The Bargate",
       "time": "2026-09-04T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Doors Rising",
+      "venue": "The 1865",
+      "time": "2026-09-04T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-doors-rising/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Weird Nightmare",
+      "venue": "Heartbreakers",
+      "time": "2026-09-04T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/weird-nightmare/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Ellie Goulding",
+      "venue": "The Brook Southampton",
+      "time": "2026-09-04T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/ellie-goulding/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "A Place To Bury Strangers",
+      "venue": "Papillon",
+      "time": "2026-09-04T19:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/a-place-to-bury-strangers/",
       "source": "hellosouthampton"
     },
     {
@@ -159,10 +187,31 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Pure @ The Shooting Star Southampton",
+      "venue": "The Shooting Star",
+      "time": "2026-09-05T14:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/pure-the-shooting-star-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "80s Day Disco Southampton",
+      "venue": "Trilogy Southampton",
+      "time": "2026-09-05T14:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/80s-day-disco-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Daytime Clubbing at Medbar",
       "venue": "Medbar",
       "time": "2026-09-05T15:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/daytime-clubbing-at-medbar/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Mauro Picotto + Support",
+      "venue": "Engine Rooms",
+      "time": "2026-09-05T16:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/mauro-picotto-support/",
       "source": "hellosouthampton"
     },
     {
@@ -177,6 +226,34 @@
       "venue": "Romsey Town Center",
       "time": "2026-09-06T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/romsey-food-fair/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Listening Garden Live Sessions",
+      "venue": "The Brook Southampton",
+      "time": "2026-09-06T12:45:00Z",
+      "url": "https://hellosouthampton.co.uk/events/listening-garden-live-sessions/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Beaulieu Oak Run",
+      "venue": "National Motor Museum",
+      "time": "2026-09-06T13:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-beaulieu-oak-run/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Fontaines YC & Two Door Cinema Clone",
+      "venue": "The 1865",
+      "time": "2026-09-06T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/fontaines-yc-two-door-cinema-clone/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Max\u2019s Records Presents: Head of State, Pedals & More",
+      "venue": "Heartbreakers",
+      "time": "2026-09-06T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/maxs-records/",
       "source": "hellosouthampton"
     },
     {
@@ -206,6 +283,13 @@
       "venue": "National Motor Museum",
       "time": "2026-09-12T08:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/beaulieu-international-autojumble/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Hythe\u2019s Scarecrow Festival",
+      "venue": "Hythe Promenade",
+      "time": "2026-09-12T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/hythe-scarecrow-festival/",
       "source": "hellosouthampton"
     },
     {
@@ -246,6 +330,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Carlton Place Market 2026",
+      "venue": "Carlton Place",
+      "time": "2026-09-20T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/carlton-place-market-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Concorde Classics Car Show 2026",
       "venue": "The Concorde",
       "time": "2026-09-20T10:00:00Z",
@@ -265,6 +356,20 @@
       "time": "2026-09-29T12:30:00Z",
       "url": "https://www.events.soton.ac.uk/",
       "source": "university"
+    },
+    {
+      "title": "Jamie Webster",
+      "venue": "The 1865",
+      "time": "2026-09-30T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/jamie-webster/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Beyond the Streets of London",
+      "venue": "Hanger Farm",
+      "time": "2026-09-30T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/beyond-the-streets-of-london/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Shine Night Walk",

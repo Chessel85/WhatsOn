@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T22:10:28+00:00",
+  "fetched_at": "2026-08-31T01:50:26+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -30,7 +30,7 @@
       },
       "departure": {
         "date": "2026-08-31",
-        "time": "2026-08-31T15:00:00Z"
+        "time": "2026-08-31T15:15:00Z"
       },
       "agent": "DENHOLM PORT SERVICES LTD",
       "links": {
@@ -566,6 +566,46 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9195157",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Norwegian-Star-706",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=NORWEGIAN%20STAR%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "AURORA",
+      "berth": "106",
+      "arrival": {
+        "date": "2026-09-14",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-14",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9169524",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Aurora-648",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=AURORA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "DISNEY DREAM",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-09-14",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-14",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9434254",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Disney-Dream-548",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=DISNEY%20DREAM%20cruise%20ship"
       }
     }
   ]

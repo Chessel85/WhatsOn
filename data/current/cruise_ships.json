@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T08:57:15+00:00",
+  "fetched_at": "2026-09-01T15:37:52+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -19,24 +19,6 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9247144",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Seven-Seas-Voyager-695",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=SEVEN%20SEAS%20VOYAGER%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "VENTURA",
-      "berth": "106",
-      "arrival": {
-        "date": "2026-09-01",
-        "time": "2026-09-01T05:46:00Z"
-      },
-      "departure": {
-        "date": "2026-09-01",
-        "time": "2026-09-01T15:00:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9333175",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Ventura-669",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=VENTURA%20cruise%20ship"
       }
     },
     {
@@ -66,8 +48,7 @@
       },
       "departure": {
         "date": "2026-09-02",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-09-02T16:00:00Z"
       },
       "agent": "DENHOLM PORT SERVICES LTD",
       "links": {
@@ -85,13 +66,31 @@
       },
       "departure": {
         "date": "2026-09-04",
-        "time": "2026-09-04T18:00:00Z"
+        "time": "2026-09-04T17:00:00Z"
       },
       "agent": "DENHOLM PORT SERVICES LTD",
       "links": {
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9438066",
         "cruisemapper_url": null,
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MARINA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "IONA",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-09-05",
+        "time": "2026-09-05T05:00:00Z"
+      },
+      "departure": {
+        "date": "2026-09-05",
+        "time": "2026-09-05T16:00:00Z"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9826548",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Iona-1858",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=IONA%20cruise%20ship"
       }
     },
     {
@@ -113,57 +112,15 @@
       }
     },
     {
-      "ship_name": "IONA",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-09-05",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "departure": {
-        "date": "2026-09-05",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9826548",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Iona-1858",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=IONA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "QUEEN MARY 2",
-      "berth": "38/9",
-      "arrival": {
-        "date": "2026-09-05",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "departure": {
-        "date": "2026-09-05",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9241061",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Queen-Mary-2-721",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=QUEEN%20MARY%202%20cruise%20ship"
-      }
-    },
-    {
       "ship_name": "VENTURA",
       "berth": "106",
       "arrival": {
         "date": "2026-09-05",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-09-05T05:00:00Z"
       },
       "departure": {
         "date": "2026-09-05",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-09-05T15:00:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {
@@ -173,17 +130,33 @@
       }
     },
     {
+      "ship_name": "QUEEN MARY 2",
+      "berth": "38/9",
+      "arrival": {
+        "date": "2026-09-05",
+        "time": "2026-09-05T05:15:00Z"
+      },
+      "departure": {
+        "date": "2026-09-05",
+        "time": "2026-09-05T16:00:00Z"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9241061",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Queen-Mary-2-721",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=QUEEN%20MARY%202%20cruise%20ship"
+      }
+    },
+    {
       "ship_name": "ARVIA",
       "berth": "46",
       "arrival": {
         "date": "2026-09-06",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-09-06T05:00:00Z"
       },
       "departure": {
         "date": "2026-09-06",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-09-06T16:00:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {
@@ -197,13 +170,11 @@
       "berth": "106",
       "arrival": {
         "date": "2026-09-06",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-09-06T05:00:00Z"
       },
       "departure": {
         "date": "2026-09-06",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-09-06T15:00:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {

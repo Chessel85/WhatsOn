@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T13:57:08+00:00",
+  "fetched_at": "2026-09-01T11:42:43+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -8,22 +8,22 @@
       "name": "BBC One",
       "type": "tv",
       "confidence": "high",
-      "new_series": [
-        {
-          "title": "Money for Nothing",
-          "series_number": 19,
-          "start_time": "2026-08-31T12:30:00Z",
-          "synopsis": "Expert upcycler Sarah Moore calls on woodworking legend Norman Wilkinson for his biggest ever challenge... a smashed-up organ. ",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m00310sr"
-        }
-      ]
+      "new_series": []
     },
     {
       "id": "bbc_two",
       "name": "BBC Two",
       "type": "tv",
       "confidence": "high",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "Colin from Accounts",
+          "series_number": 3,
+          "start_time": "2026-09-07T21:00:00Z",
+          "synopsis": "It's been three years since Gordon's ill-fated proposal, and the pair haven't spoken much. But a chance encounter at a suburban GP clinic throws their plans for forward momentum off course.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m00303gv"
+        }
+      ]
     },
     {
       "id": "bbc_three",
@@ -54,27 +54,6 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Intrigue",
-          "series_number": null,
-          "start_time": "2026-08-31T12:45:00Z",
-          "synopsis": "When two Saudi men with no English and no income want to rent a flat in San Diego, an Arabic-speaking neighbour offers help.",
-          "url": "https://www.bbc.co.uk/sounds/play/m0030x8n"
-        },
-        {
-          "title": "A Working Mother by Agnes Owens",
-          "series_number": null,
-          "start_time": "2026-08-31T21:45:00Z",
-          "synopsis": "Ten years after the Second World War, Betty is married to a troubled veteran who barely looks after their two children while she earns a wage.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0p6rkpj"
-        },
-        {
-          "title": "You Do Not Have to Say Anything",
-          "series_number": null,
-          "start_time": "2026-08-31T23:30:00Z",
-          "synopsis": "From high-octane car chases (rare) to being arrested lying in your own bed (common), arrests mean the same thing - a shift from person to suspect, ordinary citizen to \u2018the accused\u2019",
-          "url": "https://www.bbc.co.uk/sounds/play/m00282h8"
-        },
-        {
           "title": "The Skewer",
           "series_number": 17,
           "start_time": "2026-09-02T22:15:00Z",
@@ -85,7 +64,7 @@
           "title": "The News Quiz",
           "series_number": 121,
           "start_time": "2026-09-05T11:30:00Z",
-          "synopsis": "Andy Zaltzman is back for a brand new series of The News Quiz, with panellists including Alasdair Beckett-King, Coco Khan and Kyrah Gray.",
+          "synopsis": "Andy Zaltzman is back for a brand new series of The News Quiz, with panellists Pierre Novellie, Alasdair Beckett-King, Coco Khan and Kyrah Gray.",
           "url": null
         },
         {
@@ -100,13 +79,20 @@
           "series_number": 4,
           "start_time": "2026-09-06T11:30:00Z",
           "synopsis": "Phil Wang and Susie Dent challenge guests to invent new words and help create the new ultimate Unspeakable dictionary. With guests Jessie Cave, Armando Iannucci and Chloe Petts.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/m0030x8y"
         },
         {
           "title": "Drama on 4",
           "series_number": null,
           "start_time": "2026-09-06T14:00:00Z",
           "synopsis": "A young conscript joins Alpha Company in Vietnam in 1969. Their aim? To survive. If they can. These are the stories of those who did.",
+          "url": null
+        },
+        {
+          "title": "The Villa Forgotten by Jeanette Winterson",
+          "series_number": null,
+          "start_time": "2026-09-07T21:45:00Z",
+          "synopsis": "Toni visits the house she\u2019s just inherited. But the past cannot be erased. An original, eerie story, written and read by Jeanette Winterson.",
           "url": null
         }
       ]
@@ -124,13 +110,6 @@
       "type": "tv",
       "confidence": "low",
       "new_series": [
-        {
-          "title": "Millionaire Hot Seat",
-          "series_number": 2,
-          "start_time": "2026-08-31T18:30:00Z",
-          "synopsis": "Jeremy Clarkson returns with the quiz as six more hopefuls compete for \u00a31 million, with only one player at a time able to take a place in the Hot Seat and answer multiple-choice questions to work the way up the Money Ladder. Each question is against the clock and if a player gets one wrong they are eliminated, the top prize drops, and the next player takes their place.",
-          "url": "https://www.tvmaze.com/episodes/3717993/millionaire-hot-seat-2x01-episode-1"
-        },
         {
           "title": "The Box",
           "series_number": 1,

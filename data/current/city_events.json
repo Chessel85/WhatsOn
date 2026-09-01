@@ -1,79 +1,8 @@
 {
-  "fetched_at": "2026-08-31T12:07:07+00:00",
+  "fetched_at": "2026-09-01T10:44:51+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Eastleigh\u2019s Big Summer Send Off 2026",
-      "venue": "Eastleigh Town Centre",
-      "time": "2026-08-31T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/eastleighs-big-summer-send-off-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Zoofest 2026: Summer Holiday Fun at Marwell Zoo",
-      "venue": "Marwell Zoo",
-      "time": "2026-08-31T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/zoofest-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Inflataplanet\u2019s BIG Bounce Tour Southampton 2026",
-      "venue": "Riverside Park",
-      "time": "2026-08-31T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/inflataplanets-big-bounce-tour-southampton-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "I Spy Trail 2026",
-      "venue": "Royal Victoria Country Park",
-      "time": "2026-08-31T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/i-spy-trail-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Summer Fun at Manor Farm 2026",
-      "venue": "Manor Farm",
-      "time": "2026-08-31T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/summer-fun-at-manor-farm-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Summer Garden Games 2026",
-      "venue": "\u200bExbury Gardens & Steam Railway",
-      "time": "2026-08-31T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/summer-garden-games-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Pre-Loved Fair 2026 at The Bunker",
-      "venue": "The Bunker",
-      "time": "2026-08-31T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/pre-loved-fair-2026-at-the-bunker/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Fun Fair at Southampton Common",
-      "venue": "Southampton Common",
-      "time": "2026-08-31T12:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/fun-fair-at-southampton-common/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Bank Holiday Bash at Dancing Man Brewery",
-      "venue": "Dancing Man Brewery",
-      "time": "2026-08-31T14:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/bank-holiday-bash-at-dancing-man-brewery/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Love The Old Town",
-      "venue": "Old Town (FREE)",
-      "time": "2026-09-01T00:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/explore/places/old-town/",
-      "source": "visit_southampton",
-      "all_day": true
-    },
     {
       "title": "Board & Video Games Group",
       "venue": "Board in the City CiC",
@@ -124,6 +53,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Open Mic Comedy Night Special at The Attic",
+      "venue": "The Attic",
+      "time": "2026-09-02T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/open-mic-comedy-night-special-at-the-attic/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "An Audience with Devin Townsend",
       "venue": "The 1865",
       "time": "2026-09-03T18:00:00Z",
@@ -138,6 +74,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "The Night Sky Show: A Sky Full of Hope",
+      "venue": "Mayflower Theatre",
+      "time": "2026-09-03T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-night-sky-show-a-sky-full-of-hope/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Spiral Drive",
       "venue": "Heartbreakers",
       "time": "2026-09-03T19:00:00Z",
@@ -149,6 +92,13 @@
       "venue": "The Bargate",
       "time": "2026-09-04T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Knees Upp! Lymington 2026",
+      "venue": "Undershore Road Vicars Hill",
+      "time": "2026-09-04T16:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/knees-upp-lymington-2026/",
       "source": "hellosouthampton"
     },
     {
@@ -173,6 +123,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Alan Fletcher",
+      "venue": "The Attic",
+      "time": "2026-09-04T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/alan-fletcher/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "A Place To Bury Strangers",
       "venue": "Papillon",
       "time": "2026-09-04T19:00:00Z",
@@ -180,10 +137,31 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Kevin Bridges: Here If You Need Me",
+      "venue": "Mayflower Theatre",
+      "time": "2026-09-04T19:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/kevin-bridges-here-if-you-need-me/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Newfields Gardening CIC Open Day 2026",
+      "venue": "Newfields Gardening C I C",
+      "time": "2026-09-05T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/newfields-gardening-cic-open-day-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Eastleigh Pride 2026",
       "venue": "Leigh Road Recreation Ground",
       "time": "2026-09-05T10:45:00Z",
       "url": "https://hellosouthampton.co.uk/events/eastleigh-pride/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Summer Fete at Woodley Scout Hut Romsey",
+      "venue": "Woodley Scout Hut",
+      "time": "2026-09-05T13:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/summer-fete-at-woodley-scout-hut-romsey/",
       "source": "hellosouthampton"
     },
     {
@@ -212,6 +190,13 @@
       "venue": "Engine Rooms",
       "time": "2026-09-05T16:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/mauro-picotto-support/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Very Santana",
+      "venue": "Thornden Hall",
+      "time": "2026-09-05T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/very-santana/",
       "source": "hellosouthampton"
     },
     {
@@ -257,11 +242,19 @@
       "source": "hellosouthampton"
     },
     {
-      "title": "Heritage Open Days Southampton 2026",
-      "venue": "Multiple Venues",
-      "time": "2026-09-11T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/heritage-open-days-southampton-2026/",
+      "title": "Thank You for the Music: The Ultimate Tribute to ABBA",
+      "venue": "Mayflower Theatre",
+      "time": "2026-09-06T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/thank-you-for-the-music-the-ultimate-tribute-to-abba/",
       "source": "hellosouthampton"
+    },
+    {
+      "title": "Heritage Open Days",
+      "venue": "Select locations (FREE)",
+      "time": "2026-09-11T00:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/heritage-days/",
+      "source": "visit_southampton",
+      "all_day": true
     },
     {
       "title": "Music In The City",

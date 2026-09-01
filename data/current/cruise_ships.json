@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T02:13:07+00:00",
+  "fetched_at": "2026-09-01T08:57:15+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -8,7 +8,7 @@
       "berth": "102",
       "arrival": {
         "date": "2026-09-01",
-        "time": "2026-09-01T05:30:00Z"
+        "time": "2026-09-01T05:38:00Z"
       },
       "departure": {
         "date": "2026-09-02",
@@ -26,7 +26,7 @@
       "berth": "106",
       "arrival": {
         "date": "2026-09-01",
-        "time": "2026-09-01T05:30:00Z"
+        "time": "2026-09-01T05:46:00Z"
       },
       "departure": {
         "date": "2026-09-01",
@@ -448,6 +448,24 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9333175",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Ventura-669",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=VENTURA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "NORDSTJERNEN",
+      "berth": "Cowes Triangle",
+      "arrival": {
+        "date": "2026-09-13",
+        "time": "2026-09-13T07:00:00Z"
+      },
+      "departure": {
+        "date": "2026-09-13",
+        "time": "2026-09-13T16:00:00Z"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:5255777",
+        "cruisemapper_url": null,
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=NORDSTJERNEN%20cruise%20ship"
       }
     },
     {

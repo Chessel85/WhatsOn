@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T13:36:54+00:00",
+  "fetched_at": "2026-09-01T11:34:12+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -681,20 +681,13 @@
       "name": "Eastleigh FC",
       "league": {
         "competition": "National League",
-        "position": 5,
-        "points": 9,
-        "played": 4,
-        "remaining": 42
+        "position": 8,
+        "points": 10,
+        "played": 5,
+        "remaining": 41
       },
       "cups": [],
       "fixtures": [
-        {
-          "date": "2026-08-31T14:00Z",
-          "opponent": "Aldershot Town",
-          "home_away": "home",
-          "venue": "Silverlake Stadium",
-          "competition": "National League"
-        },
         {
           "date": "2026-09-04T18:45Z",
           "opponent": "Altrincham",
@@ -1023,6 +1016,16 @@
           "goals_for": 1,
           "goals_against": 0,
           "outcome": "W"
+        },
+        {
+          "date": "2026-08-31T14:00Z",
+          "opponent": "Aldershot Town",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League",
+          "goals_for": 1,
+          "goals_against": 1,
+          "outcome": "D"
         }
       ]
     }

@@ -1,44 +1,8 @@
 {
-  "fetched_at": "2026-09-02T15:25:35+00:00",
+  "fetched_at": "2026-09-02T19:00:25+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "ARCADIA",
-      "berth": "106",
-      "arrival": {
-        "date": "2026-09-02",
-        "time": "2026-09-02T05:08:00Z"
-      },
-      "departure": {
-        "date": "2026-09-02",
-        "time": "2026-09-02T15:30:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9226906",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Arcadia-626",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=ARCADIA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "BOREALIS",
-      "berth": "101",
-      "arrival": {
-        "date": "2026-09-02",
-        "time": "2026-09-02T05:08:00Z"
-      },
-      "departure": {
-        "date": "2026-09-02",
-        "time": "2026-09-02T16:00:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9122552",
-        "cruisemapper_url": null,
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BOREALIS%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "MARINA",
       "berth": "102",

@@ -1,34 +1,20 @@
 {
-  "fetched_at": "2026-09-01T10:44:51+00:00",
+  "fetched_at": "2026-09-02T10:09:41+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Board & Video Games Group",
-      "venue": "Board in the City CiC",
-      "time": "2026-09-01T14:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/board-video-games-group/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Shirley Fringe 2026",
-      "venue": "Multiple Venues",
-      "time": "2026-09-01T16:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/shirley-fringe-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Alan Reed & the Daughters of Expediency",
-      "venue": "The 1865",
-      "time": "2026-09-01T17:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/alan-reed-the-daughters-of-expediency/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Hampshire vs Warwickshire: Vitality County Championship",
       "venue": "Utilita Bowl",
       "time": "2026-09-02T09:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/hampshire-vs-warwickshire-vitality-county-championship/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Shirley Fringe 2026",
+      "venue": "Multiple Venues",
+      "time": "2026-09-02T16:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/shirley-fringe-2026/",
       "source": "hellosouthampton"
     },
     {
@@ -158,6 +144,27 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Touch of Spookie Fayre 2026 \u2013 Autumn Equinox",
+      "venue": "Ramalley Scout Hall",
+      "time": "2026-09-05T11:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/touch-of-spookie-fayre-2026-autumn-equinox/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Lincoln City v Southampton \u2013 Live Screening",
+      "venue": "Level1",
+      "time": "2026-09-05T11:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/lincoln-city-v-southampton-live-screening-at-level-1/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton Plant Community Swap & Sale 2026",
+      "venue": "Aldermoor Community Farm",
+      "time": "2026-09-05T12:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-plant-community-swap-sale-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Summer Fete at Woodley Scout Hut Romsey",
       "venue": "Woodley Scout Hut",
       "time": "2026-09-05T13:00:00Z",
@@ -246,6 +253,13 @@
       "venue": "Mayflower Theatre",
       "time": "2026-09-06T18:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/thank-you-for-the-music-the-ultimate-tribute-to-abba/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Board & Video Games Group",
+      "venue": "Board in the City CiC",
+      "time": "2026-09-08T14:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/board-video-games-group/",
       "source": "hellosouthampton"
     },
     {

@@ -1,32 +1,14 @@
 {
-  "fetched_at": "2026-09-02T01:35:52+00:00",
+  "fetched_at": "2026-09-02T08:10:24+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "SEVEN SEAS VOYAGER",
-      "berth": "102",
-      "arrival": {
-        "date": "2026-09-01",
-        "time": "2026-09-01T05:38:00Z"
-      },
-      "departure": {
-        "date": "2026-09-02",
-        "time": "2026-09-02T06:00:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9247144",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Seven-Seas-Voyager-695",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=SEVEN%20SEAS%20VOYAGER%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "ARCADIA",
       "berth": "106",
       "arrival": {
         "date": "2026-09-02",
-        "time": "2026-09-02T05:00:00Z"
+        "time": "2026-09-02T05:08:00Z"
       },
       "departure": {
         "date": "2026-09-02",
@@ -44,7 +26,7 @@
       "berth": "101",
       "arrival": {
         "date": "2026-09-02",
-        "time": "2026-09-02T05:00:00Z"
+        "time": "2026-09-02T05:08:00Z"
       },
       "departure": {
         "date": "2026-09-02",

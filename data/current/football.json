@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T11:34:12+00:00",
+  "fetched_at": "2026-09-02T11:11:29+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -9,10 +9,10 @@
       "name": "Southampton FC",
       "league": {
         "competition": "Championship",
-        "position": 18,
-        "points": 2,
-        "played": 3,
-        "remaining": 43
+        "position": 17,
+        "points": 3,
+        "played": 4,
+        "remaining": 42
       },
       "cups": [
         {
@@ -21,13 +21,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-09-01T19:00Z",
-          "opponent": "Birmingham City",
-          "home_away": "away",
-          "venue": "St. Andrew's Stadium",
-          "competition": "Championship"
-        },
         {
           "date": "2026-09-05T11:30Z",
           "opponent": "Lincoln City",
@@ -373,6 +366,16 @@
           "goals_for": 5,
           "goals_against": 1,
           "outcome": "W"
+        },
+        {
+          "date": "2026-09-01T19:00Z",
+          "opponent": "Birmingham City",
+          "home_away": "away",
+          "venue": "St. Andrew's Stadium",
+          "competition": "Championship",
+          "goals_for": 1,
+          "goals_against": 1,
+          "outcome": "D"
         }
       ]
     },

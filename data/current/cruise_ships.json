@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T08:19:58+00:00",
+  "fetched_at": "2026-09-03T15:19:10+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -130,6 +130,24 @@
       }
     },
     {
+      "ship_name": "DISNEY DREAM",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-09-07",
+        "time": "2026-09-07T05:00:00Z"
+      },
+      "departure": {
+        "date": "2026-09-07",
+        "time": "2026-09-07T15:45:00Z"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9434254",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Disney-Dream-548",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=DISNEY%20DREAM%20cruise%20ship"
+      }
+    },
+    {
       "ship_name": "MAJESTIC PRINCESS",
       "berth": "46",
       "arrival": {
@@ -152,39 +170,17 @@
       "berth": "38/9",
       "arrival": {
         "date": "2026-09-07",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-09-07T05:45:00Z"
       },
       "departure": {
         "date": "2026-09-07",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-09-07T19:30:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9636967",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/AIDAperla-1243",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=AIDAPERLA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "DISNEY DREAM",
-      "berth": "102",
-      "arrival": {
-        "date": "2026-09-07",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "departure": {
-        "date": "2026-09-07",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9434254",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Disney-Dream-548",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=DISNEY%20DREAM%20cruise%20ship"
       }
     },
     {

@@ -1,48 +1,20 @@
 {
-  "fetched_at": "2026-09-03T10:21:21+00:00",
+  "fetched_at": "2026-09-04T10:08:42+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Shirley Fringe 2026",
-      "venue": "Multiple Venues",
-      "time": "2026-09-03T16:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/shirley-fringe-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "An Audience with Devin Townsend",
-      "venue": "The 1865",
-      "time": "2026-09-03T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/an-audience-with-devin-townsend/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Soulfly + Nailbomb",
-      "venue": "Engine Rooms",
-      "time": "2026-09-03T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/soulfly/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Night Sky Show: A Sky Full of Hope",
-      "venue": "Mayflower Theatre",
-      "time": "2026-09-03T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-night-sky-show-a-sky-full-of-hope/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Spiral Drive",
-      "venue": "Heartbreakers",
-      "time": "2026-09-03T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/spiral-drive/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Weekly Street Market in Southampton",
       "venue": "The Bargate",
       "time": "2026-09-04T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Shirley Fringe 2026",
+      "venue": "Multiple Venues",
+      "time": "2026-09-04T16:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/shirley-fringe-2026/",
       "source": "hellosouthampton"
     },
     {

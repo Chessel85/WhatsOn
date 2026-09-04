@@ -1,26 +1,8 @@
 {
-  "fetched_at": "2026-09-04T15:13:52+00:00",
+  "fetched_at": "2026-09-04T18:36:42+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "MARINA",
-      "berth": "102",
-      "arrival": {
-        "date": "2026-09-04",
-        "time": "2026-09-04T05:17:00Z"
-      },
-      "departure": {
-        "date": "2026-09-04",
-        "time": "2026-09-04T17:00:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9438066",
-        "cruisemapper_url": null,
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MARINA%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "IONA",
       "berth": "46",

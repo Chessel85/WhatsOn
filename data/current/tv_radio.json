@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T11:19:41+00:00",
+  "fetched_at": "2026-09-04T11:22:49+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -30,15 +30,7 @@
       "name": "BBC Three",
       "type": "tv",
       "confidence": "high",
-      "new_series": [
-        {
-          "title": "RuPaul's Drag Race UK",
-          "series_number": 8,
-          "start_time": "2026-09-03T21:00:00Z",
-          "synopsis": "A hot new cast of queens enter the werkroom as RuPaul kicks off the legendary race. Thandiwe Newton joins Michelle Visage and Alan Carr on the judging panel.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m002zdy4"
-        }
-      ]
+      "new_series": []
     },
     {
       "id": "bbc_four",
@@ -94,6 +86,13 @@
           "start_time": "2026-09-09T08:30:00Z",
           "synopsis": "Josh Baker investigates one of the biggest missing-person cases of our time. American journalist Austin Tice vanished in Syria, but the US president says he\u2019s alive.",
           "url": null
+        },
+        {
+          "title": "Stand-Up Specials",
+          "series_number": null,
+          "start_time": "2026-09-10T17:30:00Z",
+          "synopsis": "Omid explores identity, stereotypes and first impressions, from growing up as the son of Iranian immigrants to the assumptions we all make about one another.",
+          "url": null
         }
       ]
     },
@@ -110,13 +109,6 @@
       "type": "tv",
       "confidence": "low",
       "new_series": [
-        {
-          "title": "Long Lost Family",
-          "series_number": 16,
-          "start_time": "2026-09-03T20:00:00Z",
-          "synopsis": "Avril was 15 when she placed her daughter for adoption in 1964. She has carried the pain of that separation with her since, and now she is dreaming of finally seeing her again. Davina McCall and Nicky Campbell also investigate the case of Marie, who was raised by her grandparents and has never known her father. As a train conductor, she meets strangers every day and wonders whether they could be related to her. She now yearns for answers.",
-          "url": "https://www.tvmaze.com/episodes/3723318/long-lost-family-16x01-episode-1"
-        },
         {
           "title": "The Box",
           "series_number": 1,

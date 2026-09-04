@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T21:57:18+00:00",
+  "fetched_at": "2026-09-04T01:33:32+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -497,6 +497,66 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9434254",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Disney-Dream-548",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=DISNEY%20DREAM%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "BALMORAL",
+      "berth": "101",
+      "arrival": {
+        "date": "2026-09-18",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-18",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:8506294",
+        "cruisemapper_url": null,
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BALMORAL%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "BRITANNIA",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-09-18",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-18",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614036",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Britannia-1028",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BRITANNIA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "LIBERTY OF THE SEAS",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-09-18",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-18",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "Intercruises Shoreside & Port",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9330032",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Liberty-Of-The-Seas-731",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=LIBERTY%20OF%20THE%20SEAS%20cruise%20ship"
       }
     }
   ]

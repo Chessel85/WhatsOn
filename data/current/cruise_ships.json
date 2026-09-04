@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T18:36:42+00:00",
+  "fetched_at": "2026-09-04T21:53:34+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -66,7 +66,7 @@
       },
       "departure": {
         "date": "2026-09-05",
-        "time": "2026-09-05T16:15:00Z"
+        "time": "2026-09-05T16:00:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {

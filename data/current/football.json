@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T11:11:05+00:00",
+  "fetched_at": "2026-09-05T10:30:01+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -686,18 +686,11 @@
         "competition": "National League",
         "position": 8,
         "points": 10,
-        "played": 5,
-        "remaining": 41
+        "played": 6,
+        "remaining": 40
       },
       "cups": [],
       "fixtures": [
-        {
-          "date": "2026-09-04T18:45Z",
-          "opponent": "Altrincham",
-          "home_away": "away",
-          "venue": "J. Davidson Stadium",
-          "competition": "National League"
-        },
         {
           "date": "2026-09-12T14:00Z",
           "opponent": "Boreham Wood",
@@ -1029,6 +1022,16 @@
           "goals_for": 1,
           "goals_against": 1,
           "outcome": "D"
+        },
+        {
+          "date": "2026-09-04T18:45Z",
+          "opponent": "Altrincham",
+          "home_away": "away",
+          "venue": "J. Davidson Stadium",
+          "competition": "National League",
+          "goals_for": 1,
+          "goals_against": 2,
+          "outcome": "L"
         }
       ]
     }

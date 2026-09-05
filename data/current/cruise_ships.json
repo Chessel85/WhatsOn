@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T01:34:59+00:00",
+  "fetched_at": "2026-09-05T07:53:11+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -8,7 +8,7 @@
       "berth": "46",
       "arrival": {
         "date": "2026-09-05",
-        "time": "2026-09-05T05:00:00Z"
+        "time": "2026-09-05T05:04:00Z"
       },
       "departure": {
         "date": "2026-09-05",
@@ -26,7 +26,7 @@
       "berth": "102",
       "arrival": {
         "date": "2026-09-05",
-        "time": "2026-09-05T05:00:00Z"
+        "time": "2026-09-05T05:02:00Z"
       },
       "departure": {
         "date": "2026-09-05",
@@ -44,7 +44,7 @@
       "berth": "106",
       "arrival": {
         "date": "2026-09-05",
-        "time": "2026-09-05T05:00:00Z"
+        "time": "2026-09-05T05:37:00Z"
       },
       "departure": {
         "date": "2026-09-05",
@@ -62,7 +62,7 @@
       "berth": "38/9",
       "arrival": {
         "date": "2026-09-05",
-        "time": "2026-09-05T05:15:00Z"
+        "time": "2026-09-05T05:13:00Z"
       },
       "departure": {
         "date": "2026-09-05",
@@ -98,7 +98,7 @@
       "berth": "106",
       "arrival": {
         "date": "2026-09-06",
-        "time": "2026-09-06T05:00:00Z"
+        "time": "2026-09-06T05:15:00Z"
       },
       "departure": {
         "date": "2026-09-06",
@@ -185,7 +185,7 @@
     },
     {
       "ship_name": "LIBERTY OF THE SEAS",
-      "berth": "101",
+      "berth": "102",
       "arrival": {
         "date": "2026-09-09",
         "time": "2026-09-09T04:45:00Z"

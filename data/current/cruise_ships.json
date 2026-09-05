@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T21:53:34+00:00",
+  "fetched_at": "2026-09-05T01:34:59+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -537,6 +537,106 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9330032",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Liberty-Of-The-Seas-731",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=LIBERTY%20OF%20THE%20SEAS%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "IONA",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-09-19",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-19",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9826548",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Iona-1858",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=IONA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "MAJESTIC PRINCESS",
+      "berth": "106",
+      "arrival": {
+        "date": "2026-09-19",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-19",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614141",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Majestic-Princess-1194",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MAJESTIC%20PRINCESS%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "MSC VIRTUOSA",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-09-19",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-19",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9803625",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/MSC-Virtuosa-1981",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MSC%20VIRTUOSA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "QUEEN MARY 2",
+      "berth": "38/9",
+      "arrival": {
+        "date": "2026-09-19",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-19",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9241061",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Queen-Mary-2-721",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=QUEEN%20MARY%202%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "SILVER DAWN",
+      "berth": "101",
+      "arrival": {
+        "date": "2026-09-19",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-09-19",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9857937",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Silver-Dawn-1991",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=SILVER%20DAWN%20cruise%20ship"
       }
     }
   ]

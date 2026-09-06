@@ -1,113 +1,8 @@
 {
-  "fetched_at": "2026-09-05T09:38:02+00:00",
+  "fetched_at": "2026-09-06T09:53:34+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Weekly Street Market in Southampton",
-      "venue": "The Bargate",
-      "time": "2026-09-05T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Newfields Gardening CIC Open Day 2026",
-      "venue": "Newfields Gardening C I C",
-      "time": "2026-09-05T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/newfields-gardening-cic-open-day-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Eastleigh Pride 2026",
-      "venue": "Leigh Road Recreation Ground",
-      "time": "2026-09-05T10:45:00Z",
-      "url": "https://hellosouthampton.co.uk/events/eastleigh-pride/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Touch of Spookie Fayre 2026 \u2013 Autumn Equinox",
-      "venue": "Ramalley Scout Hall",
-      "time": "2026-09-05T11:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/touch-of-spookie-fayre-2026-autumn-equinox/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Lincoln City v Southampton \u2013 Live Screening",
-      "venue": "Level1",
-      "time": "2026-09-05T11:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/lincoln-city-v-southampton-live-screening-at-level-1/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Plant Community Swap & Sale 2026",
-      "venue": "Aldermoor Community Farm",
-      "time": "2026-09-05T12:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-plant-community-swap-sale-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Summer Fete 2026 at Peartree Church",
-      "venue": "Peartree Church",
-      "time": "2026-09-05T12:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/summer-fete-2026-at-peartree-church/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Summer Fete at Woodley Scout Hut Romsey",
-      "venue": "Woodley Scout Hut",
-      "time": "2026-09-05T13:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/summer-fete-at-woodley-scout-hut-romsey/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Pure @ The Shooting Star Southampton",
-      "venue": "The Shooting Star",
-      "time": "2026-09-05T14:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/pure-the-shooting-star-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "80s Day Disco Southampton",
-      "venue": "Trilogy Southampton",
-      "time": "2026-09-05T14:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/80s-day-disco-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Daytime Clubbing at Medbar",
-      "venue": "Medbar",
-      "time": "2026-09-05T15:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/daytime-clubbing-at-medbar/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Shirley Fringe 2026",
-      "venue": "Multiple Venues",
-      "time": "2026-09-05T16:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/shirley-fringe-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Mauro Picotto + Support",
-      "venue": "Engine Rooms",
-      "time": "2026-09-05T16:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/mauro-picotto-support/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Very Santana",
-      "venue": "Thornden Hall",
-      "time": "2026-09-05T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/very-santana/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Kevin Bridges: Here If You Need Me",
-      "venue": "Mayflower Theatre",
-      "time": "2026-09-05T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/kevin-bridges-here-if-you-need-me/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Romsey Farmers\u2019 Market",
       "venue": "Alma Road Car Park",
@@ -137,6 +32,20 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Shirley Fringe 2026",
+      "venue": "Multiple Venues",
+      "time": "2026-09-06T16:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/shirley-fringe-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Knees Upp! Lymington 2026",
+      "venue": "Undershore Road Vicars Hill",
+      "time": "2026-09-06T16:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/knees-upp-lymington-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Fontaines YC & Two Door Cinema Clone",
       "venue": "The 1865",
       "time": "2026-09-06T18:00:00Z",
@@ -158,6 +67,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Los Endos Ultimate Genesis 2026",
+      "venue": "The 1865",
+      "time": "2026-09-07T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/los-endos-ultimate-genesis-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Board & Video Games Group",
       "venue": "Board in the City CiC",
       "time": "2026-09-08T14:30:00Z",
@@ -165,10 +81,31 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Daz and Will Unhooked 2026",
+      "venue": "O2 Guildhall Southampton",
+      "time": "2026-09-08T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/daz-and-will-unhooked-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Allegaeon + Gorod 2026",
+      "venue": "The 1865",
+      "time": "2026-09-08T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/allegaeon-gorod-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Eastleigh vs Alton 2026",
       "venue": "Silverlake Stadium",
       "time": "2026-09-08T18:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/eastleigh-vs-alton-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Ballad of Johnny & June 2026",
+      "venue": "Mayflower Theatre",
+      "time": "2026-09-08T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-ballad-of-johnny-june-2026/",
       "source": "hellosouthampton"
     },
     {
@@ -186,6 +123,27 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Holy Holy David Bowie Tribute 2026",
+      "venue": "The 1865",
+      "time": "2026-09-09T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/holy-holy-david-bowie-tribute-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Pianist 2026",
+      "venue": "Mayflower Studios",
+      "time": "2026-09-09T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-pianist-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Lloyd Griffith Comedy 2026",
+      "venue": "The Attic",
+      "time": "2026-09-10T18:45:00Z",
+      "url": "https://hellosouthampton.co.uk/events/lloyd-griffith-comedy-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Heritage Open Days",
       "venue": "Select locations (FREE)",
       "time": "2026-09-11T00:00:00Z",
@@ -194,10 +152,45 @@
       "all_day": true
     },
     {
+      "title": "Weekly Street Market in Southampton",
+      "venue": "The Bargate",
+      "time": "2026-09-11T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "SizzleFest 2026",
       "venue": "SoCal BBQ Shop",
       "time": "2026-09-11T17:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/sizzlefest-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Boyband in the Buff 2026",
+      "venue": "O2 Guildhall Southampton",
+      "time": "2026-09-11T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/boyband-in-the-buff-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Jam\u2019d 2026",
+      "venue": "The 1865",
+      "time": "2026-09-11T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-jamd-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "ELO Encounter 2026",
+      "venue": "The Point",
+      "time": "2026-09-11T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/elo-encounter-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Russell Watson 2026",
+      "venue": "Thornden Hall",
+      "time": "2026-09-11T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/russell-watson-2026/",
       "source": "hellosouthampton"
     },
     {
@@ -244,6 +237,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "The Tale of the Loneliest Whale 2026",
+      "venue": "The Point",
+      "time": "2026-09-12T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-tale-of-the-loneliest-whale-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Southampton vs Bristol City 2026",
       "venue": "St. Mary's Stadium",
       "time": "2026-09-12T14:00:00Z",
@@ -272,10 +272,31 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Ultimate Leppard 2026",
+      "venue": "The 1865",
+      "time": "2026-09-12T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/ultimate-leppard-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Bob Mills Comedy 2026",
+      "venue": "The Attic",
+      "time": "2026-09-12T18:45:00Z",
+      "url": "https://hellosouthampton.co.uk/events/bob-mills-comedy-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "One4TheRoad Live Music 2026",
       "venue": "Manor Farm Road",
       "time": "2026-09-12T19:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/one4theroad-live-music-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "David Essex 2026",
+      "venue": "Mayflower Theatre",
+      "time": "2026-09-13T00:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/david-essex-2026/",
       "source": "hellosouthampton"
     },
     {
@@ -314,6 +335,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "King King Blues Rock 2026",
+      "venue": "The 1865",
+      "time": "2026-09-13T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/king-king-blues-rock-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Purpose driven KEE: Using Theory of Change to shape activities",
       "venue": "Online - Teams",
       "time": "2026-09-15T11:00:00Z",
@@ -327,6 +355,13 @@
       "url": "https://www.visitsouthampton.co.uk/event/british-science-festival/276319101/",
       "source": "visit_southampton",
       "all_day": true
+    },
+    {
+      "title": "Mucky Weekender Festival 2026",
+      "venue": "Vicarage Farm",
+      "time": "2026-09-17T07:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/mucky-weekender-festival-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Southampton International Boat Show",

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T10:39:40+00:00",
+  "fetched_at": "2026-09-06T11:01:32+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -8,7 +8,15 @@
       "name": "BBC One",
       "type": "tv",
       "confidence": "high",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "The Celebrity Inner Circle",
+          "series_number": 2,
+          "start_time": "2026-09-12T19:15:00Z",
+          "synopsis": "Ade Adepitan, Janette Manrara, Des Clarke, Catherine Tyldesley and Lisa Riley are paired with five contestants hoping to outwit each other to win big.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0031mr6"
+        }
+      ]
     },
     {
       "id": "bbc_two",
@@ -30,7 +38,15 @@
       "name": "BBC Three",
       "type": "tv",
       "confidence": "high",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "Schitt's Creek",
+          "series_number": 5,
+          "start_time": "2026-09-12T22:30:00Z",
+          "synopsis": "While Moira is in Bosnia filming the Crows movie that she hopes will revive her acting career, David attempts to take his relationship with Patrick to new heights.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m002x3jc"
+        }
+      ]
     },
     {
       "id": "bbc_four",
@@ -45,20 +61,6 @@
       "type": "radio",
       "confidence": "medium",
       "new_series": [
-        {
-          "title": "The News Quiz",
-          "series_number": 121,
-          "start_time": "2026-09-05T11:30:00Z",
-          "synopsis": "Andy Zaltzman is back for a brand new series of The News Quiz, with panellists Pierre Novellie, Alasdair Beckett-King, Coco Khan and Kyrah Gray.",
-          "url": "https://www.bbc.co.uk/sounds/play/m0030yym"
-        },
-        {
-          "title": "Your Mum",
-          "series_number": 2,
-          "start_time": "2026-09-05T22:00:00Z",
-          "synopsis": "Laura Smyth is joined by comedians Sara Barron and Nish Kumar to hear about the indelible mark their mothers left on them.",
-          "url": null
-        },
         {
           "title": "Unspeakable",
           "series_number": 4,
@@ -97,9 +99,16 @@
         {
           "title": "The Banksy Story",
           "series_number": null,
-          "start_time": "2026-09-11T13:45:00Z",
+          "start_time": "2026-09-12T04:45:00Z",
           "synopsis": "What happens when Banksy does one of his naughty drawings on your wall? James Peak investigates. Let's meet Sam in Margate and Gert in Lowestoft. Banksy has visited them both.",
           "url": "https://www.bbc.co.uk/sounds/play/p0l2m9qs"
+        },
+        {
+          "title": "The Good Earth by Pearl S Buck",
+          "series_number": null,
+          "start_time": "2026-09-12T14:00:00Z",
+          "synopsis": "Wang Lung and O-Lan marry, work the land and raise their family. When drought brings famine and turns fortune to ruin, they are forced into a desperate fight for survival.",
+          "url": null
         }
       ]
     },
@@ -117,11 +126,11 @@
       "confidence": "low",
       "new_series": [
         {
-          "title": "The Box",
-          "series_number": 1,
-          "start_time": "2026-09-05T19:15:00Z",
-          "synopsis": "Joey Essex, John Bercow, Jenny Ryan, JB Gill, Danny Aarons, Ranvir Singh, Sara Davies, Graeme Souness, Ellie Taylor and Shakira Khan compete in high-pressure challenges as they try to avoid a head-to-head showdown in the Duel and becoming the first famous face to be sent packing.",
-          "url": "https://www.tvmaze.com/episodes/3700364/the-box-1x01-episode-1"
+          "title": "National Television Awards",
+          "series_number": 2026,
+          "start_time": "2026-09-08T19:00:00Z",
+          "synopsis": "Joel Dommett hosts the 31st edition of the ceremony from the O2 London as stars and a host of fans celebrate the UK's favourite TV shows and talent as voted for by viewers across the country. Vying for prizes are headline-making shows including I'm a Celebrity, The Celebrity Traitors, Heated Rivalry, Amandaland and The Other Bennet Sister, and there is a double nomination for David Attenborough in the year he turned 100.",
+          "url": "https://www.tvmaze.com/episodes/3732016/national-television-awards-2026-09-08-national-television-awards-2026"
         }
       ]
     }

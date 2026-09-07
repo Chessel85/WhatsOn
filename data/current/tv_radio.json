@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T11:01:32+00:00",
+  "fetched_at": "2026-09-07T12:39:48+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -62,25 +62,11 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Unspeakable",
-          "series_number": 4,
-          "start_time": "2026-09-06T11:30:00Z",
-          "synopsis": "Phil Wang and Susie Dent challenge guests to invent new words and help create the new ultimate Unspeakable dictionary. With guests Jessie Cave, Armando Iannucci and Chloe Petts.",
-          "url": "https://www.bbc.co.uk/sounds/play/m0030x8y"
-        },
-        {
-          "title": "Drama on 4",
-          "series_number": null,
-          "start_time": "2026-09-06T14:00:00Z",
-          "synopsis": "A young conscript joins Alpha Company in Vietnam in 1969. Their aim? To survive. If they can. These are the stories of those who did.",
-          "url": null
-        },
-        {
           "title": "The Villa Forgotten by Jeanette Winterson",
           "series_number": null,
           "start_time": "2026-09-07T21:45:00Z",
           "synopsis": "Toni visits the house she\u2019s just inherited. But the past cannot be erased. An original, eerie story, written and read by Jeanette Winterson.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0p7zn2n"
         },
         {
           "title": "I'm Not A Monster Presents...",
@@ -109,6 +95,13 @@
           "start_time": "2026-09-12T14:00:00Z",
           "synopsis": "Wang Lung and O-Lan marry, work the land and raise their family. When drought brings famine and turns fortune to ruin, they are forced into a desperate fight for survival.",
           "url": null
+        },
+        {
+          "title": "Shadow World",
+          "series_number": null,
+          "start_time": "2026-09-13T18:45:00Z",
+          "synopsis": "People have called Dr Ittai Gradel a kind of Sherlock Holmes, if Holmes were Danish and obsessed with gems. He\u2019s an antiquities dealer with an eye for stolen goods.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0j01h8x"
         }
       ]
     },

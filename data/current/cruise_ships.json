@@ -1,44 +1,8 @@
 {
-  "fetched_at": "2026-09-07T08:40:46+00:00",
+  "fetched_at": "2026-09-07T16:43:23+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "DISNEY DREAM",
-      "berth": "102",
-      "arrival": {
-        "date": "2026-09-07",
-        "time": "2026-09-07T05:14:00Z"
-      },
-      "departure": {
-        "date": "2026-09-07",
-        "time": "2026-09-07T15:45:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9434254",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Disney-Dream-548",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=DISNEY%20DREAM%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "MAJESTIC PRINCESS",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-09-07",
-        "time": "2026-09-07T05:41:00Z"
-      },
-      "departure": {
-        "date": "2026-09-07",
-        "time": "2026-09-07T15:00:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614141",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Majestic-Princess-1194",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MAJESTIC%20PRINCESS%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "AIDAPERLA",
       "berth": "38/9",
@@ -130,6 +94,24 @@
       }
     },
     {
+      "ship_name": "MSC VIRTUOSA",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-09-12",
+        "time": "2026-09-12T05:00:00Z"
+      },
+      "departure": {
+        "date": "2026-09-12",
+        "time": "2026-09-12T17:00:00Z"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9803625",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/MSC-Virtuosa-1981",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MSC%20VIRTUOSA%20cruise%20ship"
+      }
+    },
+    {
       "ship_name": "CELEBRITY APEX",
       "berth": "101",
       "arrival": {
@@ -167,26 +149,6 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9826548",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Iona-1858",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=IONA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "MSC VIRTUOSA",
-      "berth": "102",
-      "arrival": {
-        "date": "2026-09-12",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "departure": {
-        "date": "2026-09-12",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9803625",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/MSC-Virtuosa-1981",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MSC%20VIRTUOSA%20cruise%20ship"
       }
     },
     {

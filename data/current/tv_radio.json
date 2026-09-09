@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T11:23:52+00:00",
+  "fetched_at": "2026-09-09T11:28:03+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -65,7 +65,7 @@
           "series_number": null,
           "start_time": "2026-09-09T08:30:00Z",
           "synopsis": "Josh Baker investigates one of the biggest missing-person cases of our time. American journalist Austin Tice vanished in Syria, but the US president says he\u2019s alive.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0p8cd4j"
+          "url": "https://www.bbc.co.uk/sounds/play/m00316yf"
         },
         {
           "title": "Stand-Up Specials",
@@ -130,15 +130,7 @@
       "name": "ITV1",
       "type": "tv",
       "confidence": "low",
-      "new_series": [
-        {
-          "title": "National Television Awards",
-          "series_number": 2026,
-          "start_time": "2026-09-08T19:00:00Z",
-          "synopsis": "Joel Dommett hosts the 31st edition of the ceremony from the O2 London as stars and a host of fans celebrate the UK's favourite TV shows and talent as voted for by viewers across the country. Vying for prizes are headline-making shows including I'm a Celebrity, The Celebrity Traitors, Heated Rivalry, Amandaland and The Other Bennet Sister, and there is a double nomination for David Attenborough in the year he turned 100.",
-          "url": "https://www.tvmaze.com/episodes/3732016/national-television-awards-2026-09-08-national-television-awards-2026"
-        }
-      ]
+      "new_series": []
     }
   ]
 }

@@ -1,57 +1,8 @@
 {
-  "fetched_at": "2026-09-08T10:15:53+00:00",
+  "fetched_at": "2026-09-09T10:21:46+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Board & Video Games Group",
-      "venue": "Board in the City CiC",
-      "time": "2026-09-08T14:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/board-video-games-group/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Daz and Will Unhooked 2026",
-      "venue": "O2 Guildhall Southampton",
-      "time": "2026-09-08T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/daz-and-will-unhooked-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Allegaeon + Gorod 2026",
-      "venue": "The 1865",
-      "time": "2026-09-08T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/allegaeon-gorod-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Comedy at Heartbreakers 2026",
-      "venue": "Heartbreakers",
-      "time": "2026-09-08T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/comedy-at-heartbreakers-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Eastleigh vs Alton 2026",
-      "venue": "Silverlake Stadium",
-      "time": "2026-09-08T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/eastleigh-vs-alton-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Ballad of Johnny & June 2026",
-      "venue": "Mayflower Theatre",
-      "time": "2026-09-08T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-ballad-of-johnny-june-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton vs Swansea City 2026",
-      "venue": "St. Mary's Stadium",
-      "time": "2026-09-08T18:45:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-vs-swansea-city-2026/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Hampshire Women vs The Blaze 2026",
       "venue": "Utilita Bowl",
@@ -64,6 +15,13 @@
       "venue": "The 1865",
       "time": "2026-09-09T18:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/holy-holy-david-bowie-tribute-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Ballad of Johnny & June 2026",
+      "venue": "Mayflower Theatre",
+      "time": "2026-09-09T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-ballad-of-johnny-june-2026/",
       "source": "hellosouthampton"
     },
     {
@@ -333,6 +291,13 @@
       "time": "2026-09-15T11:00:00Z",
       "url": "https://www.events.soton.ac.uk/",
       "source": "university"
+    },
+    {
+      "title": "Board & Video Games Group",
+      "venue": "Board in the City CiC",
+      "time": "2026-09-15T14:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/board-video-games-group/",
+      "source": "hellosouthampton"
     },
     {
       "title": "British Science Festival",

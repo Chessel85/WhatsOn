@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T11:11:06+00:00",
+  "fetched_at": "2026-09-09T11:14:53+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -9,10 +9,10 @@
       "name": "Southampton FC",
       "league": {
         "competition": "Championship",
-        "position": 19,
-        "points": 4,
-        "played": 5,
-        "remaining": 41
+        "position": 12,
+        "points": 7,
+        "played": 6,
+        "remaining": 40
       },
       "cups": [
         {
@@ -21,13 +21,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-09-08T18:45Z",
-          "opponent": "Swansea City",
-          "home_away": "home",
-          "venue": "St. Mary's Stadium",
-          "competition": "Championship"
-        },
         {
           "date": "2026-09-12T14:00Z",
           "opponent": "Bristol City",
@@ -379,6 +372,16 @@
           "goals_for": 1,
           "goals_against": 1,
           "outcome": "D"
+        },
+        {
+          "date": "2026-09-08T18:45Z",
+          "opponent": "Swansea City",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship",
+          "goals_for": 3,
+          "goals_against": 1,
+          "outcome": "W"
         }
       ]
     },
@@ -395,17 +398,10 @@
       "cups": [
         {
           "competition": "EFL Cup",
-          "status": "in_progress"
+          "status": "through"
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-09-08T18:45Z",
-          "opponent": "Lincoln City",
-          "home_away": "home",
-          "venue": "Vitality Stadium",
-          "competition": "EFL Cup"
-        },
         {
           "date": "2026-09-12T14:00Z",
           "opponent": "Brentford",
@@ -682,6 +678,16 @@
           "goals_for": 2,
           "goals_against": 2,
           "outcome": "D"
+        },
+        {
+          "date": "2026-09-08T18:45Z",
+          "opponent": "Lincoln City",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "EFL Cup",
+          "goals_for": 4,
+          "goals_against": 0,
+          "outcome": "W"
         }
       ]
     },

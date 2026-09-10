@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T11:14:53+00:00",
+  "fetched_at": "2026-09-10T11:11:43+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -9,7 +9,7 @@
       "name": "Southampton FC",
       "league": {
         "competition": "Championship",
-        "position": 12,
+        "position": 13,
         "points": 7,
         "played": 6,
         "remaining": 40

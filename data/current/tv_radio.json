@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T11:28:03+00:00",
+  "fetched_at": "2026-09-10T11:24:28+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -60,13 +60,6 @@
       "type": "radio",
       "confidence": "medium",
       "new_series": [
-        {
-          "title": "I'm Not A Monster Presents...",
-          "series_number": null,
-          "start_time": "2026-09-09T08:30:00Z",
-          "synopsis": "Josh Baker investigates one of the biggest missing-person cases of our time. American journalist Austin Tice vanished in Syria, but the US president says he\u2019s alive.",
-          "url": "https://www.bbc.co.uk/sounds/play/m00316yf"
-        },
         {
           "title": "Stand-Up Specials",
           "series_number": null,

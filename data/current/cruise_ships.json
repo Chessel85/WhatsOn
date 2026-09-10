@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T18:44:29+00:00",
+  "fetched_at": "2026-09-10T22:00:14+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -188,11 +188,11 @@
       "berth": "Cowes Triangle",
       "arrival": {
         "date": "2026-09-13",
-        "time": "2026-09-13T07:00:00Z"
+        "time": "2026-09-13T08:30:00Z"
       },
       "departure": {
         "date": "2026-09-13",
-        "time": "2026-09-13T16:00:00Z"
+        "time": "2026-09-13T17:00:00Z"
       },
       "agent": "DENHOLM PORT SERVICES LTD",
       "links": {

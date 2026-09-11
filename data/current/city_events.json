@@ -1,49 +1,20 @@
 {
-  "fetched_at": "2026-09-10T10:14:07+00:00",
+  "fetched_at": "2026-09-11T10:11:50+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "The Ballad of Johnny & June 2026",
-      "venue": "Mayflower Theatre",
-      "time": "2026-09-10T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-ballad-of-johnny-june-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Pianist 2026",
-      "venue": "Mayflower Studios",
-      "time": "2026-09-10T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-pianist-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Joe Martin: Alone In Valentine Live at Hanger Farm",
-      "venue": "Hanger Farm",
-      "time": "2026-09-10T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/joe-martin-alone-in-valentine-live-at-hanger-farm/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Lloyd Griffith Comedy 2026",
-      "venue": "The Attic",
-      "time": "2026-09-10T18:45:00Z",
-      "url": "https://hellosouthampton.co.uk/events/lloyd-griffith-comedy-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Heritage Open Days",
-      "venue": "Select locations (FREE)",
-      "time": "2026-09-11T00:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/heritage-days/",
-      "source": "visit_southampton",
-      "all_day": true
-    },
     {
       "title": "Weekly Street Market in Southampton",
       "venue": "The Bargate",
       "time": "2026-09-11T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Heritage Open Days Southampton 2026",
+      "venue": "Multiple Venues",
+      "time": "2026-09-11T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/heritage-open-days-southampton-2026/",
       "source": "hellosouthampton"
     },
     {
@@ -75,6 +46,20 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "The Ballad of Johnny & June 2026",
+      "venue": "Mayflower Theatre",
+      "time": "2026-09-11T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-ballad-of-johnny-june-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Pianist 2026",
+      "venue": "Mayflower Studios",
+      "time": "2026-09-11T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-pianist-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "ELO Encounter 2026",
       "venue": "The Point",
       "time": "2026-09-11T18:30:00Z",
@@ -86,6 +71,13 @@
       "venue": "Thornden Hall",
       "time": "2026-09-11T18:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/russell-watson-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Stand Up in the Basement: Dan Evans & More at Papillon",
+      "venue": "Papillon",
+      "time": "2026-09-11T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/stand-up-in-the-basement-dan-evans-more-at-papillon/",
       "source": "hellosouthampton"
     },
     {
@@ -279,12 +271,33 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "King Parrot Live at The 1865",
+      "venue": "The 1865",
+      "time": "2026-09-15T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/king-parrot-live-at-the-1865/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Faith in Strangers Live at Heartbreakers",
+      "venue": "Heartbreakers",
+      "time": "2026-09-15T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/faith-in-strangers-live-at-heartbreakers/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "British Science Festival",
       "venue": "city wide (locations TBC) (FREE)",
       "time": "2026-09-16T00:00:00Z",
       "url": "https://www.visitsouthampton.co.uk/event/british-science-festival/276319101/",
       "source": "visit_southampton",
       "all_day": true
+    },
+    {
+      "title": "Sonar Presents: Daytura + Sofia Ford Live at Heartbreakers",
+      "venue": "Heartbreakers",
+      "time": "2026-09-16T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/sonar-presents-daytura-sofia-ford-live-at-heartbreakers/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Laura Veirs Live at Papillon",
@@ -301,6 +314,34 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "The Five Hundred Live at The 1865",
+      "venue": "The 1865",
+      "time": "2026-09-17T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-five-hundred-live-at-the-1865/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Ruled by Raptors Live at Heartbreakers",
+      "venue": "Heartbreakers",
+      "time": "2026-09-17T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/ruled-by-raptors-live-at-heartbreakers/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "barejams. Live at The Brook",
+      "venue": "The Brook Southampton",
+      "time": "2026-09-17T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/barejams-live-at-the-brook/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "A Night in Nashville with Snake Oil & Friends",
+      "venue": "Hanger Farm",
+      "time": "2026-09-17T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/a-night-in-nashville-with-snake-oil-friends/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Southampton International Boat Show",
       "venue": "Mayflower Park",
       "time": "2026-09-18T00:00:00Z",
@@ -309,10 +350,80 @@
       "all_day": true
     },
     {
+      "title": "KRS-One Live at EngineRooms",
+      "venue": "EngineRooms",
+      "time": "2026-09-18T17:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/krs-one-live-at-enginerooms/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Sucker Love (Placebo Tribute) Live at The 1865",
+      "venue": "The 1865",
+      "time": "2026-09-18T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/sucker-love-placebo-tribute-live-at-the-1865/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Dream Machine Live at Heartbreakers",
+      "venue": "Heartbreakers",
+      "time": "2026-09-18T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-dream-machine-live-at-heartbreakers/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Will Wilde Live at The Brook",
+      "venue": "The Brook Southampton",
+      "time": "2026-09-18T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/will-wilde-live-at-the-brook/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "And Finally\u2026 Phil Collins Tribute at Hanger Farm",
+      "venue": "Hanger Farm",
+      "time": "2026-09-18T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/and-finally-phil-collins-tribute-at-hanger-farm/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Forever Oasis Tribute Band Live at The Attic",
+      "venue": "The Attic",
+      "time": "2026-09-18T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/forever-oasis-tribute-band-live-at-the-attic/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Dash in the Dark Southampton 2026",
       "venue": "Southampton Common",
       "time": "2026-09-19T18:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/dash-in-the-dark-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Specials LTD Live at The 1865",
+      "venue": "The 1865",
+      "time": "2026-09-19T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-specials-ltd-live-at-the-1865/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Laura Belbin & Friends Stand Up Comedy",
+      "venue": "The Attic",
+      "time": "2026-09-19T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/laura-belbin-friends-stand-up-comedy/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs Live at Papillon",
+      "venue": "Papillon",
+      "time": "2026-09-19T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/pigs-pigs-pigs-pigs-pigs-pigs-pigs-live-at-papillon/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Martin Turner ex Wishbone Ash TWO ERAS Tour",
+      "venue": "Hanger Farm",
+      "time": "2026-09-19T19:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/martin-turner-ex-wishbone-ash-two-eras-tour/",
       "source": "hellosouthampton"
     },
     {
@@ -327,6 +438,20 @@
       "venue": "The Concorde",
       "time": "2026-09-20T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/concorde-classics-car-show/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Max\u2019s Records Presents: Halt + The Common Live at Heartbreakers",
+      "venue": "Heartbreakers",
+      "time": "2026-09-20T17:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/maxs-records-presents-halt-the-common-live-at-heartbreakers/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Ranagri Say Hello Tour at Hanger Farm",
+      "venue": "Hanger Farm",
+      "time": "2026-09-20T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/ranagri-say-hello-tour-at-hanger-farm/",
       "source": "hellosouthampton"
     },
     {

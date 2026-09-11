@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T11:11:43+00:00",
+  "fetched_at": "2026-09-11T11:12:36+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -501,21 +501,21 @@
           "competition": "Premier League"
         },
         {
-          "date": "2026-12-30T20:00Z",
+          "date": "2026-12-30T19:30Z",
           "opponent": "Crystal Palace",
           "home_away": "away",
           "venue": "Selhurst Park",
           "competition": "Premier League"
         },
         {
-          "date": "2027-01-02T15:00Z",
+          "date": "2027-01-02T17:30Z",
           "opponent": "Aston Villa",
           "home_away": "home",
           "venue": "Vitality Stadium",
           "competition": "Premier League"
         },
         {
-          "date": "2027-01-06T20:00Z",
+          "date": "2027-01-05T19:30Z",
           "opponent": "Brighton & Hove Albion",
           "home_away": "away",
           "venue": "American Express Stadium",

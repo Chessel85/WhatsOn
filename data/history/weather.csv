@@ -247,3 +247,4 @@ fetched_at,temperature_c,feels_like_c,condition,wind_speed_mph,precipitation_mm
 2026-09-11T03:52:23+00:00,16.7,17.3,Light drizzle,6.3,0.2
 2026-09-11T08:46:43+00:00,16.2,16.7,Overcast,4.0,0.0
 2026-09-11T13:23:56+00:00,21.1,19.6,Overcast,6.9,0.0
+2026-09-11T17:38:32+00:00,21.5,20.1,Partly cloudy,6.3,0.0

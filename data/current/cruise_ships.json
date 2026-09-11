@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T08:21:13+00:00",
+  "fetched_at": "2026-09-11T15:19:49+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -238,6 +238,24 @@
       }
     },
     {
+      "ship_name": "BRITANNIA",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-09-18",
+        "time": "2026-09-18T05:45:00Z"
+      },
+      "departure": {
+        "date": "2026-09-18",
+        "time": "2026-09-18T15:00:00Z"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614036",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Britannia-1028",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BRITANNIA%20cruise%20ship"
+      }
+    },
+    {
       "ship_name": "BALMORAL",
       "berth": "101",
       "arrival": {
@@ -255,26 +273,6 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:8506294",
         "cruisemapper_url": null,
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BALMORAL%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "BRITANNIA",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-09-18",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "departure": {
-        "date": "2026-09-18",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614036",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Britannia-1028",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BRITANNIA%20cruise%20ship"
       }
     },
     {

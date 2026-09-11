@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T11:24:28+00:00",
+  "fetched_at": "2026-09-11T11:26:39+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -30,7 +30,15 @@
       "name": "BBC Two",
       "type": "tv",
       "confidence": "high",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "Hey Beautiful: Anatomy of a Romance Scam",
+          "series_number": 1,
+          "start_time": "2026-09-17T20:00:00Z",
+          "synopsis": "Women worldwide are falling for the same online lover. But when he starts to ask for money, Roxy, Annette and Gaby trace the truth back to a single man in California.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m00303hs"
+        }
+      ]
     },
     {
       "id": "bbc_three",
@@ -60,13 +68,6 @@
       "type": "radio",
       "confidence": "medium",
       "new_series": [
-        {
-          "title": "Stand-Up Specials",
-          "series_number": null,
-          "start_time": "2026-09-10T17:30:00Z",
-          "synopsis": "Omid explores identity, stereotypes and first impressions, from growing up as the son of Iranian immigrants to the assumptions we all make about one another.",
-          "url": null
-        },
         {
           "title": "The Banksy Story",
           "series_number": null,
@@ -100,13 +101,6 @@
           "series_number": null,
           "start_time": "2026-09-14T12:45:00Z",
           "synopsis": "Andrew Hunter Murray goes back to the 80s, uncovering one of the world\u2019s biggest ever publishing scandals, spiralling from one man\u2019s obsession and another man\u2019s greed.",
-          "url": null
-        },
-        {
-          "title": "BBC National Short Story Award",
-          "series_number": null,
-          "start_time": "2026-09-14T14:30:00Z",
-          "synopsis": "The first story in contention for this year's BBC National Short Story Award with Cambridge University, which is marking its 21st anniversary in 2026. Read by Mike Sengelow.",
           "url": null
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T01:45:02+00:00",
+  "fetched_at": "2026-09-12T08:10:01+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -26,7 +26,7 @@
       "berth": "106",
       "arrival": {
         "date": "2026-09-12",
-        "time": "2026-09-12T04:45:00Z"
+        "time": "2026-09-12T05:12:00Z"
       },
       "departure": {
         "date": "2026-09-12",
@@ -62,7 +62,7 @@
       "berth": "46",
       "arrival": {
         "date": "2026-09-12",
-        "time": "2026-09-12T05:15:00Z"
+        "time": "2026-09-12T05:40:00Z"
       },
       "departure": {
         "date": "2026-09-12",
@@ -80,7 +80,7 @@
       "berth": "38/9",
       "arrival": {
         "date": "2026-09-12",
-        "time": "2026-09-12T05:30:00Z"
+        "time": "2026-09-12T05:53:00Z"
       },
       "departure": {
         "date": "2026-09-12",

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T11:26:39+00:00",
+  "fetched_at": "2026-09-12T10:51:37+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -22,6 +22,13 @@
           "start_time": "2026-09-14T15:30:00Z",
           "synopsis": "Regulars Tash and David hit the road together for the first time in central Scotland. There are finds from East Asia and significant sparkles, but what will fly at auction?",
           "url": "https://www.bbc.co.uk/iplayer/episode/m003108s"
+        },
+        {
+          "title": "Pointless",
+          "series_number": 36,
+          "start_time": "2026-09-18T16:15:00Z",
+          "synopsis": "Alexander Armstrong is joined by co-host Lucy Porter for the quiz where contestants try to score as few points as possible by coming up with the answers no-one else could think of.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0031m7l"
         }
       ]
     },
@@ -100,7 +107,14 @@
           "title": "The History Podcast",
           "series_number": null,
           "start_time": "2026-09-14T12:45:00Z",
-          "synopsis": "Andrew Hunter Murray goes back to the 80s, uncovering one of the world\u2019s biggest ever publishing scandals, spiralling from one man\u2019s obsession and another man\u2019s greed.",
+          "synopsis": "21 April, 1945, Eastern Germany, a plane crashes. A few iron boxes are salvaged.  Rumour spreads that Hitler\u2019s personal effects are in those boxes. Could there be diaries?",
+          "url": null
+        },
+        {
+          "title": "Limelight",
+          "series_number": null,
+          "start_time": "2026-09-18T13:15:00Z",
+          "synopsis": "A new tutor arrives in a luxury bunker. What happened to her predecessor? Claustrophobic near-future thriller set in a billionaire\u2019s haunted bunker.",
           "url": null
         }
       ]

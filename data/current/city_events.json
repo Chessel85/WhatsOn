@@ -1,100 +1,8 @@
 {
-  "fetched_at": "2026-09-11T10:11:50+00:00",
+  "fetched_at": "2026-09-12T09:46:05+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Weekly Street Market in Southampton",
-      "venue": "The Bargate",
-      "time": "2026-09-11T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Heritage Open Days Southampton 2026",
-      "venue": "Multiple Venues",
-      "time": "2026-09-11T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/heritage-open-days-southampton-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "SizzleFest 2026",
-      "venue": "SoCal BBQ Shop",
-      "time": "2026-09-11T17:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/sizzlefest-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Boyband in the Buff 2026",
-      "venue": "O2 Guildhall Southampton",
-      "time": "2026-09-11T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/boyband-in-the-buff-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Jam\u2019d 2026",
-      "venue": "The 1865",
-      "time": "2026-09-11T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-jamd-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Genitorturers Live at The Joiners",
-      "venue": "The Joiners",
-      "time": "2026-09-11T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/genitorturers-live-at-the-joiners/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Ballad of Johnny & June 2026",
-      "venue": "Mayflower Theatre",
-      "time": "2026-09-11T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-ballad-of-johnny-june-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Pianist 2026",
-      "venue": "Mayflower Studios",
-      "time": "2026-09-11T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-pianist-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "ELO Encounter 2026",
-      "venue": "The Point",
-      "time": "2026-09-11T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/elo-encounter-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Russell Watson 2026",
-      "venue": "Thornden Hall",
-      "time": "2026-09-11T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/russell-watson-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Stand Up in the Basement: Dan Evans & More at Papillon",
-      "venue": "Papillon",
-      "time": "2026-09-11T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/stand-up-in-the-basement-dan-evans-more-at-papillon/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Blow Monkeys Live at The Brook",
-      "venue": "The Brook",
-      "time": "2026-09-11T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-blow-monkeys-live-at-the-brook/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Music In The City",
-      "venue": "city wide (locations TBC) (FREE)",
-      "time": "2026-09-12T00:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/music-in-the-city/260739101/",
-      "source": "visit_southampton",
-      "all_day": true
-    },
     {
       "title": "The Romsey Show 2026",
       "venue": "Broadlands, Romsey",
@@ -103,10 +11,31 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Weekly Street Market in Southampton",
+      "venue": "The Bargate",
+      "time": "2026-09-12T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Beaulieu International Autojumble 2026",
       "venue": "National Motor Museum",
       "time": "2026-09-12T08:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/beaulieu-international-autojumble/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton Music in the City 2026",
+      "venue": "Multiple Venues",
+      "time": "2026-09-12T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-music-in-the-city/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Heritage Open Days Southampton 2026",
+      "venue": "Multiple Venues",
+      "time": "2026-09-12T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/heritage-open-days-southampton-2026/",
       "source": "hellosouthampton"
     },
     {
@@ -170,6 +99,20 @@
       "venue": "The 1865",
       "time": "2026-09-12T18:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/ultimate-leppard-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Ballad of Johnny & June 2026",
+      "venue": "Mayflower Theatre",
+      "time": "2026-09-12T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-ballad-of-johnny-june-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Pianist 2026",
+      "venue": "Mayflower Studios",
+      "time": "2026-09-12T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-pianist-2026/",
       "source": "hellosouthampton"
     },
     {

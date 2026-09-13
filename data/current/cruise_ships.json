@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-13T08:34:36+00:00",
+  "fetched_at": "2026-09-13T15:09:10+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -73,24 +73,6 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9783576",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Mein-Schiff-2-738",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MEIN%20SCHIFF%202%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "NORDSTJERNEN",
-      "berth": "Cowes Triangle",
-      "arrival": {
-        "date": "2026-09-13",
-        "time": "2026-09-13T08:30:00Z"
-      },
-      "departure": {
-        "date": "2026-09-13",
-        "time": "2026-09-13T17:00:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:5255777",
-        "cruisemapper_url": null,
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=NORDSTJERNEN%20cruise%20ship"
       }
     },
     {

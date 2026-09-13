@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T10:51:37+00:00",
+  "fetched_at": "2026-09-13T11:56:57+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "The Celebrity Inner Circle",
-          "series_number": 2,
-          "start_time": "2026-09-12T19:15:00Z",
-          "synopsis": "Ade Adepitan, Janette Manrara, Des Clarke, Catherine Tyldesley and Lisa Riley are paired with five contestants hoping to outwit each other to win big.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0031mr6"
-        },
         {
           "title": "Antiques Road Trip",
           "series_number": 33,
@@ -29,6 +22,13 @@
           "start_time": "2026-09-18T16:15:00Z",
           "synopsis": "Alexander Armstrong is joined by co-host Lucy Porter for the quiz where contestants try to score as few points as possible by coming up with the answers no-one else could think of.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0031m7l"
+        },
+        {
+          "title": "Wisdom of the Crowd",
+          "series_number": 1,
+          "start_time": "2026-09-19T20:15:00Z",
+          "synopsis": "John Bishop hosts as players take on the audience to win up to \u00a330,000. The science says the audience should win. But will anyone manage to steal it by\u00a0beating the wisdom of the crowd?",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m002zl72"
         }
       ]
     },
@@ -52,15 +52,7 @@
       "name": "BBC Three",
       "type": "tv",
       "confidence": "high",
-      "new_series": [
-        {
-          "title": "Schitt's Creek",
-          "series_number": 5,
-          "start_time": "2026-09-12T22:30:00Z",
-          "synopsis": "While Moira is in Bosnia filming the Crows movie that she hopes will revive her acting career, David attempts to take his relationship with Patrick to new heights.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m002x3jc"
-        }
-      ]
+      "new_series": []
     },
     {
       "id": "bbc_four",
@@ -75,20 +67,6 @@
       "type": "radio",
       "confidence": "medium",
       "new_series": [
-        {
-          "title": "The Banksy Story",
-          "series_number": null,
-          "start_time": "2026-09-12T04:45:00Z",
-          "synopsis": "What happens when Banksy does one of his naughty drawings on your wall? James Peak investigates. Let's meet Sam in Margate and Gert in Lowestoft. Banksy has visited them both.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0l2m9qs"
-        },
-        {
-          "title": "The Good Earth by Pearl S Buck",
-          "series_number": null,
-          "start_time": "2026-09-12T14:00:00Z",
-          "synopsis": "Wang Lung and O-Lan marry, work the land and raise their family. When drought brings famine and turns fortune to ruin, they are forced into a desperate fight for survival.",
-          "url": null
-        },
         {
           "title": "Shadow World",
           "series_number": null,
@@ -131,7 +109,15 @@
       "name": "ITV1",
       "type": "tv",
       "confidence": "low",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "Win Win with People's Postcode Lottery",
+          "series_number": 2,
+          "start_time": "2026-09-19T18:00:00Z",
+          "synopsis": "Mel Giedroyc and Sue Perkins return with the interactive quiz show in which viewers get the chance to win the same prizes as the contestants playing in the studio, from cars and holidays to unforgettable experiences. The competitors face the choice of taking a prize and leaving the game or trading it in to join Millionaire's Row, where someone is guaranteed to win \u00a31,000,000 in the series finale.",
+          "url": "https://www.tvmaze.com/episodes/3752264/win-win-with-peoples-postcode-lottery-2x01-episode-1"
+        }
+      ]
     }
   ]
 }

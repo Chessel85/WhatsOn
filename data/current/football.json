@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T10:39:55+00:00",
+  "fetched_at": "2026-09-13T11:43:07+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -9,10 +9,10 @@
       "name": "Southampton FC",
       "league": {
         "competition": "Championship",
-        "position": 13,
-        "points": 7,
-        "played": 6,
-        "remaining": 40
+        "position": 7,
+        "points": 10,
+        "played": 7,
+        "remaining": 39
       },
       "cups": [
         {
@@ -21,13 +21,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-09-12T14:00Z",
-          "opponent": "Bristol City",
-          "home_away": "home",
-          "venue": "St. Mary's Stadium",
-          "competition": "Championship"
-        },
         {
           "date": "2026-09-19T14:00Z",
           "opponent": "Wrexham",
@@ -382,6 +375,16 @@
           "goals_for": 3,
           "goals_against": 1,
           "outcome": "W"
+        },
+        {
+          "date": "2026-09-12T14:00Z",
+          "opponent": "Bristol City",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship",
+          "goals_for": 4,
+          "goals_against": 1,
+          "outcome": "W"
         }
       ]
     },
@@ -391,9 +394,9 @@
       "league": {
         "competition": "Premier League",
         "position": 15,
-        "points": 2,
-        "played": 3,
-        "remaining": 35
+        "points": 3,
+        "played": 4,
+        "remaining": 34
       },
       "cups": [
         {
@@ -402,13 +405,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-09-12T14:00Z",
-          "opponent": "Brentford",
-          "home_away": "home",
-          "venue": "Vitality Stadium",
-          "competition": "Premier League"
-        },
         {
           "date": "2026-09-20T13:00Z",
           "opponent": "Liverpool",
@@ -688,6 +684,16 @@
           "goals_for": 4,
           "goals_against": 0,
           "outcome": "W"
+        },
+        {
+          "date": "2026-09-12T14:00Z",
+          "opponent": "Brentford",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League",
+          "goals_for": 2,
+          "goals_against": 2,
+          "outcome": "D"
         }
       ]
     },
@@ -696,20 +702,13 @@
       "name": "Eastleigh FC",
       "league": {
         "competition": "National League",
-        "position": 10,
-        "points": 10,
-        "played": 6,
-        "remaining": 40
+        "position": 11,
+        "points": 11,
+        "played": 7,
+        "remaining": 39
       },
       "cups": [],
       "fixtures": [
-        {
-          "date": "2026-09-12T14:00Z",
-          "opponent": "Boreham Wood",
-          "home_away": "home",
-          "venue": "Silverlake Stadium",
-          "competition": "National League"
-        },
         {
           "date": "2026-09-15T18:45Z",
           "opponent": "Sutton United",
@@ -1044,6 +1043,16 @@
           "goals_for": 1,
           "goals_against": 2,
           "outcome": "L"
+        },
+        {
+          "date": "2026-09-12T14:00Z",
+          "opponent": "Boreham Wood",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League",
+          "goals_for": 1,
+          "goals_against": 1,
+          "outcome": "D"
         }
       ]
     }

@@ -1,83 +1,20 @@
 {
-  "fetched_at": "2026-09-13T10:46:40+00:00",
+  "fetched_at": "2026-09-14T11:12:58+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
-      "title": "David Essex 2026",
-      "venue": "Mayflower Theatre",
-      "time": "2026-09-13T00:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/david-essex-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Beaulieu International Autojumble 2026",
-      "venue": "National Motor Museum",
-      "time": "2026-09-13T08:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/beaulieu-international-autojumble/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "New Forest Marathon 2026",
-      "venue": "The Showground",
-      "time": "2026-09-13T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/new-forest-marathon/",
-      "source": "hellosouthampton"
-    },
-    {
       "title": "Heritage Open Days Southampton 2026",
       "venue": "Multiple Venues",
-      "time": "2026-09-13T09:00:00Z",
+      "time": "2026-09-14T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/heritage-open-days-southampton-2026/",
       "source": "hellosouthampton"
     },
     {
-      "title": "CardCo Southampton 2026",
-      "venue": "O2 Guildhall Southampton",
-      "time": "2026-09-13T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/cardco-southampton-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "DEMFEST 2026",
-      "venue": "Sir Harold Hillier Gardens",
-      "time": "2026-09-13T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/demfest-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "New Forest Bead Fair 2026",
-      "venue": "Brockenhurst Village Hall",
-      "time": "2026-09-13T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/new-forest-bead-fair-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Little Pickles and Bigger Pickles Market Totton 2026",
-      "venue": "Totton Health and Leisure Centre",
-      "time": "2026-09-13T13:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/little-pickles-and-bigger-pickles-market-totton-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "King King Blues Rock 2026",
-      "venue": "The 1865",
-      "time": "2026-09-13T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/king-king-blues-rock-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Johnny Cash Songbook Live at Hanger Farm",
-      "venue": "Hanger Farm",
-      "time": "2026-09-13T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-johnny-cash-songbook-live-at-hanger-farm/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Mike Dawes Live at The Brook",
-      "venue": "The Brook",
-      "time": "2026-09-13T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/mike-dawes-live-at-the-brook/",
+      "title": "Hythe Village Traditional Weekly Street Market",
+      "venue": "High Street",
+      "time": "2026-09-15T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/hythe-village-traditional-weekly-street-market/",
       "source": "hellosouthampton"
     },
     {
@@ -138,6 +75,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Matthew Bourne\u2019s The Car Man",
+      "venue": "Mayflower Theatre",
+      "time": "2026-09-16T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/matthew-bournes-the-car-man/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Laura Veirs Live at Papillon",
       "venue": "Papillon",
       "time": "2026-09-17T00:00:00Z",
@@ -149,6 +93,13 @@
       "venue": "Vicarage Farm",
       "time": "2026-09-17T07:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/mucky-weekender-festival-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Shirley Traditional Weekly Street Market",
+      "venue": "Shirley Precinct",
+      "time": "2026-09-17T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/shirley-traditional-weekly-street-market/",
       "source": "hellosouthampton"
     },
     {
@@ -244,6 +195,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Colden Common Beer Fest 2026",
+      "venue": "Colden Common Community Centre",
+      "time": "2026-09-18T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/colden-common-beer-fest-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Women\u2019s Metro Bank One Day Cup Final 2026",
       "venue": "Utilita Bowl",
       "time": "2026-09-19T09:30:00Z",
@@ -300,6 +258,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "An Evening with Danny McNamara from Embrace",
+      "venue": "Thornden Hall",
+      "time": "2026-09-19T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/an-evening-with-danny-mcnamara-from-embrace/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Martin Turner ex Wishbone Ash TWO ERAS Tour",
       "venue": "Hanger Farm",
       "time": "2026-09-19T19:00:00Z",
@@ -325,6 +290,13 @@
       "venue": "The Concorde",
       "time": "2026-09-20T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/concorde-classics-car-show/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Eastleigh Community Showcase 2026",
+      "venue": "The Point Theatre",
+      "time": "2026-09-20T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/eastleigh-community-showcase-2026/",
       "source": "hellosouthampton"
     },
     {

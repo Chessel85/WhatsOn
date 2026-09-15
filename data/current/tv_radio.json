@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T12:54:17+00:00",
+  "fetched_at": "2026-09-15T11:48:43+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Antiques Road Trip",
-          "series_number": 33,
-          "start_time": "2026-09-14T15:30:00Z",
-          "synopsis": "Regulars Tash and David hit the road together for the first time in central Scotland. There are finds from East Asia and significant sparkles, but what will fly at auction?",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m003108s"
-        },
         {
           "title": "Pointless",
           "series_number": 36,
@@ -36,6 +29,20 @@
           "start_time": "2026-09-20T20:00:00Z",
           "synopsis": "Aria, a leading divorce lawyer, is poised to take the reins from her father when a shock announcement and the arrival of a former flame throw everything into question.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m002y5ls"
+        },
+        {
+          "title": "Clean It, Fix It",
+          "series_number": 5,
+          "start_time": "2026-09-21T13:00:00Z",
+          "synopsis": "Mark Wright and the Clean It, Fix It team help single mum Zoe support her teenagers as they grow into adulthood.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0030q1f"
+        },
+        {
+          "title": "Clickbait Clinic with Stacey Dooley",
+          "series_number": 1,
+          "start_time": "2026-09-21T19:30:00Z",
+          "synopsis": "Stacey witnesses a shocking surgery in Miami where people have their legs broken to get six inches taller and questions if drinking toxic laundry powder can really cure joint pain.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0030ftg"
         }
       ]
     },
@@ -58,6 +65,13 @@
           "start_time": "2026-09-20T20:00:00Z",
           "synopsis": "Simon Reeve journeys through the lost world of Papua New Guinea\u2019s tropical rainforest in search of the tenkile tree kangaroo, one of the rarest animals on Earth.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m00303j1"
+        },
+        {
+          "title": "Finding Britain\u2019s Slave Traders with David Olusoga",
+          "series_number": 1,
+          "start_time": "2026-09-21T20:00:00Z",
+          "synopsis": "David Olusoga reveals the new research that uncovers how the slave trade was driven by the monarchy, beginning with Elizabeth I, and how a royal monopoly was established.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m002zkrp"
         }
       ]
     },
@@ -82,24 +96,17 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Understand",
-          "series_number": null,
-          "start_time": "2026-09-14T10:00:00Z",
-          "synopsis": "Ros Atkins investigates how technology is changing what we value, from friendship and culture to finance and work, and asks whether these changes amount to a crisis.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0p9jcj3"
-        },
-        {
-          "title": "The History Podcast",
-          "series_number": null,
-          "start_time": "2026-09-14T12:45:00Z",
-          "synopsis": "21 April, 1945, Eastern Germany, a plane crashes. A few iron boxes are salvaged.  Rumour spreads that Hitler\u2019s personal effects are in those boxes. Could there be diaries?",
-          "url": "https://www.bbc.co.uk/sounds/play/p0p8wr9g"
-        },
-        {
           "title": "Limelight",
           "series_number": null,
           "start_time": "2026-09-18T13:15:00Z",
           "synopsis": "A new tutor arrives in a luxury bunker. What happened to her predecessor? Claustrophobic near-future thriller set in a billionaire\u2019s haunted bunker.",
+          "url": null
+        },
+        {
+          "title": "All About My Mother: A Memoir of Diana Rigg by Rachael Stirling",
+          "series_number": null,
+          "start_time": "2026-09-21T23:30:00Z",
+          "synopsis": "Rachael Stirling reads her frank, funny memoir about her mother, the renowned actress Diana Rigg, and the volatile, loving relationship that bound them.",
           "url": null
         }
       ]
@@ -117,6 +124,13 @@
       "type": "tv",
       "confidence": "low",
       "new_series": [
+        {
+          "title": "Seven Up!",
+          "series_number": 2026,
+          "start_time": "2026-09-15T20:00:00Z",
+          "synopsis": "Seven decades. One extraordinary experiment. The groundbreaking documentary series returns to meet the people we first saw as 7-year-olds as they reflect on life at 70.",
+          "url": "https://www.tvmaze.com/episodes/3763583/seven-up-2026-09-15-70-up-part-1"
+        },
         {
           "title": "Win Win with People's Postcode Lottery",
           "series_number": 2,

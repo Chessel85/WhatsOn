@@ -1,21 +1,8 @@
 {
-  "fetched_at": "2026-09-15T09:53:47+00:00",
+  "fetched_at": "2026-09-16T09:47:02+00:00",
   "source": "https://sunrisesunset.io/",
   "location": "Southampton, UK",
   "days": [
-    {
-      "date": "2026-09-15",
-      "sunrise": "2026-09-15T05:39:49+00:00",
-      "sunset": "2026-09-15T18:20:50+00:00",
-      "day_length": {
-        "hours": 12,
-        "minutes": 41
-      },
-      "moonrise": "2026-09-15T11:05:33+00:00",
-      "moonset": "2026-09-15T19:24:11+00:00",
-      "moon_phase": "Waxing Crescent",
-      "moon_illumination_percent": 19.88
-    },
     {
       "date": "2026-09-16",
       "sunrise": "2026-09-16T05:41:22+00:00",
@@ -93,21 +80,34 @@
       "moonset": null,
       "moon_phase": "Waxing Gibbous",
       "moon_illumination_percent": 74.19
+    },
+    {
+      "date": "2026-09-22",
+      "sunrise": "2026-09-22T05:50:43+00:00",
+      "sunset": "2026-09-22T18:04:58+00:00",
+      "day_length": {
+        "hours": 12,
+        "minutes": 14
+      },
+      "moonrise": "2026-09-22T16:38:10+00:00",
+      "moonset": "2026-09-22T00:31:13+00:00",
+      "moon_phase": "Waxing Gibbous",
+      "moon_illumination_percent": 82.21
     }
   ],
   "moon_apsis": {
     "type": "apogee",
     "date": "2026-09-19T03:00:03Z",
-    "days_until": 4
+    "days_until": 3
   },
   "earth_apsis": {
     "type": "perihelion",
     "date": "2027-01-03T02:40:42Z",
-    "days_until": 110
+    "days_until": 109
   },
   "next_solstice_equinox": {
     "name": "Autumnal Equinox",
     "date": "2026-09-23T00:05:13Z",
-    "days_until": 8
+    "days_until": 7
   }
 }

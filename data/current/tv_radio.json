@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T11:48:43+00:00",
+  "fetched_at": "2026-09-16T11:41:11+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -43,6 +43,13 @@
           "start_time": "2026-09-21T19:30:00Z",
           "synopsis": "Stacey witnesses a shocking surgery in Miami where people have their legs broken to get six inches taller and questions if drinking toxic laundry powder can really cure joint pain.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0030ftg"
+        },
+        {
+          "title": "DIY SOS",
+          "series_number": 35,
+          "start_time": "2026-09-22T19:00:00Z",
+          "synopsis": "In Glasgow, the team help Raymond and his children after the loss of mum, Gill, transforming their home into an accessible space where wheelchair user Nell can gain independence.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0031y8z"
         }
       ]
     },
@@ -124,13 +131,6 @@
       "type": "tv",
       "confidence": "low",
       "new_series": [
-        {
-          "title": "Seven Up!",
-          "series_number": 2026,
-          "start_time": "2026-09-15T20:00:00Z",
-          "synopsis": "Seven decades. One extraordinary experiment. The groundbreaking documentary series returns to meet the people we first saw as 7-year-olds as they reflect on life at 70.",
-          "url": "https://www.tvmaze.com/episodes/3763583/seven-up-2026-09-15-70-up-part-1"
-        },
         {
           "title": "Win Win with People's Postcode Lottery",
           "series_number": 2,

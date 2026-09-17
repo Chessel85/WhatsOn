@@ -283,3 +283,4 @@ fetched_at,temperature_c,feels_like_c,condition,wind_speed_mph,precipitation_mm
 2026-09-17T07:23:58+00:00,15.1,14.2,Slight rain,10.1,1.4
 2026-09-17T13:13:28+00:00,19.1,16.5,Partly cloudy,10.1,0.0
 2026-09-17T18:02:32+00:00,16.8,14.5,Partly cloudy,8.7,0.0
+2026-09-17T21:59:18+00:00,15.1,13.3,Clear sky,6.9,0.0

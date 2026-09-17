@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T11:41:11+00:00",
+  "fetched_at": "2026-09-17T11:46:31+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -50,6 +50,13 @@
           "start_time": "2026-09-22T19:00:00Z",
           "synopsis": "In Glasgow, the team help Raymond and his children after the loss of mum, Gill, transforming their home into an accessible space where wheelchair user Nell can gain independence.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0031y8z"
+        },
+        {
+          "title": "Not Going Out",
+          "series_number": 15,
+          "start_time": "2026-09-23T20:30:00Z",
+          "synopsis": "When Lucy\u2019s goddaughter has her 20th birthday party in their house, Lee kills the mood by stopping them from playing his precious vinyl.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0030fb0"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T11:46:31+00:00",
+  "fetched_at": "2026-09-18T11:20:46+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -67,13 +67,6 @@
       "confidence": "high",
       "new_series": [
         {
-          "title": "Hey Beautiful: Anatomy of a Romance Scam",
-          "series_number": 1,
-          "start_time": "2026-09-17T20:00:00Z",
-          "synopsis": "Women worldwide are falling for the same online lover. But when he starts to ask for money, Roxy, Annette and Gaby trace the truth back to a single man in California.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m00303hs"
-        },
-        {
           "title": "Wilderness with Simon Reeve",
           "series_number": 2,
           "start_time": "2026-09-20T20:00:00Z",
@@ -114,7 +107,7 @@
           "series_number": null,
           "start_time": "2026-09-18T13:15:00Z",
           "synopsis": "A new tutor arrives in a luxury bunker. What happened to her predecessor? Claustrophobic near-future thriller set in a billionaire\u2019s haunted bunker.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0pb4hgj"
         },
         {
           "title": "All About My Mother: A Memoir of Diana Rigg by Rachael Stirling",

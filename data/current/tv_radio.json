@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T11:20:46+00:00",
+  "fetched_at": "2026-09-19T11:04:34+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Pointless",
-          "series_number": 36,
-          "start_time": "2026-09-18T16:15:00Z",
-          "synopsis": "Alexander Armstrong is joined by co-host Lucy Porter for the quiz where contestants try to score as few points as possible by coming up with the answers no-one else could think of.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0031m7l"
-        },
         {
           "title": "Wisdom of the Crowd",
           "series_number": 1,
@@ -57,6 +50,13 @@
           "start_time": "2026-09-23T20:30:00Z",
           "synopsis": "When Lucy\u2019s goddaughter has her 20th birthday party in their house, Lee kills the mood by stopping them from playing his precious vinyl.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0030fb0"
+        },
+        {
+          "title": "The Graham Norton Show",
+          "series_number": 34,
+          "start_time": "2026-09-25T21:40:00Z",
+          "synopsis": "Tom Cruise, Florence Pugh, Lolly Adefope and John Bishop join Graham on his sofa. With music from Emeli Sand\u00e9.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0031yy9"
         }
       ]
     },
@@ -102,13 +102,6 @@
       "type": "radio",
       "confidence": "medium",
       "new_series": [
-        {
-          "title": "Limelight",
-          "series_number": null,
-          "start_time": "2026-09-18T13:15:00Z",
-          "synopsis": "A new tutor arrives in a luxury bunker. What happened to her predecessor? Claustrophobic near-future thriller set in a billionaire\u2019s haunted bunker.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pb4hgj"
-        },
         {
           "title": "All About My Mother: A Memoir of Diana Rigg by Rachael Stirling",
           "series_number": null,

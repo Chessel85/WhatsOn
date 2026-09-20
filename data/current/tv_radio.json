@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T11:04:34+00:00",
+  "fetched_at": "2026-09-20T11:29:12+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Wisdom of the Crowd",
-          "series_number": 1,
-          "start_time": "2026-09-19T20:15:00Z",
-          "synopsis": "John Bishop hosts as players take on the audience to win up to \u00a330,000. The science says the audience should win. But will anyone manage to steal it by\u00a0beating the wisdom of the crowd?",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m002zl72"
-        },
         {
           "title": "The Split Up",
           "series_number": 1,
@@ -57,6 +50,13 @@
           "start_time": "2026-09-25T21:40:00Z",
           "synopsis": "Tom Cruise, Florence Pugh, Lolly Adefope and John Bishop join Graham on his sofa. With music from Emeli Sand\u00e9.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0031yy9"
+        },
+        {
+          "title": "Marble Hall Murders",
+          "series_number": 1,
+          "start_time": "2026-09-26T20:35:00Z",
+          "synopsis": "Back in London, Susan Ryeland is once again corralled into the world of Atticus P\u00fcnd as he investigates a mystery in Corfu.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m002zl78"
         }
       ]
     },
@@ -87,7 +87,22 @@
       "name": "BBC Three",
       "type": "tv",
       "confidence": "high",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "The Golden Cobra",
+          "series_number": 2,
+          "start_time": "2026-09-26T21:00:00Z",
+          "synopsis": "The Golden Cobra is now the number one curry house in Ebbw Vale, but a shark attack puts Basil's new-found success at risk. ",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0030vtt"
+        },
+        {
+          "title": "Schitt's Creek",
+          "series_number": 6,
+          "start_time": "2026-09-26T23:40:00Z",
+          "synopsis": "On their way to drop off Alexis at the airport, David stops to scout a potential wedding venue and holds things up. Johnny and Moira have a romantic picnic by the creek. ",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m002x3y6"
+        }
+      ]
     },
     {
       "id": "bbc_four",
@@ -108,6 +123,13 @@
           "start_time": "2026-09-21T23:30:00Z",
           "synopsis": "Rachael Stirling reads her frank, funny memoir about her mother, the renowned actress Diana Rigg, and the volatile, loving relationship that bound them.",
           "url": null
+        },
+        {
+          "title": "Understand",
+          "series_number": null,
+          "start_time": "2026-09-26T09:00:00Z",
+          "synopsis": "Michael Palin and Michael Rosen discuss what being a man in their 80s means to them. A conversation about grief, fading competitive instincts, and the benefits of letting go.",
+          "url": null
         }
       ]
     },
@@ -123,15 +145,7 @@
       "name": "ITV1",
       "type": "tv",
       "confidence": "low",
-      "new_series": [
-        {
-          "title": "Win Win with People's Postcode Lottery",
-          "series_number": 2,
-          "start_time": "2026-09-19T18:00:00Z",
-          "synopsis": "Mel Giedroyc and Sue Perkins return with the interactive quiz show in which viewers get the chance to win the same prizes as the contestants playing in the studio, from cars and holidays to unforgettable experiences. The competitors face the choice of taking a prize and leaving the game or trading it in to join Millionaire's Row, where someone is guaranteed to win \u00a31,000,000 in the series finale.",
-          "url": "https://www.tvmaze.com/episodes/3752264/win-win-with-peoples-postcode-lottery-2x01-episode-1"
-        }
-      ]
+      "new_series": []
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20T11:29:12+00:00",
+  "fetched_at": "2026-09-21T12:53:56+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "The Split Up",
-          "series_number": 1,
-          "start_time": "2026-09-20T20:00:00Z",
-          "synopsis": "Aria, a leading divorce lawyer, is poised to take the reins from her father when a shock announcement and the arrival of a former flame throw everything into question.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m002y5ls"
-        },
         {
           "title": "Clean It, Fix It",
           "series_number": 5,
@@ -67,18 +60,18 @@
       "confidence": "high",
       "new_series": [
         {
-          "title": "Wilderness with Simon Reeve",
-          "series_number": 2,
-          "start_time": "2026-09-20T20:00:00Z",
-          "synopsis": "Simon Reeve journeys through the lost world of Papua New Guinea\u2019s tropical rainforest in search of the tenkile tree kangaroo, one of the rarest animals on Earth.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m00303j1"
-        },
-        {
           "title": "Finding Britain\u2019s Slave Traders with David Olusoga",
           "series_number": 1,
           "start_time": "2026-09-21T20:00:00Z",
           "synopsis": "David Olusoga reveals the new research that uncovers how the slave trade was driven by the monarchy, beginning with Elizabeth I, and how a royal monopoly was established.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m002zkrp"
+        },
+        {
+          "title": "Eva Longoria: Searching for France",
+          "series_number": 1,
+          "start_time": "2026-09-27T18:15:00Z",
+          "synopsis": "In avant-garde Paris, Eva explores the haute cuisine tradition of the \u2018art of the table\u2019 and meets young chefs on the cutting edge of a new food scene.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0030h1t"
         }
       ]
     },
@@ -101,6 +94,13 @@
           "start_time": "2026-09-26T23:40:00Z",
           "synopsis": "On their way to drop off Alexis at the airport, David stops to scout a potential wedding venue and holds things up. Johnny and Moira have a romantic picnic by the creek. ",
           "url": "https://www.bbc.co.uk/iplayer/episode/m002x3y6"
+        },
+        {
+          "title": "Ice Road Truckers",
+          "series_number": 12,
+          "start_time": "2026-09-27T21:00:00Z",
+          "synopsis": "Lisa\u2019s engine fails on her first run, Todd attempts a bold bush fix, Scooter squeezes his wide load through tight winter roads, and Shaun finds his key ice route too thin to cross.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0031mk6"
         }
       ]
     },
@@ -122,13 +122,20 @@
           "series_number": null,
           "start_time": "2026-09-21T23:30:00Z",
           "synopsis": "Rachael Stirling reads her frank, funny memoir about her mother, the renowned actress Diana Rigg, and the volatile, loving relationship that bound them.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0p8q5kf"
         },
         {
           "title": "Understand",
           "series_number": null,
           "start_time": "2026-09-26T09:00:00Z",
           "synopsis": "Michael Palin and Michael Rosen discuss what being a man in their 80s means to them. A conversation about grief, fading competitive instincts, and the benefits of letting go.",
+          "url": null
+        },
+        {
+          "title": "Drama on 4",
+          "series_number": null,
+          "start_time": "2026-09-27T14:00:00Z",
+          "synopsis": "A Burma veteran struggles to settle into civilian life in post-war Wigton. Robin Brooks adapts Melvyn Bragg\u2019s moving Cumbrian story, inspired by the author's childhood memories.",
           "url": null
         }
       ]
@@ -138,7 +145,15 @@
       "name": "BBC World Service",
       "type": "radio",
       "confidence": "medium",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "World of Secrets",
+          "series_number": null,
+          "start_time": "2026-09-27T11:32:30Z",
+          "synopsis": "When Yusron, the school\u2019s former golden boy, gets in touch with Zia, a fellow former student, everything he believes in begins to unravel.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pb9y3v"
+        }
+      ]
     },
     {
       "id": "itv1",

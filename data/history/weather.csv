@@ -306,3 +306,4 @@ fetched_at,temperature_c,feels_like_c,condition,wind_speed_mph,precipitation_mm
 2026-09-20T23:58:53+00:00,15.5,14.0,Clear sky,5.1,0.0
 2026-09-21T04:44:42+00:00,12.8,11.9,Clear sky,2.9,0.0
 2026-09-21T10:31:17+00:00,17.2,16.0,Clear sky,3.4,0.0
+2026-09-21T16:53:30+00:00,23.3,22.8,Clear sky,2.9,0.0

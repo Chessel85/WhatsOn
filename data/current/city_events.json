@@ -1,69 +1,13 @@
 {
-  "fetched_at": "2026-09-20T10:16:28+00:00",
+  "fetched_at": "2026-09-21T11:24:19+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
-      "title": "Winchester Half Marathon 2026",
-      "venue": "Winchester Guildhall",
-      "time": "2026-09-20T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/winchester-half-marathon/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Heritage Open Days Southampton 2026",
-      "venue": "Multiple Venues",
-      "time": "2026-09-20T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/heritage-open-days-southampton-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Simply BMW 2026",
-      "venue": "National Motor Museum",
-      "time": "2026-09-20T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/simply-bmw-2026/",
-      "source": "hellosouthampton"
-    },
-    {
       "title": "Southampton Boat Show 2026",
       "venue": "Mayflower Park",
-      "time": "2026-09-20T10:00:00Z",
+      "time": "2026-09-21T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/southampton-boat-show/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Carlton Place Market 2026",
-      "venue": "Carlton Place",
-      "time": "2026-09-20T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/carlton-place-market-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Concorde Classics Car Show 2026",
-      "venue": "The Concorde",
-      "time": "2026-09-20T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/concorde-classics-car-show/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Eastleigh Community Showcase 2026",
-      "venue": "The Point Theatre",
-      "time": "2026-09-20T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/eastleigh-community-showcase-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Max\u2019s Records Presents: Halt + The Common Live at Heartbreakers",
-      "venue": "Heartbreakers",
-      "time": "2026-09-20T17:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/maxs-records-presents-halt-the-common-live-at-heartbreakers/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Ranagri Say Hello Tour at Hanger Farm",
-      "venue": "Hanger Farm",
-      "time": "2026-09-20T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/ranagri-say-hello-tour-at-hanger-farm/",
       "source": "hellosouthampton"
     },
     {

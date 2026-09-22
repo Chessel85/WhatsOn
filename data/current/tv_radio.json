@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21T12:53:56+00:00",
+  "fetched_at": "2026-09-22T11:44:22+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,20 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Clean It, Fix It",
-          "series_number": 5,
-          "start_time": "2026-09-21T13:00:00Z",
-          "synopsis": "Mark Wright and the Clean It, Fix It team help single mum Zoe support her teenagers as they grow into adulthood.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0030q1f"
-        },
-        {
-          "title": "Clickbait Clinic with Stacey Dooley",
-          "series_number": 1,
-          "start_time": "2026-09-21T19:30:00Z",
-          "synopsis": "Stacey witnesses a shocking surgery in Miami where people have their legs broken to get six inches taller and questions if drinking toxic laundry powder can really cure joint pain.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0030ftg"
-        },
         {
           "title": "DIY SOS",
           "series_number": 35,
@@ -60,18 +46,18 @@
       "confidence": "high",
       "new_series": [
         {
-          "title": "Finding Britain\u2019s Slave Traders with David Olusoga",
-          "series_number": 1,
-          "start_time": "2026-09-21T20:00:00Z",
-          "synopsis": "David Olusoga reveals the new research that uncovers how the slave trade was driven by the monarchy, beginning with Elizabeth I, and how a royal monopoly was established.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m002zkrp"
-        },
-        {
           "title": "Eva Longoria: Searching for France",
           "series_number": 1,
           "start_time": "2026-09-27T18:15:00Z",
           "synopsis": "In avant-garde Paris, Eva explores the haute cuisine tradition of the \u2018art of the table\u2019 and meets young chefs on the cutting edge of a new food scene.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0030h1t"
+        },
+        {
+          "title": "Strictly - It Takes Two",
+          "series_number": 24,
+          "start_time": "2026-09-28T17:30:00Z",
+          "synopsis": "It Takes Two is back with new host Ellie Taylor for a series packed full of the latest headlines, backstage gossip, expert opinions and exclusive interviews",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m00328sk"
         }
       ]
     },
@@ -118,13 +104,6 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "All About My Mother: A Memoir of Diana Rigg by Rachael Stirling",
-          "series_number": null,
-          "start_time": "2026-09-21T23:30:00Z",
-          "synopsis": "Rachael Stirling reads her frank, funny memoir about her mother, the renowned actress Diana Rigg, and the volatile, loving relationship that bound them.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0p8q5kf"
-        },
-        {
           "title": "Understand",
           "series_number": null,
           "start_time": "2026-09-26T09:00:00Z",
@@ -137,6 +116,20 @@
           "start_time": "2026-09-27T14:00:00Z",
           "synopsis": "A Burma veteran struggles to settle into civilian life in post-war Wigton. Robin Brooks adapts Melvyn Bragg\u2019s moving Cumbrian story, inspired by the author's childhood memories.",
           "url": null
+        },
+        {
+          "title": "Stations by Louise Kennedy",
+          "series_number": null,
+          "start_time": "2026-09-28T21:45:00Z",
+          "synopsis": "Teenager R\u00f3is\u00edn is asked to be a go-between for her school bully and local rogue Red Camelin.",
+          "url": null
+        },
+        {
+          "title": "Limelight",
+          "series_number": null,
+          "start_time": "2026-09-28T22:00:00Z",
+          "synopsis": "Maita goes to see her dad for her birthday, but he's disappeared. \nFive-part thriller by Eno Mfon and Darragh Mortell, starring Saffron Coomber and John Pfumojena.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0h4dvg1"
         }
       ]
     },

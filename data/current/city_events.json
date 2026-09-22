@@ -1,27 +1,20 @@
 {
-  "fetched_at": "2026-09-21T11:24:19+00:00",
+  "fetched_at": "2026-09-22T10:33:06+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Southampton Boat Show 2026",
-      "venue": "Mayflower Park",
-      "time": "2026-09-21T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-boat-show/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Warrior Soul",
-      "venue": "The 1865",
-      "time": "2026-09-21T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/warrior-soul/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Hythe Village Traditional Weekly Street Market",
       "venue": "High Street",
       "time": "2026-09-22T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/hythe-village-traditional-weekly-street-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton Boat Show 2026",
+      "venue": "Mayflower Park",
+      "time": "2026-09-22T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-boat-show/",
       "source": "hellosouthampton"
     },
     {

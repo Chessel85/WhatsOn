@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-22T22:27:27+00:00",
+  "fetched_at": "2026-09-23T01:59:24+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -379,6 +379,26 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9636967",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/AIDAperla-1243",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=AIDAPERLA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "CELEBRITY APEX",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-10-07",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-10-07",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "Intercruises Shoreside & Port",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9838383",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Celebrity-Apex-1587",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=CELEBRITY%20APEX%20cruise%20ship"
       }
     }
   ]

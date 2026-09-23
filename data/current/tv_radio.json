@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-22T11:44:22+00:00",
+  "fetched_at": "2026-09-23T11:42:41+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "DIY SOS",
-          "series_number": 35,
-          "start_time": "2026-09-22T19:00:00Z",
-          "synopsis": "In Glasgow, the team help Raymond and his children after the loss of mum, Gill, transforming their home into an accessible space where wheelchair user Nell can gain independence.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0031y8z"
-        },
         {
           "title": "Not Going Out",
           "series_number": 15,
@@ -36,6 +29,13 @@
           "start_time": "2026-09-26T20:35:00Z",
           "synopsis": "Back in London, Susan Ryeland is once again corralled into the world of Atticus P\u00fcnd as he investigates a mystery in Corfu.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m002zl78"
+        },
+        {
+          "title": "Blue Lights",
+          "series_number": 4,
+          "start_time": "2026-09-29T20:00:00Z",
+          "synopsis": "The section is challenged by escalating tensions at a community event, while the investigation into Dana Morgan\u2019s drug partnership with Tina McIntyre falters.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m00304f5"
         }
       ]
     },
@@ -87,6 +87,13 @@
           "start_time": "2026-09-27T21:00:00Z",
           "synopsis": "Lisa\u2019s engine fails on her first run, Todd attempts a bold bush fix, Scooter squeezes his wide load through tight winter roads, and Shaun finds his key ice route too thin to cross.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0031mk6"
+        },
+        {
+          "title": "Stacey Dooley Sleeps Over",
+          "series_number": 4,
+          "start_time": "2026-09-29T20:00:00Z",
+          "synopsis": "At nine years old, Autumn has 36 guns of her own and a dedicated YouTube channel where she reviews and tests out weapons. Stacey meets the family in Oklahoma at their very own shooting range.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0030byq"
         }
       ]
     },
@@ -111,13 +118,6 @@
           "url": null
         },
         {
-          "title": "Drama on 4",
-          "series_number": null,
-          "start_time": "2026-09-27T14:00:00Z",
-          "synopsis": "A Burma veteran struggles to settle into civilian life in post-war Wigton. Robin Brooks adapts Melvyn Bragg\u2019s moving Cumbrian story, inspired by the author's childhood memories.",
-          "url": null
-        },
-        {
           "title": "Stations by Louise Kennedy",
           "series_number": null,
           "start_time": "2026-09-28T21:45:00Z",
@@ -130,6 +130,13 @@
           "start_time": "2026-09-28T22:00:00Z",
           "synopsis": "Maita goes to see her dad for her birthday, but he's disappeared. \nFive-part thriller by Eno Mfon and Darragh Mortell, starring Saffron Coomber and John Pfumojena.",
           "url": "https://www.bbc.co.uk/sounds/play/p0h4dvg1"
+        },
+        {
+          "title": "Drama on 4",
+          "series_number": null,
+          "start_time": "2026-09-29T13:15:00Z",
+          "synopsis": "Riverbourne's tower block is falling apart: damp, mould, faulty wiring, broken lifts. When the housing association looks away, the tenants organise and demand change.",
+          "url": null
         }
       ]
     },

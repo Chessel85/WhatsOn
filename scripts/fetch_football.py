@@ -16,7 +16,19 @@ The per-league scoreboard endpoint
 (site.api.espn.com/apis/site/v2/sports/soccer/{league}/scoreboard?dates=...)
 caps out at 100 events per request, which the National League (24 teams,
 often two matchdays a week) can exceed over a wide span — so each
-competition is queried in date-range chunks and results are merged.
+competition is queried a month at a time (`dates=YYYYMM`) and results are
+merged. This used to be done with explicit `YYYYMMDD-YYYYMMDD` date-range
+chunks instead, which worked fine for over a year until ESPN started
+rejecting every hyphenated date-range query with a 400 on some day around
+2026-09-16 (confirmed live: even a same-day range like
+`20260801-20260801` now 400s, while a bare single date or a `YYYYMM` month
+does not) — an undocumented endpoint's undocumented breaking change, not
+anything this repo did. `startDate`/`endDate` query params exist too but
+were confirmed live to be silently ignored (always returns the current
+week regardless of the values passed), so they're not a usable substitute.
+Monthly chunks landed comfortably under the 100-event cap even for the
+National League's busiest months (worst case ~73 events, confirmed live
+across a full season) so no further subdivision is needed.
 
 "Current season" is a computed window, not a lookahead count: 1 August of
 the season-start year through 31 July the following year, where the
@@ -62,8 +74,6 @@ from datetime import date, datetime, timedelta, timezone
 
 from _common import REPO_ROOT, fetch_text, run, write_json
 
-CHUNK_DAYS = 21  # keeps each request comfortably under ESPN's ~100-event cap
-
 CURRENT_PATH = REPO_ROOT / "data" / "current" / "football.json"
 
 SCOREBOARD_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/{slug}/scoreboard"
@@ -103,22 +113,21 @@ def season_bounds(today):
     return date(season_start_year, 8, 1), date(season_start_year + 1, 7, 31)
 
 
-def date_chunks(start, end, chunk_days=CHUNK_DAYS):
-    chunks = []
-    current = start
+def month_chunks(start, end):
+    """Each calendar month (YYYYMM) touched by [start, end], inclusive."""
+    months = []
+    current = date(start.year, start.month, 1)
     while current <= end:
-        chunk_end = min(current + timedelta(days=chunk_days - 1), end)
-        chunks.append((current, chunk_end))
-        current = chunk_end + timedelta(days=1)
-    return chunks
+        months.append(current)
+        current = date(current.year + 1, 1, 1) if current.month == 12 else date(current.year, current.month + 1, 1)
+    return months
 
 
 def fetch_competition_events(slug, start, end):
-    """Returns {event_id: event}, merged across date-range chunks."""
+    """Returns {event_id: event}, merged across monthly chunks."""
     events = {}
-    for chunk_start, chunk_end in date_chunks(start, end):
-        date_param = f"{chunk_start:%Y%m%d}-{chunk_end:%Y%m%d}"
-        url = f"{SCOREBOARD_URL.format(slug=slug)}?dates={date_param}"
+    for month in month_chunks(start, end):
+        url = f"{SCOREBOARD_URL.format(slug=slug)}?dates={month:%Y%m}"
         data = json.loads(fetch_text(url))
         for event in data.get("events", []):
             events[event["id"]] = event

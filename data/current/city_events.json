@@ -1,55 +1,13 @@
 {
-  "fetched_at": "2026-09-22T10:33:06+00:00",
+  "fetched_at": "2026-09-23T10:27:05+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
-      "title": "Hythe Village Traditional Weekly Street Market",
-      "venue": "High Street",
-      "time": "2026-09-22T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/hythe-village-traditional-weekly-street-market/",
-      "source": "hellosouthampton"
-    },
-    {
       "title": "Southampton Boat Show 2026",
       "venue": "Mayflower Park",
-      "time": "2026-09-22T10:00:00Z",
+      "time": "2026-09-23T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/southampton-boat-show/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Board & Video Games Group",
-      "venue": "Board in the City CiC",
-      "time": "2026-09-22T14:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/board-video-games-group/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "(HED) P.E. & COLD",
-      "venue": "The 1865",
-      "time": "2026-09-22T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/hed-p-e-cold/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Sports Team",
-      "venue": "The Brook",
-      "time": "2026-09-22T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/sports-team/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Red Sun Atacama",
-      "venue": "The Joiners",
-      "time": "2026-09-22T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/red-sun-atacama/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Divorce Attorney",
-      "venue": "Heartbreakers",
-      "time": "2026-09-22T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/divorce-attorney/",
       "source": "hellosouthampton"
     },
     {
@@ -361,11 +319,25 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Hythe Village Traditional Weekly Street Market",
+      "venue": "High Street",
+      "time": "2026-09-29T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/hythe-village-traditional-weekly-street-market/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "KEE Ideas Lab II",
       "venue": "In-Person",
       "time": "2026-09-29T12:30:00Z",
       "url": "https://www.events.soton.ac.uk/",
       "source": "university"
+    },
+    {
+      "title": "Board & Video Games Group",
+      "venue": "Board in the City CiC",
+      "time": "2026-09-29T14:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/board-video-games-group/",
+      "source": "hellosouthampton"
     },
     {
       "title": "BAEST",

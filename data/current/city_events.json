@@ -1,43 +1,8 @@
 {
-  "fetched_at": "2026-09-23T10:27:05+00:00",
+  "fetched_at": "2026-09-24T10:43:47+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Southampton Boat Show 2026",
-      "venue": "Mayflower Park",
-      "time": "2026-09-23T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-boat-show/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Lemonheads",
-      "venue": "The 1865",
-      "time": "2026-09-23T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-lemonheads/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Paul Merton & Suki Webster\u2019s Improv Show",
-      "venue": "Mayflower Studios",
-      "time": "2026-09-23T18:45:00Z",
-      "url": "https://hellosouthampton.co.uk/events/paul-merton-suki-websters-improv-show/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Big Fear",
-      "venue": "Heartbreakers",
-      "time": "2026-09-23T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/big-fear/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Spread Eagle",
-      "venue": "The Brook",
-      "time": "2026-09-23T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/spread-eagle/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Shirley Traditional Weekly Street Market",
       "venue": "Shirley Precinct",
@@ -50,6 +15,13 @@
       "venue": "Utilita Bowl",
       "time": "2026-09-24T09:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/hampshire-vs-sussex-rothesay-county-championship/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton Boat Show 2026",
+      "venue": "Mayflower Park",
+      "time": "2026-09-24T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-boat-show/",
       "source": "hellosouthampton"
     },
     {
@@ -183,6 +155,20 @@
       "venue": "National Motor Museum",
       "time": "2026-09-26T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/vauxall-south/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "End of Summer Festival 2026",
+      "venue": "Testlands Wellbeing Hub",
+      "time": "2026-09-26T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/end-of-summer-festival-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Key Yachting J/70 Invitational Cup",
+      "venue": "Mayflower Park",
+      "time": "2026-09-26T10:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/key-yachting-j-70-invitational-cup/",
       "source": "hellosouthampton"
     },
     {

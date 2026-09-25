@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-24T22:45:36+00:00",
+  "fetched_at": "2026-09-25T02:05:06+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -401,6 +401,26 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9169524",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Aurora-648",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=AURORA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "QUEEN ANNE",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-10-09",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-10-09",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9839399",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Queen-Anne-2141",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=QUEEN%20ANNE%20cruise%20ship"
       }
     }
   ]

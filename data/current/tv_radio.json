@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T11:55:05+00:00",
+  "fetched_at": "2026-09-26T11:29:17+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "The Graham Norton Show",
-          "series_number": 34,
-          "start_time": "2026-09-25T21:40:00Z",
-          "synopsis": "Tom Cruise, Florence Pugh, Lolly Adefope and John Bishop join Graham on his sofa. With music from Emeli Sand\u00e9.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0031yy9"
-        },
         {
           "title": "Marble Hall Murders",
           "series_number": 1,
@@ -43,6 +36,13 @@
           "start_time": "2026-10-01T20:15:00Z",
           "synopsis": "Ed Gamble and guests unpack all the drama from episode 1 of the second series of The Celebrity Traitors.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m00328gj"
+        },
+        {
+          "title": "Have I Got News for You",
+          "series_number": 72,
+          "start_time": "2026-10-02T20:30:00Z",
+          "synopsis": "Richard Ayoade hosts, with guest pannelist broadcaster Gyles Brandreth joining team captains Paul Merton and Ian Hislop as they delve into the news.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m00328lv"
         }
       ]
     },

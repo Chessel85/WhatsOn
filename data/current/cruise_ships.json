@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-26T08:51:58+00:00",
+  "fetched_at": "2026-09-26T15:11:41+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -12,7 +12,7 @@
       },
       "departure": {
         "date": "2026-09-26",
-        "time": "2026-09-26T15:00:00Z"
+        "time": "2026-09-26T15:15:00Z"
       },
       "agent": "DENHOLM PORT SERVICES LTD",
       "links": {
@@ -48,7 +48,7 @@
       },
       "departure": {
         "date": "2026-09-26",
-        "time": "2026-09-26T15:00:00Z"
+        "time": "2026-09-26T15:15:00Z"
       },
       "agent": "Intercruises Shoreside & Port",
       "links": {
@@ -73,24 +73,6 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9826548",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Iona-1858",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=IONA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "SKY PRINCESS",
-      "berth": "38/9",
-      "arrival": {
-        "date": "2026-09-26",
-        "time": "2026-09-26T05:30:00Z"
-      },
-      "departure": {
-        "date": "2026-09-26",
-        "time": "2026-09-26T15:00:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9802396",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Sky-Princess-2154",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=SKY%20PRINCESS%20cruise%20ship"
       }
     },
     {

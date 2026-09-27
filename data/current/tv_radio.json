@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-26T11:29:17+00:00",
+  "fetched_at": "2026-09-27T12:07:20+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Marble Hall Murders",
-          "series_number": 1,
-          "start_time": "2026-09-26T20:35:00Z",
-          "synopsis": "Back in London, Susan Ryeland is once again corralled into the world of Atticus P\u00fcnd as he investigates a mystery in Corfu.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m002zl78"
-        },
         {
           "title": "Blue Lights",
           "series_number": 4,
@@ -75,20 +68,6 @@
       "confidence": "high",
       "new_series": [
         {
-          "title": "The Golden Cobra",
-          "series_number": 2,
-          "start_time": "2026-09-26T21:00:00Z",
-          "synopsis": "The Golden Cobra is now the number one curry house in Ebbw Vale, but a shark attack puts Basil's new-found success at risk. Jub reconnects with a friend from childhood.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0030vtt"
-        },
-        {
-          "title": "Schitt's Creek",
-          "series_number": 6,
-          "start_time": "2026-09-26T23:40:00Z",
-          "synopsis": "On their way to drop off Alexis at the airport, David stops to scout a potential wedding venue and holds things up. Johnny and Moira have a romantic picnic by the creek. ",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m002x3y6"
-        },
-        {
           "title": "Ice Road Truckers",
           "series_number": 12,
           "start_time": "2026-09-27T21:00:00Z",
@@ -117,13 +96,6 @@
       "type": "radio",
       "confidence": "medium",
       "new_series": [
-        {
-          "title": "Understand",
-          "series_number": null,
-          "start_time": "2026-09-26T09:00:00Z",
-          "synopsis": "Michael Palin and Michael Rosen discuss what being a man in their 80s means to them. A conversation about grief, fading competitive instincts, and the benefits of letting go.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pc0bsq"
-        },
         {
           "title": "Stations by Louise Kennedy",
           "series_number": null,

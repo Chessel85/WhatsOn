@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T12:07:20+00:00",
+  "fetched_at": "2026-09-28T14:01:47+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -36,6 +36,13 @@
           "start_time": "2026-10-02T20:30:00Z",
           "synopsis": "Richard Ayoade hosts, with guest pannelist broadcaster Gyles Brandreth joining team captains Paul Merton and Ian Hislop as they delve into the news.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m00328lv"
+        },
+        {
+          "title": "The Reluctant Vampire",
+          "series_number": 1,
+          "start_time": "2026-10-04T17:40:00Z",
+          "synopsis": "Being a vampire has never come naturally to Val, but as he is heir to the throne, all eyes are on him to live up to expectations. When his mum reveals a huge secret, all becomes clear.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m002stm7"
         }
       ]
     },
@@ -45,13 +52,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Eva Longoria: Searching for France",
-          "series_number": 1,
-          "start_time": "2026-09-27T18:15:00Z",
-          "synopsis": "In avant-garde Paris, Eva explores the haute cuisine tradition of the \u2018art of the table\u2019 and meets young chefs on the cutting edge of a new food scene.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0030h1t"
-        },
         {
           "title": "Strictly - It Takes Two",
           "series_number": 24,
@@ -67,13 +67,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Ice Road Truckers",
-          "series_number": 12,
-          "start_time": "2026-09-27T21:00:00Z",
-          "synopsis": "Lisa\u2019s engine fails on her first run, Todd attempts a bold bush fix, Scooter squeezes his wide load through tight winter roads, and Shaun finds his key ice route too thin to cross.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0031mk6"
-        },
         {
           "title": "Stacey Dooley Sleeps Over",
           "series_number": 4,
@@ -101,7 +94,7 @@
           "series_number": null,
           "start_time": "2026-09-28T21:45:00Z",
           "synopsis": "Teenager R\u00f3is\u00edn is asked to be a go-between for her school bully and local rogue Red Camelin.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0pcg2ll"
         },
         {
           "title": "Limelight",
@@ -124,15 +117,7 @@
       "name": "BBC World Service",
       "type": "radio",
       "confidence": "medium",
-      "new_series": [
-        {
-          "title": "World of Secrets",
-          "series_number": null,
-          "start_time": "2026-09-27T11:32:30Z",
-          "synopsis": "When Yusron, the school\u2019s former golden boy, gets in touch with Zia, a fellow former student, everything he believes in begins to unravel.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pb9y3v"
-        }
-      ]
+      "new_series": []
     },
     {
       "id": "itv1",

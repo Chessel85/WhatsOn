@@ -1,69 +1,13 @@
 {
-  "fetched_at": "2026-09-27T11:00:32+00:00",
+  "fetched_at": "2026-09-28T12:19:40+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
-      "title": "Simply Italian",
-      "venue": "National Motor Museum",
-      "time": "2026-09-27T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/simply-italian/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Boat Show 2026",
-      "venue": "Mayflower Park",
-      "time": "2026-09-27T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-boat-show/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "GirlyPop Live Southampton 2026",
-      "venue": "EngineRooms",
-      "time": "2026-09-27T11:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/girlypop-live-southampton-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Fleetwood Bac Matinee Show",
-      "venue": "The Brook",
-      "time": "2026-09-27T11:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/fleetwood-bac-matinee-show/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Cory Band",
-      "venue": "Thornden Hall",
-      "time": "2026-09-27T14:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-cory-band/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Emerald Dawn & Candacraig",
-      "venue": "The 1865",
-      "time": "2026-09-27T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-emerald-dawn-candacraig/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Richard Digance",
-      "venue": "Hanger Farm",
-      "time": "2026-09-27T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/richard-digance/",
-      "source": "hellosouthampton"
-    },
-    {
       "title": "Moulin Rouge! The Musical",
       "venue": "Mayflower Theatre",
-      "time": "2026-09-27T18:30:00Z",
+      "time": "2026-09-28T18:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Man of Moon",
-      "venue": "Heartbreakers",
-      "time": "2026-09-27T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/man-of-moon/",
       "source": "hellosouthampton"
     },
     {

@@ -1,26 +1,8 @@
 {
-  "fetched_at": "2026-09-29T10:10:45+00:00",
+  "fetched_at": "2026-09-29T17:06:08+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "MSC VIRTUOSA",
-      "berth": "102",
-      "arrival": {
-        "date": "2026-09-29",
-        "time": "2026-09-29T05:22:00Z"
-      },
-      "departure": {
-        "date": "2026-09-29",
-        "time": "2026-09-29T15:00:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9803625",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/MSC-Virtuosa-1981",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MSC%20VIRTUOSA%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "BALMORAL",
       "berth": "101",

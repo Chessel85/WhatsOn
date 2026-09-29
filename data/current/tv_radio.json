@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T14:01:47+00:00",
+  "fetched_at": "2026-09-29T12:58:10+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -34,7 +34,7 @@
           "title": "Have I Got News for You",
           "series_number": 72,
           "start_time": "2026-10-02T20:30:00Z",
-          "synopsis": "Richard Ayoade hosts, with guest pannelist broadcaster Gyles Brandreth joining team captains Paul Merton and Ian Hislop as they delve into the news.",
+          "synopsis": "Richard Ayoade hosts, with guest panellists broadcaster Gyles Brandreth and singer-songwriter Charlotte Church  joining team captains Ian Hislop and Paul Merton as they delve into the news.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m00328lv"
         },
         {
@@ -51,15 +51,7 @@
       "name": "BBC Two",
       "type": "tv",
       "confidence": "high",
-      "new_series": [
-        {
-          "title": "Strictly - It Takes Two",
-          "series_number": 24,
-          "start_time": "2026-09-28T17:30:00Z",
-          "synopsis": "It Takes Two is back with new host Ellie Taylor for a series packed full of the latest headlines, backstage gossip, expert opinions and exclusive interviews.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m00328sk"
-        }
-      ]
+      "new_series": []
     },
     {
       "id": "bbc_three",
@@ -90,25 +82,18 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Stations by Louise Kennedy",
-          "series_number": null,
-          "start_time": "2026-09-28T21:45:00Z",
-          "synopsis": "Teenager R\u00f3is\u00edn is asked to be a go-between for her school bully and local rogue Red Camelin.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pcg2ll"
-        },
-        {
-          "title": "Limelight",
-          "series_number": null,
-          "start_time": "2026-09-28T22:00:00Z",
-          "synopsis": "Maita goes to see her dad for her birthday, but he's disappeared. \nFive-part thriller by Eno Mfon and Darragh Mortell, starring Saffron Coomber and John Pfumojena.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0h4dvg1"
-        },
-        {
           "title": "Drama on 4",
           "series_number": null,
           "start_time": "2026-09-29T13:15:00Z",
           "synopsis": "Riverbourne's tower block is falling apart: damp, mould, faulty wiring, broken lifts. When the housing association looks away, the tenants organise and demand change.",
           "url": null
+        },
+        {
+          "title": "Whatever Happened to Baby Jane Austen?",
+          "series_number": 2,
+          "start_time": "2026-10-05T13:15:00Z",
+          "synopsis": "Dawn French and Jennifer Saunders star as respected novelist Florence and movie star Selina, in a sparkling comedy series about two sisters at war, by Veep writer David Quantick.",
+          "url": "https://www.bbc.co.uk/sounds/play/m001t9lv"
         }
       ]
     },

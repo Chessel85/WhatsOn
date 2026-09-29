@@ -1,22 +1,8 @@
 {
-  "fetched_at": "2026-09-28T12:19:40+00:00",
+  "fetched_at": "2026-09-29T11:47:05+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-09-28T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "OPAL MAG + Winter Gardens",
-      "venue": "Heartbreakers",
-      "time": "2026-09-28T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/opal-mag-winter-gardens/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Hythe Village Traditional Weekly Street Market",
       "venue": "High Street",
@@ -57,6 +43,13 @@
       "venue": "Heartbreakers",
       "time": "2026-09-29T18:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/francis-of-delirium/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-09-29T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
       "source": "hellosouthampton"
     },
     {

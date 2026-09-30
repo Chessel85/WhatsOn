@@ -1,26 +1,8 @@
 {
-  "fetched_at": "2026-09-30T17:04:08+00:00",
+  "fetched_at": "2026-09-30T23:15:19+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "BALMORAL",
-      "berth": "101",
-      "arrival": {
-        "date": "2026-09-30",
-        "time": "2026-09-30T05:36:00Z"
-      },
-      "departure": {
-        "date": "2026-09-30",
-        "time": "2026-09-30T21:00:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:8506294",
-        "cruisemapper_url": null,
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BALMORAL%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "ARCADIA",
       "berth": "106",
@@ -359,6 +341,26 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9857937",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Silver-Dawn-1991",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=SILVER%20DAWN%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "MSC VIRTUOSA",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-10-15",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-10-15",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9803625",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/MSC-Virtuosa-1981",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MSC%20VIRTUOSA%20cruise%20ship"
       }
     }
   ]

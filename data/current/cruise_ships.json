@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T10:02:27+00:00",
+  "fetched_at": "2026-09-30T17:04:08+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -12,13 +12,31 @@
       },
       "departure": {
         "date": "2026-09-30",
-        "time": "2026-09-30T22:00:00Z"
+        "time": "2026-09-30T21:00:00Z"
       },
       "agent": "DENHOLM PORT SERVICES LTD",
       "links": {
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:8506294",
         "cruisemapper_url": null,
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BALMORAL%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "ARCADIA",
+      "berth": "106",
+      "arrival": {
+        "date": "2026-10-02",
+        "time": "2026-10-02T04:45:00Z"
+      },
+      "departure": {
+        "date": "2026-10-02",
+        "time": "2026-10-02T15:00:00Z"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9226906",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Arcadia-626",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=ARCADIA%20cruise%20ship"
       }
     },
     {
@@ -37,24 +55,6 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614036",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Britannia-1028",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BRITANNIA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "ARCADIA",
-      "berth": "106",
-      "arrival": {
-        "date": "2026-10-02",
-        "time": "2026-10-02T05:00:00Z"
-      },
-      "departure": {
-        "date": "2026-10-02",
-        "time": "2026-10-02T15:00:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9226906",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Arcadia-626",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=ARCADIA%20cruise%20ship"
       }
     },
     {
@@ -170,13 +170,11 @@
       "berth": "102",
       "arrival": {
         "date": "2026-10-07",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-10-07T05:15:00Z"
       },
       "departure": {
         "date": "2026-10-07",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-10-07T15:00:00Z"
       },
       "agent": "Intercruises Shoreside & Port",
       "links": {
@@ -226,6 +224,24 @@
       }
     },
     {
+      "ship_name": "LIBERTY OF THE SEAS",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-10-10",
+        "time": "2026-10-10T04:30:00Z"
+      },
+      "departure": {
+        "date": "2026-10-10",
+        "time": "2026-10-10T16:00:00Z"
+      },
+      "agent": "Intercruises Shoreside & Port",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9330032",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Liberty-Of-The-Seas-731",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=LIBERTY%20OF%20THE%20SEAS%20cruise%20ship"
+      }
+    },
+    {
       "ship_name": "ARVIA",
       "berth": "46",
       "arrival": {
@@ -243,26 +259,6 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9849693",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Arvia-2158",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=ARVIA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "LIBERTY OF THE SEAS",
-      "berth": "102",
-      "arrival": {
-        "date": "2026-10-10",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "departure": {
-        "date": "2026-10-10",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "agent": "Intercruises Shoreside & Port",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9330032",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Liberty-Of-The-Seas-731",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=LIBERTY%20OF%20THE%20SEAS%20cruise%20ship"
       }
     },
     {

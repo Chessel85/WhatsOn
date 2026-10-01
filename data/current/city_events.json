@@ -1,43 +1,8 @@
 {
-  "fetched_at": "2026-09-30T11:33:25+00:00",
+  "fetched_at": "2026-10-01T12:02:04+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Fickle Friends",
-      "venue": "The Joiners",
-      "time": "2026-09-30T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/fickle-friends/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-09-30T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Adam Sweet Band",
-      "venue": "Hanger Farm",
-      "time": "2026-09-30T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/adam-sweet-band/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Eastleigh FC vs Southend United: National League 2026",
-      "venue": "Silverlake Stadium",
-      "time": "2026-09-30T18:45:00Z",
-      "url": "https://hellosouthampton.co.uk/events/eastleigh-fc-vs-southend-united-national-league-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Jeeves Takes Charge",
-      "venue": "Mayflower Studios",
-      "time": "2026-09-30T18:45:00Z",
-      "url": "https://hellosouthampton.co.uk/events/jeeves-takes-charge/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Shirley Traditional Weekly Street Market",
       "venue": "Shirley Precinct",
@@ -60,6 +25,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-01T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Ladylike",
       "venue": "Heartbreakers",
       "time": "2026-10-01T18:30:00Z",
@@ -71,6 +43,13 @@
       "venue": "Hanger Farm",
       "time": "2026-10-01T18:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/the-greatest-love-songs/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Jeeves Takes Charge",
+      "venue": "Mayflower Studios",
+      "time": "2026-10-01T18:45:00Z",
+      "url": "https://hellosouthampton.co.uk/events/jeeves-takes-charge/",
       "source": "hellosouthampton"
     },
     {

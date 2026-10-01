@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T12:27:31+00:00",
+  "fetched_at": "2026-10-01T13:04:20+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -715,20 +715,13 @@
       "name": "Eastleigh FC",
       "league": {
         "competition": "National League",
-        "position": 15,
-        "points": 14,
-        "played": 10,
-        "remaining": 36
+        "position": 14,
+        "points": 15,
+        "played": 11,
+        "remaining": 35
       },
       "cups": [],
       "fixtures": [
-        {
-          "date": "2026-09-30T18:45Z",
-          "opponent": "Southend United",
-          "home_away": "home",
-          "venue": "Silverlake Stadium",
-          "competition": "National League"
-        },
         {
           "date": "2026-10-03T14:00Z",
           "opponent": "Woking",
@@ -1075,6 +1068,16 @@
           "goals_for": 1,
           "goals_against": 4,
           "outcome": "L"
+        },
+        {
+          "date": "2026-09-30T18:45Z",
+          "opponent": "Southend United",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League",
+          "goals_for": 1,
+          "goals_against": 1,
+          "outcome": "D"
         }
       ]
     }

@@ -1,57 +1,8 @@
 {
-  "fetched_at": "2026-10-01T12:02:04+00:00",
+  "fetched_at": "2026-10-02T11:33:30+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Shirley Traditional Weekly Street Market",
-      "venue": "Shirley Precinct",
-      "time": "2026-10-01T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/shirley-traditional-weekly-street-market/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Laibach",
-      "venue": "The 1865",
-      "time": "2026-10-01T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/laibach/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "GANS",
-      "venue": "The Joiners",
-      "time": "2026-10-01T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/gans/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-10-01T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Ladylike",
-      "venue": "Heartbreakers",
-      "time": "2026-10-01T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/ladylike/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Greatest Love Songs",
-      "venue": "Hanger Farm",
-      "time": "2026-10-01T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-greatest-love-songs/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Jeeves Takes Charge",
-      "venue": "Mayflower Studios",
-      "time": "2026-10-01T18:45:00Z",
-      "url": "https://hellosouthampton.co.uk/events/jeeves-takes-charge/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Weekly Street Market in Southampton",
       "venue": "The Bargate",
@@ -64,6 +15,13 @@
       "venue": "Romsey Golf Club",
       "time": "2026-10-02T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/romsey-young-carers-charity-golf-day/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Carlton Place Night Market & Jazz Circle",
+      "venue": "Carlton Place",
+      "time": "2026-10-02T16:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/carlton-place-night-market-jazz-circle/",
       "source": "hellosouthampton"
     },
     {
@@ -85,6 +43,13 @@
       "venue": "The Joiners",
       "time": "2026-10-02T18:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/the-tubs/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-02T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
       "source": "hellosouthampton"
     },
     {
@@ -113,6 +78,20 @@
       "venue": "Theatre Royal Winchester",
       "time": "2026-10-02T18:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/we-will-rock-you/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Jeeves Takes Charge",
+      "venue": "Mayflower Studios",
+      "time": "2026-10-02T18:45:00Z",
+      "url": "https://hellosouthampton.co.uk/events/jeeves-takes-charge/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Stein Garten Oktoberfest Party 2026",
+      "venue": "Stein Garten",
+      "time": "2026-10-02T19:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/stein-garten-oktoberfest-party-2026/",
       "source": "hellosouthampton"
     },
     {
@@ -270,12 +249,33 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Shirley Traditional Weekly Street Market",
+      "venue": "Shirley Precinct",
+      "time": "2026-10-08T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/shirley-traditional-weekly-street-market/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Shine Night Walk",
       "venue": "Guildhall Square",
       "time": "2026-10-09T00:00:00Z",
       "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
       "source": "visit_southampton",
       "all_day": true
+    },
+    {
+      "title": "Oktoberfest at The Royal British Legion Romsey",
+      "venue": "The Royal British Legion",
+      "time": "2026-10-09T16:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/oktoberfest-at-the-royal-british-legion-romsey/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Oktoberfest at The Rising Sun Colden Common",
+      "venue": "The Rising Sun",
+      "time": "2026-10-10T11:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/oktoberfest-at-the-rising-sun-colden-common/",
+      "source": "hellosouthampton"
     },
     {
       "title": "RYA Sea Survival",
@@ -292,12 +292,26 @@
       "source": "university"
     },
     {
+      "title": "SUSU Oktoberfest 2026",
+      "venue": "Garden Court, SUSU",
+      "time": "2026-10-17T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/susu-oktoberfest-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Oktoberfest",
       "venue": "Guildhall Square",
       "time": "2026-10-23T00:00:00Z",
       "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
       "source": "visit_southampton",
       "all_day": true
+    },
+    {
+      "title": "Oktoberfest Totton 2026",
+      "venue": "Snows Stadium",
+      "time": "2026-10-24T11:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/oktoberfest-totton-2026/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Enterprise and Growth I: Creative approaches to funding and sustaining KEE work",

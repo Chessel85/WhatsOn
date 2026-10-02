@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T13:22:55+00:00",
+  "fetched_at": "2026-10-02T12:41:44+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,20 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "The Celebrity Traitors",
-          "series_number": 2,
-          "start_time": "2026-10-01T19:00:00Z",
-          "synopsis": "Claudia Winkleman welcomes a brand new group of celebrities as they arrive at a beautiful castle in the Scottish Highlands to play the ultimate reality game of detection, back-stabbing and trust.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0030pxt"
-        },
-        {
-          "title": "The Celebrity Traitors: Uncloaked",
-          "series_number": 2,
-          "start_time": "2026-10-01T20:15:00Z",
-          "synopsis": "Ed Gamble and guests unpack all the drama from episode 1 of the second series of The Celebrity Traitors.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m00328gj"
-        },
         {
           "title": "Have I Got News for You",
           "series_number": 72,
@@ -80,6 +66,13 @@
           "start_time": "2026-10-05T13:15:00Z",
           "synopsis": "Dawn French and Jennifer Saunders star as respected novelist Florence and movie star Selina, in a sparkling comedy series about two sisters at war, by Veep writer David Quantick.",
           "url": "https://www.bbc.co.uk/sounds/play/m001t9lv"
+        },
+        {
+          "title": "Do Gooders",
+          "series_number": 1,
+          "start_time": "2026-10-08T17:30:00Z",
+          "synopsis": "Garrett Millerick's new sitcom exploring the frustrations of charity fundraising. With Frank Skinner, Fay Ripley, Lisa McGrillis, Ahir Shah and Ania Magliano.",
+          "url": "https://www.bbc.co.uk/sounds/play/m0021b8p"
         }
       ]
     },

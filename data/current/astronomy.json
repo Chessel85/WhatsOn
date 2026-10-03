@@ -1,21 +1,8 @@
 {
-  "fetched_at": "2026-10-02T10:58:09+00:00",
+  "fetched_at": "2026-10-03T10:17:32+00:00",
   "source": "https://sunrisesunset.io/",
   "location": "Southampton, UK",
   "days": [
-    {
-      "date": "2026-10-02",
-      "sunrise": "2026-10-02T06:06:31+00:00",
-      "sunset": "2026-10-02T17:42:29+00:00",
-      "day_length": {
-        "hours": 11,
-        "minutes": 36
-      },
-      "moonrise": "2026-10-02T20:40:26+00:00",
-      "moonset": "2026-10-02T13:46:01+00:00",
-      "moon_phase": "Last Quarter",
-      "moon_illumination_percent": 62.17
-    },
     {
       "date": "2026-10-03",
       "sunrise": "2026-10-03T06:08:07+00:00",
@@ -93,21 +80,34 @@
       "moonset": "2026-10-08T16:28:38+00:00",
       "moon_phase": "Waning Crescent",
       "moon_illumination_percent": 5.29
+    },
+    {
+      "date": "2026-10-09",
+      "sunrise": "2026-10-09T06:17:48+00:00",
+      "sunset": "2026-10-09T17:27:05+00:00",
+      "day_length": {
+        "hours": 11,
+        "minutes": 9
+      },
+      "moonrise": "2026-10-09T04:52:05+00:00",
+      "moonset": "2026-10-09T16:41:17+00:00",
+      "moon_phase": "New Moon",
+      "moon_illumination_percent": 1.57
     }
   ],
   "moon_apsis": {
     "type": "apogee",
     "date": "2026-10-16T22:58:55Z",
-    "days_until": 15
+    "days_until": 14
   },
   "earth_apsis": {
     "type": "perihelion",
     "date": "2027-01-03T02:40:42Z",
-    "days_until": 93
+    "days_until": 92
   },
   "next_solstice_equinox": {
     "name": "Winter Solstice",
     "date": "2026-12-21T20:50:14Z",
-    "days_until": 80
+    "days_until": 79
   }
 }

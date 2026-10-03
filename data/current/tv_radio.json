@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02T12:41:44+00:00",
+  "fetched_at": "2026-10-03T11:43:36+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Have I Got News for You",
-          "series_number": 72,
-          "start_time": "2026-10-02T20:30:00Z",
-          "synopsis": "Richard Ayoade hosts, with guest panellists broadcaster Gyles Brandreth and singer-songwriter Charlotte Church joining team captains Ian Hislop and Paul Merton as they delve into the news.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m00328lv"
-        },
         {
           "title": "The Reluctant Vampire",
           "series_number": 1,

@@ -1,97 +1,13 @@
 {
-  "fetched_at": "2026-10-02T11:33:30+00:00",
+  "fetched_at": "2026-10-03T10:47:50+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
       "title": "Weekly Street Market in Southampton",
       "venue": "The Bargate",
-      "time": "2026-10-02T08:00:00Z",
+      "time": "2026-10-03T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Romsey Young Carers Charity Golf Day",
-      "venue": "Romsey Golf Club",
-      "time": "2026-10-02T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/romsey-young-carers-charity-golf-day/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Carlton Place Night Market & Jazz Circle",
-      "venue": "Carlton Place",
-      "time": "2026-10-02T16:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/carlton-place-night-market-jazz-circle/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Stephen K Amos & Friends",
-      "venue": "The Attic",
-      "time": "2026-10-02T17:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/stephen-k-amos-friends/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "L1nkn P4rk \u2013 Linkin Park Experience",
-      "venue": "The 1865",
-      "time": "2026-10-02T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/l1nkn-p4rk-linkin-park-experience/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Tubs",
-      "venue": "The Joiners",
-      "time": "2026-10-02T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-tubs/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-10-02T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Wall of Floyd",
-      "venue": "The Brook",
-      "time": "2026-10-02T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/wall-of-floyd/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Romesh Ranganathan: Work in Progress",
-      "venue": "The Berry Theatre",
-      "time": "2026-10-02T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/romesh-ranganathan-work-in-progress/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Baby Necessities Fundraising Barn Dance",
-      "venue": "Crosfield Hall",
-      "time": "2026-10-02T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/baby-necessities-fundraising-barn-dance/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "We Will Rock You",
-      "venue": "Theatre Royal Winchester",
-      "time": "2026-10-02T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/we-will-rock-you/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Jeeves Takes Charge",
-      "venue": "Mayflower Studios",
-      "time": "2026-10-02T18:45:00Z",
-      "url": "https://hellosouthampton.co.uk/events/jeeves-takes-charge/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Stein Garten Oktoberfest Party 2026",
-      "venue": "Stein Garten",
-      "time": "2026-10-02T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/stein-garten-oktoberfest-party-2026/",
       "source": "hellosouthampton"
     },
     {
@@ -158,6 +74,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-03T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Henry Grace",
       "venue": "Heartbreakers",
       "time": "2026-10-03T18:30:00Z",
@@ -176,6 +99,13 @@
       "venue": "Hanger Farm",
       "time": "2026-10-03T18:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/thunderstruck-tribute-to-ac-dc/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Jeeves Takes Charge",
+      "venue": "Mayflower Studios",
+      "time": "2026-10-03T18:45:00Z",
+      "url": "https://hellosouthampton.co.uk/events/jeeves-takes-charge/",
       "source": "hellosouthampton"
     },
     {

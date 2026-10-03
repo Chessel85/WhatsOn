@@ -1,62 +1,8 @@
 {
-  "fetched_at": "2026-10-03T15:17:39+00:00",
+  "fetched_at": "2026-10-03T18:51:13+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "LIBERTY OF THE SEAS",
-      "berth": "101",
-      "arrival": {
-        "date": "2026-10-03",
-        "time": "2026-10-03T04:18:00Z"
-      },
-      "departure": {
-        "date": "2026-10-03",
-        "time": "2026-10-03T16:00:00Z"
-      },
-      "agent": "Intercruises Shoreside & Port",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9330032",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Liberty-Of-The-Seas-731",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=LIBERTY%20OF%20THE%20SEAS%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "IONA",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-10-03",
-        "time": "2026-10-03T05:38:00Z"
-      },
-      "departure": {
-        "date": "2026-10-03",
-        "time": "2026-10-03T16:00:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9826548",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Iona-1858",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=IONA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "MSC VIRTUOSA",
-      "berth": "102",
-      "arrival": {
-        "date": "2026-10-03",
-        "time": "2026-10-03T05:14:00Z"
-      },
-      "departure": {
-        "date": "2026-10-03",
-        "time": "2026-10-03T18:15:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9803625",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/MSC-Virtuosa-1981",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MSC%20VIRTUOSA%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "HANSEATIC NATURE",
       "berth": "Cowes (Any)",

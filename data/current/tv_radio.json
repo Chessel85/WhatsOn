@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-03T11:43:36+00:00",
+  "fetched_at": "2026-10-04T12:26:18+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -37,6 +37,13 @@
           "start_time": "2026-10-06T20:00:00Z",
           "synopsis": "Stacey Dooley spends the weekend at Nevada\u2019s oldest legal brothel and meets the people in charge. She questions if legal brothels can act as a solution to the dangers sex workers face.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0030bz3"
+        },
+        {
+          "title": "Krapopolis",
+          "series_number": 1,
+          "start_time": "2026-10-10T22:40:00Z",
+          "synopsis": "Three siblings attempt to run the first city free of godly influence in ancient Greece, which is complicated by a run-in with cannibal neighbours and their goddess mother demanding her own temple.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0031482"
         }
       ]
     },
@@ -66,6 +73,13 @@
           "start_time": "2026-10-08T17:30:00Z",
           "synopsis": "Garrett Millerick's new sitcom exploring the frustrations of charity fundraising. With Frank Skinner, Fay Ripley, Lisa McGrillis, Ahir Shah and Ania Magliano.",
           "url": "https://www.bbc.co.uk/sounds/play/m0021b8p"
+        },
+        {
+          "title": "Artworks",
+          "series_number": null,
+          "start_time": "2026-10-10T09:30:00Z",
+          "synopsis": "John Wilson explores the story of the guitar as a driver of social and cultural change powering counter-culture in the 20th century. Where does its extraordinary legacy stand now?",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p3mxp6"
         }
       ]
     },

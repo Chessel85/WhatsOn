@@ -1,14 +1,34 @@
 {
-  "fetched_at": "2026-10-04T03:00:51+00:00",
+  "fetched_at": "2026-10-04T10:15:14+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
     {
       "ship_name": "HANSEATIC NATURE",
+      "berth": "St Helens Anchorage",
+      "arrival": {
+        "date": "2026-10-04",
+        "time": "2026-10-04T09:00:00Z"
+      },
+      "departure": {
+        "date": "2026-10-04",
+        "time": null,
+        "time_label": "AM"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9817133",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Hanseatic-Nature-1736",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=HANSEATIC%20NATURE%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "HANSEATIC NATURE",
       "berth": "Cowes (Any)",
       "arrival": {
         "date": "2026-10-04",
-        "time": "2026-10-04T10:00:00Z"
+        "time": null,
+        "time_label": "AM"
       },
       "departure": {
         "date": "2026-10-04",

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-03T11:34:10+00:00",
+  "fetched_at": "2026-10-04T12:15:29+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -715,20 +715,13 @@
       "name": "Eastleigh FC",
       "league": {
         "competition": "National League",
-        "position": 14,
+        "position": 17,
         "points": 15,
-        "played": 11,
-        "remaining": 35
+        "played": 12,
+        "remaining": 34
       },
       "cups": [],
       "fixtures": [
-        {
-          "date": "2026-10-03T14:00Z",
-          "opponent": "Woking",
-          "home_away": "home",
-          "venue": "Silverlake Stadium",
-          "competition": "National League"
-        },
         {
           "date": "2026-10-10T14:00Z",
           "opponent": "AFC Hornchurch",
@@ -1078,6 +1071,16 @@
           "goals_for": 1,
           "goals_against": 1,
           "outcome": "D"
+        },
+        {
+          "date": "2026-10-03T14:00Z",
+          "opponent": "Woking",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League",
+          "goals_for": 1,
+          "goals_against": 3,
+          "outcome": "L"
         }
       ]
     }

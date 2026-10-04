@@ -1,113 +1,8 @@
 {
-  "fetched_at": "2026-10-03T10:47:50+00:00",
+  "fetched_at": "2026-10-04T11:29:44+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Weekly Street Market in Southampton",
-      "venue": "The Bargate",
-      "time": "2026-10-03T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Shedfield Country Stores Octoberfest 2026",
-      "venue": "Shedfield Country Stores",
-      "time": "2026-10-03T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/shedfield-country-stores-octoberfest-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Frenchie Fest 2026",
-      "venue": "Leyfield, New Park Farm",
-      "time": "2026-10-03T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/frenchie-fest-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Autumn Makers Market Southampton",
-      "venue": "Peartree Church Hall",
-      "time": "2026-10-03T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/autumn-makers-market-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Showtime 11",
-      "venue": "The Point",
-      "time": "2026-10-03T10:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/showtime-11/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Reggae Day Party Southampton 2026",
-      "venue": "Trilogy Southampton",
-      "time": "2026-10-03T14:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/reggae-day-party-southampton-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Beat: Dance Crazed Too UK Tour",
-      "venue": "O2 Guildhall Southampton",
-      "time": "2026-10-03T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-beat-dance-crazed-too-uk-tour/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Good Times: Nile Rodgers & Chic Tribute",
-      "venue": "The 1865",
-      "time": "2026-10-03T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/good-times-nile-rodgers-chic-tribute/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Hairforce 5",
-      "venue": "The Brook Southampton",
-      "time": "2026-10-03T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/hairforce-5/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Limozine",
-      "venue": "The Joiners",
-      "time": "2026-10-03T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/limozine/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-10-03T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Henry Grace",
-      "venue": "Heartbreakers",
-      "time": "2026-10-03T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/henry-grace/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Stereo MCs",
-      "venue": "Papillon",
-      "time": "2026-10-03T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/stereo-mcs/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Thunderstruck: Tribute to AC/DC",
-      "venue": "Hanger Farm",
-      "time": "2026-10-03T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/thunderstruck-tribute-to-ac-dc/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Jeeves Takes Charge",
-      "venue": "Mayflower Studios",
-      "time": "2026-10-03T18:45:00Z",
-      "url": "https://hellosouthampton.co.uk/events/jeeves-takes-charge/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Southampton Half Marathon, 10K, 5K & Junior October 2026",
       "venue": "Saint Mary\u2019s Stadium",
@@ -130,6 +25,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Showtime 11",
+      "venue": "The Point",
+      "time": "2026-10-04T10:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/showtime-11/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Marquee Square Heroes \u2013 Marillion Tribute",
       "venue": "The 1865",
       "time": "2026-10-04T18:00:00Z",
@@ -148,6 +50,13 @@
       "venue": "The Brook Southampton",
       "time": "2026-10-04T18:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/zion-train/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-04T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
       "source": "hellosouthampton"
     },
     {
@@ -192,6 +101,13 @@
       "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
       "source": "visit_southampton",
       "all_day": true
+    },
+    {
+      "title": "Weekly Street Market in Southampton",
+      "venue": "The Bargate",
+      "time": "2026-10-09T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Oktoberfest at The Royal British Legion Romsey",

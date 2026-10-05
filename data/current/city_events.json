@@ -1,76 +1,34 @@
 {
-  "fetched_at": "2026-10-04T11:29:44+00:00",
+  "fetched_at": "2026-10-05T12:59:08+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
-      "title": "Southampton Half Marathon, 10K, 5K & Junior October 2026",
-      "venue": "Saint Mary\u2019s Stadium",
-      "time": "2026-10-04T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-half-marathon-10k-5k-junior-october-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "So You Want to Dance",
-      "venue": "Thornden Hall",
-      "time": "2026-10-04T08:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/so-you-want-to-dance/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Romsey Farmers\u2019 Market",
-      "venue": "Alma Road Car Park",
-      "time": "2026-10-04T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/romsey-farmers-market/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Showtime 11",
-      "venue": "The Point",
-      "time": "2026-10-04T10:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/showtime-11/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Marquee Square Heroes \u2013 Marillion Tribute",
+      "title": "Skating Polly & Lord Friday the 13th",
       "venue": "The 1865",
-      "time": "2026-10-04T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/marquee-square-heroes-marillion-tribute/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "High Fade",
-      "venue": "Papillon",
-      "time": "2026-10-04T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/high-fade/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Zion Train",
-      "venue": "The Brook Southampton",
-      "time": "2026-10-04T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/zion-train/",
+      "time": "2026-10-05T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/skating-polly-lord-friday-the-13th/",
       "source": "hellosouthampton"
     },
     {
       "title": "Moulin Rouge! The Musical",
       "venue": "Mayflower Theatre",
-      "time": "2026-10-04T18:30:00Z",
+      "time": "2026-10-05T18:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Olly Olss\u00f8n",
-      "venue": "Heartbreakers",
-      "time": "2026-10-04T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/olly-olsson/",
       "source": "hellosouthampton"
     },
     {
       "title": "Donald Trumped by Mike Osman",
       "venue": "Hanger Farm",
-      "time": "2026-10-04T18:30:00Z",
+      "time": "2026-10-05T18:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/donald-trumped-by-mike-osman/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Tchotchke",
+      "venue": "Heartbreakers",
+      "time": "2026-10-05T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/tchotchke/",
       "source": "hellosouthampton"
     },
     {
@@ -88,10 +46,87 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "bROTHERS iN bAND: The Dire Straits Tribute Show",
+      "venue": "The 1865",
+      "time": "2026-10-06T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/brothers-in-band-the-dire-straits-tribute-show/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Anciients",
+      "venue": "The Joiners",
+      "time": "2026-10-06T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/anciients-at-the-joiners/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Comedy at Heartbreakers",
+      "venue": "Heartbreakers",
+      "time": "2026-10-06T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/comedy-at-heartbreakers/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Kris Barras Band",
+      "venue": "The 1865",
+      "time": "2026-10-07T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/kris-barras-band/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "LIFE",
+      "venue": "The Joiners",
+      "time": "2026-10-07T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/life-at-the-joiners/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Nubiyan Twist",
+      "venue": "The Brook Southampton",
+      "time": "2026-10-07T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/nubiyan-twist-the-brook-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Liam Cromby",
+      "venue": "Heartbreakers",
+      "time": "2026-10-07T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/liam-cromby-at-heartbreakers/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Shirley Traditional Weekly Street Market",
       "venue": "Shirley Precinct",
       "time": "2026-10-08T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/shirley-traditional-weekly-street-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Matilda JR.",
+      "venue": "The Point",
+      "time": "2026-10-08T13:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/matilda-jr-at-the-point-eastleigh/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Tenacious G vs Wheezed",
+      "venue": "The 1865",
+      "time": "2026-10-08T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/tenacious-g-vs-wheezed/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Dolphin Love",
+      "venue": "Heartbreakers",
+      "time": "2026-10-08T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/dolphin-love-at-heartbreakers/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "A Small Enclosed Room with Alfie Murphy",
+      "venue": "Mayflower Studios",
+      "time": "2026-10-08T18:45:00Z",
+      "url": "https://hellosouthampton.co.uk/events/a-small-enclosed-room-with-alfie-murphy/",
       "source": "hellosouthampton"
     },
     {
@@ -117,10 +152,115 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Fear Factory",
+      "venue": "The 1865",
+      "time": "2026-10-09T17:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/fear-factory/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Wanted 2.0",
+      "venue": "Engine Rooms",
+      "time": "2026-10-09T17:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-wanted-2-0-at-engine-rooms-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Last Resort",
+      "venue": "The Joiners",
+      "time": "2026-10-09T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/last-resort-at-the-joiners/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Buffy Revamped",
+      "venue": "Mayflower Studios",
+      "time": "2026-10-09T18:45:00Z",
+      "url": "https://hellosouthampton.co.uk/events/buffy-revamped/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Lymington Market",
+      "venue": "High Street, Lymington",
+      "time": "2026-10-10T07:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/lymington-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Lordshill Autumn Fair 2026",
+      "venue": "Oasis Academy Lords Hill",
+      "time": "2026-10-10T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/lordshill-autumn-fair-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Oktoberfest at The Rising Sun Colden Common",
       "venue": "The Rising Sun",
       "time": "2026-10-10T11:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/oktoberfest-at-the-rising-sun-colden-common/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Death of Guitar Pop Ska Extravaganza",
+      "venue": "The 1865",
+      "time": "2026-10-10T13:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/death-of-guitar-pop-ska-extravaganza/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Day Fever \u2013 Southampton",
+      "venue": "O2 Guildhall Southampton",
+      "time": "2026-10-10T14:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/day-fever-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Marvin Humes Presents Noughties Baby",
+      "venue": "Engine Rooms",
+      "time": "2026-10-10T16:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/marvin-humes-presents-noughties-baby/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Gerry Cinna-Man Experience",
+      "venue": "The Brook Southampton",
+      "time": "2026-10-10T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-gerry-cinna-man-experience/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Subdued",
+      "venue": "Heartbreakers",
+      "time": "2026-10-10T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/subdued-at-heartbreakers-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Kane Brown \u2013 Crowd Work King",
+      "venue": "Mayflower Studios",
+      "time": "2026-10-10T19:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/kane-brown-crowd-work-king/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "China Crisis",
+      "venue": "Papillon",
+      "time": "2026-10-10T19:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/china-crisis-papillon-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Heaven & Hell \u2013 Farewell Tour",
+      "venue": "Hanger Farm",
+      "time": "2026-10-10T19:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/heaven-hell-farewell-tour-at-hanger-farm-arts-centre/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Shy FX",
+      "venue": "Engine Rooms",
+      "time": "2026-10-10T22:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/shy-fx-at-engine-rooms-southampton/",
       "source": "hellosouthampton"
     },
     {
@@ -129,6 +269,41 @@
       "time": "2026-10-11T08:00:00Z",
       "url": "https://www.events.soton.ac.uk/",
       "source": "university"
+    },
+    {
+      "title": "Southampton vs Portsmouth \u2013 Sky Bet Championship 2026/27",
+      "venue": "St Mary's Stadium",
+      "time": "2026-10-11T11:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-vs-portsmouth-sky-bet-championship-2026-27/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The John Hackett Band + Dorie Jackson",
+      "venue": "The 1865",
+      "time": "2026-10-11T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-john-hackett-band-dorie-jackson/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Kairos",
+      "venue": "The Joiners",
+      "time": "2026-10-11T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-kairos-at-the-joiners-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Kamil Bednarek",
+      "venue": "Engine Rooms",
+      "time": "2026-10-11T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/kamil-bednarek-at-engine-rooms-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Jenny Colquitt",
+      "venue": "Heartbreakers",
+      "time": "2026-10-11T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/jenny-colquitt-at-heartbreakers-southampton/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Introduction to Enterprise: How to make money from your research",
@@ -165,6 +340,13 @@
       "time": "2026-10-27T13:30:00Z",
       "url": "https://www.events.soton.ac.uk/",
       "source": "university"
+    },
+    {
+      "title": "Romsey Farmers\u2019 Market",
+      "venue": "Alma Road Car Park",
+      "time": "2026-11-01T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/romsey-farmers-market/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Southampton Fireworks display",

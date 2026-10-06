@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-06T17:28:12+00:00",
+  "fetched_at": "2026-10-06T23:23:16+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -425,6 +425,46 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9169524",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Aurora-648",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=AURORA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "AIDAPRIMA",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-10-21",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-10-21",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9636955",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/AIDAprima-747",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=AIDAPRIMA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "ARCADIA",
+      "berth": "106",
+      "arrival": {
+        "date": "2026-10-21",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-10-21",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9226906",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Arcadia-626",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=ARCADIA%20cruise%20ship"
       }
     }
   ]

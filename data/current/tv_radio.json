@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-05T14:47:11+00:00",
+  "fetched_at": "2026-10-06T13:22:15+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -69,13 +69,6 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Whatever Happened to Baby Jane Austen?",
-          "series_number": 2,
-          "start_time": "2026-10-05T13:15:00Z",
-          "synopsis": "Dawn French and Jennifer Saunders star as respected novelist Florence and movie star Selina, in a sparkling comedy series about two sisters at war, by Veep writer David Quantick.",
-          "url": "https://www.bbc.co.uk/sounds/play/m001t9lv"
-        },
-        {
           "title": "Do Gooders",
           "series_number": 1,
           "start_time": "2026-10-08T17:30:00Z",
@@ -88,6 +81,13 @@
           "start_time": "2026-10-10T09:30:00Z",
           "synopsis": "John Wilson explores the story of the guitar as a driver of social and cultural change powering counter-culture in the 20th century. Where does its extraordinary legacy stand now?",
           "url": "https://www.bbc.co.uk/sounds/play/p0p3mxp6"
+        },
+        {
+          "title": "Sideways",
+          "series_number": null,
+          "start_time": "2026-10-12T23:30:00Z",
+          "synopsis": "Matthew Syed asks what it means to be distracted in a media world vying for our attention. First, he seeks answers in the works of Aldous Huxley and media theorist Neil Postman.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0k8k6kh"
         }
       ]
     },
@@ -103,15 +103,7 @@
       "name": "ITV1",
       "type": "tv",
       "confidence": "low",
-      "new_series": [
-        {
-          "title": "Cooking with the Stars",
-          "series_number": 6,
-          "start_time": "2026-10-05T18:30:00Z",
-          "synopsis": "Emma Willis and Tom Allen return with the contest as 12 famous faces are each mentored by a chef to compete in culinary battles over 10 weeks. The first head-to-head showdown is between actress Caroline Quentin, Gladiators star Harry Aikines-Aryeetey and Emmerdale actor Mark Charnock as they attempt to deliver classic family favourites. One contestant will go straight through to the next round, while the other two face each other in the dreaded cook off, after which one of them will leave the competition.",
-          "url": "https://www.tvmaze.com/episodes/3776662/cooking-with-the-stars-6x01-family-favourites"
-        }
-      ]
+      "new_series": []
     }
   ]
 }

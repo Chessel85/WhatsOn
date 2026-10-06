@@ -1,36 +1,8 @@
 {
-  "fetched_at": "2026-10-05T12:59:08+00:00",
+  "fetched_at": "2026-10-06T12:24:07+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Skating Polly & Lord Friday the 13th",
-      "venue": "The 1865",
-      "time": "2026-10-05T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/skating-polly-lord-friday-the-13th/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-10-05T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Donald Trumped by Mike Osman",
-      "venue": "Hanger Farm",
-      "time": "2026-10-05T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/donald-trumped-by-mike-osman/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Tchotchke",
-      "venue": "Heartbreakers",
-      "time": "2026-10-05T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/tchotchke/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Hythe Village Traditional Weekly Street Market",
       "venue": "High Street",
@@ -64,6 +36,13 @@
       "venue": "Heartbreakers",
       "time": "2026-10-06T18:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/comedy-at-heartbreakers/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-06T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
       "source": "hellosouthampton"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-06T13:22:15+00:00",
+  "fetched_at": "2026-10-07T13:29:50+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -13,7 +13,7 @@
           "title": "Time",
           "series_number": 3,
           "start_time": "2026-10-11T20:00:00Z",
-          "synopsis": "Award-winning prison drama with an all-star cast.",
+          "synopsis": "New chaplain Marie-Louise arrives at HMYOI Alderwick and clashes with veteran officer Bailey. Meanwhile, young offenders struggle through the first weeks of their incarceration.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m00316gl"
         }
       ]
@@ -39,13 +39,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Stacey Dooley Sleeps Over",
-          "series_number": 5,
-          "start_time": "2026-10-06T20:00:00Z",
-          "synopsis": "Stacey Dooley spends the weekend at Nevada\u2019s oldest legal brothel and meets the people in charge. She questions if legal brothels can act as a solution to the dangers sex workers face.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0030bz3"
-        },
         {
           "title": "Krapopolis",
           "series_number": 1,
@@ -103,7 +96,15 @@
       "name": "ITV1",
       "type": "tv",
       "confidence": "low",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "Clodagh: Cooking at Home",
+          "series_number": 1,
+          "start_time": "2026-10-10T11:00:00Z",
+          "synopsis": "Irish chef and author Clodagh McKenna demonstrates the recipes that she loves to cook, beginning with four of her favourite one-pan dishes . She makes broccoli salmon noodles and an all-in-one spicy sausage pasta, and shares the tricks to make her pear, thyme and brie tart. She then picks greens from the garden to go in a big warming pot of walled garden soup that she makes in her pickling shed to share with her husband Harry Herbert.",
+          "url": "https://www.tvmaze.com/episodes/3783041/clodagh-cooking-at-home-1x01-effortless-one-pan"
+        }
+      ]
     }
   ]
 }

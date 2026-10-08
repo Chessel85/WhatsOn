@@ -1,43 +1,8 @@
 {
-  "fetched_at": "2026-10-07T12:16:58+00:00",
+  "fetched_at": "2026-10-08T12:26:51+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Kris Barras Band",
-      "venue": "The 1865",
-      "time": "2026-10-07T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/kris-barras-band/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "LIFE",
-      "venue": "The Joiners",
-      "time": "2026-10-07T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/life-at-the-joiners/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-10-07T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Nubiyan Twist",
-      "venue": "The Brook Southampton",
-      "time": "2026-10-07T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/nubiyan-twist-the-brook-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Liam Cromby",
-      "venue": "Heartbreakers",
-      "time": "2026-10-07T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/liam-cromby-at-heartbreakers/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Shirley Traditional Weekly Street Market",
       "venue": "Shirley Precinct",
@@ -57,6 +22,13 @@
       "venue": "The 1865",
       "time": "2026-10-08T18:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/tenacious-g-vs-wheezed/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-08T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
       "source": "hellosouthampton"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T13:29:50+00:00",
+  "fetched_at": "2026-10-08T13:35:58+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -28,7 +28,7 @@
           "title": "Later... with Jools Holland",
           "series_number": 69,
           "start_time": "2026-10-11T21:00:00Z",
-          "synopsis": "Jools brings together a magnificent medley of styles and artists for music-making magic.",
+          "synopsis": "Jools is joined by Paul Heaton, Skye Newman, DC3, mary in the junkyard and Dermot Henry, and chats to Johnny Marr.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0032wj6"
         }
       ]

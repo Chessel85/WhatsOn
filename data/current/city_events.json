@@ -1,63 +1,20 @@
 {
-  "fetched_at": "2026-10-08T12:26:51+00:00",
+  "fetched_at": "2026-10-09T12:15:55+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Shirley Traditional Weekly Street Market",
-      "venue": "Shirley Precinct",
-      "time": "2026-10-08T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/shirley-traditional-weekly-street-market/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Matilda JR.",
-      "venue": "The Point",
-      "time": "2026-10-08T13:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/matilda-jr-at-the-point-eastleigh/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Tenacious G vs Wheezed",
-      "venue": "The 1865",
-      "time": "2026-10-08T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/tenacious-g-vs-wheezed/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-10-08T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Dolphin Love",
-      "venue": "Heartbreakers",
-      "time": "2026-10-08T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/dolphin-love-at-heartbreakers/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "A Small Enclosed Room with Alfie Murphy",
-      "venue": "Mayflower Studios",
-      "time": "2026-10-08T18:45:00Z",
-      "url": "https://hellosouthampton.co.uk/events/a-small-enclosed-room-with-alfie-murphy/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Shine Night Walk",
-      "venue": "Guildhall Square",
-      "time": "2026-10-09T00:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
-      "source": "visit_southampton",
-      "all_day": true
-    },
     {
       "title": "Weekly Street Market in Southampton",
       "venue": "The Bargate",
       "time": "2026-10-09T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Halloween Spooktacular at Paultons Park 2026",
+      "venue": "Paultons Park",
+      "time": "2026-10-09T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
       "source": "hellosouthampton"
     },
     {
@@ -89,6 +46,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-09T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Buffy Revamped",
       "venue": "Mayflower Studios",
       "time": "2026-10-09T18:45:00Z",
@@ -100,6 +64,13 @@
       "venue": "High Street, Lymington",
       "time": "2026-10-10T07:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/lymington-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Pumpkin Time at Sunnyfields Farm 2026",
+      "venue": "Sunnyfields Farm",
+      "time": "2026-10-10T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/pumpkin-time-at-sunnyfields-farm/",
       "source": "hellosouthampton"
     },
     {
@@ -187,6 +158,13 @@
       "source": "university"
     },
     {
+      "title": "Hillier Gardens 10k",
+      "venue": "Sir Harold Hillier Gardens",
+      "time": "2026-10-11T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/hillier-gardens-10k/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Southampton vs Portsmouth \u2013 Sky Bet Championship 2026/27",
       "venue": "St Mary's Stadium",
       "time": "2026-10-11T11:00:00Z",
@@ -243,10 +221,38 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Shirley Traditional Weekly Street Market",
+      "venue": "Shirley Precinct",
+      "time": "2026-10-15T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/shirley-traditional-weekly-street-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Go Ape Southampton\u2019s Sundown Adventures",
+      "venue": "Itchen Valley Country Park",
+      "time": "2026-10-16T15:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Pumpkins in the Park at Royal Victoria Country Park",
+      "venue": "Royal Victoria Country Park",
+      "time": "2026-10-17T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/pumpkins-in-the-park-at-royal-victoria-country-park/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "SUSU Oktoberfest 2026",
       "venue": "Garden Court, SUSU",
       "time": "2026-10-17T18:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/susu-oktoberfest-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton Card Show \u2013 Trading Card Convention",
+      "venue": "Utilita Bowl",
+      "time": "2026-10-18T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-card-show-trading-card-convention/",
       "source": "hellosouthampton"
     },
     {
@@ -256,6 +262,13 @@
       "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
       "source": "visit_southampton",
       "all_day": true
+    },
+    {
+      "title": "Droxford Pumpkin Patch 2026",
+      "venue": "Droxford",
+      "time": "2026-10-23T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/droxford-pumpkin-patch/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Oktoberfest Totton 2026",

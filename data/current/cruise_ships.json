@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T10:57:17+00:00",
+  "fetched_at": "2026-10-09T17:36:05+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -12,7 +12,7 @@
       },
       "departure": {
         "date": "2026-10-09",
-        "time": "2026-10-09T16:30:00Z"
+        "time": "2026-10-09T18:00:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {
@@ -26,7 +26,7 @@
       "berth": "38/9",
       "arrival": {
         "date": "2026-10-10",
-        "time": "2026-10-10T03:00:00Z"
+        "time": "2026-10-10T02:30:00Z"
       },
       "departure": {
         "date": "2026-10-10",
@@ -184,6 +184,24 @@
       }
     },
     {
+      "ship_name": "QUEEN VICTORIA",
+      "berth": "106",
+      "arrival": {
+        "date": "2026-10-16",
+        "time": "2026-10-16T01:45:00Z"
+      },
+      "departure": {
+        "date": "2026-10-16",
+        "time": "2026-10-16T11:00:00Z"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9320556",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Queen-Victoria-630",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=QUEEN%20VICTORIA%20cruise%20ship"
+      }
+    },
+    {
       "ship_name": "BOREALIS",
       "berth": "101",
       "arrival": {
@@ -244,26 +262,6 @@
       }
     },
     {
-      "ship_name": "QUEEN VICTORIA",
-      "berth": "106",
-      "arrival": {
-        "date": "2026-10-16",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "departure": {
-        "date": "2026-10-16",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9320556",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Queen-Victoria-630",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=QUEEN%20VICTORIA%20cruise%20ship"
-      }
-    },
-    {
       "ship_name": "IONA",
       "berth": "46",
       "arrival": {
@@ -308,13 +306,11 @@
       "berth": "102",
       "arrival": {
         "date": "2026-10-18",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-10-18T05:15:00Z"
       },
       "departure": {
         "date": "2026-10-18",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-10-18T16:00:00Z"
       },
       "agent": "Intercruises Shoreside & Port",
       "links": {

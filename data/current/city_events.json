@@ -1,69 +1,20 @@
 {
-  "fetched_at": "2026-10-09T12:15:55+00:00",
+  "fetched_at": "2026-10-10T11:33:35+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Weekly Street Market in Southampton",
-      "venue": "The Bargate",
-      "time": "2026-10-09T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Halloween Spooktacular at Paultons Park 2026",
-      "venue": "Paultons Park",
-      "time": "2026-10-09T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Oktoberfest at The Royal British Legion Romsey",
-      "venue": "The Royal British Legion",
-      "time": "2026-10-09T16:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/oktoberfest-at-the-royal-british-legion-romsey/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Fear Factory",
-      "venue": "The 1865",
-      "time": "2026-10-09T17:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/fear-factory/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Wanted 2.0",
-      "venue": "Engine Rooms",
-      "time": "2026-10-09T17:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-wanted-2-0-at-engine-rooms-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Last Resort",
-      "venue": "The Joiners",
-      "time": "2026-10-09T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/last-resort-at-the-joiners/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-10-09T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Buffy Revamped",
-      "venue": "Mayflower Studios",
-      "time": "2026-10-09T18:45:00Z",
-      "url": "https://hellosouthampton.co.uk/events/buffy-revamped/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Lymington Market",
       "venue": "High Street, Lymington",
       "time": "2026-10-10T07:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/lymington-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Weekly Street Market in Southampton",
+      "venue": "The Bargate",
+      "time": "2026-10-10T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
       "source": "hellosouthampton"
     },
     {
@@ -78,6 +29,13 @@
       "venue": "Oasis Academy Lords Hill",
       "time": "2026-10-10T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/lordshill-autumn-fair-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Halloween Spooktacular at Paultons Park 2026",
+      "venue": "Paultons Park",
+      "time": "2026-10-10T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
       "source": "hellosouthampton"
     },
     {
@@ -106,6 +64,13 @@
       "venue": "Engine Rooms",
       "time": "2026-10-10T16:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/marvin-humes-presents-noughties-baby/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-10T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
       "source": "hellosouthampton"
     },
     {
@@ -200,6 +165,20 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "John 5",
+      "venue": "The 1865",
+      "time": "2026-10-12T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/john-5/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Itchen College Showcase",
+      "venue": "The Joiners",
+      "time": "2026-10-12T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/itchen-college-showcase/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Hythe Village Traditional Weekly Street Market",
       "venue": "High Street",
       "time": "2026-10-13T08:00:00Z",
@@ -221,10 +200,80 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Paranoid Void + God Alone",
+      "venue": "The Joiners",
+      "time": "2026-10-13T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/paranoid-void-god-alone/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Pocket Theatre presents: A MIDSUMMER NIGHT\u2019S DREAM",
+      "venue": "Hanger Farm",
+      "time": "2026-10-13T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/pocket-theatre-presents-a-midsummer-nights-dream/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Lazuli",
+      "venue": "The 1865",
+      "time": "2026-10-14T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/lazuli-live-at-the-1865-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Baby Dave",
+      "venue": "The Joiners",
+      "time": "2026-10-14T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/baby-dave/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Theatre",
+      "venue": "Heartbreakers",
+      "time": "2026-10-14T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/theatre/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Eleine",
+      "venue": "The Brook Southampton",
+      "time": "2026-10-14T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/eleine-live-at-the-brook-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Shirley Traditional Weekly Street Market",
       "venue": "Shirley Precinct",
       "time": "2026-10-15T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/shirley-traditional-weekly-street-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Wedding Present",
+      "venue": "The 1865",
+      "time": "2026-10-15T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-wedding-present/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Lady Leshurr 10 Years of Queen\u2019s Speech",
+      "venue": "Papillon",
+      "time": "2026-10-15T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/lady-leshurr-10-years-of-queens-speech/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Hayseed Dixie \u2013 25th Anniversary Tour",
+      "venue": "The Brook",
+      "time": "2026-10-15T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/hayseed-dixie/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Cheap Thrills",
+      "venue": "Heartbreakers",
+      "time": "2026-10-15T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-cheap-thrills/",
       "source": "hellosouthampton"
     },
     {
@@ -235,10 +284,101 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Gentleman\u2019s Dub Club",
+      "venue": "EngineRooms",
+      "time": "2026-10-16T17:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/gentlemans-dub-club/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Smyths",
+      "venue": "The 1865",
+      "time": "2026-10-16T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-smyths/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Omega Nebula",
+      "venue": "The Joiners",
+      "time": "2026-10-16T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/omega-nebula/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Walter Trout",
+      "venue": "The Brook",
+      "time": "2026-10-16T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/walter-trout/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Downpour",
+      "venue": "Heartbreakers",
+      "time": "2026-10-16T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/downpour/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Blaze Bayley",
+      "venue": "Papillon",
+      "time": "2026-10-16T19:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/blaze-bayley/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Lost Halloween Spell \u2013 A Seasonal Woodland Trail",
+      "venue": "River Hamble Country Park",
+      "time": "2026-10-17T08:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-lost-halloween-spell-a-seasonal-woodland-trail/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Pumpkins in the Park at Royal Victoria Country Park",
       "venue": "Royal Victoria Country Park",
       "time": "2026-10-17T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/pumpkins-in-the-park-at-royal-victoria-country-park/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "BBAM Festival at Mayflower Studios",
+      "venue": "Mayflower Studios",
+      "time": "2026-10-17T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/bbam-festival-at-mayflower-studios/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton vs Bolton Wanderers \u2013 Sky Bet Championship 2026/27",
+      "venue": "St. Mary's Stadium",
+      "time": "2026-10-17T14:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-vs-bolton-wanderers-sky-bet-championship-2026-27/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Eastleigh vs Brentwood Town \u2013 Emirates FA Cup",
+      "venue": "Silverlake Stadium",
+      "time": "2026-10-17T14:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/eastleigh-vs-brentwood-town-emirates-fa-cup/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Cancer Bats",
+      "venue": "The Joiners",
+      "time": "2026-10-17T15:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/cancer-bats/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Oakwood Academy of Dance: Happy Holidays",
+      "venue": "Thornden Hall",
+      "time": "2026-10-17T16:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/oakwood-academy-of-dance-happy-holidays/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Quireboys",
+      "venue": "Engine Rooms",
+      "time": "2026-10-17T17:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-quireboys/",
       "source": "hellosouthampton"
     },
     {
@@ -249,10 +389,101 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "SAS Boxing Southampton Presents: Reckoning",
+      "venue": "The 1865",
+      "time": "2026-10-17T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/sas-boxing-southampton-presents-reckoning/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Republica \u2013 30 Years of Ready To Go!",
+      "venue": "The Brook",
+      "time": "2026-10-17T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/republica/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Tits Up!",
+      "venue": "The Point",
+      "time": "2026-10-17T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/tits-up-at-the-point-theatre/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Empty Page",
+      "venue": "Heartbreakers",
+      "time": "2026-10-17T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-empty-page/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "OASIZ",
+      "venue": "Hanger Farm",
+      "time": "2026-10-17T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/oasiz/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Acres",
+      "venue": "The Joiners",
+      "time": "2026-10-18T00:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/acres/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Southampton Card Show \u2013 Trading Card Convention",
       "venue": "Utilita Bowl",
       "time": "2026-10-18T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/southampton-card-show-trading-card-convention/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "LDN Wrestling",
+      "venue": "Hanger Farm",
+      "time": "2026-10-18T13:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/ldn-wrestling/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Abbey Dance Show: Chapter 20",
+      "venue": "Thornden Hall",
+      "time": "2026-10-18T15:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/abbey-dance-show-chapter-20/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Hoosiers",
+      "venue": "Engine Rooms",
+      "time": "2026-10-18T17:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-hoosiers/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Crash Test Dummies",
+      "venue": "The Brook",
+      "time": "2026-10-18T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/crash-test-dummies/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Guilt Trip",
+      "venue": "Papillon",
+      "time": "2026-10-18T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/guilt-trip/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Heart and Music \u2013 The Lloyd Webber Song Book Edition",
+      "venue": "The Point",
+      "time": "2026-10-18T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/heart-and-music-the-lloyd-webber-song-book-edition/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Long Ryders",
+      "venue": "Papillon",
+      "time": "2026-10-18T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-long-ryders/",
       "source": "hellosouthampton"
     },
     {

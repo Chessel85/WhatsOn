@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T12:37:15+00:00",
+  "fetched_at": "2026-10-11T12:56:05+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -38,15 +38,7 @@
       "name": "BBC Three",
       "type": "tv",
       "confidence": "high",
-      "new_series": [
-        {
-          "title": "Krapopolis",
-          "series_number": 1,
-          "start_time": "2026-10-10T22:40:00Z",
-          "synopsis": "Three siblings attempt to run the first city free of godly influence in ancient Greece, which is complicated by a run-in with cannibal neighbours and their goddess mother demanding her own temple.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0031482"
-        }
-      ]
+      "new_series": []
     },
     {
       "id": "bbc_four",
@@ -61,13 +53,6 @@
       "type": "radio",
       "confidence": "medium",
       "new_series": [
-        {
-          "title": "Artworks",
-          "series_number": null,
-          "start_time": "2026-10-10T09:30:00Z",
-          "synopsis": "John Wilson explores the story of the guitar as a driver of social and cultural change powering counter-culture in the 20th century. Where does its extraordinary legacy stand now?",
-          "url": "https://www.bbc.co.uk/sounds/play/p0p3mxp6"
-        },
         {
           "title": "Sideways",
           "series_number": null,
@@ -89,15 +74,7 @@
       "name": "ITV1",
       "type": "tv",
       "confidence": "low",
-      "new_series": [
-        {
-          "title": "Clodagh: Cooking at Home",
-          "series_number": 1,
-          "start_time": "2026-10-10T11:00:00Z",
-          "synopsis": "Irish chef and author Clodagh McKenna demonstrates the recipes that she loves to cook, beginning with four of her favourite one-pan dishes . She makes broccoli salmon noodles and an all-in-one spicy sausage pasta, and shares the tricks to make her pear, thyme and brie tart. She then picks greens from the garden to go in a big warming pot of walled garden soup that she makes in her pickling shed to share with her husband Harry Herbert.",
-          "url": "https://www.tvmaze.com/episodes/3783041/clodagh-cooking-at-home-1x01-effortless-one-pan"
-        }
-      ]
+      "new_series": []
     }
   ]
 }

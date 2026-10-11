@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T12:24:07+00:00",
+  "fetched_at": "2026-10-11T12:41:23+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -9,10 +9,10 @@
       "name": "Southampton FC",
       "league": {
         "competition": "Championship",
-        "position": 13,
+        "position": 16,
         "points": 10,
         "played": 8,
-        "remaining": 38
+        "remaining": 37
       },
       "cups": [
         {
@@ -21,13 +21,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-10-11T11:00Z",
-          "opponent": "Portsmouth",
-          "home_away": "home",
-          "venue": "St. Mary's Stadium",
-          "competition": "Championship"
-        },
         {
           "date": "2026-10-14T18:45Z",
           "opponent": "Norwich City",
@@ -398,8 +391,8 @@
         "competition": "Premier League",
         "position": 17,
         "points": 3,
-        "played": 5,
-        "remaining": 33
+        "played": 6,
+        "remaining": 32
       },
       "cups": [
         {
@@ -408,13 +401,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-10-10T14:00Z",
-          "opponent": "Chelsea",
-          "home_away": "away",
-          "venue": "Stamford Bridge",
-          "competition": "Premier League"
-        },
         {
           "date": "2026-10-18T13:00Z",
           "opponent": "Sunderland",
@@ -707,6 +693,16 @@
           "goals_for": 0,
           "goals_against": 1,
           "outcome": "L"
+        },
+        {
+          "date": "2026-10-10T14:00Z",
+          "opponent": "Chelsea",
+          "home_away": "away",
+          "venue": "Stamford Bridge",
+          "competition": "Premier League",
+          "goals_for": 1,
+          "goals_against": 5,
+          "outcome": "L"
         }
       ]
     },
@@ -717,18 +713,11 @@
         "competition": "National League",
         "position": 17,
         "points": 15,
-        "played": 12,
-        "remaining": 34
+        "played": 13,
+        "remaining": 33
       },
       "cups": [],
       "fixtures": [
-        {
-          "date": "2026-10-10T14:00Z",
-          "opponent": "AFC Hornchurch",
-          "home_away": "away",
-          "venue": "Hornchurch Stadium",
-          "competition": "National League"
-        },
         {
           "date": "2026-10-24T11:30Z",
           "opponent": "Boston United",
@@ -1080,6 +1069,16 @@
           "competition": "National League",
           "goals_for": 1,
           "goals_against": 3,
+          "outcome": "L"
+        },
+        {
+          "date": "2026-10-10T14:00Z",
+          "opponent": "AFC Hornchurch",
+          "home_away": "away",
+          "venue": "Hornchurch Stadium",
+          "competition": "National League",
+          "goals_for": 0,
+          "goals_against": 2,
           "outcome": "L"
         }
       ]

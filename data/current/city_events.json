@@ -1,132 +1,27 @@
 {
-  "fetched_at": "2026-10-10T11:33:35+00:00",
+  "fetched_at": "2026-10-11T11:47:16+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Lymington Market",
-      "venue": "High Street, Lymington",
-      "time": "2026-10-10T07:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/lymington-market/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Weekly Street Market in Southampton",
-      "venue": "The Bargate",
-      "time": "2026-10-10T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Pumpkin Time at Sunnyfields Farm 2026",
-      "venue": "Sunnyfields Farm",
-      "time": "2026-10-10T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/pumpkin-time-at-sunnyfields-farm/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Lordshill Autumn Fair 2026",
-      "venue": "Oasis Academy Lords Hill",
-      "time": "2026-10-10T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/lordshill-autumn-fair-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Halloween Spooktacular at Paultons Park 2026",
-      "venue": "Paultons Park",
-      "time": "2026-10-10T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Oktoberfest at The Rising Sun Colden Common",
-      "venue": "The Rising Sun",
-      "time": "2026-10-10T11:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/oktoberfest-at-the-rising-sun-colden-common/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Death of Guitar Pop Ska Extravaganza",
-      "venue": "The 1865",
-      "time": "2026-10-10T13:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/death-of-guitar-pop-ska-extravaganza/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Day Fever \u2013 Southampton",
-      "venue": "O2 Guildhall Southampton",
-      "time": "2026-10-10T14:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/day-fever-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Marvin Humes Presents Noughties Baby",
-      "venue": "Engine Rooms",
-      "time": "2026-10-10T16:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/marvin-humes-presents-noughties-baby/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-10-10T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Gerry Cinna-Man Experience",
-      "venue": "The Brook Southampton",
-      "time": "2026-10-10T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-gerry-cinna-man-experience/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Subdued",
-      "venue": "Heartbreakers",
-      "time": "2026-10-10T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/subdued-at-heartbreakers-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Kane Brown \u2013 Crowd Work King",
-      "venue": "Mayflower Studios",
-      "time": "2026-10-10T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/kane-brown-crowd-work-king/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "China Crisis",
-      "venue": "Papillon",
-      "time": "2026-10-10T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/china-crisis-papillon-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Heaven & Hell \u2013 Farewell Tour",
-      "venue": "Hanger Farm",
-      "time": "2026-10-10T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/heaven-hell-farewell-tour-at-hanger-farm-arts-centre/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Shy FX",
-      "venue": "Engine Rooms",
-      "time": "2026-10-10T22:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/shy-fx-at-engine-rooms-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "RYA Sea Survival",
-      "venue": "Jubilee Sports Centre",
-      "time": "2026-10-11T08:00:00Z",
-      "url": "https://www.events.soton.ac.uk/",
-      "source": "university"
-    },
     {
       "title": "Hillier Gardens 10k",
       "venue": "Sir Harold Hillier Gardens",
       "time": "2026-10-11T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/hillier-gardens-10k/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Pumpkin Time at Sunnyfields Farm 2026",
+      "venue": "Sunnyfields Farm",
+      "time": "2026-10-11T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/pumpkin-time-at-sunnyfields-farm/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Halloween Spooktacular at Paultons Park 2026",
+      "venue": "Paultons Park",
+      "time": "2026-10-11T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
       "source": "hellosouthampton"
     },
     {
@@ -155,6 +50,13 @@
       "venue": "Engine Rooms",
       "time": "2026-10-11T18:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/kamil-bednarek-at-engine-rooms-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-11T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
       "source": "hellosouthampton"
     },
     {
@@ -277,6 +179,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Weekly Street Market in Southampton",
+      "venue": "The Bargate",
+      "time": "2026-10-16T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Go Ape Southampton\u2019s Sundown Adventures",
       "venue": "Itchen Valley Country Park",
       "time": "2026-10-16T15:30:00Z",
@@ -323,6 +232,13 @@
       "venue": "Papillon",
       "time": "2026-10-16T19:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/blaze-bayley/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Lymington Market",
+      "venue": "High Street, Lymington",
+      "time": "2026-10-17T07:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/lymington-market/",
       "source": "hellosouthampton"
     },
     {

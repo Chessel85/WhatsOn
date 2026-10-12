@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-11T12:56:05+00:00",
+  "fetched_at": "2026-10-12T15:33:27+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -8,30 +8,14 @@
       "name": "BBC One",
       "type": "tv",
       "confidence": "high",
-      "new_series": [
-        {
-          "title": "Time",
-          "series_number": 3,
-          "start_time": "2026-10-11T20:00:00Z",
-          "synopsis": "New chaplain Marie-Louise arrives at HMYOI Alderwick and clashes with veteran officer Bailey. Meanwhile, young offenders struggle through the first weeks of their incarceration.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m00316gl"
-        }
-      ]
+      "new_series": []
     },
     {
       "id": "bbc_two",
       "name": "BBC Two",
       "type": "tv",
       "confidence": "high",
-      "new_series": [
-        {
-          "title": "Later... with Jools Holland",
-          "series_number": 69,
-          "start_time": "2026-10-11T21:00:00Z",
-          "synopsis": "Jools is joined by Paul Heaton, Skye Newman, DC3, mary in the junkyard and Dermot Henry, and chats to Johnny Marr.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0032wj6"
-        }
-      ]
+      "new_series": []
     },
     {
       "id": "bbc_three",

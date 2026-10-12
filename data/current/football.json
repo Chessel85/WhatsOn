@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-11T12:41:23+00:00",
+  "fetched_at": "2026-10-12T15:13:39+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -9,9 +9,9 @@
       "name": "Southampton FC",
       "league": {
         "competition": "Championship",
-        "position": 16,
-        "points": 10,
-        "played": 8,
+        "position": 11,
+        "points": 13,
+        "played": 9,
         "remaining": 37
       },
       "cups": [
@@ -381,6 +381,16 @@
           "goals_for": 1,
           "goals_against": 2,
           "outcome": "L"
+        },
+        {
+          "date": "2026-10-11T11:00Z",
+          "opponent": "Portsmouth",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship",
+          "goals_for": 1,
+          "goals_against": 0,
+          "outcome": "W"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-12T20:28:44+00:00",
+  "fetched_at": "2026-10-13T04:05:53+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -501,6 +501,26 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9226906",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Arcadia-626",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=ARCADIA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "MEIN SCHIFF RELAX",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-10-27",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-10-27",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9862657",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Mein-Schiff-Relax-1723",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MEIN%20SCHIFF%20RELAX%20cruise%20ship"
       }
     }
   ]

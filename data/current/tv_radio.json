@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-12T15:33:27+00:00",
+  "fetched_at": "2026-10-13T14:16:55+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -38,11 +38,11 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Sideways",
+          "title": "The History Podcast",
           "series_number": null,
-          "start_time": "2026-10-12T23:30:00Z",
-          "synopsis": "Matthew Syed asks what it means to be distracted in a media world vying for our attention. First, he seeks answers in the works of Aldous Huxley and media theorist Neil Postman.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0k8k6kh"
+          "start_time": "2026-10-19T12:45:00Z",
+          "synopsis": "Derren Brown explores how a runaway immigrant named Eric Weisz first found the motivation to morph into the ultimate showman, Harry Houdini",
+          "url": null
         }
       ]
     },

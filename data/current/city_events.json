@@ -1,36 +1,8 @@
 {
-  "fetched_at": "2026-10-12T13:51:19+00:00",
+  "fetched_at": "2026-10-13T13:09:01+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Halloween Spooktacular at Paultons Park 2026",
-      "venue": "Paultons Park",
-      "time": "2026-10-12T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "John 5",
-      "venue": "The 1865",
-      "time": "2026-10-12T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/john-5/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Itchen College Showcase",
-      "venue": "The Joiners",
-      "time": "2026-10-12T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/itchen-college-showcase/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-10-12T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Hythe Village Traditional Weekly Street Market",
       "venue": "High Street",
@@ -39,11 +11,11 @@
       "source": "hellosouthampton"
     },
     {
-      "title": "Introduction to Enterprise: How to make money from your research",
-      "venue": "Online - Teams",
-      "time": "2026-10-13T11:00:00Z",
-      "url": "https://www.events.soton.ac.uk/",
-      "source": "university"
+      "title": "Halloween Spooktacular at Paultons Park 2026",
+      "venue": "Paultons Park",
+      "time": "2026-10-13T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Board & Video Games Group",
@@ -57,6 +29,13 @@
       "venue": "The Joiners",
       "time": "2026-10-13T18:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/paranoid-void-god-alone/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-13T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
       "source": "hellosouthampton"
     },
     {

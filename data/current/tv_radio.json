@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T11:58:35+00:00",
+  "fetched_at": "2026-10-15T11:35:19+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -15,7 +15,15 @@
       "name": "BBC Two",
       "type": "tv",
       "confidence": "high",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "Ellie & Natasia",
+          "series_number": 2,
+          "start_time": "2026-10-21T21:00:00Z",
+          "synopsis": "Ellie White and Natasia Demetriou make a chaotic return to the screen, with a guest appearance from Steve Coogan",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m00303fk"
+        }
+      ]
     },
     {
       "id": "bbc_three",

@@ -1,26 +1,8 @@
 {
-  "fetched_at": "2026-10-15T08:37:44+00:00",
+  "fetched_at": "2026-10-15T15:50:09+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "MSC VIRTUOSA",
-      "berth": "102",
-      "arrival": {
-        "date": "2026-10-15",
-        "time": "2026-10-15T05:45:00Z"
-      },
-      "departure": {
-        "date": "2026-10-15",
-        "time": "2026-10-15T15:00:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9803625",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/MSC-Virtuosa-1981",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MSC%20VIRTUOSA%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "QUEEN VICTORIA",
       "berth": "106",
@@ -37,6 +19,24 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9320556",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Queen-Victoria-630",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=QUEEN%20VICTORIA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "BRITANNIA",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-10-16",
+        "time": "2026-10-16T03:45:00Z"
+      },
+      "departure": {
+        "date": "2026-10-16",
+        "time": "2026-10-16T15:00:00Z"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614036",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Britannia-1028",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BRITANNIA%20cruise%20ship"
       }
     },
     {
@@ -73,24 +73,6 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9122552",
         "cruisemapper_url": null,
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BOREALIS%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "BRITANNIA",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-10-16",
-        "time": "2026-10-16T05:00:00Z"
-      },
-      "departure": {
-        "date": "2026-10-16",
-        "time": "2026-10-16T15:00:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614036",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Britannia-1028",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BRITANNIA%20cruise%20ship"
       }
     },
     {
@@ -188,13 +170,11 @@
       "berth": "46",
       "arrival": {
         "date": "2026-10-19",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-10-19T06:30:00Z"
       },
       "departure": {
         "date": "2026-10-19",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-10-19T19:30:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {
@@ -208,13 +188,11 @@
       "berth": "106",
       "arrival": {
         "date": "2026-10-20",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-10-20T05:15:00Z"
       },
       "departure": {
         "date": "2026-10-20",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-10-20T15:00:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {
@@ -232,7 +210,7 @@
       },
       "departure": {
         "date": "2026-10-21",
-        "time": "2026-10-21T15:00:00Z"
+        "time": "2026-10-21T18:30:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {

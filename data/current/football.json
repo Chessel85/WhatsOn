@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T11:44:11+00:00",
+  "fetched_at": "2026-10-15T11:20:12+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -9,10 +9,10 @@
       "name": "Southampton FC",
       "league": {
         "competition": "Championship",
-        "position": 13,
-        "points": 13,
-        "played": 9,
-        "remaining": 37
+        "position": 7,
+        "points": 16,
+        "played": 10,
+        "remaining": 36
       },
       "cups": [
         {
@@ -21,13 +21,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-10-14T18:45Z",
-          "opponent": "Norwich City",
-          "home_away": "away",
-          "venue": "Carrow Road",
-          "competition": "Championship"
-        },
         {
           "date": "2026-10-17T14:00Z",
           "opponent": "Bolton Wanderers",
@@ -387,6 +380,16 @@
           "opponent": "Portsmouth",
           "home_away": "home",
           "venue": "St. Mary's Stadium",
+          "competition": "Championship",
+          "goals_for": 1,
+          "goals_against": 0,
+          "outcome": "W"
+        },
+        {
+          "date": "2026-10-14T18:45Z",
+          "opponent": "Norwich City",
+          "home_away": "away",
+          "venue": "Carrow Road",
           "competition": "Championship",
           "goals_for": 1,
           "goals_against": 0,

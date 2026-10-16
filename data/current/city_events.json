@@ -1,71 +1,8 @@
 {
-  "fetched_at": "2026-10-15T10:32:22+00:00",
+  "fetched_at": "2026-10-16T10:19:33+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Shirley Traditional Weekly Street Market",
-      "venue": "Shirley Precinct",
-      "time": "2026-10-15T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/shirley-traditional-weekly-street-market/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Halloween Spooktacular at Paultons Park 2026",
-      "venue": "Paultons Park",
-      "time": "2026-10-15T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "We\u2019re Going on a Ghost Hunt Halloween Adventure",
-      "venue": "Mottisfont",
-      "time": "2026-10-15T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/were-going-on-a-ghost-hunt-halloween-adventure/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Wedding Present",
-      "venue": "The 1865",
-      "time": "2026-10-15T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-wedding-present/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-10-15T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Lady Leshurr 10 Years of Queen\u2019s Speech",
-      "venue": "Papillon",
-      "time": "2026-10-15T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/lady-leshurr-10-years-of-queens-speech/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Hayseed Dixie \u2013 25th Anniversary Tour",
-      "venue": "The Brook",
-      "time": "2026-10-15T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/hayseed-dixie/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Cheap Thrills",
-      "venue": "Heartbreakers",
-      "time": "2026-10-15T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-cheap-thrills/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Pocket Theatre presents: A MIDSUMMER NIGHT\u2019S DREAM",
-      "venue": "Hanger Farm",
-      "time": "2026-10-15T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/pocket-theatre-presents-a-midsummer-nights-dream/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Weekly Street Market in Southampton",
       "venue": "The Bargate",
@@ -78,6 +15,20 @@
       "venue": "Sunnyfields Farm",
       "time": "2026-10-16T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/pumpkin-time-at-sunnyfields-farm/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Halloween Spooktacular at Paultons Park 2026",
+      "venue": "Paultons Park",
+      "time": "2026-10-16T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "We\u2019re Going on a Ghost Hunt Halloween Adventure",
+      "venue": "Mottisfont",
+      "time": "2026-10-16T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/were-going-on-a-ghost-hunt-halloween-adventure/",
       "source": "hellosouthampton"
     },
     {
@@ -113,6 +64,13 @@
       "venue": "The Joiners",
       "time": "2026-10-16T18:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/omega-nebula/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-16T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
       "source": "hellosouthampton"
     },
     {
@@ -340,6 +298,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Shirley Traditional Weekly Street Market",
+      "venue": "Shirley Precinct",
+      "time": "2026-10-22T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/shirley-traditional-weekly-street-market/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Murder, She Didn\u2019t Write",
       "venue": "Mayflower Studios",
       "time": "2026-10-22T18:45:00Z",
@@ -373,6 +338,13 @@
       "venue": "Bursledon Car Boot Site",
       "time": "2026-10-23T13:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/spooky-festive-fair-free-fireworks-display/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Lucky Sonnets",
+      "venue": "Snows Stadium",
+      "time": "2026-10-23T17:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/lucky-sonnets/",
       "source": "hellosouthampton"
     },
     {
@@ -450,6 +422,13 @@
       "venue": "Oasis City Farm Southampton",
       "time": "2026-10-24T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/autumn-open-day/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Howl-O-Ween",
+      "venue": "New Forest Wildlife Park",
+      "time": "2026-10-24T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/howl-o-ween/",
       "source": "hellosouthampton"
     },
     {
@@ -565,6 +544,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Kids Halloween Party at AFC Totton",
+      "venue": "Snows Stadium",
+      "time": "2026-10-25T16:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/kids-halloween-party-at-afc-totton/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Spooky Halloween River Tour",
       "venue": "Bailey's Hard",
       "time": "2026-10-25T18:00:00Z",
@@ -604,6 +590,13 @@
       "venue": "Winchester Science Centre",
       "time": "2026-10-27T18:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/monster-lab-halloween-glow-party/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Board in the City Halloween Party",
+      "venue": "Board in the City",
+      "time": "2026-10-27T19:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/board-in-the-city-halloween-party/",
       "source": "hellosouthampton"
     },
     {
@@ -663,6 +656,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Halloween Singles Party @ Turtle Bay Southampton",
+      "venue": "Turtle Bay",
+      "time": "2026-10-30T19:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/halloween-singles-party-turtle-bay-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Halloween Weekend at The Cricks",
       "venue": "The Cricketers Arms",
       "time": "2026-10-30T21:00:00Z",
@@ -670,10 +670,24 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "F*CK ME It\u2019s Halloween",
+      "venue": "Engine Rooms",
+      "time": "2026-10-30T22:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/fck-me-its-halloween/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Halloween at the Farm",
       "venue": "Oasis City Farm Southampton",
       "time": "2026-10-31T11:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/halloween-at-the-farm/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Spooktacular Halloween Party at The Two Brothers",
+      "venue": "The Two Brothers",
+      "time": "2026-10-31T12:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/spooktacular-halloween-party-at-the-two-brothers/",
       "source": "hellosouthampton"
     },
     {
@@ -740,6 +754,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Dave Pearce Trance Anthems Halloween",
+      "venue": "Engine Rooms",
+      "time": "2026-10-31T17:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/dave-pearce-trance-anthems-halloween/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Halloween Silent Disco at Winchester Science Centre",
       "venue": "Winchester Science Centre",
       "time": "2026-10-31T18:00:00Z",
@@ -761,10 +782,24 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "WTLC Adults Annual Halloween Party",
+      "venue": "Woolston & District Trades & Labour Club",
+      "time": "2026-10-31T19:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/wtlc-adults-annual-halloween-party/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Halloween Spooktacular at the Rising Sun Colden Common",
       "venue": "Rising Sun Colden Common",
       "time": "2026-10-31T19:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-the-rising-sun-colden-common/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Saints vs. Sinners Halloween Party",
+      "venue": "BOOM BATTLE BAR Southampton",
+      "time": "2026-10-31T20:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/saints-vs-sinners-halloween-party/",
       "source": "hellosouthampton"
     },
     {
@@ -775,10 +810,24 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Nightmare in Suburbia",
+      "venue": "Suburbia Southampton",
+      "time": "2026-10-31T22:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/nightmare-in-suburbia/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Apocalypse Southampton \u2013 Halloween",
       "venue": "The Joiners",
       "time": "2026-10-31T22:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/apocalypse-southampton-halloween/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "On A Mission Halloween 2026",
+      "venue": "Engine Rooms",
+      "time": "2026-10-31T23:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/on-a-mission-halloween-2026/",
       "source": "hellosouthampton"
     },
     {
@@ -793,6 +842,13 @@
       "venue": "Valentine Primary School",
       "time": "2026-11-01T17:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/firework-night-at-valentine-primary-school/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Light Up Totton \u2013 AFC Totton Family Firework Night 2026",
+      "venue": "Snows Stadium",
+      "time": "2026-11-06T17:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/light-up-totton-afc-totton-family-firework-night-2026/",
       "source": "hellosouthampton"
     },
     {

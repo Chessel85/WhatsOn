@@ -1,44 +1,8 @@
 {
-  "fetched_at": "2026-10-16T08:32:46+00:00",
+  "fetched_at": "2026-10-16T15:38:52+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "QUEEN VICTORIA",
-      "berth": "106",
-      "arrival": {
-        "date": "2026-10-16",
-        "time": "2026-10-16T01:54:00Z"
-      },
-      "departure": {
-        "date": "2026-10-16",
-        "time": "2026-10-16T10:45:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9320556",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Queen-Victoria-630",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=QUEEN%20VICTORIA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "BRITANNIA",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-10-16",
-        "time": "2026-10-16T04:17:00Z"
-      },
-      "departure": {
-        "date": "2026-10-16",
-        "time": "2026-10-16T15:00:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614036",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Britannia-1028",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BRITANNIA%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "LIBERTY OF THE SEAS",
       "berth": "102",

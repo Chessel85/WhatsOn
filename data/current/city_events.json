@@ -1,104 +1,27 @@
 {
-  "fetched_at": "2026-10-16T10:19:33+00:00",
+  "fetched_at": "2026-10-17T09:52:53+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
+      "title": "Lymington Market",
+      "venue": "High Street, Lymington",
+      "time": "2026-10-17T07:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/lymington-market/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Weekly Street Market in Southampton",
       "venue": "The Bargate",
-      "time": "2026-10-16T08:00:00Z",
+      "time": "2026-10-17T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
       "source": "hellosouthampton"
     },
     {
       "title": "Pumpkin Time at Sunnyfields Farm 2026",
       "venue": "Sunnyfields Farm",
-      "time": "2026-10-16T08:00:00Z",
+      "time": "2026-10-17T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/pumpkin-time-at-sunnyfields-farm/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Halloween Spooktacular at Paultons Park 2026",
-      "venue": "Paultons Park",
-      "time": "2026-10-16T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "We\u2019re Going on a Ghost Hunt Halloween Adventure",
-      "venue": "Mottisfont",
-      "time": "2026-10-16T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/were-going-on-a-ghost-hunt-halloween-adventure/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Go Ape Southampton\u2019s Sundown Adventures",
-      "venue": "Itchen Valley Country Park",
-      "time": "2026-10-16T15:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Gentleman\u2019s Dub Club",
-      "venue": "EngineRooms",
-      "time": "2026-10-16T17:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/gentlemans-dub-club/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Milo Edwards: Catamaran Stand up Comedy Tour",
-      "venue": "The Attic",
-      "time": "2026-10-16T17:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/milo-edwards-catamaran-stand-up-comedy-tour/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Smyths",
-      "venue": "The 1865",
-      "time": "2026-10-16T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-smyths/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Omega Nebula",
-      "venue": "The Joiners",
-      "time": "2026-10-16T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/omega-nebula/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-10-16T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Walter Trout",
-      "venue": "The Brook",
-      "time": "2026-10-16T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/walter-trout/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Downpour",
-      "venue": "Heartbreakers",
-      "time": "2026-10-16T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/downpour/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Blaze Bayley",
-      "venue": "Papillon",
-      "time": "2026-10-16T19:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/blaze-bayley/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Lymington Market",
-      "venue": "High Street, Lymington",
-      "time": "2026-10-17T07:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/lymington-market/",
       "source": "hellosouthampton"
     },
     {
@@ -116,10 +39,24 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Halloween Spooktacular at Paultons Park 2026",
+      "venue": "Paultons Park",
+      "time": "2026-10-17T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "BBAM Festival at Mayflower Studios",
       "venue": "Mayflower Studios",
       "time": "2026-10-17T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/bbam-festival-at-mayflower-studios/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "We\u2019re Going on a Ghost Hunt Halloween Adventure",
+      "venue": "Mottisfont",
+      "time": "2026-10-17T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/were-going-on-a-ghost-hunt-halloween-adventure/",
       "source": "hellosouthampton"
     },
     {
@@ -134,6 +71,13 @@
       "venue": "Silverlake Stadium",
       "time": "2026-10-17T14:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/eastleigh-vs-brentwood-town-emirates-fa-cup/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Go Ape Southampton\u2019s Sundown Adventures",
+      "venue": "Itchen Valley Country Park",
+      "time": "2026-10-17T15:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
       "source": "hellosouthampton"
     },
     {
@@ -183,6 +127,13 @@
       "venue": "The Brook",
       "time": "2026-10-17T18:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/republica/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-17T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
       "source": "hellosouthampton"
     },
     {

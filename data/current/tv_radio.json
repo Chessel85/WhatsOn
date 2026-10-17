@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T11:29:26+00:00",
+  "fetched_at": "2026-10-17T10:49:33+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -8,7 +8,15 @@
       "name": "BBC One",
       "type": "tv",
       "confidence": "high",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "The Northumbria Mysteries",
+          "series_number": 1,
+          "start_time": "2026-10-23T13:00:00Z",
+          "synopsis": "When a monk is found dead at the priory where he volunteers, ex-con Joe Ruby finds himself investigating the murder alongside the brilliant DI Rose O\u2019Connell.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0030tpv"
+        }
+      ]
     },
     {
       "id": "bbc_two",
@@ -50,6 +58,13 @@
           "series_number": null,
           "start_time": "2026-10-19T12:45:00Z",
           "synopsis": "Derren Brown explores how a runaway immigrant named Eric Weisz first found the motivation to morph into the ultimate showman, Harry Houdini",
+          "url": null
+        },
+        {
+          "title": "Limelight",
+          "series_number": null,
+          "start_time": "2026-10-23T13:15:00Z",
+          "synopsis": "When a research vessel is stranded by a ferocious Arctic storm, help arrives in an unexpected form. A supernatural thriller by Cambria Bailey-Jones and Guy Larsen.",
           "url": null
         }
       ]

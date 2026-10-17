@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T08:05:06+00:00",
+  "fetched_at": "2026-10-17T14:30:24+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -62,7 +62,7 @@
       "berth": "102",
       "arrival": {
         "date": "2026-10-18",
-        "time": "2026-10-18T05:15:00Z"
+        "time": "2026-10-18T05:45:00Z"
       },
       "departure": {
         "date": "2026-10-18",
@@ -152,13 +152,11 @@
       "berth": "46",
       "arrival": {
         "date": "2026-10-21",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-10-21T06:45:00Z"
       },
       "departure": {
         "date": "2026-10-21",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-10-21T19:30:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {

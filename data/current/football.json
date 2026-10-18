@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T10:33:46+00:00",
+  "fetched_at": "2026-10-18T10:56:42+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -9,10 +9,10 @@
       "name": "Southampton FC",
       "league": {
         "competition": "Championship",
-        "position": 8,
-        "points": 16,
-        "played": 10,
-        "remaining": 36
+        "position": 7,
+        "points": 17,
+        "played": 11,
+        "remaining": 35
       },
       "cups": [
         {
@@ -21,13 +21,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-10-17T14:00Z",
-          "opponent": "Bolton Wanderers",
-          "home_away": "home",
-          "venue": "St. Mary's Stadium",
-          "competition": "Championship"
-        },
         {
           "date": "2026-10-24T14:00Z",
           "opponent": "West Ham United",
@@ -394,6 +387,16 @@
           "goals_for": 1,
           "goals_against": 0,
           "outcome": "W"
+        },
+        {
+          "date": "2026-10-17T14:00Z",
+          "opponent": "Bolton Wanderers",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship",
+          "goals_for": 0,
+          "goals_against": 0,
+          "outcome": "D"
         }
       ]
     },
@@ -402,7 +405,7 @@
       "name": "AFC Bournemouth",
       "league": {
         "competition": "Premier League",
-        "position": 18,
+        "position": 19,
         "points": 3,
         "played": 6,
         "remaining": 32

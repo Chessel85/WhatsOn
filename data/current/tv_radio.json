@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T10:49:33+00:00",
+  "fetched_at": "2026-10-18T11:12:35+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -74,14 +74,30 @@
       "name": "BBC World Service",
       "type": "radio",
       "confidence": "medium",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "Inheritance",
+          "series_number": null,
+          "start_time": "2026-10-24T17:32:30Z",
+          "synopsis": "Gianni Agnelli's death sets off an earthquake that will shake his family to the core, and threaten the foundations of the Fiat business.",
+          "url": null
+        }
+      ]
     },
     {
       "id": "itv1",
       "name": "ITV1",
       "type": "tv",
       "confidence": "low",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "Pride of Britain Awards",
+          "series_number": 2026,
+          "start_time": "2026-10-22T19:00:00Z",
+          "synopsis": "This year's ceremony from London's Grosvenor House Hotel sees a star-studded line up including His Majesty The King, Jude Belllingham, Davina McCall and Alan Carr celebrate the nation's unsung heroes. Hosted by Carol Vorderman and Ashley Banjo, expect plenty of emotion and surprises along with inspirational stories of bravery, achievement and selflessness. Plus, stepping off their 25th Anniversary Tour for a special performance are boyband Blue.",
+          "url": "https://www.tvmaze.com/episodes/3791118/pride-of-britain-awards-2026-10-22-the-pride-of-britain-awards-2026"
+        }
+      ]
     }
   ]
 }

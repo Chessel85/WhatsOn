@@ -1,118 +1,27 @@
 {
-  "fetched_at": "2026-10-18T10:04:46+00:00",
+  "fetched_at": "2026-10-19T11:31:43+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
-      "title": "Acres",
-      "venue": "The Joiners",
-      "time": "2026-10-18T00:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/acres/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Pumpkin Time at Sunnyfields Farm 2026",
-      "venue": "Sunnyfields Farm",
-      "time": "2026-10-18T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/pumpkin-time-at-sunnyfields-farm/",
-      "source": "hellosouthampton"
-    },
-    {
       "title": "The Lost Halloween Spell \u2013 A Seasonal Woodland Trail",
       "venue": "River Hamble Country Park",
-      "time": "2026-10-18T08:30:00Z",
+      "time": "2026-10-19T08:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/the-lost-halloween-spell-a-seasonal-woodland-trail/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Card Show \u2013 Trading Card Convention",
-      "venue": "Utilita Bowl",
-      "time": "2026-10-18T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-card-show-trading-card-convention/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Pumpkins in the Park at Royal Victoria Country Park",
-      "venue": "Royal Victoria Country Park",
-      "time": "2026-10-18T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/pumpkins-in-the-park-at-royal-victoria-country-park/",
       "source": "hellosouthampton"
     },
     {
       "title": "Halloween Spooktacular at Paultons Park 2026",
       "venue": "Paultons Park",
-      "time": "2026-10-18T09:00:00Z",
+      "time": "2026-10-19T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
       "source": "hellosouthampton"
     },
     {
       "title": "We\u2019re Going on a Ghost Hunt Halloween Adventure",
       "venue": "Mottisfont",
-      "time": "2026-10-18T09:00:00Z",
+      "time": "2026-10-19T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/were-going-on-a-ghost-hunt-halloween-adventure/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "LDN Wrestling",
-      "venue": "Hanger Farm",
-      "time": "2026-10-18T13:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/ldn-wrestling/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Abbey Dance Show: Chapter 20",
-      "venue": "Thornden Hall",
-      "time": "2026-10-18T15:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/abbey-dance-show-chapter-20/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Go Ape Southampton\u2019s Sundown Adventures",
-      "venue": "Itchen Valley Country Park",
-      "time": "2026-10-18T15:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Hoosiers",
-      "venue": "Engine Rooms",
-      "time": "2026-10-18T17:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-hoosiers/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Crash Test Dummies",
-      "venue": "The Brook",
-      "time": "2026-10-18T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/crash-test-dummies/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Guilt Trip",
-      "venue": "Papillon",
-      "time": "2026-10-18T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/guilt-trip/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-10-18T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Heart and Music \u2013 The Lloyd Webber Song Book Edition",
-      "venue": "The Point",
-      "time": "2026-10-18T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/heart-and-music-the-lloyd-webber-song-book-edition/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Long Ryders",
-      "venue": "Papillon",
-      "time": "2026-10-18T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-long-ryders/",
       "source": "hellosouthampton"
     },
     {
@@ -120,6 +29,20 @@
       "venue": "Royal Victoria Country Park",
       "time": "2026-10-19T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/witches-potion-trail/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Go Ape Southampton\u2019s Sundown Adventures",
+      "venue": "Itchen Valley Country Park",
+      "time": "2026-10-19T15:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-19T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
       "source": "hellosouthampton"
     },
     {
@@ -197,6 +120,13 @@
       "venue": "Shirley Precinct",
       "time": "2026-10-22T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/shirley-traditional-weekly-street-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Pumpkin Time at Sunnyfields Farm 2026",
+      "venue": "Sunnyfields Farm",
+      "time": "2026-10-22T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/pumpkin-time-at-sunnyfields-farm/",
       "source": "hellosouthampton"
     },
     {
@@ -296,6 +226,13 @@
       "venue": "O2 Guildhall Southampton",
       "time": "2026-10-23T17:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/michael-starring-ben/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Oktoberfest Southampton 2026",
+      "venue": "Guildhall Square",
+      "time": "2026-10-23T17:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/oktoberfest-southampton/",
       "source": "hellosouthampton"
     },
     {
@@ -422,6 +359,13 @@
       "venue": "New Forest Wildlife Park",
       "time": "2026-10-24T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/howl-o-ween/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Diwali Mela Southampton 2026",
+      "venue": "Bitterne Park School",
+      "time": "2026-10-24T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/diwali-mela-southampton/",
       "source": "hellosouthampton"
     },
     {
@@ -604,6 +548,13 @@
       "venue": "Snows Stadium",
       "time": "2026-10-25T16:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/kids-halloween-party-at-afc-totton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Country Road Southampton Barn Dance 2026",
+      "venue": "Guildhall Square",
+      "time": "2026-10-25T16:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/country-road-southampton-barn-dance/",
       "source": "hellosouthampton"
     },
     {

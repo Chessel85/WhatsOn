@@ -1,44 +1,8 @@
 {
-  "fetched_at": "2026-10-19T17:49:52+00:00",
+  "fetched_at": "2026-10-19T23:09:52+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "MSC VIRTUOSA",
-      "berth": "102",
-      "arrival": {
-        "date": "2026-10-19",
-        "time": "2026-10-19T05:13:00Z"
-      },
-      "departure": {
-        "date": "2026-10-19",
-        "time": "2026-10-19T19:00:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9803625",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/MSC-Virtuosa-1981",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MSC%20VIRTUOSA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "AIDAPERLA",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-10-19",
-        "time": "2026-10-19T06:48:00Z"
-      },
-      "departure": {
-        "date": "2026-10-19",
-        "time": "2026-10-19T19:30:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9636967",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/AIDAperla-1243",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=AIDAPERLA%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "AURORA",
       "berth": "106",
@@ -437,6 +401,46 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9839399",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Queen-Anne-2141",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=QUEEN%20ANNE%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "AURORA",
+      "berth": "106",
+      "arrival": {
+        "date": "2026-11-03",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-11-03",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9169524",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Aurora-648",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=AURORA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "MEIN SCHIFF RELAX",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-11-03",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-11-03",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9862657",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Mein-Schiff-Relax-1723",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MEIN%20SCHIFF%20RELAX%20cruise%20ship"
       }
     }
   ]

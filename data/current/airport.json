@@ -1,57 +1,7 @@
 {
-  "fetched_at": "2026-10-20T15:37:03+00:00",
+  "fetched_at": "2026-10-20T19:50:53+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-10-20T10:40:00",
-      "scheduled_time": "2026-10-20T10:40:00",
-      "flight_number": "GR501",
-      "airline": "Aurigny",
-      "status": "Arrived 10:36. Bags at carousel 2",
-      "distance_miles": null,
-      "from": "Alderney",
-      "from_code": "ACI"
-    },
-    {
-      "time": "2026-10-20T12:05:00",
-      "scheduled_time": "2026-10-20T12:05:00",
-      "flight_number": "EI3604",
-      "airline": "Aer Lingus",
-      "status": "Arrived 12:15. Bags at carousel 3",
-      "distance_miles": null,
-      "from": "Belfast City",
-      "from_code": "BHD"
-    },
-    {
-      "time": "2026-10-20T12:50:00",
-      "scheduled_time": "2026-10-20T12:50:00",
-      "flight_number": "EZY415",
-      "airline": "easyJet",
-      "status": "Arrived 12:38. Bags at carousel 3",
-      "distance_miles": null,
-      "from": "Glasgow",
-      "from_code": "GLA"
-    },
-    {
-      "time": "2026-10-20T14:25:00",
-      "scheduled_time": "2026-10-20T14:25:00",
-      "flight_number": "GR505",
-      "airline": "Aurigny",
-      "status": "Arrived 14:33. Bags at carousel 2",
-      "distance_miles": null,
-      "from": "Alderney",
-      "from_code": "ACI"
-    },
-    {
-      "time": "2026-10-20T14:30:00",
-      "scheduled_time": "2026-10-20T14:30:00",
-      "flight_number": "LM325",
-      "airline": "Loganair",
-      "status": "Arrived 14:36. Bags at carousel 3",
-      "distance_miles": null,
-      "from": "Edinburgh",
-      "from_code": "EDI"
-    },
     {
       "time": "2026-10-20T16:20:00",
       "scheduled_time": "2026-10-20T16:20:00",
@@ -67,7 +17,7 @@
       "scheduled_time": "2026-10-20T16:50:00",
       "flight_number": "KL1071",
       "airline": "KLM",
-      "status": "Expected 16:50",
+      "status": "Arrived 16:56. Bags at carousel 2",
       "distance_miles": null,
       "from": "Amsterdam",
       "from_code": "AMS"
@@ -77,7 +27,7 @@
       "scheduled_time": "2026-10-20T17:15:00",
       "flight_number": "EJU7517",
       "airline": "easyJet",
-      "status": "Scheduled",
+      "status": "Arrived 17:15. Bags at carousel 2",
       "distance_miles": null,
       "from": "Faro",
       "from_code": "FAO"
@@ -87,7 +37,7 @@
       "scheduled_time": "2026-10-20T19:00:00",
       "flight_number": "EI3606",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Arrived 19:01. Bags at carousel 3",
       "distance_miles": null,
       "from": "Belfast City",
       "from_code": "BHD"
@@ -97,7 +47,7 @@
       "scheduled_time": "2026-10-20T19:15:00",
       "flight_number": "LM539",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Arrived 19:21. Bags at carousel 3",
       "distance_miles": null,
       "from": "Newcastle",
       "from_code": "NCL"
@@ -105,17 +55,37 @@
     {
       "time": "2026-10-20T19:25:00",
       "scheduled_time": "2026-10-20T19:25:00",
+      "flight_number": "GR658",
+      "airline": "Aurigny",
+      "status": "Arrived 19:30. Bags at carousel 2",
+      "distance_miles": null,
+      "from": "Guernsey",
+      "from_code": "GCI"
+    },
+    {
+      "time": "2026-10-20T19:25:00",
+      "scheduled_time": "2026-10-20T19:25:00",
       "flight_number": "LM329",
       "airline": "Loganair",
-      "status": "Scheduled",
+      "status": "Arrived 19:34. Bags at carousel 3",
       "distance_miles": null,
       "from": "Edinburgh",
       "from_code": "EDI"
     },
     {
-      "time": "2026-10-20T19:25:00",
-      "scheduled_time": "2026-10-20T19:25:00",
-      "flight_number": "GR658",
+      "time": "2026-10-20T19:30:00",
+      "scheduled_time": "2026-10-20T19:30:00",
+      "flight_number": "EI3308",
+      "airline": "Aer Lingus",
+      "status": "Arrived 19:15. Bags at carousel 2",
+      "distance_miles": null,
+      "from": "Dublin",
+      "from_code": "DUB"
+    },
+    {
+      "time": "2026-10-21T07:30:00",
+      "scheduled_time": "2026-10-21T07:30:00",
+      "flight_number": "GR650",
       "airline": "Aurigny",
       "status": "Scheduled",
       "distance_miles": null,
@@ -123,50 +93,47 @@
       "from_code": "GCI"
     },
     {
-      "time": "2026-10-20T19:30:00",
-      "scheduled_time": "2026-10-20T19:30:00",
-      "flight_number": "EI3308",
+      "time": "2026-10-21T07:55:00",
+      "scheduled_time": "2026-10-21T07:55:00",
+      "flight_number": "LM551",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Jersey",
+      "from_code": "JER"
+    },
+    {
+      "time": "2026-10-21T08:05:00",
+      "scheduled_time": "2026-10-21T08:05:00",
+      "flight_number": "EI3300",
       "airline": "Aer Lingus",
       "status": "Scheduled",
       "distance_miles": null,
       "from": "Dublin",
       "from_code": "DUB"
+    },
+    {
+      "time": "2026-10-21T08:25:00",
+      "scheduled_time": "2026-10-21T08:25:00",
+      "flight_number": "EI3600",
+      "airline": "Aer Lingus",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Belfast City",
+      "from_code": "BHD"
+    },
+    {
+      "time": "2026-10-21T08:45:00",
+      "scheduled_time": "2026-10-21T08:45:00",
+      "flight_number": "KL1069",
+      "airline": "KLM",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Amsterdam",
+      "from_code": "AMS"
     }
   ],
   "departures": [
-    {
-      "time": "2026-10-20T11:20:00",
-      "scheduled_time": "2026-10-20T11:20:00",
-      "flight_number": "GR502",
-      "airline": "Aurigny",
-      "status": "Airborne 11:11",
-      "distance_miles": null,
-      "to": "Alderney",
-      "to_code": "ACI",
-      "check_in_desk": "16-17"
-    },
-    {
-      "time": "2026-10-20T12:35:00",
-      "scheduled_time": "2026-10-20T12:35:00",
-      "flight_number": "EI3605",
-      "airline": "Aer Lingus",
-      "status": "Airborne 12:55",
-      "distance_miles": null,
-      "to": "Belfast City",
-      "to_code": "BHD",
-      "check_in_desk": "08-09"
-    },
-    {
-      "time": "2026-10-20T13:25:00",
-      "scheduled_time": "2026-10-20T13:25:00",
-      "flight_number": "EZY416",
-      "airline": "easyJet",
-      "status": "Airborne 13:35",
-      "distance_miles": null,
-      "to": "Glasgow",
-      "to_code": "GLA",
-      "check_in_desk": "04-07"
-    },
     {
       "time": "2026-10-20T14:55:00",
       "scheduled_time": "2026-10-20T14:55:00",
@@ -194,7 +161,7 @@
       "scheduled_time": "2026-10-20T16:20:00",
       "flight_number": "LM540",
       "airline": "Loganair",
-      "status": "Gate Closed",
+      "status": "Airborne 16:32",
       "distance_miles": null,
       "to": "Newcastle",
       "to_code": "NCL",
@@ -205,7 +172,7 @@
       "scheduled_time": "2026-10-20T16:50:00",
       "flight_number": "LM556",
       "airline": "Loganair",
-      "status": "Final Call to Gate 3",
+      "status": "Airborne 16:53",
       "distance_miles": null,
       "to": "Jersey",
       "to_code": "JER",
@@ -216,7 +183,7 @@
       "scheduled_time": "2026-10-20T17:20:00",
       "flight_number": "KL1072",
       "airline": "KLM",
-      "status": "Check In Open  Desks 12-13",
+      "status": "Airborne 17:31",
       "distance_miles": null,
       "to": "Amsterdam",
       "to_code": "AMS",
@@ -227,7 +194,7 @@
       "scheduled_time": "2026-10-20T18:10:00",
       "flight_number": "EJU7518",
       "airline": "easyJet",
-      "status": "Check In Open  Desks 06-07",
+      "status": "Airborne 18:09",
       "distance_miles": null,
       "to": "Faro",
       "to_code": "FAO",
@@ -238,29 +205,29 @@
       "scheduled_time": "2026-10-20T19:30:00",
       "flight_number": "EI3607",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Airborne 19:40",
       "distance_miles": null,
       "to": "Belfast City",
       "to_code": "BHD",
-      "check_in_desk": null
+      "check_in_desk": "08-09"
     },
     {
       "time": "2026-10-20T19:55:00",
       "scheduled_time": "2026-10-20T19:55:00",
       "flight_number": "LM328",
       "airline": "Loganair",
-      "status": "Scheduled",
-      "distance_miles": null,
+      "status": "Airborne 20:13",
+      "distance_miles": 183.6,
       "to": "Edinburgh",
       "to_code": "EDI",
-      "check_in_desk": null
+      "check_in_desk": "14-15"
     },
     {
       "time": "2026-10-20T19:55:00",
       "scheduled_time": "2026-10-20T19:55:00",
       "flight_number": "GR659",
       "airline": "Aurigny",
-      "status": "Scheduled",
+      "status": "Airborne 20:16",
       "distance_miles": null,
       "to": "Guernsey",
       "to_code": "GCI",
@@ -271,59 +238,36 @@
       "scheduled_time": "2026-10-20T20:00:00",
       "flight_number": "EI3309",
       "airline": "Aer Lingus",
-      "status": "Scheduled",
+      "status": "Airborne 19:57",
       "distance_miles": null,
       "to": "Dublin",
       "to_code": "DUB",
+      "check_in_desk": "08-09"
+    },
+    {
+      "time": "2026-10-21T08:00:00",
+      "scheduled_time": "2026-10-21T08:00:00",
+      "flight_number": "GR651",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Guernsey",
+      "to_code": "GCI",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-10-21T08:25:00",
+      "scheduled_time": "2026-10-21T08:25:00",
+      "flight_number": "LM552",
+      "airline": "Loganair",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Jersey",
+      "to_code": "JER",
       "check_in_desk": null
     }
   ],
   "rotations": [
-    {
-      "arrival_flight_number": "GR501",
-      "arrival_time": "2026-10-20T10:40:00",
-      "arrival_from": "Alderney",
-      "departure_flight_number": "GR502",
-      "departure_time": "2026-10-20T11:20:00",
-      "departure_to": "Alderney",
-      "turnaround_minutes": 40
-    },
-    {
-      "arrival_flight_number": "EI3604",
-      "arrival_time": "2026-10-20T12:05:00",
-      "arrival_from": "Belfast City",
-      "departure_flight_number": "EI3605",
-      "departure_time": "2026-10-20T12:35:00",
-      "departure_to": "Belfast City",
-      "turnaround_minutes": 30
-    },
-    {
-      "arrival_flight_number": "EZY415",
-      "arrival_time": "2026-10-20T12:50:00",
-      "arrival_from": "Glasgow",
-      "departure_flight_number": "EZY416",
-      "departure_time": "2026-10-20T13:25:00",
-      "departure_to": "Glasgow",
-      "turnaround_minutes": 35
-    },
-    {
-      "arrival_flight_number": "GR505",
-      "arrival_time": "2026-10-20T14:25:00",
-      "arrival_from": "Alderney",
-      "departure_flight_number": "GR506",
-      "departure_time": "2026-10-20T14:55:00",
-      "departure_to": "Alderney",
-      "turnaround_minutes": 30
-    },
-    {
-      "arrival_flight_number": "LM325",
-      "arrival_time": "2026-10-20T14:30:00",
-      "arrival_from": "Edinburgh",
-      "departure_flight_number": "LM326",
-      "departure_time": "2026-10-20T15:00:00",
-      "departure_to": "Edinburgh",
-      "turnaround_minutes": 30
-    },
     {
       "arrival_flight_number": "LM555",
       "arrival_time": "2026-10-20T16:20:00",
@@ -385,6 +329,24 @@
       "departure_flight_number": "EI3309",
       "departure_time": "2026-10-20T20:00:00",
       "departure_to": "Dublin",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "GR650",
+      "arrival_time": "2026-10-21T07:30:00",
+      "arrival_from": "Guernsey",
+      "departure_flight_number": "GR651",
+      "departure_time": "2026-10-21T08:00:00",
+      "departure_to": "Guernsey",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "LM551",
+      "arrival_time": "2026-10-21T07:55:00",
+      "arrival_from": "Jersey",
+      "departure_flight_number": "LM552",
+      "departure_time": "2026-10-21T08:25:00",
+      "departure_to": "Jersey",
       "turnaround_minutes": 30
     }
   ]

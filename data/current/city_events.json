@@ -1,57 +1,8 @@
 {
-  "fetched_at": "2026-10-19T11:31:43+00:00",
+  "fetched_at": "2026-10-20T10:37:09+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "The Lost Halloween Spell \u2013 A Seasonal Woodland Trail",
-      "venue": "River Hamble Country Park",
-      "time": "2026-10-19T08:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-lost-halloween-spell-a-seasonal-woodland-trail/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Halloween Spooktacular at Paultons Park 2026",
-      "venue": "Paultons Park",
-      "time": "2026-10-19T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "We\u2019re Going on a Ghost Hunt Halloween Adventure",
-      "venue": "Mottisfont",
-      "time": "2026-10-19T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/were-going-on-a-ghost-hunt-halloween-adventure/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Witches\u2019 Potion Trail",
-      "venue": "Royal Victoria Country Park",
-      "time": "2026-10-19T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/witches-potion-trail/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Go Ape Southampton\u2019s Sundown Adventures",
-      "venue": "Itchen Valley Country Park",
-      "time": "2026-10-19T15:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-10-19T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Annie-Claude Desch\u00eanes",
-      "venue": "Heartbreakers",
-      "time": "2026-10-19T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/annie-claude-deschenes/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Hythe Village Traditional Weekly Street Market",
       "venue": "High Street",
@@ -60,10 +11,38 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "The Lost Halloween Spell \u2013 A Seasonal Woodland Trail",
+      "venue": "River Hamble Country Park",
+      "time": "2026-10-20T08:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-lost-halloween-spell-a-seasonal-woodland-trail/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Halloween Spooktacular at Paultons Park 2026",
+      "venue": "Paultons Park",
+      "time": "2026-10-20T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "We\u2019re Going on a Ghost Hunt Halloween Adventure",
+      "venue": "Mottisfont",
+      "time": "2026-10-20T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/were-going-on-a-ghost-hunt-halloween-adventure/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Board & Video Games Group",
       "venue": "Board in the City CiC",
       "time": "2026-10-20T14:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/board-video-games-group/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Go Ape Southampton\u2019s Sundown Adventures",
+      "venue": "Itchen Valley Country Park",
+      "time": "2026-10-20T15:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
       "source": "hellosouthampton"
     },
     {
@@ -85,6 +64,13 @@
       "venue": "EngineRooms",
       "time": "2026-10-20T18:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/the-skids-theatre-of-hate/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-20T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
       "source": "hellosouthampton"
     },
     {

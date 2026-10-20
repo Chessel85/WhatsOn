@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-19T13:24:29+00:00",
+  "fetched_at": "2026-10-20T11:44:08+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -44,6 +44,13 @@
           "start_time": "2026-10-25T21:00:00Z",
           "synopsis": "Paul and Bob are joined by terrier Ted, sadly for the final time, to fish the River Ribble in Lancashire. They are hoping to catch barbel, and Ted hopes to taste Bob\u2019s hotpot.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0032jcd"
+        },
+        {
+          "title": "Escaping Idi Amin",
+          "series_number": 1,
+          "start_time": "2026-10-26T21:00:00Z",
+          "synopsis": "In 1972, Ugandan dictator Idi Amin announces a plan to throw all Asians out of the country within 90 days. Will they be able to flee on their British passports?",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0033gxj"
         }
       ]
     },
@@ -68,13 +75,6 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "The History Podcast",
-          "series_number": null,
-          "start_time": "2026-10-19T12:45:00Z",
-          "synopsis": "Derren Brown explores how a runaway immigrant named Eric Weisz first found the motivation to morph into the ultimate showman, Harry Houdini",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pgs3kw"
-        },
-        {
           "title": "Limelight",
           "series_number": null,
           "start_time": "2026-10-23T13:15:00Z",
@@ -86,6 +86,13 @@
           "series_number": null,
           "start_time": "2026-10-25T15:00:00Z",
           "synopsis": "A new adaptation celebrating the 300th anniversary of Jonathan Swift\u2019s satire. Shipwrecked in Lilliput, Gulliver is first a giant among tiny people, then a curiosity among giants.",
+          "url": null
+        },
+        {
+          "title": "Understand",
+          "series_number": null,
+          "start_time": "2026-10-26T11:00:00Z",
+          "synopsis": "Every UK government says it wants  strong and sustained economic growth. But for almost 20 years none have managed it. Ben Chu asks why generating growth seems so difficult?",
           "url": null
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-19T13:00:07+00:00",
+  "fetched_at": "2026-10-20T11:27:11+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -460,7 +460,7 @@
           "competition": "Premier League"
         },
         {
-          "date": "2026-12-02T20:00Z",
+          "date": "2026-12-02T20:15Z",
           "opponent": "Brighton & Hove Albion",
           "home_away": "home",
           "venue": "Vitality Stadium",
@@ -474,7 +474,7 @@
           "competition": "Premier League"
         },
         {
-          "date": "2026-12-12T15:00Z",
+          "date": "2026-12-13T14:00Z",
           "opponent": "Arsenal",
           "home_away": "away",
           "venue": "Emirates Stadium",

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-20T08:55:56+00:00",
+  "fetched_at": "2026-10-20T15:53:39+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -12,7 +12,7 @@
       },
       "departure": {
         "date": "2026-10-20",
-        "time": "2026-10-20T15:00:00Z"
+        "time": "2026-10-20T16:00:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {
@@ -62,7 +62,7 @@
       "berth": "102",
       "arrival": {
         "date": "2026-10-22",
-        "time": "2026-10-22T18:30:00Z"
+        "time": "2026-10-22T18:00:00Z"
       },
       "departure": {
         "date": "2026-10-24",
@@ -79,8 +79,8 @@
       "ship_name": "MSC PREZIOSA",
       "berth": "101",
       "arrival": {
-        "date": "2026-10-23",
-        "time": "2026-10-23T00:30:00Z"
+        "date": "2026-10-22",
+        "time": "2026-10-22T20:30:00Z"
       },
       "departure": {
         "date": "2026-10-23",
@@ -95,10 +95,10 @@
     },
     {
       "ship_name": "QUEEN MARY 2",
-      "berth": "106",
+      "berth": "38/9",
       "arrival": {
         "date": "2026-10-23",
-        "time": "2026-10-23T05:00:00Z"
+        "time": "2026-10-23T04:45:00Z"
       },
       "departure": {
         "date": "2026-10-23",
@@ -116,7 +116,7 @@
       "berth": "46",
       "arrival": {
         "date": "2026-10-23",
-        "time": "2026-10-23T05:15:00Z"
+        "time": "2026-10-23T18:00:00Z"
       },
       "departure": {
         "date": "2026-10-23",
@@ -170,13 +170,11 @@
       "berth": "38/9",
       "arrival": {
         "date": "2026-10-24",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-10-24T05:30:00Z"
       },
       "departure": {
         "date": "2026-10-24",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-10-24T15:00:00Z"
       },
       "agent": "DENHOLM PORT SERVICES LTD",
       "links": {
@@ -190,13 +188,11 @@
       "berth": "101",
       "arrival": {
         "date": "2026-10-25",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-10-25T06:00:00Z"
       },
       "departure": {
         "date": "2026-10-25",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-10-25T16:00:00Z"
       },
       "agent": "DENHOLM PORT SERVICES LTD",
       "links": {

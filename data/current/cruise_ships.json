@@ -1,26 +1,8 @@
 {
-  "fetched_at": "2026-10-20T15:53:39+00:00",
+  "fetched_at": "2026-10-20T19:40:46+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "AURORA",
-      "berth": "106",
-      "arrival": {
-        "date": "2026-10-20",
-        "time": "2026-10-20T05:23:00Z"
-      },
-      "departure": {
-        "date": "2026-10-20",
-        "time": "2026-10-20T16:00:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9169524",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Aurora-648",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=AURORA%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "ARCADIA",
       "berth": "106",
@@ -40,21 +22,21 @@
       }
     },
     {
-      "ship_name": "AIDAPRIMA",
+      "ship_name": "ARVIA",
       "berth": "46",
       "arrival": {
-        "date": "2026-10-21",
-        "time": "2026-10-21T06:45:00Z"
+        "date": "2026-10-22",
+        "time": "2026-10-22T18:00:00Z"
       },
       "departure": {
-        "date": "2026-10-21",
-        "time": "2026-10-21T19:30:00Z"
+        "date": "2026-10-23",
+        "time": "2026-10-23T16:00:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9636955",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/AIDAprima-747",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=AIDAPRIMA%20cruise%20ship"
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9849693",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Arvia-2158",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=ARVIA%20cruise%20ship"
       }
     },
     {
@@ -109,24 +91,6 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9241061",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Queen-Mary-2-721",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=QUEEN%20MARY%202%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "ARVIA",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-10-23",
-        "time": "2026-10-23T18:00:00Z"
-      },
-      "departure": {
-        "date": "2026-10-23",
-        "time": "2026-10-23T16:00:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9849693",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Arvia-2158",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=ARVIA%20cruise%20ship"
       }
     },
     {

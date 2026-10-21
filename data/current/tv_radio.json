@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-20T11:44:08+00:00",
+  "fetched_at": "2026-10-21T11:55:49+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -124,6 +124,13 @@
           "start_time": "2026-10-22T19:00:00Z",
           "synopsis": "This year's ceremony from London's Grosvenor House Hotel sees a star-studded line up including His Majesty The King, Jude Belllingham, Davina McCall and Alan Carr celebrate the nation's unsung heroes. Hosted by Carol Vorderman and Ashley Banjo, expect plenty of emotion and surprises along with inspirational stories of bravery, achievement and selflessness. Plus, stepping off their 25th Anniversary Tour for a special performance are boyband Blue.",
           "url": "https://www.tvmaze.com/episodes/3791118/pride-of-britain-awards-2026-10-22-the-pride-of-britain-awards-2026"
+        },
+        {
+          "title": "Lingo",
+          "series_number": 5,
+          "start_time": "2026-10-26T15:00:00Z",
+          "synopsis": "Adil Ray hosts as twin sisters Dee and Noreen, married couple Tom and Kyle, and siblings Bobby and Beena compete in the fast-paced game of words.",
+          "url": "https://www.tvmaze.com/episodes/3793713/lingo-5x01-episode-1"
         }
       ]
     }

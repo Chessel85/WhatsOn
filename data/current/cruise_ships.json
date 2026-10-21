@@ -1,26 +1,8 @@
 {
-  "fetched_at": "2026-10-21T16:11:00+00:00",
+  "fetched_at": "2026-10-21T22:50:19+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "ARCADIA",
-      "berth": "106",
-      "arrival": {
-        "date": "2026-10-21",
-        "time": "2026-10-21T05:26:00Z"
-      },
-      "departure": {
-        "date": "2026-10-21",
-        "time": "2026-10-21T18:30:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9226906",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Arcadia-626",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=ARCADIA%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "ARVIA",
       "berth": "46",

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T22:50:19+00:00",
+  "fetched_at": "2026-10-22T02:05:00+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -379,6 +379,26 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9862657",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Mein-Schiff-Relax-1723",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MEIN%20SCHIFF%20RELAX%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "SKY PRINCESS",
+      "berth": "106",
+      "arrival": {
+        "date": "2026-11-05",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-11-05",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9802396",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Sky-Princess-2154",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=SKY%20PRINCESS%20cruise%20ship"
       }
     }
   ]

@@ -1,71 +1,8 @@
 {
-  "fetched_at": "2026-10-21T10:48:38+00:00",
+  "fetched_at": "2026-10-22T10:49:31+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "The Lost Halloween Spell \u2013 A Seasonal Woodland Trail",
-      "venue": "River Hamble Country Park",
-      "time": "2026-10-21T08:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-lost-halloween-spell-a-seasonal-woodland-trail/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Halloween Spooktacular at Paultons Park 2026",
-      "venue": "Paultons Park",
-      "time": "2026-10-21T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "We\u2019re Going on a Ghost Hunt Halloween Adventure",
-      "venue": "Mottisfont",
-      "time": "2026-10-21T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/were-going-on-a-ghost-hunt-halloween-adventure/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Go Ape Southampton\u2019s Sundown Adventures",
-      "venue": "Itchen Valley Country Park",
-      "time": "2026-10-21T15:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "World News",
-      "venue": "The Joiners",
-      "time": "2026-10-21T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/world-news/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-10-21T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Damien O\u2019Kane & Ron Block Band",
-      "venue": "Hanger Farm",
-      "time": "2026-10-21T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/damien-okane-ron-block-band/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Rhys James: Chop Logic",
-      "venue": "Mayflower Studios",
-      "time": "2026-10-21T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/rhys-james-chop-logic/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Wishbone Ash: The Time Was Tour 2026",
-      "venue": "The Brook Southampton",
-      "time": "2026-10-21T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/wishbone-ash/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Shirley Traditional Weekly Street Market",
       "venue": "Shirley Precinct",
@@ -78,6 +15,34 @@
       "venue": "Sunnyfields Farm",
       "time": "2026-10-22T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/pumpkin-time-at-sunnyfields-farm/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Lost Halloween Spell \u2013 A Seasonal Woodland Trail",
+      "venue": "River Hamble Country Park",
+      "time": "2026-10-22T08:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-lost-halloween-spell-a-seasonal-woodland-trail/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Halloween Spooktacular at Paultons Park 2026",
+      "venue": "Paultons Park",
+      "time": "2026-10-22T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "We\u2019re Going on a Ghost Hunt Halloween Adventure",
+      "venue": "Mottisfont",
+      "time": "2026-10-22T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/were-going-on-a-ghost-hunt-halloween-adventure/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Go Ape Southampton\u2019s Sundown Adventures",
+      "venue": "Itchen Valley Country Park",
+      "time": "2026-10-22T15:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
       "source": "hellosouthampton"
     },
     {
@@ -99,6 +64,13 @@
       "venue": "EngineRooms",
       "time": "2026-10-22T18:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/punk-rock-factory/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-22T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
       "source": "hellosouthampton"
     },
     {

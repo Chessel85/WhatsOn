@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T11:40:19+00:00",
+  "fetched_at": "2026-10-22T11:42:21+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -735,7 +735,12 @@
         "played": 13,
         "remaining": 33
       },
-      "cups": [],
+      "cups": [
+        {
+          "competition": "FA Cup",
+          "status": "in_progress"
+        }
+      ],
       "fixtures": [
         {
           "date": "2026-10-24T11:30Z",
@@ -757,6 +762,13 @@
           "home_away": "away",
           "venue": "SO Legal Stadium",
           "competition": "National League"
+        },
+        {
+          "date": "2026-11-07T15:00Z",
+          "opponent": "Shrewsbury Town",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "FA Cup"
         },
         {
           "date": "2026-11-14T15:00Z",

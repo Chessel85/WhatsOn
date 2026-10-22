@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T11:55:49+00:00",
+  "fetched_at": "2026-10-22T11:58:32+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -22,6 +22,13 @@
           "start_time": "2026-10-25T21:00:00Z",
           "synopsis": "Michael and Diana have barely arrived in their Spanish happy town when they are dragged back into the fold to answer questions around Ricardo\u2019s death.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0031lrz"
+        },
+        {
+          "title": "Celebrity Race Across the World",
+          "series_number": 4,
+          "start_time": "2026-10-28T20:00:00Z",
+          "synopsis": "Four famous faces paired with a friend or a loved one must tackle the most formidable race yet - traversing the ancient jungles and indigenous heartlands of Borneo to the southern tip of Australia.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0033jsp"
         }
       ]
     },
@@ -31,13 +38,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Ellie & Natasia",
-          "series_number": 2,
-          "start_time": "2026-10-21T21:00:00Z",
-          "synopsis": "Ellie White and Natasia Demetriou make a chaotic return to the screen, with a guest appearance from Steve Coogan",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m00303fk"
-        },
         {
           "title": "Mortimer & Whitehouse: Gone Fishing",
           "series_number": 9,
@@ -51,6 +51,13 @@
           "start_time": "2026-10-26T21:00:00Z",
           "synopsis": "In 1972, Ugandan dictator Idi Amin announces a plan to throw all Asians out of the country within 90 days. Will they be able to flee on their British passports?",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0033gxj"
+        },
+        {
+          "title": "The Future with Hannah Fry",
+          "series_number": 2,
+          "start_time": "2026-10-28T19:30:00Z",
+          "synopsis": "Professor Hannah Fry explores the promises and threats of AI, considering the ways in which superintelligent machines can help humanity as well as the ways in which they can be a hindrance. ",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0033gvw"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T11:58:32+00:00",
+  "fetched_at": "2026-10-23T11:44:09+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -86,7 +86,7 @@
           "series_number": null,
           "start_time": "2026-10-23T13:15:00Z",
           "synopsis": "When a research vessel is stranded by a ferocious Arctic storm, help arrives in an unexpected form. A supernatural thriller by Cambria Bailey-Jones and Guy Larsen.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0phn7gk"
         },
         {
           "title": "Drama on 4",
@@ -109,15 +109,7 @@
       "name": "BBC World Service",
       "type": "radio",
       "confidence": "medium",
-      "new_series": [
-        {
-          "title": "Inheritance",
-          "series_number": null,
-          "start_time": "2026-10-25T11:32:30Z",
-          "synopsis": "Gianni Agnelli's death sets off an earthquake that will shake his family to the core, and threaten the foundations of the Fiat business.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pfqmrs"
-        }
-      ]
+      "new_series": []
     },
     {
       "id": "itv1",
@@ -125,13 +117,6 @@
       "type": "tv",
       "confidence": "low",
       "new_series": [
-        {
-          "title": "Pride of Britain Awards",
-          "series_number": 2026,
-          "start_time": "2026-10-22T19:00:00Z",
-          "synopsis": "This year's ceremony from London's Grosvenor House Hotel sees a star-studded line up including His Majesty The King, Jude Belllingham, Davina McCall and Alan Carr celebrate the nation's unsung heroes. Hosted by Carol Vorderman and Ashley Banjo, expect plenty of emotion and surprises along with inspirational stories of bravery, achievement and selflessness. Plus, stepping off their 25th Anniversary Tour for a special performance are boyband Blue.",
-          "url": "https://www.tvmaze.com/episodes/3791118/pride-of-britain-awards-2026-10-22-the-pride-of-britain-awards-2026"
-        },
         {
           "title": "Lingo",
           "series_number": 5,

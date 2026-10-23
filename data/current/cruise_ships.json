@@ -1,26 +1,8 @@
 {
-  "fetched_at": "2026-10-23T19:45:23+00:00",
+  "fetched_at": "2026-10-23T22:41:32+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "ARVIA",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-10-22",
-        "time": "2026-10-22T18:42:00Z"
-      },
-      "departure": {
-        "date": "2026-10-23",
-        "time": "2026-10-23T21:00:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9849693",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Arvia-2158",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=ARVIA%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "MSC VIRTUOSA",
       "berth": "102",

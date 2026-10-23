@@ -1,107 +1,8 @@
 {
-  "fetched_at": "2026-10-22T10:49:31+00:00",
+  "fetched_at": "2026-10-23T10:41:30+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Shirley Traditional Weekly Street Market",
-      "venue": "Shirley Precinct",
-      "time": "2026-10-22T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/shirley-traditional-weekly-street-market/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Pumpkin Time at Sunnyfields Farm 2026",
-      "venue": "Sunnyfields Farm",
-      "time": "2026-10-22T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/pumpkin-time-at-sunnyfields-farm/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Lost Halloween Spell \u2013 A Seasonal Woodland Trail",
-      "venue": "River Hamble Country Park",
-      "time": "2026-10-22T08:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-lost-halloween-spell-a-seasonal-woodland-trail/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Halloween Spooktacular at Paultons Park 2026",
-      "venue": "Paultons Park",
-      "time": "2026-10-22T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "We\u2019re Going on a Ghost Hunt Halloween Adventure",
-      "venue": "Mottisfont",
-      "time": "2026-10-22T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/were-going-on-a-ghost-hunt-halloween-adventure/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Go Ape Southampton\u2019s Sundown Adventures",
-      "venue": "Itchen Valley Country Park",
-      "time": "2026-10-22T15:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Alabama 3 (Acoustic)",
-      "venue": "The 1865",
-      "time": "2026-10-22T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/alabama-3-acoustic/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Millichamp",
-      "venue": "The Joiners",
-      "time": "2026-10-22T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/millichamp/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Punk Rock Factory",
-      "venue": "EngineRooms",
-      "time": "2026-10-22T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/punk-rock-factory/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-10-22T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Murder, She Didn\u2019t Write",
-      "venue": "Mayflower Studios",
-      "time": "2026-10-22T18:45:00Z",
-      "url": "https://hellosouthampton.co.uk/events/murder-she-didnt-write/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Thea Gilmore",
-      "venue": "Papillon",
-      "time": "2026-10-22T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/thea-gilmore/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Lesbian Bed Death",
-      "venue": "Heartbreakers",
-      "time": "2026-10-22T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/lesbian-bed-death/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Oktoberfest",
-      "venue": "Guildhall Square",
-      "time": "2026-10-23T00:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
-      "source": "visit_southampton",
-      "all_day": true
-    },
     {
       "title": "Weekly Street Market in Southampton",
       "venue": "The Bargate",
@@ -110,10 +11,38 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Pumpkin Time at Sunnyfields Farm 2026",
+      "venue": "Sunnyfields Farm",
+      "time": "2026-10-23T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/pumpkin-time-at-sunnyfields-farm/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Droxford Pumpkin Patch 2026",
       "venue": "Droxford",
       "time": "2026-10-23T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/droxford-pumpkin-patch/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Lost Halloween Spell \u2013 A Seasonal Woodland Trail",
+      "venue": "River Hamble Country Park",
+      "time": "2026-10-23T08:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-lost-halloween-spell-a-seasonal-woodland-trail/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Halloween Spooktacular at Paultons Park 2026",
+      "venue": "Paultons Park",
+      "time": "2026-10-23T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "We\u2019re Going on a Ghost Hunt Halloween Adventure",
+      "venue": "Mottisfont",
+      "time": "2026-10-23T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/were-going-on-a-ghost-hunt-halloween-adventure/",
       "source": "hellosouthampton"
     },
     {
@@ -128,6 +57,13 @@
       "venue": "Bursledon Car Boot Site",
       "time": "2026-10-23T13:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/spooky-festive-fair-free-fireworks-display/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Go Ape Southampton\u2019s Sundown Adventures",
+      "venue": "Itchen Valley Country Park",
+      "time": "2026-10-23T15:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
       "source": "hellosouthampton"
     },
     {
@@ -180,6 +116,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-23T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Scott Bennett \u2013 Blood Sugar Baby",
       "venue": "The Berry Theatre",
       "time": "2026-10-23T18:30:00Z",
@@ -205,6 +148,13 @@
       "venue": "Plaza Theatre",
       "time": "2026-10-23T18:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/fleetwood-unchained/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Murder, She Didn\u2019t Write",
+      "venue": "Mayflower Studios",
+      "time": "2026-10-23T18:45:00Z",
+      "url": "https://hellosouthampton.co.uk/events/murder-she-didnt-write/",
       "source": "hellosouthampton"
     },
     {
@@ -555,6 +505,13 @@
       "venue": "Board in the City",
       "time": "2026-10-27T19:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/board-in-the-city-halloween-party/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Shirley Traditional Weekly Street Market",
+      "venue": "Shirley Precinct",
+      "time": "2026-10-29T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/shirley-traditional-weekly-street-market/",
       "source": "hellosouthampton"
     },
     {

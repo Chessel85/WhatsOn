@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-23T11:44:09+00:00",
+  "fetched_at": "2026-10-24T11:07:12+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "The Northumbria Mysteries",
-          "series_number": 1,
-          "start_time": "2026-10-23T13:00:00Z",
-          "synopsis": "When a monk is found dead at the priory where he volunteers, ex-con Joe Ruby finds himself investigating the murder alongside the brilliant DI Rose O\u2019Connell.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0030tpv"
-        },
         {
           "title": "This City Is Ours",
           "series_number": 2,
@@ -66,7 +59,15 @@
       "name": "BBC Three",
       "type": "tv",
       "confidence": "high",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "The Traitors Ireland",
+          "series_number": 2,
+          "start_time": "2026-10-30T22:00:00Z",
+          "synopsis": "Siobh\u00e1n McSweeney welcomes a group of strangers to Slane Castle to play the ultimate murder mystery game. Siobh\u00e1n picks her Traitors, but this time, there\u2019s a twist that causes immediate confusion.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0033hmj"
+        }
+      ]
     },
     {
       "id": "bbc_four",
@@ -81,13 +82,6 @@
       "type": "radio",
       "confidence": "medium",
       "new_series": [
-        {
-          "title": "Limelight",
-          "series_number": null,
-          "start_time": "2026-10-23T13:15:00Z",
-          "synopsis": "When a research vessel is stranded by a ferocious Arctic storm, help arrives in an unexpected form. A supernatural thriller by Cambria Bailey-Jones and Guy Larsen.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0phn7gk"
-        },
         {
           "title": "Drama on 4",
           "series_number": null,

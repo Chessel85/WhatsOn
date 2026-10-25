@@ -471,3 +471,4 @@ fetched_at,temperature_c,feels_like_c,condition,wind_speed_mph,precipitation_mm
 2026-10-24T20:38:54+00:00,16.0,13.0,Light drizzle,19.5,0.1
 2026-10-24T23:00:33+00:00,12.4,8.5,Light drizzle,14.5,0.1
 2026-10-25T03:57:38+00:00,10.7,6.2,Partly cloudy,14.5,0.0
+2026-10-25T09:04:45+00:00,9.9,5.6,Dense drizzle,14.3,1.1

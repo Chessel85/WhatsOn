@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T22:01:35+00:00",
+  "fetched_at": "2026-10-25T01:55:16+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -19,42 +19,6 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9803625",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/MSC-Virtuosa-1981",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MSC%20VIRTUOSA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "IONA",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-10-24",
-        "time": "2026-10-24T05:30:00Z"
-      },
-      "departure": {
-        "date": "2026-10-24",
-        "time": "2026-10-24T22:59:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9826548",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Iona-1858",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=IONA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "SKY PRINCESS",
-      "berth": "38/9",
-      "arrival": {
-        "date": "2026-10-24",
-        "time": "2026-10-24T05:40:00Z"
-      },
-      "departure": {
-        "date": "2026-10-24",
-        "time": "2026-10-24T22:00:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9802396",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Sky-Princess-2154",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=SKY%20PRINCESS%20cruise%20ship"
       }
     },
     {
@@ -465,6 +429,26 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9320556",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Queen-Victoria-630",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=QUEEN%20VICTORIA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "BOREALIS",
+      "berth": "101",
+      "arrival": {
+        "date": "2026-11-08",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-11-08",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9122552",
+        "cruisemapper_url": null,
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BOREALIS%20cruise%20ship"
       }
     }
   ]

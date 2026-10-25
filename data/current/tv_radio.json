@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T11:07:12+00:00",
+  "fetched_at": "2026-10-25T11:37:37+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -95,6 +95,13 @@
           "start_time": "2026-10-26T11:00:00Z",
           "synopsis": "Every UK government says it wants  strong and sustained economic growth. But for almost 20 years none have managed it. Ben Chu asks why generating growth seems so difficult?",
           "url": null
+        },
+        {
+          "title": "Stand-Up Specials",
+          "series_number": null,
+          "start_time": "2026-10-31T23:00:00Z",
+          "synopsis": "International comedy sensation Randy Feltface in his brand-new series about humans - from the perspective of a non-human.",
+          "url": null
         }
       ]
     },
@@ -103,7 +110,15 @@
       "name": "BBC World Service",
       "type": "radio",
       "confidence": "medium",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "Inheritance",
+          "series_number": null,
+          "start_time": "2026-10-31T18:32:30Z",
+          "synopsis": "Gianni Agnelli's death sets off an earthquake that will shake his family to the core, and threaten the foundations of the Fiat business.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pfqmrs"
+        }
+      ]
     },
     {
       "id": "itv1",

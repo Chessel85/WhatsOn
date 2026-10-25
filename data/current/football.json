@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T10:50:26+00:00",
+  "fetched_at": "2026-10-25T11:16:34+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -9,10 +9,10 @@
       "name": "Southampton FC",
       "league": {
         "competition": "Championship",
-        "position": 8,
-        "points": 17,
-        "played": 11,
-        "remaining": 35
+        "position": 6,
+        "points": 20,
+        "played": 12,
+        "remaining": 34
       },
       "cups": [
         {
@@ -21,13 +21,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-10-24T14:00Z",
-          "opponent": "West Ham United",
-          "home_away": "away",
-          "venue": "London Stadium",
-          "competition": "Championship"
-        },
         {
           "date": "2026-10-31T15:00Z",
           "opponent": "Queens Park Rangers",
@@ -397,6 +390,16 @@
           "goals_for": 0,
           "goals_against": 0,
           "outcome": "D"
+        },
+        {
+          "date": "2026-10-24T14:00Z",
+          "opponent": "West Ham United",
+          "home_away": "away",
+          "venue": "London Stadium",
+          "competition": "Championship",
+          "goals_for": 3,
+          "goals_against": 2,
+          "outcome": "W"
         }
       ]
     },
@@ -405,7 +408,7 @@
       "name": "AFC Bournemouth",
       "league": {
         "competition": "Premier League",
-        "position": 15,
+        "position": 17,
         "points": 6,
         "played": 7,
         "remaining": 31
@@ -730,10 +733,10 @@
       "name": "Eastleigh FC",
       "league": {
         "competition": "National League",
-        "position": 17,
-        "points": 15,
-        "played": 13,
-        "remaining": 33
+        "position": 15,
+        "points": 18,
+        "played": 14,
+        "remaining": 32
       },
       "cups": [
         {
@@ -742,13 +745,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-10-24T11:30Z",
-          "opponent": "Boston United",
-          "home_away": "home",
-          "venue": "Silverlake Stadium",
-          "competition": "National League"
-        },
         {
           "date": "2026-10-28T19:45Z",
           "opponent": "Forest Green Rovers",
@@ -1111,6 +1107,16 @@
           "goals_for": 0,
           "goals_against": 2,
           "outcome": "L"
+        },
+        {
+          "date": "2026-10-24T11:30Z",
+          "opponent": "Boston United",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "National League",
+          "goals_for": 4,
+          "goals_against": 2,
+          "outcome": "W"
         }
       ]
     }

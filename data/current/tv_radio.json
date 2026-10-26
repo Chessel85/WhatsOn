@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-25T11:37:37+00:00",
+  "fetched_at": "2026-10-26T13:09:49+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -10,18 +10,18 @@
       "confidence": "high",
       "new_series": [
         {
-          "title": "This City Is Ours",
-          "series_number": 2,
-          "start_time": "2026-10-25T21:00:00Z",
-          "synopsis": "Michael and Diana have barely arrived in their Spanish happy town when they are dragged back into the fold to answer questions around Ricardo\u2019s death.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0031lrz"
-        },
-        {
           "title": "Celebrity Race Across the World",
           "series_number": 4,
           "start_time": "2026-10-28T20:00:00Z",
           "synopsis": "Four famous faces paired with a friend or a loved one must tackle the most formidable race yet - traversing the ancient jungles and indigenous heartlands of Borneo to the southern tip of Australia.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0033jsp"
+        },
+        {
+          "title": "Blue Planet III",
+          "series_number": 1,
+          "start_time": "2026-11-01T20:00:00Z",
+          "synopsis": "In the tropical seas, year-round sunshine has created the perfect conditions for the ocean\u2019s richest habitats to flourish, but survival takes remarkable and surprising ingenuity.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m002zl67"
         }
       ]
     },
@@ -31,13 +31,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Mortimer & Whitehouse: Gone Fishing",
-          "series_number": 9,
-          "start_time": "2026-10-25T21:00:00Z",
-          "synopsis": "Paul and Bob are joined by terrier Ted, sadly for the final time, to fish the River Ribble in Lancashire. They are hoping to catch barbel, and Ted hopes to taste Bob\u2019s hotpot.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0032jcd"
-        },
         {
           "title": "Escaping Idi Amin",
           "series_number": 1,
@@ -83,18 +76,11 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Drama on 4",
-          "series_number": null,
-          "start_time": "2026-10-25T15:00:00Z",
-          "synopsis": "A new adaptation celebrating the 300th anniversary of Jonathan Swift\u2019s satire. Shipwrecked in Lilliput, Gulliver is first a giant among tiny people, then a curiosity among giants.",
-          "url": null
-        },
-        {
           "title": "Understand",
           "series_number": null,
           "start_time": "2026-10-26T11:00:00Z",
           "synopsis": "Every UK government says it wants  strong and sustained economic growth. But for almost 20 years none have managed it. Ben Chu asks why generating growth seems so difficult?",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0phrszt"
         },
         {
           "title": "Stand-Up Specials",
@@ -114,7 +100,7 @@
         {
           "title": "Inheritance",
           "series_number": null,
-          "start_time": "2026-10-31T18:32:30Z",
+          "start_time": "2026-11-01T11:32:30Z",
           "synopsis": "Gianni Agnelli's death sets off an earthquake that will shake his family to the core, and threaten the foundations of the Fiat business.",
           "url": "https://www.bbc.co.uk/sounds/play/p0pfqmrs"
         }

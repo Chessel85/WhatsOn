@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-25T11:16:34+00:00",
+  "fetched_at": "2026-10-26T12:50:13+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -408,10 +408,10 @@
       "name": "AFC Bournemouth",
       "league": {
         "competition": "Premier League",
-        "position": 17,
-        "points": 6,
-        "played": 7,
-        "remaining": 31
+        "position": 13,
+        "points": 9,
+        "played": 8,
+        "remaining": 30
       },
       "cups": [
         {
@@ -420,13 +420,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-10-25T14:00Z",
-          "opponent": "Manchester United",
-          "home_away": "away",
-          "venue": "Old Trafford",
-          "competition": "Premier League"
-        },
         {
           "date": "2026-10-28T19:45Z",
           "opponent": "Aston Villa",
@@ -723,6 +716,16 @@
           "venue": "Vitality Stadium",
           "competition": "Premier League",
           "goals_for": 2,
+          "goals_against": 0,
+          "outcome": "W"
+        },
+        {
+          "date": "2026-10-25T14:00Z",
+          "opponent": "Manchester United",
+          "home_away": "away",
+          "venue": "Old Trafford",
+          "competition": "Premier League",
+          "goals_for": 3,
           "goals_against": 0,
           "outcome": "W"
         }

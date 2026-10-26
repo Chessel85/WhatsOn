@@ -477,3 +477,4 @@ fetched_at,temperature_c,feels_like_c,condition,wind_speed_mph,precipitation_mm
 2026-10-25T21:32:56+00:00,10.2,6.5,Partly cloudy,10.3,0.0
 2026-10-25T23:57:49+00:00,9.6,6.3,Overcast,7.8,0.0
 2026-10-26T04:30:30+00:00,10.4,8.5,Overcast,3.6,0.0
+2026-10-26T10:51:18+00:00,11.6,9.2,Slight rain,11.9,1.5

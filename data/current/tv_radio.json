@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T13:09:49+00:00",
+  "fetched_at": "2026-10-27T12:18:09+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -31,13 +31,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Escaping Idi Amin",
-          "series_number": 1,
-          "start_time": "2026-10-26T21:00:00Z",
-          "synopsis": "In 1972, Ugandan dictator Idi Amin announces a plan to throw all Asians out of the country within 90 days. Will they be able to flee on their British passports?",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0033gxj"
-        },
         {
           "title": "The Future with Hannah Fry",
           "series_number": 2,
@@ -76,18 +69,39 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Understand",
-          "series_number": null,
-          "start_time": "2026-10-26T11:00:00Z",
-          "synopsis": "Every UK government says it wants  strong and sustained economic growth. But for almost 20 years none have managed it. Ben Chu asks why generating growth seems so difficult?",
-          "url": "https://www.bbc.co.uk/sounds/play/p0phrszt"
-        },
-        {
           "title": "Stand-Up Specials",
           "series_number": null,
           "start_time": "2026-10-31T23:00:00Z",
           "synopsis": "International comedy sensation Randy Feltface in his brand-new series about humans - from the perspective of a non-human.",
           "url": null
+        },
+        {
+          "title": "Politically",
+          "series_number": null,
+          "start_time": "2026-11-02T13:45:00Z",
+          "synopsis": "David Runciman explores the intertwined events of 1956: the Suez Crisis, the Hungarian revolution the American presidential election.",
+          "url": null
+        },
+        {
+          "title": "A Charles Paris Mystery",
+          "series_number": null,
+          "start_time": "2026-11-02T14:15:00Z",
+          "synopsis": "Charles lands a role as a butler in reality show Murder in the Park, and it\u2019s not long before one of the guests ends up dead.",
+          "url": null
+        },
+        {
+          "title": "Arc",
+          "series_number": null,
+          "start_time": "2026-11-02T22:45:00Z",
+          "synopsis": "Noughties popstar Lucy Green is making her big comeback, but will her problems with addiction threaten it all? Sober companion Tim is hired to get her to rehab\u2026 in Arizona.",
+          "url": null
+        },
+        {
+          "title": "Limelight",
+          "series_number": null,
+          "start_time": "2026-11-02T23:00:00Z",
+          "synopsis": "Ten years married and overlooked, Josie has fallen for a charming aid worker she has never met. One private video later, he wants ten grand. Comedy thriller stars Jessica Gunning.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0hb2nfv"
         }
       ]
     },
@@ -111,15 +125,7 @@
       "name": "ITV1",
       "type": "tv",
       "confidence": "low",
-      "new_series": [
-        {
-          "title": "Lingo",
-          "series_number": 5,
-          "start_time": "2026-10-26T15:00:00Z",
-          "synopsis": "Adil Ray hosts as twin sisters Dee and Noreen, married couple Tom and Kyle, and siblings Bobby and Beena compete in the fast-paced game of words.",
-          "url": "https://www.tvmaze.com/episodes/3793713/lingo-5x01-episode-1"
-        }
-      ]
+      "new_series": []
     }
   ]
 }

@@ -1,8 +1,26 @@
 {
-  "fetched_at": "2026-10-27T09:23:19+00:00",
+  "fetched_at": "2026-10-27T16:55:04+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
+    {
+      "ship_name": "BRITANNIA",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-10-30",
+        "time": "2026-10-30T04:45:00Z"
+      },
+      "departure": {
+        "date": "2026-10-30",
+        "time": "2026-10-30T16:00:00Z"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614036",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Britannia-1028",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BRITANNIA%20cruise%20ship"
+      }
+    },
     {
       "ship_name": "MSC PREZIOSA",
       "berth": "102",
@@ -22,26 +40,6 @@
       }
     },
     {
-      "ship_name": "BRITANNIA",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-10-30",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "departure": {
-        "date": "2026-10-30",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614036",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Britannia-1028",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BRITANNIA%20cruise%20ship"
-      }
-    },
-    {
       "ship_name": "IONA",
       "berth": "46",
       "arrival": {
@@ -57,6 +55,24 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9826548",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Iona-1858",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=IONA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "MSC VIRTUOSA",
+      "berth": "102",
+      "arrival": {
+        "date": "2026-10-31",
+        "time": "2026-10-31T06:15:00Z"
+      },
+      "departure": {
+        "date": "2026-10-31",
+        "time": "2026-10-31T17:00:00Z"
+      },
+      "agent": "DENHOLM PORT SERVICES LTD",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9803625",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/MSC-Virtuosa-1981",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MSC%20VIRTUOSA%20cruise%20ship"
       }
     },
     {
@@ -82,7 +98,7 @@
       "berth": "101",
       "arrival": {
         "date": "2026-10-31",
-        "time": "2026-10-31T07:00:00Z"
+        "time": "2026-10-31T06:30:00Z"
       },
       "departure": {
         "date": "2026-10-31",
@@ -93,26 +109,6 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9156474",
         "cruisemapper_url": null,
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=REGATTA%20cruise%20ship"
-      }
-    },
-    {
-      "ship_name": "MSC VIRTUOSA",
-      "berth": "102",
-      "arrival": {
-        "date": "2026-10-31",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "departure": {
-        "date": "2026-10-31",
-        "time": null,
-        "time_label": "TBA"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9803625",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/MSC-Virtuosa-1981",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=MSC%20VIRTUOSA%20cruise%20ship"
       }
     },
     {

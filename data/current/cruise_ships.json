@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-27T23:16:36+00:00",
+  "fetched_at": "2026-10-28T02:43:32+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -347,6 +347,46 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9241061",
         "cruisemapper_url": "https://www.cruisemapper.com/ships/Queen-Mary-2-721",
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=QUEEN%20MARY%202%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "ARCADIA",
+      "berth": "106",
+      "arrival": {
+        "date": "2026-11-11",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-11-11",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9226906",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Arcadia-626",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=ARCADIA%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "QUEEN VICTORIA",
+      "berth": "46",
+      "arrival": {
+        "date": "2026-11-11",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "departure": {
+        "date": "2026-11-11",
+        "time": null,
+        "time_label": "TBA"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9320556",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/Queen-Victoria-630",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=QUEEN%20VICTORIA%20cruise%20ship"
       }
     }
   ]

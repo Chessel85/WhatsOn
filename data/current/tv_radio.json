@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T13:01:14+00:00",
+  "fetched_at": "2026-10-29T13:08:35+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Celebrity Race Across the World",
-          "series_number": 4,
-          "start_time": "2026-10-28T20:00:00Z",
-          "synopsis": "Four famous faces paired with a friend or a loved one must tackle the most formidable race yet - traversing the ancient jungles and indigenous heartlands of Borneo to the southern tip of Australia.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0033jsp"
-        },
         {
           "title": "Blue Planet III",
           "series_number": 1,
@@ -37,15 +30,7 @@
       "name": "BBC Two",
       "type": "tv",
       "confidence": "high",
-      "new_series": [
-        {
-          "title": "The Future with Hannah Fry",
-          "series_number": 2,
-          "start_time": "2026-10-28T19:30:00Z",
-          "synopsis": "Professor Hannah Fry explores the promises and threats of AI, considering the ways in which superintelligent machines can help humanity as well as the ways in which they can be a hindrance. ",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0033gvw"
-        }
-      ]
+      "new_series": []
     },
     {
       "id": "bbc_three",

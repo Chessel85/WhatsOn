@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T12:42:24+00:00",
+  "fetched_at": "2026-10-29T12:52:30+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -416,17 +416,10 @@
       "cups": [
         {
           "competition": "EFL Cup",
-          "status": "in_progress"
+          "status": "through"
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-10-28T19:45Z",
-          "opponent": "Aston Villa",
-          "home_away": "home",
-          "venue": "Vitality Stadium",
-          "competition": "EFL Cup"
-        },
         {
           "date": "2026-10-31T15:00Z",
           "opponent": "Leeds United",
@@ -728,6 +721,16 @@
           "goals_for": 3,
           "goals_against": 0,
           "outcome": "W"
+        },
+        {
+          "date": "2026-10-28T19:45Z",
+          "opponent": "Aston Villa",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "EFL Cup",
+          "goals_for": 3,
+          "goals_against": 0,
+          "outcome": "W"
         }
       ]
     },
@@ -736,10 +739,10 @@
       "name": "Eastleigh FC",
       "league": {
         "competition": "National League",
-        "position": 15,
+        "position": 17,
         "points": 18,
-        "played": 14,
-        "remaining": 32
+        "played": 15,
+        "remaining": 31
       },
       "cups": [
         {
@@ -748,13 +751,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-10-28T19:45Z",
-          "opponent": "Forest Green Rovers",
-          "home_away": "away",
-          "venue": "The Bolt New Lawn",
-          "competition": "National League"
-        },
         {
           "date": "2026-10-31T15:00Z",
           "opponent": "Barrow",
@@ -1120,6 +1116,16 @@
           "goals_for": 4,
           "goals_against": 2,
           "outcome": "W"
+        },
+        {
+          "date": "2026-10-28T19:45Z",
+          "opponent": "Forest Green Rovers",
+          "home_away": "away",
+          "venue": "The Bolt New Lawn",
+          "competition": "National League",
+          "goals_for": 0,
+          "goals_against": 2,
+          "outcome": "L"
         }
       ]
     }

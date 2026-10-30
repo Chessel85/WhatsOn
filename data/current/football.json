@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T12:52:30+00:00",
+  "fetched_at": "2026-10-30T12:43:58+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -416,7 +416,7 @@
       "cups": [
         {
           "competition": "EFL Cup",
-          "status": "through"
+          "status": "in_progress"
         }
       ],
       "fixtures": [
@@ -468,6 +468,13 @@
           "home_away": "away",
           "venue": "Emirates Stadium",
           "competition": "Premier League"
+        },
+        {
+          "date": "2026-12-15T20:00Z",
+          "opponent": "Liverpool",
+          "home_away": "away",
+          "venue": "Anfield",
+          "competition": "EFL Cup"
         },
         {
           "date": "2026-12-19T15:00Z",

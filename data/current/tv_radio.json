@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T13:08:35+00:00",
+  "fetched_at": "2026-10-30T13:00:35+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -30,7 +30,15 @@
       "name": "BBC Two",
       "type": "tv",
       "confidence": "high",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "Rise of the Rockstar Chef",
+          "series_number": 1,
+          "start_time": "2026-11-05T21:00:00Z",
+          "synopsis": "Marco Pierre White's meteoric rise opening Harvey's and how the unpredictable young genius took fledgling Gordon Ramsay under his wing as a young Heston Blumenthal began his career.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0031nrp"
+        }
+      ]
     },
     {
       "id": "bbc_three",
@@ -65,7 +73,7 @@
           "series_number": null,
           "start_time": "2026-10-31T23:00:00Z",
           "synopsis": "International comedy sensation Randy Feltface in his brand-new series about humans - from the perspective of a non-human.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0pj8tqv"
         },
         {
           "title": "Politically",

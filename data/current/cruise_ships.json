@@ -1,26 +1,8 @@
 {
-  "fetched_at": "2026-10-30T10:29:52+00:00",
+  "fetched_at": "2026-10-30T17:18:14+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "BRITANNIA",
-      "berth": "46",
-      "arrival": {
-        "date": "2026-10-30",
-        "time": "2026-10-30T04:46:00Z"
-      },
-      "departure": {
-        "date": "2026-10-30",
-        "time": "2026-10-30T16:00:00Z"
-      },
-      "agent": "CARNIVAL UK",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9614036",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Britannia-1028",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BRITANNIA%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "MSC PREZIOSA",
       "berth": "102",
@@ -170,8 +152,7 @@
       "berth": "106",
       "arrival": {
         "date": "2026-11-05",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-11-05T06:15:00Z"
       },
       "departure": {
         "date": "2026-11-05",

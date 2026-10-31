@@ -1,265 +1,118 @@
 {
-  "fetched_at": "2026-10-30T11:50:46+00:00",
+  "fetched_at": "2026-10-31T11:24:08+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
+      "title": "Lymington Market",
+      "venue": "High Street, Lymington",
+      "time": "2026-10-31T07:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/lymington-market/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Weekly Street Market in Southampton",
       "venue": "The Bargate",
-      "time": "2026-10-30T08:00:00Z",
+      "time": "2026-10-31T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/weekly-street-market-in-southampton/",
       "source": "hellosouthampton"
     },
     {
       "title": "Pumpkin Time at Sunnyfields Farm 2026",
       "venue": "Sunnyfields Farm",
-      "time": "2026-10-30T09:00:00Z",
+      "time": "2026-10-31T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/pumpkin-time-at-sunnyfields-farm/",
       "source": "hellosouthampton"
     },
     {
       "title": "Droxford Pumpkin Patch 2026",
       "venue": "Droxford",
-      "time": "2026-10-30T09:00:00Z",
+      "time": "2026-10-31T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/droxford-pumpkin-patch/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton parkrun",
+      "venue": "Southampton Common",
+      "time": "2026-10-31T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-parkrun/",
       "source": "hellosouthampton"
     },
     {
       "title": "The Lost Halloween Spell \u2013 A Seasonal Woodland Trail",
       "venue": "River Hamble Country Park",
-      "time": "2026-10-30T09:30:00Z",
+      "time": "2026-10-31T09:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/the-lost-halloween-spell-a-seasonal-woodland-trail/",
       "source": "hellosouthampton"
     },
     {
       "title": "Halloween Spooktacular at Paultons Park 2026",
       "venue": "Paultons Park",
-      "time": "2026-10-30T10:00:00Z",
+      "time": "2026-10-31T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
       "source": "hellosouthampton"
     },
     {
       "title": "Halloween at Calshot Castle",
       "venue": "Calshot Castle",
-      "time": "2026-10-30T10:00:00Z",
+      "time": "2026-10-31T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/halloween-at-calshot-castle/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Halloween Pumpkin Shooting",
-      "venue": "Hazel Copse Farm",
-      "time": "2026-10-30T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/halloween-pumpkin-shooting/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The (not so) Spooky Sparkle Ball!",
-      "venue": "Hanger Farm",
-      "time": "2026-10-30T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-not-so-spooky-sparkle-ball/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Halloween at Tudor House",
-      "venue": "Tudor House & Garden",
-      "time": "2026-10-30T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/halloween-at-tudor-house/",
       "source": "hellosouthampton"
     },
     {
       "title": "Wild Autumn at Marwell Zoo",
       "venue": "Marwell Zoo",
-      "time": "2026-10-30T10:00:00Z",
+      "time": "2026-10-31T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/wild-autumn-at-marwell-zoo/",
       "source": "hellosouthampton"
     },
     {
       "title": "Halloween at Hurst Castle",
       "venue": "Hurst Castle",
-      "time": "2026-10-30T10:00:00Z",
+      "time": "2026-10-31T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/halloween-at-hurst-castle/",
       "source": "hellosouthampton"
     },
     {
       "title": "We\u2019re Going on a Ghost Hunt Halloween Adventure",
       "venue": "Mottisfont",
-      "time": "2026-10-30T10:00:00Z",
+      "time": "2026-10-31T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/were-going-on-a-ghost-hunt-halloween-adventure/",
       "source": "hellosouthampton"
     },
     {
       "title": "Enchanted Lepe Trail",
       "venue": "Lepe Country Park",
-      "time": "2026-10-30T10:00:00Z",
+      "time": "2026-10-31T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/enchanted-lepe-trail/",
       "source": "hellosouthampton"
     },
     {
       "title": "Halloween at Manor Farm",
       "venue": "Manor Farm",
-      "time": "2026-10-30T10:00:00Z",
+      "time": "2026-10-31T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/halloween-at-manor-farm/",
       "source": "hellosouthampton"
     },
     {
       "title": "Pumpkin Carving at Exbury Gardens",
       "venue": "Exbury Gardens",
-      "time": "2026-10-30T10:00:00Z",
+      "time": "2026-10-31T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/pumpkin-carving-at-exbury-gardens/",
       "source": "hellosouthampton"
     },
     {
       "title": "Haunted Circus Trail at Exbury Gardens",
       "venue": "Exbury Gardens",
-      "time": "2026-10-30T10:00:00Z",
+      "time": "2026-10-31T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/haunted-circus-trail-at-exbury-gardens/",
       "source": "hellosouthampton"
     },
     {
       "title": "Spirit Of The Woods Halloween Trail",
       "venue": "Itchen Valley Country Park",
-      "time": "2026-10-30T10:00:00Z",
+      "time": "2026-10-31T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/spirit-of-the-woods-halloween-trail/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Howl-O-Ween",
-      "venue": "New Forest Wildlife Park",
-      "time": "2026-10-30T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/howl-o-ween/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Bitterne United Reformed Church Jigsaw Puzzle Festival 2026",
-      "venue": "Bitterne United Reformed Church",
-      "time": "2026-10-30T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/bitterne-united-reformed-church-jigsaw-puzzle-festival-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Friendly Frights Family Trail 2026",
-      "venue": "Sir Harold Hillier Gardens",
-      "time": "2026-10-30T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/friendly-frights-family-trail-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Pumpkin Carving at Sir Harold Hillier Gardens",
-      "venue": "Sir Harold Hillier Gardens",
-      "time": "2026-10-30T10:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/pumpkin-carving-at-sir-harold-hillier-gardens/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Halloween Ghost Train: The Curse of the Haunted Circus",
-      "venue": "Exbury Gardens",
-      "time": "2026-10-30T10:45:00Z",
-      "url": "https://hellosouthampton.co.uk/events/halloween-ghost-train-the-curse-of-the-haunted-circus/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Canoe Halloween Treasure Hunt",
-      "venue": "Bailey's Hard",
-      "time": "2026-10-30T11:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/canoe-halloween-treasure-hunt/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Halloween Witches of Watercress Woods",
-      "venue": "The Watercress Line",
-      "time": "2026-10-30T12:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/halloween-witches-of-watercress-woods/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Autumn Rangers 2026",
-      "venue": "Manor Farm",
-      "time": "2026-10-30T13:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/autumn-rangers/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Spooky Festive Fair & Free Fireworks Display",
-      "venue": "Bursledon Car Boot Site",
-      "time": "2026-10-30T14:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/spooky-festive-fair-free-fireworks-display/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "BattleZone: Apocalypse!",
-      "venue": "Bailey's Hard",
-      "time": "2026-10-30T14:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/battlezone-apocalypse/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Go Ape Southampton\u2019s Sundown Adventures",
-      "venue": "Itchen Valley Country Park",
-      "time": "2026-10-30T16:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Halloween After Dark at Flip Out Southampton",
-      "venue": "Flip Out Southampton",
-      "time": "2026-10-30T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/halloween-after-dark-at-flip-out-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Halloween Singles Party @ Turtle Bay Southampton",
-      "venue": "Turtle Bay",
-      "time": "2026-10-30T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/halloween-singles-party-turtle-bay-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Revive 2026",
-      "venue": "Thornden Hall",
-      "time": "2026-10-30T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/revive/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-10-30T19:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Michael Spicer: Hope All\u2019s Well 2026",
-      "venue": "The Berry Theatre",
-      "time": "2026-10-30T19:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/michael-spicer-hope-alls-well/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "SIX The Musical 2026",
-      "venue": "Mayflower Theatre",
-      "time": "2026-10-30T20:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/six-the-musical/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Halloween Weekend at The Cricks",
-      "venue": "The Cricketers Arms",
-      "time": "2026-10-30T21:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/halloween-weekend-at-the-cricks/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "F*CK ME It\u2019s Halloween",
-      "venue": "Engine Rooms",
-      "time": "2026-10-30T22:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/fck-me-its-halloween/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Lymington Market",
-      "venue": "High Street, Lymington",
-      "time": "2026-10-31T07:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/lymington-market/",
       "source": "hellosouthampton"
     },
     {
@@ -270,10 +123,45 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Howl-O-Ween",
+      "venue": "New Forest Wildlife Park",
+      "time": "2026-10-31T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/howl-o-ween/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Bitterne United Reformed Church Jigsaw Puzzle Festival 2026",
+      "venue": "Bitterne United Reformed Church",
+      "time": "2026-10-31T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/bitterne-united-reformed-church-jigsaw-puzzle-festival-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Friendly Frights Family Trail 2026",
+      "venue": "Sir Harold Hillier Gardens",
+      "time": "2026-10-31T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/friendly-frights-family-trail-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Eastleigh Halloween Family Fun Day 2026",
       "venue": "Eastleigh Town Centre",
       "time": "2026-10-31T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/eastleigh-halloween-family-fun-day-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Halloween Ghost Train: The Curse of the Haunted Circus",
+      "venue": "Exbury Gardens",
+      "time": "2026-10-31T10:45:00Z",
+      "url": "https://hellosouthampton.co.uk/events/halloween-ghost-train-the-curse-of-the-haunted-circus/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Canoe Halloween Treasure Hunt",
+      "venue": "Bailey's Hard",
+      "time": "2026-10-31T11:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/canoe-halloween-treasure-hunt/",
       "source": "hellosouthampton"
     },
     {
@@ -305,6 +193,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Halloween Witches of Watercress Woods",
+      "venue": "The Watercress Line",
+      "time": "2026-10-31T12:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/halloween-witches-of-watercress-woods/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Halloween Funday at The View Bar",
       "venue": "Southampton Sports Centre",
       "time": "2026-10-31T14:00:00Z",
@@ -319,10 +214,24 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Spooky Festive Fair & Free Fireworks Display",
+      "venue": "Bursledon Car Boot Site",
+      "time": "2026-10-31T14:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/spooky-festive-fair-free-fireworks-display/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "WTLC Kids Annual Halloween Fancy Dress Party",
       "venue": "Woolston & District Trades & Labour Club",
       "time": "2026-10-31T14:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/wtlc-kids-annual-halloween-fancy-dress-party/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "BattleZone: Apocalypse!",
+      "venue": "Bailey's Hard",
+      "time": "2026-10-31T14:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/battlezone-apocalypse/",
       "source": "hellosouthampton"
     },
     {
@@ -365,6 +274,13 @@
       "venue": "Medbar Southampton",
       "time": "2026-10-31T16:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/halloween-day-time-clubbing/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Go Ape Southampton\u2019s Sundown Adventures",
+      "venue": "Itchen Valley Country Park",
+      "time": "2026-10-31T16:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
       "source": "hellosouthampton"
     },
     {
@@ -424,10 +340,24 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Revive 2026",
+      "venue": "Thornden Hall",
+      "time": "2026-10-31T19:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/revive/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Susan Calman: Tall Tales 2026",
       "venue": "O2 Guildhall Southampton",
       "time": "2026-10-31T19:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/susan-calman/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Moulin Rouge! The Musical",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-31T19:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
       "source": "hellosouthampton"
     },
     {
@@ -445,10 +375,24 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "SIX The Musical 2026",
+      "venue": "Mayflower Theatre",
+      "time": "2026-10-31T20:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/six-the-musical/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Case File 16 \u2013 Halloween",
       "venue": "Popworld",
       "time": "2026-10-31T21:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/case-file-16-halloween/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Halloween Weekend at The Cricks",
+      "venue": "The Cricketers Arms",
+      "time": "2026-10-31T21:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/halloween-weekend-at-the-cricks/",
       "source": "hellosouthampton"
     },
     {
@@ -557,6 +501,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Teeny Tiny Farmers at Manor Farm 2026",
+      "venue": "Manor Farm",
+      "time": "2026-11-06T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/teeny-tiny-farmers-at-manor-farm/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Light Up Totton \u2013 AFC Totton Family Firework Night 2026",
       "venue": "Snows Stadium",
       "time": "2026-11-06T17:00:00Z",
@@ -621,6 +572,27 @@
       "all_day": true
     },
     {
+      "title": "West End Annual Christmas Fair 2026",
+      "venue": "St James' Church",
+      "time": "2026-11-07T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/west-end-annual-christmas-fair/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton Alternative Market 2026",
+      "venue": "The Shooting Star",
+      "time": "2026-11-07T13:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-alternative-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "A Festival of Remembrance Concert",
+      "venue": "Royal Victoria Chapel",
+      "time": "2026-11-07T17:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/a-festival-of-remembrance-concert/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Bishop\u2019s Waltham Community Fireworks 2026",
       "venue": "Hoe Road Recreation Ground",
       "time": "2026-11-07T18:00:00Z",
@@ -639,6 +611,13 @@
       "venue": "North Walls Recreation Ground",
       "time": "2026-11-07T19:45:00Z",
       "url": "https://hellosouthampton.co.uk/events/winchester-round-table-bonfire-fireworks/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton Remembrance Service and Parade 2026",
+      "venue": "Cenotaph",
+      "time": "2026-11-08T10:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-remembrance-service-and-parade/",
       "source": "hellosouthampton"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-30T13:00:35+00:00",
+  "fetched_at": "2026-10-31T12:38:56+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -22,6 +22,13 @@
           "start_time": "2026-11-03T20:00:00Z",
           "synopsis": "Six ambitious chefs enter the MasterChef kitchen ready to prove they have what it takes to succeed in the competition. Across two demanding challenges, they\u2019ll need to demonstrate their skills.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0032s85"
+        },
+        {
+          "title": "Return to Paradise",
+          "series_number": 3,
+          "start_time": "2026-11-06T19:30:00Z",
+          "synopsis": "When an artist is murdered during an avant-garde performance piece for the Dolphin Cove art fair, Mackenzie must use her expertise to find the killer. ",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0033fvf"
         }
       ]
     },
@@ -37,6 +44,13 @@
           "start_time": "2026-11-05T21:00:00Z",
           "synopsis": "Marco Pierre White's meteoric rise opening Harvey's and how the unpredictable young genius took fledgling Gordon Ramsay under his wing as a young Heston Blumenthal began his career.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0031nrp"
+        },
+        {
+          "title": "Naturewatch",
+          "series_number": 1,
+          "start_time": "2026-11-06T19:30:00Z",
+          "synopsis": "The team investigates some of nature\u2019s biggest mysteries: where have all the acorns gone? Just how small is Britain\u2019s smallest bird? And why on earth is a group of crows known as a murder?",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0033vqh"
         }
       ]
     },
@@ -45,15 +59,7 @@
       "name": "BBC Three",
       "type": "tv",
       "confidence": "high",
-      "new_series": [
-        {
-          "title": "The Traitors Ireland",
-          "series_number": 2,
-          "start_time": "2026-10-30T22:00:00Z",
-          "synopsis": "Siobh\u00e1n McSweeney welcomes a group of strangers to Slane Castle to play the ultimate murder mystery game. Siobh\u00e1n picks her Traitors, but this time, there\u2019s a twist that causes immediate confusion.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0033hmj"
-        }
-      ]
+      "new_series": []
     },
     {
       "id": "bbc_four",
@@ -111,9 +117,16 @@
           "url": null
         },
         {
+          "title": "The Naked Week",
+          "series_number": 5,
+          "start_time": "2026-11-06T18:30:00Z",
+          "synopsis": "Andrew Hunter Murray and Jon Holmes return with a bold, audacious take on the week's news.",
+          "url": null
+        },
+        {
           "title": "Artworks",
           "series_number": null,
-          "start_time": "2026-11-03T16:00:00Z",
+          "start_time": "2026-11-06T23:30:00Z",
           "synopsis": "What happens when an artist\u2019s sight begins to disappear? Sociologist Professor Tom Shakespeare explores how sight loss changes the way artists experience the world and create art.",
           "url": null
         }

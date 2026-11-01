@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-31T12:38:56+00:00",
+  "fetched_at": "2026-11-01T13:30:25+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -29,6 +29,13 @@
           "start_time": "2026-11-06T19:30:00Z",
           "synopsis": "When an artist is murdered during an avant-garde performance piece for the Dolphin Cove art fair, Mackenzie must use her expertise to find the killer. ",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0033fvf"
+        },
+        {
+          "title": "The Famous Finish Line",
+          "series_number": 1,
+          "start_time": "2026-11-07T17:45:00Z",
+          "synopsis": "Rick Edwards, Harley Moon Kemp, Mollie Pearce, Molly Rainford and La Voix race in moving podiums across a star-spangled-themed studio to try to win \u00a310,000 for their chosen charity.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m00343tm"
         }
       ]
     },
@@ -75,13 +82,6 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Stand-Up Specials",
-          "series_number": null,
-          "start_time": "2026-10-31T23:00:00Z",
-          "synopsis": "International comedy sensation Randy Feltface in his brand-new series about humans - from the perspective of a non-human.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pj8tqv"
-        },
-        {
           "title": "Politically",
           "series_number": null,
           "start_time": "2026-11-02T13:45:00Z",
@@ -117,17 +117,24 @@
           "url": null
         },
         {
-          "title": "The Naked Week",
-          "series_number": 5,
-          "start_time": "2026-11-06T18:30:00Z",
-          "synopsis": "Andrew Hunter Murray and Jon Holmes return with a bold, audacious take on the week's news.",
-          "url": null
-        },
-        {
           "title": "Artworks",
           "series_number": null,
           "start_time": "2026-11-06T23:30:00Z",
           "synopsis": "What happens when an artist\u2019s sight begins to disappear? Sociologist Professor Tom Shakespeare explores how sight loss changes the way artists experience the world and create art.",
+          "url": null
+        },
+        {
+          "title": "The Kitchen Cabinet",
+          "series_number": 54,
+          "start_time": "2026-11-07T10:30:00Z",
+          "synopsis": "Jay Rayner hosts a culinary panel show packed full of tasty titbits.",
+          "url": null
+        },
+        {
+          "title": "The Naked Week",
+          "series_number": 5,
+          "start_time": "2026-11-07T12:30:00Z",
+          "synopsis": "Andrew Hunter Murray and Jon Holmes return with a bold, audacious take on the week's news.",
           "url": null
         }
       ]

@@ -505,3 +505,4 @@ fetched_at,temperature_c,feels_like_c,condition,wind_speed_mph,precipitation_mm
 2026-11-01T05:15:42+00:00,7.2,4.9,Overcast,6.0,0.0
 2026-11-01T12:55:33+00:00,10.5,8.4,Overcast,6.3,0.0
 2026-11-01T18:19:21+00:00,9.4,7.2,Overcast,5.4,0.0
+2026-11-01T22:37:54+00:00,8.4,6.6,Mainly clear,3.6,0.0

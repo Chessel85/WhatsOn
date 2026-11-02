@@ -1,111 +1,20 @@
 {
-  "fetched_at": "2026-11-01T12:16:50+00:00",
+  "fetched_at": "2026-11-02T14:09:25+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
-      "title": "Romsey Farmers\u2019 Market",
-      "venue": "Alma Road Car Park",
-      "time": "2026-11-01T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/romsey-farmers-market/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Lost Halloween Spell \u2013 A Seasonal Woodland Trail",
-      "venue": "River Hamble Country Park",
-      "time": "2026-11-01T09:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-lost-halloween-spell-a-seasonal-woodland-trail/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Comic Con 2026",
-      "venue": "Places Leisure Eastleigh",
-      "time": "2026-11-01T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-comic-con/",
-      "source": "hellosouthampton"
-    },
-    {
       "title": "Halloween Spooktacular at Paultons Park 2026",
       "venue": "Paultons Park",
-      "time": "2026-11-01T10:00:00Z",
+      "time": "2026-11-02T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/halloween-spooktacular-at-paultons-park/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Wild Autumn at Marwell Zoo",
-      "venue": "Marwell Zoo",
-      "time": "2026-11-01T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/wild-autumn-at-marwell-zoo/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "We\u2019re Going on a Ghost Hunt Halloween Adventure",
-      "venue": "Mottisfont",
-      "time": "2026-11-01T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/were-going-on-a-ghost-hunt-halloween-adventure/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Enchanted Lepe Trail",
-      "venue": "Lepe Country Park",
-      "time": "2026-11-01T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/enchanted-lepe-trail/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Halloween at Manor Farm",
-      "venue": "Manor Farm",
-      "time": "2026-11-01T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/halloween-at-manor-farm/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Spirit Of The Woods Halloween Trail",
-      "venue": "Itchen Valley Country Park",
-      "time": "2026-11-01T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/spirit-of-the-woods-halloween-trail/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Howl-O-Ween",
-      "venue": "New Forest Wildlife Park",
-      "time": "2026-11-01T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/howl-o-ween/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Friendly Frights Family Trail 2026",
-      "venue": "Sir Harold Hillier Gardens",
-      "time": "2026-11-01T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/friendly-frights-family-trail-2026/",
       "source": "hellosouthampton"
     },
     {
       "title": "Go Ape Southampton\u2019s Sundown Adventures",
       "venue": "Itchen Valley Country Park",
-      "time": "2026-11-01T16:30:00Z",
+      "time": "2026-11-02T16:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Firework Night at Valentine Primary School",
-      "venue": "Valentine Primary School",
-      "time": "2026-11-01T17:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/firework-night-at-valentine-primary-school/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Fawley Fireworks Spectacular",
-      "venue": "Gang Warily Recreation Centre",
-      "time": "2026-11-01T17:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/fawley-fireworks-spectacular/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-11-01T19:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
       "source": "hellosouthampton"
     },
     {
@@ -165,6 +74,14 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Fireworks Spectacular",
+      "venue": "Utilita Bowl",
+      "time": "2026-11-06T00:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
+      "source": "visit_southampton",
+      "all_day": true
+    },
+    {
       "title": "Teeny Tiny Farmers at Manor Farm 2026",
       "venue": "Manor Farm",
       "time": "2026-11-06T10:00:00Z",
@@ -200,13 +117,6 @@
       "source": "hellosouthampton"
     },
     {
-      "title": "Fireworks Spectacular at Utilita Bowl",
-      "venue": "Utilita Bowl",
-      "time": "2026-11-06T17:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/fireworks-spectacular-at-utilita-bowl/",
-      "source": "hellosouthampton"
-    },
-    {
       "title": "Fryern Federation Fireworks Night 2026",
       "venue": "Fryern Junior School Field",
       "time": "2026-11-06T17:30:00Z",
@@ -228,10 +138,18 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Southampton Vegan Market",
+      "venue": "Guildhall Square (FREE)",
+      "time": "2026-11-07T00:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
+      "source": "visit_southampton",
+      "all_day": true
+    },
+    {
       "title": "Southampton Fireworks display",
       "venue": "Mayflower Park",
       "time": "2026-11-07T00:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
+      "url": "https://www.visitsouthampton.co.uk/event/southampton-fireworks/266731101/",
       "source": "visit_southampton",
       "all_day": true
     },
@@ -292,11 +210,12 @@
       "source": "hellosouthampton"
     },
     {
-      "title": "Southampton Remembrance Service and Parade 2026",
-      "venue": "Cenotaph",
-      "time": "2026-11-08T10:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-remembrance-service-and-parade/",
-      "source": "hellosouthampton"
+      "title": "Southampton Remembrance Service & Parade",
+      "venue": "The Cenotaph (FREE)",
+      "time": "2026-11-08T00:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/southampton-remembrance-service-and-parade/295541101/",
+      "source": "visit_southampton",
+      "all_day": true
     },
     {
       "title": "Sholing FC Funfair and Fireworks 2026",
@@ -316,7 +235,7 @@
       "title": "Southampton Christmas Market",
       "venue": "city centre (FREE)",
       "time": "2026-11-12T00:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
+      "url": "https://www.visitsouthampton.co.uk/event/southampton-christmas-market/298304101/",
       "source": "visit_southampton",
       "all_day": true
     },
@@ -324,7 +243,7 @@
       "title": "Southampton Film Week",
       "venue": "Citywide",
       "time": "2026-11-13T00:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
+      "url": "https://www.visitsouthampton.co.uk/event/southampton-film-week/286477101/",
       "source": "visit_southampton",
       "all_day": true
     },
@@ -335,6 +254,21 @@
       "url": "https://www.visitsouthampton.co.uk/event/the-southampton-1-5k-5k-10k-%26-half-marathon-morun/283533101/",
       "source": "visit_southampton",
       "all_day": true
+    },
+    {
+      "title": "Southampton Snow Windows Trail: Snowmen on the Loose",
+      "venue": "Citywide",
+      "time": "2026-11-28T00:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/christmas-trail/",
+      "source": "visit_southampton",
+      "all_day": true
+    },
+    {
+      "title": "Romsey Farmers\u2019 Market",
+      "venue": "Alma Road Car Park",
+      "time": "2026-12-06T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/romsey-farmers-market/",
+      "source": "hellosouthampton"
     }
   ]
 }

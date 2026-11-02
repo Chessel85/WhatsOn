@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-01T13:30:25+00:00",
+  "fetched_at": "2026-11-02T16:02:12+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Blue Planet III",
-          "series_number": 1,
-          "start_time": "2026-11-01T20:00:00Z",
-          "synopsis": "In the tropical seas, year-round sunshine has created the perfect conditions for the ocean\u2019s richest habitats to flourish, but survival takes remarkable and surprising ingenuity.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m002zl67"
-        },
         {
           "title": "MasterChef: The Professionals",
           "series_number": 19,
@@ -86,21 +79,21 @@
           "series_number": null,
           "start_time": "2026-11-02T13:45:00Z",
           "synopsis": "David Runciman explores the intertwined events of 1956: the Suez Crisis, the Hungarian revolution the American presidential election.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0pkgflp"
         },
         {
           "title": "A Charles Paris Mystery",
           "series_number": null,
           "start_time": "2026-11-02T14:15:00Z",
           "synopsis": "Charles lands a role as a butler in reality show Murder in the Park, and it\u2019s not long before one of the guests ends up dead.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/m0033p86"
         },
         {
           "title": "Arc",
           "series_number": null,
           "start_time": "2026-11-02T22:45:00Z",
           "synopsis": "Noughties popstar Lucy Green is making her big comeback, but will her problems with addiction threaten it all? Sober companion Tim is hired to get her to rehab\u2026 in Arizona.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0pkgsh9"
         },
         {
           "title": "Limelight",
@@ -136,6 +129,13 @@
           "start_time": "2026-11-07T12:30:00Z",
           "synopsis": "Andrew Hunter Murray and Jon Holmes return with a bold, audacious take on the week's news.",
           "url": null
+        },
+        {
+          "title": "Understand",
+          "series_number": null,
+          "start_time": "2026-11-08T17:10:00Z",
+          "synopsis": "Ros Atkins investigates how technology is changing what we value, from friendship and culture to finance and work, and asks whether these changes amount to a crisis.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p9jcj3"
         }
       ]
     },
@@ -144,15 +144,7 @@
       "name": "BBC World Service",
       "type": "radio",
       "confidence": "medium",
-      "new_series": [
-        {
-          "title": "Inheritance",
-          "series_number": null,
-          "start_time": "2026-11-01T11:32:30Z",
-          "synopsis": "Gianni Agnelli's death sets off an earthquake that will shake his family to the core, and threaten the foundations of the Fiat business.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pfqmrs"
-        }
-      ]
+      "new_series": []
     },
     {
       "id": "itv1",

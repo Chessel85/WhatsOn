@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T15:38:47+00:00",
+  "fetched_at": "2026-11-03T14:02:59+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -411,7 +411,7 @@
       "name": "AFC Bournemouth",
       "league": {
         "competition": "Premier League",
-        "position": 7,
+        "position": 8,
         "points": 12,
         "played": 9,
         "remaining": 29

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T16:02:12+00:00",
+  "fetched_at": "2026-11-03T14:21:43+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -29,6 +29,13 @@
           "start_time": "2026-11-07T17:45:00Z",
           "synopsis": "Rick Edwards, Harley Moon Kemp, Mollie Pearce, Molly Rainford and La Voix race in moving podiums across a star-spangled-themed studio to try to win \u00a310,000 for their chosen charity.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m00343tm"
+        },
+        {
+          "title": "Dashcam Justice",
+          "series_number": 1,
+          "start_time": "2026-11-09T10:45:00Z",
+          "synopsis": "A pedestrian hurls himself at a car in pursuit of an insurance payout. A horse rider films a frightening close pass, and a van mounts the pavement, putting bystanders at risk.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0032vzn"
         }
       ]
     },
@@ -75,34 +82,6 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Politically",
-          "series_number": null,
-          "start_time": "2026-11-02T13:45:00Z",
-          "synopsis": "David Runciman explores the intertwined events of 1956: the Suez Crisis, the Hungarian revolution the American presidential election.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pkgflp"
-        },
-        {
-          "title": "A Charles Paris Mystery",
-          "series_number": null,
-          "start_time": "2026-11-02T14:15:00Z",
-          "synopsis": "Charles lands a role as a butler in reality show Murder in the Park, and it\u2019s not long before one of the guests ends up dead.",
-          "url": "https://www.bbc.co.uk/sounds/play/m0033p86"
-        },
-        {
-          "title": "Arc",
-          "series_number": null,
-          "start_time": "2026-11-02T22:45:00Z",
-          "synopsis": "Noughties popstar Lucy Green is making her big comeback, but will her problems with addiction threaten it all? Sober companion Tim is hired to get her to rehab\u2026 in Arizona.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pkgsh9"
-        },
-        {
-          "title": "Limelight",
-          "series_number": null,
-          "start_time": "2026-11-02T23:00:00Z",
-          "synopsis": "Ten years married and overlooked, Josie has fallen for a charming aid worker she has never met. One private video later, he wants ten grand. Comedy thriller stars Jessica Gunning.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0hb2nfv"
-        },
-        {
           "title": "Drama on 4",
           "series_number": null,
           "start_time": "2026-11-03T14:15:00Z",
@@ -114,13 +93,6 @@
           "series_number": null,
           "start_time": "2026-11-06T23:30:00Z",
           "synopsis": "What happens when an artist\u2019s sight begins to disappear? Sociologist Professor Tom Shakespeare explores how sight loss changes the way artists experience the world and create art.",
-          "url": null
-        },
-        {
-          "title": "The Kitchen Cabinet",
-          "series_number": 54,
-          "start_time": "2026-11-07T10:30:00Z",
-          "synopsis": "Jay Rayner hosts a culinary panel show packed full of tasty titbits.",
           "url": null
         },
         {
@@ -136,6 +108,13 @@
           "start_time": "2026-11-08T17:10:00Z",
           "synopsis": "Ros Atkins investigates how technology is changing what we value, from friendship and culture to finance and work, and asks whether these changes amount to a crisis.",
           "url": "https://www.bbc.co.uk/sounds/play/p0p9jcj3"
+        },
+        {
+          "title": "The Kitchen Cabinet",
+          "series_number": 54,
+          "start_time": "2026-11-09T16:30:00Z",
+          "synopsis": "Jay Rayner hosts a culinary panel show packed full of tasty titbits.",
+          "url": null
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-03T14:02:59+00:00",
+  "fetched_at": "2026-11-04T14:22:55+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -9,10 +9,10 @@
       "name": "Southampton FC",
       "league": {
         "competition": "Championship",
-        "position": 5,
-        "points": 23,
-        "played": 13,
-        "remaining": 33
+        "position": 6,
+        "points": 24,
+        "played": 14,
+        "remaining": 32
       },
       "cups": [
         {
@@ -21,13 +21,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-11-03T20:00Z",
-          "opponent": "West Bromwich Albion",
-          "home_away": "away",
-          "venue": "The Hawthorns",
-          "competition": "Championship"
-        },
         {
           "date": "2026-11-07T15:00Z",
           "opponent": "Preston North End",
@@ -403,6 +396,16 @@
           "goals_for": 4,
           "goals_against": 1,
           "outcome": "W"
+        },
+        {
+          "date": "2026-11-03T20:00Z",
+          "opponent": "West Bromwich Albion",
+          "home_away": "away",
+          "venue": "The Hawthorns",
+          "competition": "Championship",
+          "goals_for": 1,
+          "goals_against": 1,
+          "outcome": "D"
         }
       ]
     },
@@ -466,7 +469,7 @@
           "competition": "Premier League"
         },
         {
-          "date": "2026-12-15T20:00Z",
+          "date": "2026-12-16T20:00Z",
           "opponent": "Liverpool",
           "home_away": "away",
           "venue": "Anfield",

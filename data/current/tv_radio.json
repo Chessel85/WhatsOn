@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-03T14:21:43+00:00",
+  "fetched_at": "2026-11-04T14:37:49+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "MasterChef: The Professionals",
-          "series_number": 19,
-          "start_time": "2026-11-03T20:00:00Z",
-          "synopsis": "Six ambitious chefs enter the MasterChef kitchen ready to prove they have what it takes to succeed in the competition. Across two demanding challenges, they\u2019ll need to demonstrate their skills.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0032s85"
-        },
         {
           "title": "Return to Paradise",
           "series_number": 3,
@@ -82,24 +75,17 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Drama on 4",
-          "series_number": null,
-          "start_time": "2026-11-03T14:15:00Z",
-          "synopsis": "Emergency response teams battle to keep people safe, as flooding hits a Valleys town. By Si\u00e2n Owen. Starring Remy Beasley.",
-          "url": null
-        },
-        {
           "title": "Artworks",
           "series_number": null,
           "start_time": "2026-11-06T23:30:00Z",
           "synopsis": "What happens when an artist\u2019s sight begins to disappear? Sociologist Professor Tom Shakespeare explores how sight loss changes the way artists experience the world and create art.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0pjwthz"
         },
         {
           "title": "The Naked Week",
           "series_number": 5,
           "start_time": "2026-11-07T12:30:00Z",
-          "synopsis": "Andrew Hunter Murray and Jon Holmes return with a bold, audacious take on the week's news.",
+          "synopsis": "From host Andrew Hunter Murray and The Skewer's Jon Holmes, The Naked Week team are back with their silly, satirical mischievous machinations on the week's news.",
           "url": null
         },
         {

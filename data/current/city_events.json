@@ -1,41 +1,20 @@
 {
-  "fetched_at": "2026-11-03T13:14:15+00:00",
+  "fetched_at": "2026-11-04T13:27:23+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
-      "title": "Hythe Village Traditional Weekly Street Market",
-      "venue": "High Street",
-      "time": "2026-11-03T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/hythe-village-traditional-weekly-street-market/",
-      "source": "hellosouthampton"
-    },
-    {
       "title": "The Lost Halloween Spell \u2013 A Seasonal Woodland Trail",
       "venue": "River Hamble Country Park",
-      "time": "2026-11-03T09:30:00Z",
+      "time": "2026-11-04T09:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/the-lost-halloween-spell-a-seasonal-woodland-trail/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Board & Video Games Group",
-      "venue": "Board in the City CiC",
-      "time": "2026-11-03T14:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/board-video-games-group/",
       "source": "hellosouthampton"
     },
     {
       "title": "Go Ape Southampton\u2019s Sundown Adventures",
       "venue": "Itchen Valley Country Park",
-      "time": "2026-11-03T16:30:00Z",
+      "time": "2026-11-04T16:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Moulin Rouge! The Musical",
-      "venue": "Mayflower Theatre",
-      "time": "2026-11-03T19:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/moulin-rouge-the-musical/",
       "source": "hellosouthampton"
     },
     {
@@ -236,6 +215,20 @@
       "venue": "Totton & Eling Cricket Club",
       "time": "2026-11-08T16:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/totton-eling-cricket-club-annual-fireworks-night/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Hythe Village Traditional Weekly Street Market",
+      "venue": "High Street",
+      "time": "2026-11-10T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/hythe-village-traditional-weekly-street-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Board & Video Games Group",
+      "venue": "Board in the City CiC",
+      "time": "2026-11-10T14:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/board-video-games-group/",
       "source": "hellosouthampton"
     },
     {

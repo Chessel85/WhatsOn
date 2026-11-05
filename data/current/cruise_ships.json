@@ -1,26 +1,8 @@
 {
-  "fetched_at": "2026-11-05T11:40:14+00:00",
+  "fetched_at": "2026-11-05T19:07:44+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
-    {
-      "ship_name": "SKY PRINCESS",
-      "berth": "106",
-      "arrival": {
-        "date": "2026-11-05",
-        "time": "2026-11-05T05:08:00Z"
-      },
-      "departure": {
-        "date": "2026-11-05",
-        "time": "2026-11-05T17:00:00Z"
-      },
-      "agent": "DENHOLM PORT SERVICES LTD",
-      "links": {
-        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9802396",
-        "cruisemapper_url": "https://www.cruisemapper.com/ships/Sky-Princess-2154",
-        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=SKY%20PRINCESS%20cruise%20ship"
-      }
-    },
     {
       "ship_name": "MSC PREZIOSA",
       "berth": "102",
@@ -172,13 +154,11 @@
       "berth": "106",
       "arrival": {
         "date": "2026-11-11",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-11-11T05:45:00Z"
       },
       "departure": {
         "date": "2026-11-11",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-11-11T16:00:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {
@@ -192,13 +172,11 @@
       "berth": "46",
       "arrival": {
         "date": "2026-11-11",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-11-11T06:15:00Z"
       },
       "departure": {
         "date": "2026-11-11",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-11-11T16:00:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {

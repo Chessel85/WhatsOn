@@ -1,41 +1,20 @@
 {
-  "fetched_at": "2026-11-04T13:27:23+00:00",
+  "fetched_at": "2026-11-05T13:41:27+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "The Lost Halloween Spell \u2013 A Seasonal Woodland Trail",
-      "venue": "River Hamble Country Park",
-      "time": "2026-11-04T09:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-lost-halloween-spell-a-seasonal-woodland-trail/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Go Ape Southampton\u2019s Sundown Adventures",
-      "venue": "Itchen Valley Country Park",
-      "time": "2026-11-04T16:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Gregg Fireworks Night 2026",
-      "venue": "The Gregg School",
-      "time": "2026-11-04T17:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-gregg-fireworks-night/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "HSPTA Spooks & Sparks Fireworks Spectacular 2026",
-      "venue": "Hiltingbury Schools",
-      "time": "2026-11-04T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/hspta-spooks-sparks-fireworks-spectacular/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Shirley Traditional Weekly Street Market",
       "venue": "Shirley Precinct",
       "time": "2026-11-05T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/shirley-traditional-weekly-street-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Go Ape Southampton\u2019s Sundown Adventures",
+      "venue": "Itchen Valley Country Park",
+      "time": "2026-11-05T16:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
       "source": "hellosouthampton"
     },
     {

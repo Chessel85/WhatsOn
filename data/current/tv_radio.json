@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05T14:42:56+00:00",
+  "fetched_at": "2026-11-06T14:21:13+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -19,7 +19,7 @@
         {
           "title": "The Famous Finish Line",
           "series_number": 1,
-          "start_time": "2026-11-07T17:45:00Z",
+          "start_time": "2026-11-07T17:55:00Z",
           "synopsis": "Rick Edwards, Harley Moon Kemp, Mollie Pearce, Molly Rainford and La Voix race in moving podiums across a star-spangled-themed studio to try to win \u00a310,000 for their chosen charity.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m00343tm"
         },
@@ -29,6 +29,13 @@
           "start_time": "2026-11-09T10:45:00Z",
           "synopsis": "A pedestrian hurls himself at a car in pursuit of an insurance payout. A horse rider films a frightening close pass, and a van mounts the pavement, putting bystanders at risk.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0032vzn"
+        },
+        {
+          "title": "Shetland",
+          "series_number": 11,
+          "start_time": "2026-11-12T21:00:00Z",
+          "synopsis": "When human remains are found in a car dredged from the sea, Calder and Tosh must find the troubled owner who fled the Isles nine years ago.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m003445v"
         }
       ]
     },
@@ -39,18 +46,18 @@
       "confidence": "high",
       "new_series": [
         {
-          "title": "Rise of the Rockstar Chef",
-          "series_number": 1,
-          "start_time": "2026-11-05T21:00:00Z",
-          "synopsis": "Marco Pierre White's meteoric rise opening Harvey's and how the unpredictable young genius took fledgling Gordon Ramsay under his wing as a young Heston Blumenthal began his career.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0031nrp"
-        },
-        {
           "title": "Naturewatch",
           "series_number": 1,
           "start_time": "2026-11-06T19:30:00Z",
           "synopsis": "The team investigates some of nature\u2019s biggest mysteries: where have all the acorns gone? Just how small is Britain\u2019s smallest bird? And why on earth is a group of crows known as a murder?",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0033vqh"
+        },
+        {
+          "title": "Cunk on Cinema",
+          "series_number": 1,
+          "start_time": "2026-11-12T22:00:00Z",
+          "synopsis": "Philomena Cunk begins her history of cinema, meets the biggest names in Hollywood, and learns the true meaning of The Wizard of Oz. ",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0033jdd"
         }
       ]
     },

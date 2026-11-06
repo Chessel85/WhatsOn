@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-06T00:35:04+00:00",
+  "fetched_at": "2026-11-06T11:38:51+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -8,7 +8,7 @@
       "berth": "102",
       "arrival": {
         "date": "2026-11-06",
-        "time": "2026-11-06T06:15:00Z"
+        "time": "2026-11-06T06:46:00Z"
       },
       "departure": {
         "date": "2026-11-06",
@@ -26,7 +26,7 @@
       "berth": "38/9",
       "arrival": {
         "date": "2026-11-06",
-        "time": "2026-11-06T06:30:00Z"
+        "time": "2026-11-06T06:46:00Z"
       },
       "departure": {
         "date": "2026-11-06",
@@ -43,8 +43,8 @@
       "ship_name": "QUEEN VICTORIA",
       "berth": "106",
       "arrival": {
-        "date": "2026-11-06",
-        "time": "2026-11-06T16:45:00Z"
+        "date": "2026-11-07",
+        "time": "2026-11-07T05:00:00Z"
       },
       "departure": {
         "date": "2026-11-07",

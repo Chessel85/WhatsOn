@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05T14:31:55+00:00",
+  "fetched_at": "2026-11-06T14:10:00+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -106,7 +106,7 @@
           "competition": "Championship"
         },
         {
-          "date": "2027-01-23T15:00Z",
+          "date": "2027-01-23T12:30Z",
           "opponent": "Queens Park Rangers",
           "home_away": "away",
           "venue": "MATRADE Loftus Road",
@@ -134,7 +134,7 @@
           "competition": "Championship"
         },
         {
-          "date": "2027-02-13T15:00Z",
+          "date": "2027-02-13T12:30Z",
           "opponent": "Bristol City",
           "home_away": "away",
           "venue": "Ashton Gate",

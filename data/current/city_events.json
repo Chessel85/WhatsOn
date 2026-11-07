@@ -1,87 +1,8 @@
 {
-  "fetched_at": "2026-11-06T13:25:54+00:00",
+  "fetched_at": "2026-11-07T12:04:22+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Teeny Tiny Farmers at Manor Farm 2026",
-      "venue": "Manor Farm",
-      "time": "2026-11-06T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/teeny-tiny-farmers-at-manor-farm/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Go Ape Southampton\u2019s Sundown Adventures",
-      "venue": "Itchen Valley Country Park",
-      "time": "2026-11-06T16:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Light Up Totton \u2013 AFC Totton Family Firework Night 2026",
-      "venue": "Snows Stadium",
-      "time": "2026-11-06T17:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/light-up-totton-afc-totton-family-firework-night-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Ampfield Golf & Country Club Fireworks Night 2026",
-      "venue": "Ampfield Golf & Country Club",
-      "time": "2026-11-06T17:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/ampfield-golf-country-club-fireworks-night/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Swanmore Primary School Fireworks Night 2026",
-      "venue": "Swanmore Primary School",
-      "time": "2026-11-06T17:15:00Z",
-      "url": "https://hellosouthampton.co.uk/events/swanmore-primary-school-fireworks-night/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Fireworks Spectacular at Utilita Bowl",
-      "venue": "Utilita Bowl",
-      "time": "2026-11-06T17:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/fireworks-spectacular-at-utilita-bowl/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Fryern Federation Fireworks Night 2026",
-      "venue": "Fryern Junior School Field",
-      "time": "2026-11-06T17:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/fryern-federation-fireworks-night/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Romsey Town Football Club Fireworks Night 2026",
-      "venue": "Romsey Town Football Club Fireworks Night 2026",
-      "time": "2026-11-06T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/romsey-town-football-club-fireworks-night/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Alresford Rotary Fireworks and Bonfire 2026",
-      "venue": "Arlebury Park",
-      "time": "2026-11-06T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/alresford-rotary-fireworks-and-bonfire/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Vegan Market",
-      "venue": "Guildhall Square (FREE)",
-      "time": "2026-11-07T00:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
-      "source": "visit_southampton",
-      "all_day": true
-    },
-    {
-      "title": "Southampton Fireworks display",
-      "venue": "Mayflower Park",
-      "time": "2026-11-07T00:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/southampton-fireworks/266731101/",
-      "source": "visit_southampton",
-      "all_day": true
-    },
     {
       "title": "Lymington Market",
       "venue": "High Street, Lymington",
@@ -104,10 +25,31 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Southampton Vegan Market 2026",
+      "venue": "Guildhall Square",
+      "time": "2026-11-07T10:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-vegan-market/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Southampton Alternative Market 2026",
       "venue": "The Shooting Star",
       "time": "2026-11-07T13:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/southampton-alternative-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton Fireworks 2026",
+      "venue": "Mayflower Park",
+      "time": "2026-11-07T16:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-fireworks/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Go Ape Southampton\u2019s Sundown Adventures",
+      "venue": "Itchen Valley Country Park",
+      "time": "2026-11-07T16:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
       "source": "hellosouthampton"
     },
     {
@@ -196,6 +138,13 @@
       "url": "https://www.visitsouthampton.co.uk/event/southampton-film-week/286477101/",
       "source": "visit_southampton",
       "all_day": true
+    },
+    {
+      "title": "Teeny Tiny Farmers at Manor Farm 2026",
+      "venue": "Manor Farm",
+      "time": "2026-11-13T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/teeny-tiny-farmers-at-manor-farm/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Mo Run",

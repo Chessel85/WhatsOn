@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07T03:24:42+00:00",
+  "fetched_at": "2026-11-07T10:44:17+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -8,7 +8,7 @@
       "berth": "106",
       "arrival": {
         "date": "2026-11-07",
-        "time": "2026-11-07T05:00:00Z"
+        "time": "2026-11-07T05:14:00Z"
       },
       "departure": {
         "date": "2026-11-07",
@@ -26,7 +26,7 @@
       "berth": "46",
       "arrival": {
         "date": "2026-11-07",
-        "time": "2026-11-07T06:15:00Z"
+        "time": "2026-11-07T06:28:00Z"
       },
       "departure": {
         "date": "2026-11-07",
@@ -44,7 +44,7 @@
       "berth": "102",
       "arrival": {
         "date": "2026-11-07",
-        "time": "2026-11-07T06:15:00Z"
+        "time": "2026-11-07T06:22:00Z"
       },
       "departure": {
         "date": "2026-11-07",
@@ -62,7 +62,7 @@
       "berth": "38/9",
       "arrival": {
         "date": "2026-11-07",
-        "time": "2026-11-07T07:45:00Z"
+        "time": "2026-11-07T08:04:00Z"
       },
       "departure": {
         "date": "2026-11-07",
@@ -91,6 +91,24 @@
         "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9122552",
         "cruisemapper_url": null,
         "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=BOREALIS%20cruise%20ship"
+      }
+    },
+    {
+      "ship_name": "AIDALUNA",
+      "berth": "38/9",
+      "arrival": {
+        "date": "2026-11-09",
+        "time": "2026-11-09T07:30:00Z"
+      },
+      "departure": {
+        "date": "2026-11-09",
+        "time": "2026-11-09T19:00:00Z"
+      },
+      "agent": "CARNIVAL UK",
+      "links": {
+        "marinetraffic_url": "https://www.marinetraffic.com/en/ais/details/ships/imo:9334868",
+        "cruisemapper_url": "https://www.cruisemapper.com/ships/AIDAluna-716",
+        "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=AIDALUNA%20cruise%20ship"
       }
     },
     {

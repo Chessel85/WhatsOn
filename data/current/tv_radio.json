@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-06T14:21:13+00:00",
+  "fetched_at": "2026-11-07T13:08:42+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Return to Paradise",
-          "series_number": 3,
-          "start_time": "2026-11-06T19:30:00Z",
-          "synopsis": "When an artist is murdered during an avant-garde performance piece for the Dolphin Cove art fair, Mackenzie must use her expertise to find the killer. ",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0033fvf"
-        },
         {
           "title": "The Famous Finish Line",
           "series_number": 1,
@@ -45,13 +38,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Naturewatch",
-          "series_number": 1,
-          "start_time": "2026-11-06T19:30:00Z",
-          "synopsis": "The team investigates some of nature\u2019s biggest mysteries: where have all the acorns gone? Just how small is Britain\u2019s smallest bird? And why on earth is a group of crows known as a murder?",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0033vqh"
-        },
         {
           "title": "Cunk on Cinema",
           "series_number": 1,
@@ -89,25 +75,11 @@
           "url": "https://www.bbc.co.uk/sounds/play/p0pjwthz"
         },
         {
-          "title": "The Naked Week",
-          "series_number": 5,
-          "start_time": "2026-11-07T12:30:00Z",
-          "synopsis": "From host Andrew Hunter Murray and The Skewer's Jon Holmes, The Naked Week team are back with their silly, satirical mischievous machinations on the week's news.",
-          "url": null
-        },
-        {
           "title": "Understand",
           "series_number": null,
           "start_time": "2026-11-08T17:10:00Z",
           "synopsis": "Ros Atkins investigates how technology is changing what we value, from friendship and culture to finance and work, and asks whether these changes amount to a crisis.",
           "url": "https://www.bbc.co.uk/sounds/play/p0p9jcj3"
-        },
-        {
-          "title": "The Kitchen Cabinet",
-          "series_number": 54,
-          "start_time": "2026-11-09T16:30:00Z",
-          "synopsis": "Jay Rayner hosts a culinary panel show packed full of tasty titbits.",
-          "url": null
         },
         {
           "title": "Shadow World",

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07T13:08:42+00:00",
+  "fetched_at": "2026-11-08T13:30:09+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "The Famous Finish Line",
-          "series_number": 1,
-          "start_time": "2026-11-07T17:55:00Z",
-          "synopsis": "Rick Edwards, Harley Moon Kemp, Mollie Pearce, Molly Rainford and La Voix race in moving podiums across a star-spangled-themed studio to try to win \u00a310,000 for their chosen charity.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m00343tm"
-        },
         {
           "title": "Dashcam Justice",
           "series_number": 1,
@@ -29,6 +22,20 @@
           "start_time": "2026-11-12T21:00:00Z",
           "synopsis": "When human remains are found in a car dredged from the sea, Calder and Tosh must find the troubled owner who fled the Isles nine years ago.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m003445v"
+        },
+        {
+          "title": "Michael McIntyre's The Wheel",
+          "series_number": 7,
+          "start_time": "2026-11-14T20:00:00Z",
+          "synopsis": "Michael McIntyre hosts his hit game show. The celebrity experts are Michael Ball, Kate Garraway, Isa Guha, Harriet Kemsley, Matt Morsia, Katherine Ryan, Jordan Banjo and Perri Kiely.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0034f6c"
+        },
+        {
+          "title": "Honey",
+          "series_number": 1,
+          "start_time": "2026-11-14T21:00:00Z",
+          "synopsis": "1982, East Berlin. MI6\u2019s Martha Schmitt is paired with the CIA\u2019s Kurt Fischer on a disastrous mission. When the Stasi\u2018s Friedrich Baumann makes a demand of her, how can she refuse?",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m002zlx6"
         }
       ]
     },
@@ -68,13 +75,6 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Artworks",
-          "series_number": null,
-          "start_time": "2026-11-06T23:30:00Z",
-          "synopsis": "What happens when an artist\u2019s sight begins to disappear? Sociologist Professor Tom Shakespeare explores how sight loss changes the way artists experience the world and create art.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pjwthz"
-        },
-        {
           "title": "Understand",
           "series_number": null,
           "start_time": "2026-11-08T17:10:00Z",
@@ -86,7 +86,7 @@
           "series_number": null,
           "start_time": "2026-11-11T09:30:00Z",
           "synopsis": "Eight-year-old Sarah Payne vanishes in West Sussex. As the police hunt grows and the world's media descend, her mother Sara refuses to give up hope that she will be found alive.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0plldrq"
         }
       ]
     },

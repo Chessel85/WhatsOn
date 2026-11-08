@@ -1,27 +1,7 @@
 {
-  "fetched_at": "2026-11-08T00:50:42+00:00",
+  "fetched_at": "2026-11-08T06:56:51+00:00",
   "source": "Southampton Airport",
   "arrivals": [
-    {
-      "time": "2026-11-07T19:10:00",
-      "scheduled_time": "2026-11-07T19:10:00",
-      "flight_number": "LM557",
-      "airline": "Loganair",
-      "status": "Arrived 18:54. Bags at carousel 1",
-      "distance_miles": null,
-      "from": "Jersey",
-      "from_code": "JER"
-    },
-    {
-      "time": "2026-11-07T19:25:00",
-      "scheduled_time": "2026-11-07T19:25:00",
-      "flight_number": "GR658",
-      "airline": "Aurigny",
-      "status": "Arrived 19:08. Bags at carousel 2",
-      "distance_miles": null,
-      "from": "Guernsey",
-      "from_code": "GCI"
-    },
     {
       "time": "2026-11-08T08:45:00",
       "scheduled_time": "2026-11-08T08:45:00",
@@ -91,30 +71,79 @@
       "distance_miles": null,
       "from": "Belfast City",
       "from_code": "BHD"
+    },
+    {
+      "time": "2026-11-08T13:30:00",
+      "scheduled_time": "2026-11-08T13:30:00",
+      "flight_number": "EZY3134",
+      "airline": "easyJet",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Alicante",
+      "from_code": "ALC"
+    },
+    {
+      "time": "2026-11-08T14:45:00",
+      "scheduled_time": "2026-11-08T14:45:00",
+      "flight_number": "GR656",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Guernsey",
+      "from_code": "GCI"
+    },
+    {
+      "time": "2026-11-08T14:45:00",
+      "scheduled_time": "2026-11-08T14:45:00",
+      "flight_number": "GR507",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Alderney",
+      "from_code": "ACI"
+    },
+    {
+      "time": "2026-11-08T15:35:00",
+      "scheduled_time": "2026-11-08T15:35:00",
+      "flight_number": "EZY415",
+      "airline": "easyJet",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Glasgow",
+      "from_code": "GLA"
+    },
+    {
+      "time": "2026-11-08T16:50:00",
+      "scheduled_time": "2026-11-08T16:50:00",
+      "flight_number": "KL1071",
+      "airline": "KLM",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Amsterdam",
+      "from_code": "AMS"
+    },
+    {
+      "time": "2026-11-08T18:40:00",
+      "scheduled_time": "2026-11-08T18:40:00",
+      "flight_number": "EZY2857",
+      "airline": "easyJet",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "from": "Paris ",
+      "from_code": "CDG"
     }
   ],
   "departures": [
     {
-      "time": "2026-11-07T19:40:00",
-      "scheduled_time": "2026-11-07T19:40:00",
-      "flight_number": "LM558",
+      "time": "2026-11-08T09:20:00",
+      "scheduled_time": "2026-11-08T09:20:00",
+      "flight_number": "LM552",
       "airline": "Loganair",
-      "status": "Airborne 19:34",
+      "status": "Scheduled",
       "distance_miles": null,
       "to": "Jersey",
       "to_code": "JER",
-      "check_in_desk": "14-15"
-    },
-    {
-      "time": "2026-11-07T19:55:00",
-      "scheduled_time": "2026-11-07T19:55:00",
-      "flight_number": "GR659",
-      "airline": "Aurigny",
-      "status": "Airborne 19:54",
-      "distance_miles": null,
-      "to": "Guernsey",
-      "to_code": "GCI",
-      "check_in_desk": "16-17"
+      "check_in_desk": null
     },
     {
       "time": "2026-11-08T09:20:00",
@@ -125,17 +154,6 @@
       "distance_miles": null,
       "to": "Dublin",
       "to_code": "DUB",
-      "check_in_desk": null
-    },
-    {
-      "time": "2026-11-08T09:20:00",
-      "scheduled_time": "2026-11-08T09:20:00",
-      "flight_number": "LM552",
-      "airline": "Loganair",
-      "status": "Scheduled",
-      "distance_miles": null,
-      "to": "Jersey",
-      "to_code": "JER",
       "check_in_desk": null
     },
     {
@@ -192,25 +210,71 @@
       "to": "Belfast City",
       "to_code": "BHD",
       "check_in_desk": null
+    },
+    {
+      "time": "2026-11-08T14:00:00",
+      "scheduled_time": "2026-11-08T14:00:00",
+      "flight_number": "EZY416",
+      "airline": "easyJet",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Glasgow",
+      "to_code": "GLA",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-11-08T15:15:00",
+      "scheduled_time": "2026-11-08T15:15:00",
+      "flight_number": "GR657",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Guernsey",
+      "to_code": "GCI",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-11-08T15:25:00",
+      "scheduled_time": "2026-11-08T15:25:00",
+      "flight_number": "GR506",
+      "airline": "Aurigny",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Alderney",
+      "to_code": "ACI",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-11-08T16:05:00",
+      "scheduled_time": "2026-11-08T16:05:00",
+      "flight_number": "EZY3135",
+      "airline": "easyJet",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Alicante",
+      "to_code": "ALC",
+      "check_in_desk": null
+    },
+    {
+      "time": "2026-11-08T17:30:00",
+      "scheduled_time": "2026-11-08T17:30:00",
+      "flight_number": "KL1072",
+      "airline": "KLM",
+      "status": "Scheduled",
+      "distance_miles": null,
+      "to": "Amsterdam",
+      "to_code": "AMS",
+      "check_in_desk": null
     }
   ],
   "rotations": [
     {
-      "arrival_flight_number": "LM557",
-      "arrival_time": "2026-11-07T19:10:00",
+      "arrival_flight_number": "LM551",
+      "arrival_time": "2026-11-08T08:50:00",
       "arrival_from": "Jersey",
-      "departure_flight_number": "LM558",
-      "departure_time": "2026-11-07T19:40:00",
+      "departure_flight_number": "LM552",
+      "departure_time": "2026-11-08T09:20:00",
       "departure_to": "Jersey",
-      "turnaround_minutes": 30
-    },
-    {
-      "arrival_flight_number": "GR658",
-      "arrival_time": "2026-11-07T19:25:00",
-      "arrival_from": "Guernsey",
-      "departure_flight_number": "GR659",
-      "departure_time": "2026-11-07T19:55:00",
-      "departure_to": "Guernsey",
       "turnaround_minutes": 30
     },
     {
@@ -221,15 +285,6 @@
       "departure_time": "2026-11-08T09:20:00",
       "departure_to": "Dublin",
       "turnaround_minutes": 35
-    },
-    {
-      "arrival_flight_number": "LM551",
-      "arrival_time": "2026-11-08T08:50:00",
-      "arrival_from": "Jersey",
-      "departure_flight_number": "LM552",
-      "departure_time": "2026-11-08T09:20:00",
-      "departure_to": "Jersey",
-      "turnaround_minutes": 30
     },
     {
       "arrival_flight_number": "KL1067",
@@ -275,6 +330,42 @@
       "departure_time": "2026-11-08T12:35:00",
       "departure_to": "Belfast City",
       "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "GR656",
+      "arrival_time": "2026-11-08T14:45:00",
+      "arrival_from": "Guernsey",
+      "departure_flight_number": "GR657",
+      "departure_time": "2026-11-08T15:15:00",
+      "departure_to": "Guernsey",
+      "turnaround_minutes": 30
+    },
+    {
+      "arrival_flight_number": "GR507",
+      "arrival_time": "2026-11-08T14:45:00",
+      "arrival_from": "Alderney",
+      "departure_flight_number": "GR506",
+      "departure_time": "2026-11-08T15:25:00",
+      "departure_to": "Alderney",
+      "turnaround_minutes": 40
+    },
+    {
+      "arrival_flight_number": "EZY3134",
+      "arrival_time": "2026-11-08T13:30:00",
+      "arrival_from": "Alicante",
+      "departure_flight_number": "EZY3135",
+      "departure_time": "2026-11-08T16:05:00",
+      "departure_to": "Alicante",
+      "turnaround_minutes": 155
+    },
+    {
+      "arrival_flight_number": "KL1071",
+      "arrival_time": "2026-11-08T16:50:00",
+      "arrival_from": "Amsterdam",
+      "departure_flight_number": "KL1072",
+      "departure_time": "2026-11-08T17:30:00",
+      "departure_to": "Amsterdam",
+      "turnaround_minutes": 40
     }
   ]
 }

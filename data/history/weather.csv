@@ -528,3 +528,4 @@ fetched_at,temperature_c,feels_like_c,condition,wind_speed_mph,precipitation_mm
 2026-11-07T18:32:23+00:00,10.1,9.0,Moderate drizzle,2.0,0.6
 2026-11-07T22:34:02+00:00,8.1,6.9,Clear sky,2.5,0.0
 2026-11-08T02:09:50+00:00,7.0,5.8,Partly cloudy,1.6,0.0
+2026-11-08T09:59:01+00:00,5.7,4.3,Fog,1.1,0.0

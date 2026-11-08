@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07T12:52:46+00:00",
+  "fetched_at": "2026-11-08T13:15:03+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -11,8 +11,8 @@
         "competition": "Championship",
         "position": 7,
         "points": 24,
-        "played": 14,
-        "remaining": 32
+        "played": 15,
+        "remaining": 31
       },
       "cups": [
         {
@@ -21,13 +21,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-11-07T15:00Z",
-          "opponent": "Preston North End",
-          "home_away": "away",
-          "venue": "Deepdale",
-          "competition": "Championship"
-        },
         {
           "date": "2026-11-21T12:30Z",
           "opponent": "Derby County",
@@ -406,6 +399,16 @@
           "goals_for": 1,
           "goals_against": 1,
           "outcome": "D"
+        },
+        {
+          "date": "2026-11-07T15:00Z",
+          "opponent": "Preston North End",
+          "home_away": "away",
+          "venue": "Deepdale",
+          "competition": "Championship",
+          "goals_for": 0,
+          "goals_against": 1,
+          "outcome": "L"
         }
       ]
     },
@@ -414,7 +417,7 @@
       "name": "AFC Bournemouth",
       "league": {
         "competition": "Premier League",
-        "position": 8,
+        "position": 9,
         "points": 12,
         "played": 9,
         "remaining": 29
@@ -763,17 +766,10 @@
       "cups": [
         {
           "competition": "FA Cup",
-          "status": "in_progress"
+          "status": "knocked_out"
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-11-07T15:00Z",
-          "opponent": "Shrewsbury Town",
-          "home_away": "home",
-          "venue": "Silverlake Stadium",
-          "competition": "FA Cup"
-        },
         {
           "date": "2026-11-14T15:00Z",
           "opponent": "AFC Fylde",
@@ -1145,6 +1141,16 @@
           "goals_for": 1,
           "goals_against": 1,
           "outcome": "D"
+        },
+        {
+          "date": "2026-11-07T15:00Z",
+          "opponent": "Shrewsbury Town",
+          "home_away": "home",
+          "venue": "Silverlake Stadium",
+          "competition": "FA Cup",
+          "goals_for": 1,
+          "goals_against": 2,
+          "outcome": "L"
         }
       ]
     }

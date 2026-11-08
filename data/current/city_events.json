@@ -1,92 +1,14 @@
 {
-  "fetched_at": "2026-11-07T12:04:22+00:00",
+  "fetched_at": "2026-11-08T12:25:37+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
-      "title": "Lymington Market",
-      "venue": "High Street, Lymington",
-      "time": "2026-11-07T07:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/lymington-market/",
+      "title": "Southampton Remembrance Service and Parade 2026",
+      "venue": "Cenotaph",
+      "time": "2026-11-08T10:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-remembrance-service-and-parade/",
       "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton parkrun",
-      "venue": "Southampton Common",
-      "time": "2026-11-07T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-parkrun/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "West End Annual Christmas Fair 2026",
-      "venue": "St James' Church",
-      "time": "2026-11-07T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/west-end-annual-christmas-fair/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Vegan Market 2026",
-      "venue": "Guildhall Square",
-      "time": "2026-11-07T10:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-vegan-market/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Alternative Market 2026",
-      "venue": "The Shooting Star",
-      "time": "2026-11-07T13:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-alternative-market/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Fireworks 2026",
-      "venue": "Mayflower Park",
-      "time": "2026-11-07T16:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-fireworks/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Go Ape Southampton\u2019s Sundown Adventures",
-      "venue": "Itchen Valley Country Park",
-      "time": "2026-11-07T16:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "A Festival of Remembrance Concert",
-      "venue": "Royal Victoria Chapel",
-      "time": "2026-11-07T17:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/a-festival-of-remembrance-concert/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Bishop\u2019s Waltham Community Fireworks 2026",
-      "venue": "Hoe Road Recreation Ground",
-      "time": "2026-11-07T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/bishops-waltham-community-fireworks/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Bear & Ragged Staff Annual Fireworks Night 2026",
-      "venue": "The Bear & Ragged Staff, Stoney Cross Road",
-      "time": "2026-11-07T18:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-bear-ragged-staff-annual-fireworks-night/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Winchester Round Table Bonfire & Fireworks 2026",
-      "venue": "North Walls Recreation Ground",
-      "time": "2026-11-07T19:45:00Z",
-      "url": "https://hellosouthampton.co.uk/events/winchester-round-table-bonfire-fireworks/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Remembrance Service & Parade",
-      "venue": "The Cenotaph (FREE)",
-      "time": "2026-11-08T00:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/southampton-remembrance-service-and-parade/295541101/",
-      "source": "visit_southampton",
-      "all_day": true
     },
     {
       "title": "Sholing FC Funfair and Fireworks 2026",
@@ -100,6 +22,13 @@
       "venue": "Totton & Eling Cricket Club",
       "time": "2026-11-08T16:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/totton-eling-cricket-club-annual-fireworks-night/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Go Ape Southampton\u2019s Sundown Adventures",
+      "venue": "Itchen Valley Country Park",
+      "time": "2026-11-08T16:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/go-ape-southamptons-sundown-adventures/",
       "source": "hellosouthampton"
     },
     {
@@ -147,12 +76,61 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Lymington Market",
+      "venue": "High Street, Lymington",
+      "time": "2026-11-14T07:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/lymington-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton parkrun",
+      "venue": "Southampton Common",
+      "time": "2026-11-14T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-parkrun/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Bitterne Christmas Lights Switch On",
+      "venue": "Bitterne Precinct",
+      "time": "2026-11-14T12:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/bitterne-christmas-lights-switch-on/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Candlelight Concert: Tribute to Coldplay 2026",
+      "venue": "Royal Victoria Chapel",
+      "time": "2026-11-14T19:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/candlelight-concert-a-tribute-to-coldplay/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Mo Run",
       "venue": "Southampton Common",
       "time": "2026-11-15T00:00:00Z",
       "url": "https://www.visitsouthampton.co.uk/event/the-southampton-1-5k-5k-10k-%26-half-marathon-morun/283533101/",
       "source": "visit_southampton",
       "all_day": true
+    },
+    {
+      "title": "Southampton MoRun 2026",
+      "venue": "The Common",
+      "time": "2026-11-15T21:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-morun/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Alice\u2019s Christmas Wonderland 2026",
+      "venue": "Palace House",
+      "time": "2026-11-21T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/alices-christmas-wonderland/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Wessex Sinfonietta Concert 2026",
+      "venue": "Royal Victoria Chapel",
+      "time": "2026-11-22T15:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/wessex-sinfonietta-concert/",
+      "source": "hellosouthampton"
     },
     {
       "title": "Southampton Snow Windows Trail: Snowmen on the Loose",

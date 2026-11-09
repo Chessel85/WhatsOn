@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T13:30:09+00:00",
+  "fetched_at": "2026-11-09T16:28:08+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -75,18 +75,18 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Understand",
-          "series_number": null,
-          "start_time": "2026-11-08T17:10:00Z",
-          "synopsis": "Ros Atkins investigates how technology is changing what we value, from friendship and culture to finance and work, and asks whether these changes amount to a crisis.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0p9jcj3"
-        },
-        {
           "title": "Shadow World",
           "series_number": null,
           "start_time": "2026-11-11T09:30:00Z",
           "synopsis": "Eight-year-old Sarah Payne vanishes in West Sussex. As the police hunt grows and the world's media descend, her mother Sara refuses to give up hope that she will be found alive.",
           "url": "https://www.bbc.co.uk/sounds/play/p0plldrq"
+        },
+        {
+          "title": "The History Podcast",
+          "series_number": null,
+          "start_time": "2026-11-15T19:45:00Z",
+          "synopsis": "When Antony Easton's father passes away, he begins a ten-year quest to uncover his family\u2019s dark past and reclaim their fortune, stolen under the Nazis.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0m95tqn"
         }
       ]
     },

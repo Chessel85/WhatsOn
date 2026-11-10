@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09T16:28:08+00:00",
+  "fetched_at": "2026-11-10T14:57:17+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Dashcam Justice",
-          "series_number": 1,
-          "start_time": "2026-11-09T10:45:00Z",
-          "synopsis": "A pedestrian hurls himself at a car in pursuit of an insurance payout. A horse rider films a frightening close pass, and a van mounts the pavement, putting bystanders at risk.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0032vzn"
-        },
         {
           "title": "Shetland",
           "series_number": 11,
@@ -84,9 +77,16 @@
         {
           "title": "The History Podcast",
           "series_number": null,
-          "start_time": "2026-11-15T19:45:00Z",
-          "synopsis": "When Antony Easton's father passes away, he begins a ten-year quest to uncover his family\u2019s dark past and reclaim their fortune, stolen under the Nazis.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0m95tqn"
+          "start_time": "2026-11-16T13:45:00Z",
+          "synopsis": "A boy is sent away to a special school for disabled children, only to discover upon leaving at 16, that he has a lot more to offer the world than he's been told.",
+          "url": null
+        },
+        {
+          "title": "The Rector's Wife by Joanna Trollope",
+          "series_number": null,
+          "start_time": "2026-11-16T22:45:00Z",
+          "synopsis": "Gemma Whelan reads Joanna Trollope\u2019s 1991 best-seller. A quietly subversive story of a woman trapped in an unhappy marriage by convention and loyalty to her husband and his church.",
+          "url": null
         }
       ]
     },
@@ -102,7 +102,15 @@
       "name": "ITV1",
       "type": "tv",
       "confidence": "low",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "I'm a Celebrity, Get Me Out of Here!",
+          "series_number": 26,
+          "start_time": "2026-11-16T21:00:00Z",
+          "synopsis": "The survival challenge returns with fresh faces setting up camp in the Australian wilderness. Ant and Dec cover the action, while all of the new contestants hope they have what it takes to receive the 2026 crown as King or Queen of the Jungle from last year's victor Angry Ginge.",
+          "url": "https://www.tvmaze.com/episodes/3801664/im-a-celebrity-get-me-out-of-here-26x01-episode-1"
+        }
+      ]
     }
   ]
 }

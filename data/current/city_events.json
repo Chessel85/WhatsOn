@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09T14:40:01+00:00",
+  "fetched_at": "2026-11-10T13:56:33+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
@@ -8,6 +8,13 @@
       "venue": "High Street",
       "time": "2026-11-10T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/hythe-village-traditional-weekly-street-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Ice Skating Southampton: Westquay on Ice",
+      "venue": "Westquay",
+      "time": "2026-11-10T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/ice-skating-southampton/",
       "source": "hellosouthampton"
     },
     {
@@ -52,6 +59,13 @@
       "venue": "The Snows Stadium",
       "time": "2026-11-13T18:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/mj-forever-michael-jackson-tribute-night-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Three Tenors 2026 at Winchester Cathedral",
+      "venue": "Winchester Cathedral",
+      "time": "2026-11-13T19:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-three-tenors-2026-at-winchester-cathedral/",
       "source": "hellosouthampton"
     },
     {
@@ -116,6 +130,20 @@
       "venue": "Winchester Cathedral Close",
       "time": "2026-11-20T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/winchester-cathedral-christmas-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Carlton Place Night Market & Jazz Circle",
+      "venue": "Carlton Place",
+      "time": "2026-11-20T16:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/carlton-place-night-market-jazz-circle/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Winter with St Martin\u2019s Voices 2026",
+      "venue": "Winchester Cathedral Nave",
+      "time": "2026-11-20T19:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/winter-with-st-martins-voices-2026/",
       "source": "hellosouthampton"
     },
     {
@@ -211,6 +239,20 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Hampshire Collector Con 2026",
+      "venue": "Winchester Sport & Leisure Park",
+      "time": "2026-11-29T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/hampshire-collector-con/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "The Cleveland Bay Christmas Market 2026",
+      "venue": "The Cleveland Bay",
+      "time": "2026-11-29T11:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/the-cleveland-bay-christmas-market/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Meet Father Christmas in the Evening 2026",
       "venue": "Exbury Gardens & Steam Railway",
       "time": "2026-11-30T16:30:00Z",
@@ -302,6 +344,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Santa Specials 2026",
+      "venue": "Eastleigh Lakeside Steam Railway",
+      "time": "2026-12-12T09:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/santa-specials-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Christmas Canoe Paddle 2026",
       "venue": "Beaulieu River",
       "time": "2026-12-12T10:30:00Z",
@@ -320,6 +369,13 @@
       "venue": "Utilita Bowl",
       "time": "2026-12-13T00:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/wild-the-drone-light-show-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Popkids Southampton Christmas Wonderland 2026",
+      "venue": "The 1865",
+      "time": "2026-12-13T12:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/popkids-southampton-christmas-wonderland/",
       "source": "hellosouthampton"
     },
     {
@@ -362,6 +418,20 @@
       "venue": "Winchester Cathedral",
       "time": "2026-12-23T17:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/family-lantern-parade-2026-at-winchester-cathedral/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "RevPro Wrestling Southampton",
+      "venue": "The 1865",
+      "time": "2026-12-28T16:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/revpro-wrestling-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "A Viennese Christmas by Candlelight 2027",
+      "venue": "Winchester Cathedral",
+      "time": "2027-01-02T19:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/a-viennese-christmas-by-candlelight-2027/",
       "source": "hellosouthampton"
     }
   ]

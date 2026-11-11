@@ -1,27 +1,13 @@
 {
-  "fetched_at": "2026-11-10T13:56:33+00:00",
+  "fetched_at": "2026-11-11T13:10:39+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
-      "title": "Hythe Village Traditional Weekly Street Market",
-      "venue": "High Street",
-      "time": "2026-11-10T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/hythe-village-traditional-weekly-street-market/",
-      "source": "hellosouthampton"
-    },
-    {
       "title": "Ice Skating Southampton: Westquay on Ice",
       "venue": "Westquay",
-      "time": "2026-11-10T09:00:00Z",
+      "time": "2026-11-11T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/ice-skating-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Board & Video Games Group",
-      "venue": "Board in the City CiC",
-      "time": "2026-11-10T14:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/board-video-games-group/",
       "source": "hellosouthampton"
     },
     {
@@ -116,6 +102,20 @@
       "venue": "The Common",
       "time": "2026-11-15T21:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/southampton-morun/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Hythe Village Traditional Weekly Street Market",
+      "venue": "High Street",
+      "time": "2026-11-17T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/hythe-village-traditional-weekly-street-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Board & Video Games Group",
+      "venue": "Board in the City CiC",
+      "time": "2026-11-17T14:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/board-video-games-group/",
       "source": "hellosouthampton"
     },
     {
@@ -285,6 +285,13 @@
       "venue": "Eastleigh Lakeside Miniature Railway",
       "time": "2026-12-04T00:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/christmas-light-trains-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton\u2019s Winter Makers Market 2026",
+      "venue": "God's House Tower",
+      "time": "2026-12-04T18:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southamptons-winter-makers-market/",
       "source": "hellosouthampton"
     },
     {

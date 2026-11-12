@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-11T14:28:17+00:00",
+  "fetched_at": "2026-11-12T15:20:23+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -68,13 +68,6 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Shadow World",
-          "series_number": null,
-          "start_time": "2026-11-11T09:30:00Z",
-          "synopsis": "Eight-year-old Sarah Payne vanishes in West Sussex. As the police hunt grows and the world's media descend, her mother Sara refuses to give up hope that she will be found alive.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0plldrq"
-        },
-        {
           "title": "The History Podcast",
           "series_number": null,
           "start_time": "2026-11-16T13:45:00Z",
@@ -102,7 +95,15 @@
       "name": "BBC World Service",
       "type": "radio",
       "confidence": "medium",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "World of Secrets",
+          "series_number": null,
+          "start_time": "2026-11-18T23:32:30Z",
+          "synopsis": "Prisoners sold their skin for survival in mid-century America. But nobody knew how far the testing programme at Holmesburg Prison would go.",
+          "url": null
+        }
+      ]
     },
     {
       "id": "itv1",

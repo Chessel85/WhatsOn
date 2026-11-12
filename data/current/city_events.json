@@ -1,28 +1,27 @@
 {
-  "fetched_at": "2026-11-11T13:10:39+00:00",
+  "fetched_at": "2026-11-12T14:13:28+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Ice Skating Southampton: Westquay on Ice",
-      "venue": "Westquay",
-      "time": "2026-11-11T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/ice-skating-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Christmas Market",
-      "venue": "city centre (FREE)",
-      "time": "2026-11-12T00:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/southampton-christmas-market/298304101/",
-      "source": "visit_southampton",
-      "all_day": true
-    },
     {
       "title": "Shirley Traditional Weekly Street Market",
       "venue": "Shirley Precinct",
       "time": "2026-11-12T08:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/shirley-traditional-weekly-street-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Ice Skating Southampton: Westquay on Ice",
+      "venue": "Westquay",
+      "time": "2026-11-12T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/ice-skating-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton Christmas Market 2026",
+      "venue": "The Bargate and Guildhall",
+      "time": "2026-11-12T11:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-christmas-market/",
       "source": "hellosouthampton"
     },
     {

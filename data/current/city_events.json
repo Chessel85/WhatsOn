@@ -1,42 +1,34 @@
 {
-  "fetched_at": "2026-11-12T14:13:28+00:00",
+  "fetched_at": "2026-11-13T13:37:31+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
-      "title": "Shirley Traditional Weekly Street Market",
-      "venue": "Shirley Precinct",
-      "time": "2026-11-12T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/shirley-traditional-weekly-street-market/",
-      "source": "hellosouthampton"
-    },
-    {
       "title": "Ice Skating Southampton: Westquay on Ice",
       "venue": "Westquay",
-      "time": "2026-11-12T09:00:00Z",
+      "time": "2026-11-13T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/ice-skating-southampton/",
       "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Christmas Market 2026",
-      "venue": "The Bargate and Guildhall",
-      "time": "2026-11-12T11:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-christmas-market/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Film Week",
-      "venue": "Citywide",
-      "time": "2026-11-13T00:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/southampton-film-week/286477101/",
-      "source": "visit_southampton",
-      "all_day": true
     },
     {
       "title": "Teeny Tiny Farmers at Manor Farm 2026",
       "venue": "Manor Farm",
       "time": "2026-11-13T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/teeny-tiny-farmers-at-manor-farm/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton Film Week 2026",
+      "venue": "Multiple Venues",
+      "time": "2026-11-13T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-film-week/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton Christmas Market 2026",
+      "venue": "The Bargate and Guildhall",
+      "time": "2026-11-13T11:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-christmas-market/",
       "source": "hellosouthampton"
     },
     {
@@ -115,6 +107,13 @@
       "venue": "Board in the City CiC",
       "time": "2026-11-17T14:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/board-video-games-group/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Shirley Traditional Weekly Street Market",
+      "venue": "Shirley Precinct",
+      "time": "2026-11-19T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/shirley-traditional-weekly-street-market/",
       "source": "hellosouthampton"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-14T11:00:24+00:00",
+  "fetched_at": "2026-11-14T17:22:32+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -23,10 +23,10 @@
     },
     {
       "ship_name": "VENTURA",
-      "berth": "46",
+      "berth": "102",
       "arrival": {
-        "date": "2026-11-17",
-        "time": "2026-11-17T06:15:00Z"
+        "date": "2026-11-16",
+        "time": "2026-11-16T18:00:00Z"
       },
       "departure": {
         "date": "2026-11-17",

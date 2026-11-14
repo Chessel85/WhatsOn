@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T14:38:55+00:00",
+  "fetched_at": "2026-11-14T13:36:29+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -22,6 +22,13 @@
           "start_time": "2026-11-14T21:00:00Z",
           "synopsis": "1982, East Berlin. MI6\u2019s Martha Schmitt is paired with the CIA\u2019s Kurt Fischer on a disastrous mission. When the Stasi\u2019s Friedrich Baumann makes a demand of her, how can she refuse?",
           "url": "https://www.bbc.co.uk/iplayer/episode/m002zlx6"
+        },
+        {
+          "title": "Bill's Included",
+          "series_number": 1,
+          "start_time": "2026-11-20T21:30:00Z",
+          "synopsis": "When Bill\u2019s wife walks out on him for the gardener, he\u2019s left lonely and broke. In the hope of turning his life around, he lets out his spare rooms to four students.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0032s6x"
         }
       ]
     },
@@ -64,6 +71,13 @@
           "series_number": null,
           "start_time": "2026-11-16T22:45:00Z",
           "synopsis": "Gemma Whelan reads Joanna Trollope\u2019s 1991 best-seller. A quietly subversive story of a woman trapped in an unhappy marriage by convention and loyalty to her husband and his church.",
+          "url": null
+        },
+        {
+          "title": "Intrigue",
+          "series_number": null,
+          "start_time": "2026-11-17T21:30:00Z",
+          "synopsis": "A billion-pound scandal. A council in financial ruin. Investigative journalists Catrin Nye and Meirion Jones uncover how public money was lost - and who's got it.",
           "url": null
         }
       ]

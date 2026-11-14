@@ -1,50 +1,8 @@
 {
-  "fetched_at": "2026-11-13T13:37:31+00:00",
+  "fetched_at": "2026-11-14T12:41:36+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Ice Skating Southampton: Westquay on Ice",
-      "venue": "Westquay",
-      "time": "2026-11-13T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/ice-skating-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Teeny Tiny Farmers at Manor Farm 2026",
-      "venue": "Manor Farm",
-      "time": "2026-11-13T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/teeny-tiny-farmers-at-manor-farm/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Film Week 2026",
-      "venue": "Multiple Venues",
-      "time": "2026-11-13T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-film-week/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Christmas Market 2026",
-      "venue": "The Bargate and Guildhall",
-      "time": "2026-11-13T11:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-christmas-market/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "MJ Forever \u2013 Michael Jackson Tribute Night 2026",
-      "venue": "The Snows Stadium",
-      "time": "2026-11-13T18:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/mj-forever-michael-jackson-tribute-night-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "The Three Tenors 2026 at Winchester Cathedral",
-      "venue": "Winchester Cathedral",
-      "time": "2026-11-13T19:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/the-three-tenors-2026-at-winchester-cathedral/",
-      "source": "hellosouthampton"
-    },
     {
       "title": "Lymington Market",
       "venue": "High Street, Lymington",
@@ -53,10 +11,31 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Ice Skating Southampton: Westquay on Ice",
+      "venue": "Westquay",
+      "time": "2026-11-14T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/ice-skating-southampton/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Southampton parkrun",
       "venue": "Southampton Common",
       "time": "2026-11-14T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/southampton-parkrun/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton Film Week 2026",
+      "venue": "Multiple Venues",
+      "time": "2026-11-14T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-film-week/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton Christmas Market 2026",
+      "venue": "The Bargate and Guildhall",
+      "time": "2026-11-14T11:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-christmas-market/",
       "source": "hellosouthampton"
     },
     {
@@ -117,6 +96,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Teeny Tiny Farmers at Manor Farm 2026",
+      "venue": "Manor Farm",
+      "time": "2026-11-20T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/teeny-tiny-farmers-at-manor-farm/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Christmas at Marwell Zoo 2026",
       "venue": "Marwell Zoo",
       "time": "2026-11-20T10:00:00Z",
@@ -166,6 +152,27 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Eastleigh Christmas Lights Switch-On 2026",
+      "venue": "Leigh Road Recreation Ground",
+      "time": "2026-11-21T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/eastleigh-christmas-lights-switch-on/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Romsey Joint Charities Christmas Fair 2026",
+      "venue": "Crosfield Hall",
+      "time": "2026-11-21T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/romsey-joint-charities-christmas-fair-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Romsey Christmas Light Switch-On 2026",
+      "venue": "Romsey Town Centre",
+      "time": "2026-11-21T15:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/romsey-christmas-light-switch-on/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Wessex Sinfonietta Concert 2026",
       "venue": "Royal Victoria Chapel",
       "time": "2026-11-22T15:00:00Z",
@@ -177,6 +184,13 @@
       "venue": "Sir Harold Hillier Gardens",
       "time": "2026-11-26T16:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/light-up-trails-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Lymington Christmas Light Switch-On 2026",
+      "venue": "Lymington Town Quay",
+      "time": "2026-11-27T16:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/lymington-christmas-light-switch-on/",
       "source": "hellosouthampton"
     },
     {
@@ -202,6 +216,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Hythe Mistletoe Fayre 2026",
+      "venue": "Hythe High Street",
+      "time": "2026-11-28T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/hythe-mistletoe-fayre/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "West End Christmas Light Switch On & Market 2026",
       "venue": "West End Parish Centre",
       "time": "2026-11-28T13:00:00Z",
@@ -220,6 +241,20 @@
       "venue": "The Watercress Line",
       "time": "2026-11-28T16:10:00Z",
       "url": "https://hellosouthampton.co.uk/events/watercress-line-steam-illuminations/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Lyndhurst Christmas Lights Switch On 2026",
+      "venue": "Outside The Mailman's Arms",
+      "time": "2026-11-28T17:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/lyndhurst-christmas-lights-switch-on/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Romsey Winter Carnival & Lantern Parade 2026",
+      "venue": "Crosfield Hall",
+      "time": "2026-11-28T18:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/romsey-winter-carnival-lantern-parade/",
       "source": "hellosouthampton"
     },
     {
@@ -248,6 +283,13 @@
       "venue": "The Cleveland Bay",
       "time": "2026-11-29T11:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/the-cleveland-bay-christmas-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Board in the City CIC Christmas Market 2026",
+      "venue": "Board in the City CIC",
+      "time": "2026-11-29T11:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/board-in-the-city-cic-christmas-market/",
       "source": "hellosouthampton"
     },
     {
@@ -286,6 +328,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Pennington Christmas Event 2026",
+      "venue": "The Square",
+      "time": "2026-12-04T17:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/pennington-christmas-event/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Southampton\u2019s Winter Makers Market 2026",
       "venue": "God's House Tower",
       "time": "2026-12-04T18:30:00Z",
@@ -321,10 +370,38 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Latin Christmas Bazaar 2026",
+      "venue": "Shirley Baptist Church",
+      "time": "2026-12-05T12:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/latin-christmas-bazaar/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Christmas Concert with City of Southampton (Albion) Band 2026",
+      "venue": "St James Road Methodist Church",
+      "time": "2026-12-05T15:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/christmas-concert-with-city-of-southampton-albion-band/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Romsey Farmers\u2019 Market",
       "venue": "Alma Road Car Park",
       "time": "2026-12-06T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/romsey-farmers-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Greyhound Lifeline Christmas Fair 2026",
+      "venue": "Parklife Community Cafe",
+      "time": "2026-12-06T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/greyhound-lifeline-christmas-fair/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Santa Dash Fun Run 2026",
+      "venue": "John D Wood & Co",
+      "time": "2026-12-06T11:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/santa-dash-fun-run/",
       "source": "hellosouthampton"
     },
     {
@@ -339,6 +416,13 @@
       "venue": "The Axis Centre",
       "time": "2026-12-09T11:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/chilworth-christmas-fair-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Rock Choir Christmas Concert at St Michael Church",
+      "venue": "St Michael The Archangel Church",
+      "time": "2026-12-09T19:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/rock-choir-christmas-concert-at-st-michael-church/",
       "source": "hellosouthampton"
     },
     {
@@ -405,6 +489,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Rock Choir Christmas Concert Romsey 2026",
+      "venue": "Abbey United Reformed Church",
+      "time": "2026-12-15T19:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/rock-choir-christmas-concert-romsey-2026/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Festive Lanterns and Songs 2026",
       "venue": "Itchen Valley Country Park",
       "time": "2026-12-20T16:00:00Z",
@@ -423,6 +514,13 @@
       "venue": "Winchester Cathedral",
       "time": "2026-12-23T17:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/family-lantern-parade-2026-at-winchester-cathedral/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Santa Fun Run 2026",
+      "venue": "Romsey War Memorial Park",
+      "time": "2026-12-26T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/santa-fun-run-2026-romsey/",
       "source": "hellosouthampton"
     },
     {

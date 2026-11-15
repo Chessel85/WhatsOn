@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-14T13:36:29+00:00",
+  "fetched_at": "2026-11-15T13:59:35+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,20 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Michael McIntyre's The Wheel",
-          "series_number": 7,
-          "start_time": "2026-11-14T20:00:00Z",
-          "synopsis": "Michael McIntyre hosts his hit game show. The celebrity experts are Michael Ball, Kate Garraway, Isa Guha, Harriet Kemsley, Matt Morsia, Katherine Ryan, Jordan Banjo and Perri Kiely.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0034f6c"
-        },
-        {
-          "title": "Honey",
-          "series_number": 1,
-          "start_time": "2026-11-14T21:00:00Z",
-          "synopsis": "1982, East Berlin. MI6\u2019s Martha Schmitt is paired with the CIA\u2019s Kurt Fischer on a disastrous mission. When the Stasi\u2019s Friedrich Baumann makes a demand of her, how can she refuse?",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m002zlx6"
-        },
         {
           "title": "Bill's Included",
           "series_number": 1,

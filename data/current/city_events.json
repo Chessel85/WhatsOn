@@ -1,71 +1,28 @@
 {
-  "fetched_at": "2026-11-14T12:41:36+00:00",
+  "fetched_at": "2026-11-15T13:08:23+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
-      "title": "Lymington Market",
-      "venue": "High Street, Lymington",
-      "time": "2026-11-14T07:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/lymington-market/",
-      "source": "hellosouthampton"
-    },
-    {
       "title": "Ice Skating Southampton: Westquay on Ice",
       "venue": "Westquay",
-      "time": "2026-11-14T09:00:00Z",
+      "time": "2026-11-15T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/ice-skating-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton parkrun",
-      "venue": "Southampton Common",
-      "time": "2026-11-14T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-parkrun/",
       "source": "hellosouthampton"
     },
     {
       "title": "Southampton Film Week 2026",
       "venue": "Multiple Venues",
-      "time": "2026-11-14T10:00:00Z",
+      "time": "2026-11-15T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/southampton-film-week/",
       "source": "hellosouthampton"
     },
     {
       "title": "Southampton Christmas Market 2026",
       "venue": "The Bargate and Guildhall",
-      "time": "2026-11-14T11:00:00Z",
+      "time": "2026-11-15T11:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/southampton-christmas-market/",
       "source": "hellosouthampton"
-    },
-    {
-      "title": "Bitterne Christmas Lights Switch On",
-      "venue": "Bitterne Precinct",
-      "time": "2026-11-14T12:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/bitterne-christmas-lights-switch-on/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Candlelight Concert: Tribute to Coldplay 2026",
-      "venue": "Royal Victoria Chapel",
-      "time": "2026-11-14T19:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/candlelight-concert-a-tribute-to-coldplay/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Candlelight Concert: The Best of Hans Zimmer 2026",
-      "venue": "Royal Victoria Chapel",
-      "time": "2026-11-14T21:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/candlelight-concert-the-best-of-hans-zimmer/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Mo Run",
-      "venue": "Southampton Common",
-      "time": "2026-11-15T00:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/the-southampton-1-5k-5k-10k-%26-half-marathon-morun/283533101/",
-      "source": "visit_southampton",
-      "all_day": true
     },
     {
       "title": "Southampton MoRun 2026",
@@ -128,6 +85,20 @@
       "venue": "Winchester Cathedral Nave",
       "time": "2026-11-20T19:30:00Z",
       "url": "https://hellosouthampton.co.uk/events/winter-with-st-martins-voices-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Lymington Market",
+      "venue": "High Street, Lymington",
+      "time": "2026-11-21T07:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/lymington-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton parkrun",
+      "venue": "Southampton Common",
+      "time": "2026-11-21T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-parkrun/",
       "source": "hellosouthampton"
     },
     {

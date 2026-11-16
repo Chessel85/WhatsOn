@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T13:59:35+00:00",
+  "fetched_at": "2026-11-16T15:53:10+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -15,6 +15,13 @@
           "start_time": "2026-11-20T21:30:00Z",
           "synopsis": "When Bill\u2019s wife walks out on him for the gardener, he\u2019s left lonely and broke. In the hope of turning his life around, he lets out his spare rooms to four students.",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0032s6x"
+        },
+        {
+          "title": "The Witch Farm",
+          "series_number": 1,
+          "start_time": "2026-11-22T21:00:00Z",
+          "synopsis": "In summer 1989, Bill and Liz move to a remote farmhouse in the Brecon Beacons. But when Liz hears footsteps one night, the family are forced to accept a terrifying new reality.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0032s6s"
         }
       ]
     },
@@ -50,20 +57,27 @@
           "series_number": null,
           "start_time": "2026-11-16T13:45:00Z",
           "synopsis": "A boy is sent away to a special school for disabled children, only to discover upon leaving at 16, that he has a lot more to offer the world than he's been told.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0pmfxl7"
         },
         {
           "title": "The Rector's Wife by Joanna Trollope",
           "series_number": null,
           "start_time": "2026-11-16T22:45:00Z",
           "synopsis": "Gemma Whelan reads Joanna Trollope\u2019s 1991 best-seller. A quietly subversive story of a woman trapped in an unhappy marriage by convention and loyalty to her husband and his church.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0pml3rq"
         },
         {
           "title": "Intrigue",
           "series_number": null,
           "start_time": "2026-11-17T21:30:00Z",
           "synopsis": "A billion-pound scandal. A council in financial ruin. Investigative journalists Catrin Nye and Meirion Jones uncover how public money was lost - and who's got it.",
+          "url": null
+        },
+        {
+          "title": "Drama on 4",
+          "series_number": null,
+          "start_time": "2026-11-22T15:00:00Z",
+          "synopsis": "Mike Walker's adaptation of Victor Hugo's classic blockbuster about love and redemption culminating atop the barricades. An epic tale of love and hope winning over impossible odds.",
           "url": null
         }
       ]
@@ -79,7 +93,7 @@
           "series_number": null,
           "start_time": "2026-11-18T23:32:30Z",
           "synopsis": "Prisoners sold their skin for survival in mid-century America. But nobody knew how far the testing programme at Holmesburg Prison would go.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0pmfdlc"
         }
       ]
     },

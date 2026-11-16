@@ -1,34 +1,27 @@
 {
-  "fetched_at": "2026-11-15T13:08:23+00:00",
+  "fetched_at": "2026-11-16T14:15:46+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
       "title": "Ice Skating Southampton: Westquay on Ice",
       "venue": "Westquay",
-      "time": "2026-11-15T09:00:00Z",
+      "time": "2026-11-16T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/ice-skating-southampton/",
       "source": "hellosouthampton"
     },
     {
       "title": "Southampton Film Week 2026",
       "venue": "Multiple Venues",
-      "time": "2026-11-15T10:00:00Z",
+      "time": "2026-11-16T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/southampton-film-week/",
       "source": "hellosouthampton"
     },
     {
       "title": "Southampton Christmas Market 2026",
       "venue": "The Bargate and Guildhall",
-      "time": "2026-11-15T11:00:00Z",
+      "time": "2026-11-16T11:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/southampton-christmas-market/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton MoRun 2026",
-      "venue": "The Common",
-      "time": "2026-11-15T21:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-morun/",
       "source": "hellosouthampton"
     },
     {

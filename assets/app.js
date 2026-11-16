@@ -346,6 +346,60 @@ const FEEDS = {
       container.replaceChildren(...elements);
     },
   },
+  live_music: {
+    dataUrl: 'data/current/live_music.json',
+    renderSummary(data, container) {
+      const p = document.createElement('p');
+      if (!data.events.length) {
+        p.textContent = 'No upcoming live music listed.';
+      } else {
+        const next = data.events[0];
+        p.textContent = `${data.events.length} upcoming gigs. Next: ${next.title} (${formatDayHeading(localDateKey(new Date(next.time)))}).`;
+      }
+      container.replaceChildren(p);
+    },
+    renderDetail(data, container) {
+      const elements = [];
+
+      if (!data.events.length) {
+        const none = document.createElement('p');
+        none.textContent = 'No upcoming live music listed.';
+        elements.push(none);
+      }
+
+      for (const [dateKey, events] of groupByLocalDate(data.events)) {
+        const dayLabel = formatDayHeading(dateKey);
+
+        pushHeading(elements, dayLabel);
+
+        const table = document.createElement('table');
+        table.innerHTML = `
+          <caption>Live music — ${dayLabel}</caption>
+          <thead>
+            <tr>
+              <th scope="col">Act / event</th>
+              <th scope="col">Venue</th>
+              <th scope="col">Time</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${events.map((e) => `
+              <tr>
+                <th scope="row"><a href="${e.url}" target="_blank" rel="noopener noreferrer">${e.title}</a></th>
+                <td>${formatVenue(e.venue)}</td>
+                <td>${e.all_day ? 'All day' : formatTime(e.time)}</td>
+              </tr>
+            `).join('')}
+          </tbody>
+        `;
+        elements.push(table);
+      }
+
+      pushFetchedAt(elements, data, 'Visit Southampton');
+
+      container.replaceChildren(...elements);
+    },
+  },
   tv_radio: {
     dataUrl: 'data/current/tv_radio.json',
     renderSummary(data, container) {

@@ -5,6 +5,8 @@ Writes data/current/weather.json (overwritten each run) and appends a row
 to data/history/weather.csv. No API key required.
 """
 import csv
+import sys
+import time
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 
@@ -90,9 +92,24 @@ def fetch_raw():
         # bigger response.
         "past_days": RECENT_DAYS,
     }
-    response = requests.get(API_URL, params=params, timeout=30)
-    response.raise_for_status()
-    return response.json()
+    # Open-Meteo occasionally times out or 5xxs; retry a few times before
+    # failing the run (and emailing the maintainer) over a transient blip.
+    attempts = 4
+    for attempt in range(1, attempts + 1):
+        try:
+            response = requests.get(API_URL, params=params, timeout=20)
+            response.raise_for_status()
+            return response.json()
+        except (requests.Timeout, requests.ConnectionError) as exc:
+            error = exc
+        except requests.HTTPError as exc:
+            if exc.response is None or exc.response.status_code < 500:
+                raise
+            error = exc
+        if attempt == attempts:
+            raise error
+        print(f"Attempt {attempt} failed ({error}); retrying", file=sys.stderr)
+        time.sleep(5 * attempt)
 
 
 def build_output(raw):

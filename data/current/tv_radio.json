@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-16T15:53:10+00:00",
+  "fetched_at": "2026-11-17T16:05:53+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -30,7 +30,15 @@
       "name": "BBC Two",
       "type": "tv",
       "confidence": "high",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "Lucy Worsley's Keys to the Castle",
+          "series_number": 1,
+          "start_time": "2026-11-23T21:00:00Z",
+          "synopsis": "Lucy has the keys to the Doge\u2019s Palace in Venice, where she has a close shave in a torture chamber and discovers a 24-carat gold staircase, hidden doors and secret messages.",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0033jd2"
+        }
+      ]
     },
     {
       "id": "bbc_three",
@@ -53,31 +61,24 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "The History Podcast",
-          "series_number": null,
-          "start_time": "2026-11-16T13:45:00Z",
-          "synopsis": "A boy is sent away to a special school for disabled children, only to discover upon leaving at 16, that he has a lot more to offer the world than he's been told.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pmfxl7"
-        },
-        {
-          "title": "The Rector's Wife by Joanna Trollope",
-          "series_number": null,
-          "start_time": "2026-11-16T22:45:00Z",
-          "synopsis": "Gemma Whelan reads Joanna Trollope\u2019s 1991 best-seller. A quietly subversive story of a woman trapped in an unhappy marriage by convention and loyalty to her husband and his church.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pml3rq"
-        },
-        {
           "title": "Intrigue",
           "series_number": null,
           "start_time": "2026-11-17T21:30:00Z",
           "synopsis": "A billion-pound scandal. A council in financial ruin. Investigative journalists Catrin Nye and Meirion Jones uncover how public money was lost - and who's got it.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0pnb7yp"
         },
         {
           "title": "Drama on 4",
           "series_number": null,
           "start_time": "2026-11-22T15:00:00Z",
           "synopsis": "Mike Walker's adaptation of Victor Hugo's classic blockbuster about love and redemption culminating atop the barricades. An epic tale of love and hope winning over impossible odds.",
+          "url": null
+        },
+        {
+          "title": "I'm Sorry I Haven't A Clue",
+          "series_number": 86,
+          "start_time": "2026-11-23T18:30:00Z",
+          "synopsis": "Jack Dee visits Wimbledon with panellists Sandi Toksvig, Richard Coles, Lucy Porter and Tony Hawks.",
           "url": null
         }
       ]
@@ -102,15 +103,7 @@
       "name": "ITV1",
       "type": "tv",
       "confidence": "low",
-      "new_series": [
-        {
-          "title": "I'm a Celebrity, Get Me Out of Here!",
-          "series_number": 26,
-          "start_time": "2026-11-16T21:00:00Z",
-          "synopsis": "The survival challenge returns with fresh faces setting up camp in the Australian wilderness. Ant and Dec cover the action, while all of the new contestants hope they have what it takes to receive the 2026 crown as King or Queen of the Jungle from last year's victor Angry Ginge.",
-          "url": "https://www.tvmaze.com/episodes/3801664/im-a-celebrity-get-me-out-of-here-26x01-episode-1"
-        }
-      ]
+      "new_series": []
     }
   ]
 }

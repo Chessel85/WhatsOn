@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T16:05:53+00:00",
+  "fetched_at": "2026-11-18T15:43:56+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -61,13 +61,6 @@
       "confidence": "medium",
       "new_series": [
         {
-          "title": "Intrigue",
-          "series_number": null,
-          "start_time": "2026-11-17T21:30:00Z",
-          "synopsis": "A billion-pound scandal. A council in financial ruin. Investigative journalists Catrin Nye and Meirion Jones uncover how public money was lost - and who's got it.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pnb7yp"
-        },
-        {
           "title": "Drama on 4",
           "series_number": null,
           "start_time": "2026-11-22T15:00:00Z",
@@ -79,6 +72,13 @@
           "series_number": 86,
           "start_time": "2026-11-23T18:30:00Z",
           "synopsis": "Jack Dee visits Wimbledon with panellists Sandi Toksvig, Richard Coles, Lucy Porter and Tony Hawks.",
+          "url": null
+        },
+        {
+          "title": "One Person Found This Helpful",
+          "series_number": 5,
+          "start_time": "2026-11-24T18:30:00Z",
+          "synopsis": "Frank Skinner hosts the show based on what we all sit down and do at least once a day - shop online and leave a review, as a panel celebrate the good, the bad and the baffling.",
           "url": null
         }
       ]
@@ -94,7 +94,7 @@
           "series_number": null,
           "start_time": "2026-11-18T23:32:30Z",
           "synopsis": "Prisoners sold their skin for survival in mid-century America. But nobody knew how far the testing programme at Holmesburg Prison would go.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pmfdlc"
+          "url": "https://www.bbc.co.uk/sounds/play/w4hr5zhn"
         }
       ]
     },
@@ -103,7 +103,15 @@
       "name": "ITV1",
       "type": "tv",
       "confidence": "low",
-      "new_series": []
+      "new_series": [
+        {
+          "title": "Sorry, I Didn't Know",
+          "series_number": 7,
+          "start_time": "2026-11-22T22:30:00Z",
+          "synopsis": "Chizzy Akudolu returns with the panel show, with Jonathan Ross, Gbemi Oladipo, Sukh Ojla and Remel London joining captains Richard Blackwood and Eddie Kadi. The teams battle it out over four rounds with subjects ranging from guessing why unknown faces from history should be famous to uncovering a treasure trove of facts about Africa.",
+          "url": "https://www.tvmaze.com/episodes/3823944/sorry-i-didnt-know-7x01-jonathan-ross-gbemi-oladipo-sukh-ojla-remel-london"
+        }
+      ]
     }
   ]
 }

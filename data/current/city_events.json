@@ -1,41 +1,34 @@
 {
-  "fetched_at": "2026-11-17T15:08:38+00:00",
+  "fetched_at": "2026-11-18T14:46:51+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
-      "title": "Hythe Village Traditional Weekly Street Market",
-      "venue": "High Street",
-      "time": "2026-11-17T08:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/hythe-village-traditional-weekly-street-market/",
-      "source": "hellosouthampton"
-    },
-    {
       "title": "Ice Skating Southampton: Westquay on Ice",
       "venue": "Westquay",
-      "time": "2026-11-17T09:00:00Z",
+      "time": "2026-11-18T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/ice-skating-southampton/",
       "source": "hellosouthampton"
     },
     {
       "title": "Southampton Film Week 2026",
       "venue": "Multiple Venues",
-      "time": "2026-11-17T10:00:00Z",
+      "time": "2026-11-18T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/southampton-film-week/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Visit Father Christmas at Tudor House & Garden 2026",
+      "venue": "Tudor House & Garden",
+      "time": "2026-11-18T10:15:00Z",
+      "url": "https://hellosouthampton.co.uk/events/visit-father-christmas-at-tudor-house-garden/",
       "source": "hellosouthampton"
     },
     {
       "title": "Southampton Christmas Market 2026",
       "venue": "The Bargate and Guildhall",
-      "time": "2026-11-17T11:00:00Z",
+      "time": "2026-11-18T11:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/southampton-christmas-market/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Board & Video Games Group",
-      "venue": "Board in the City CiC",
-      "time": "2026-11-17T14:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/board-video-games-group/",
       "source": "hellosouthampton"
     },
     {
@@ -148,6 +141,20 @@
       "venue": "Royal Victoria Chapel",
       "time": "2026-11-22T15:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/wessex-sinfonietta-concert/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Hythe Village Traditional Weekly Street Market",
+      "venue": "High Street",
+      "time": "2026-11-24T08:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/hythe-village-traditional-weekly-street-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Board & Video Games Group",
+      "venue": "Board in the City CiC",
+      "time": "2026-11-24T14:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/board-video-games-group/",
       "source": "hellosouthampton"
     },
     {

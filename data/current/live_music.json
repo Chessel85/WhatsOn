@@ -1,23 +1,9 @@
 {
-  "fetched_at": "2026-11-17T16:44:20+00:00",
+  "fetched_at": "2026-11-18T16:15:36+00:00",
   "source": "Visit Southampton",
   "location": "Southampton, UK",
-  "pages_pending": 528,
+  "pages_pending": 523,
   "events": [
-    {
-      "title": "Open Mic Night @ the Platform Tavern ( )",
-      "venue": "Platform Tavern",
-      "time": "2026-11-17T18:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/open-mic-night-%40-the-platform-tavern-(-)/298190101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Dermot Henry",
-      "venue": "Heartbreakers",
-      "time": "2026-11-17T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/dermot-henry/294171101/",
-      "source": "visit_southampton"
-    },
     {
       "title": "Dan Patlansky",
       "venue": "The Brook",
@@ -562,6 +548,13 @@
       "venue": "The Joiners",
       "time": "2026-12-03T19:30:00Z",
       "url": "https://www.visitsouthampton.co.uk/event/the-family-battenberg/295622101/",
+      "source": "visit_southampton"
+    },
+    {
+      "title": "Advent Calendar Giveaway",
+      "venue": "Popworld Southampton",
+      "time": "2026-12-03T22:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/advent-calendar-giveaway/299909101/",
       "source": "visit_southampton"
     },
     {
@@ -1738,6 +1731,13 @@
       "venue": "Heartbreakers",
       "time": "2027-02-15T19:30:00Z",
       "url": "https://www.visitsouthampton.co.uk/event/holy-motors/298111101/",
+      "source": "visit_southampton"
+    },
+    {
+      "title": "As Everything Unfolds",
+      "venue": "Engine Rooms",
+      "time": "2027-02-16T19:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/as-everything-unfolds/288536101/",
       "source": "visit_southampton"
     }
   ]

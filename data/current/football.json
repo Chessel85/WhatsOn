@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T15:31:52+00:00",
+  "fetched_at": "2026-11-19T15:39:12+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -507,21 +507,21 @@
           "competition": "Premier League"
         },
         {
-          "date": "2027-01-16T15:00Z",
+          "date": "2027-01-17T14:00Z",
           "opponent": "Ipswich Town",
           "home_away": "home",
           "venue": "Vitality Stadium",
           "competition": "Premier League"
         },
         {
-          "date": "2027-01-23T15:00Z",
+          "date": "2027-01-24T14:00Z",
           "opponent": "Nottingham Forest",
           "home_away": "away",
           "venue": "The City Ground",
           "competition": "Premier League"
         },
         {
-          "date": "2027-01-30T15:00Z",
+          "date": "2027-01-31T14:00Z",
           "opponent": "Fulham",
           "home_away": "home",
           "venue": "Vitality Stadium",

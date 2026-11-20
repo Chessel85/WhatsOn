@@ -1,65 +1,9 @@
 {
-  "fetched_at": "2026-11-18T16:15:36+00:00",
+  "fetched_at": "2026-11-20T16:01:14+00:00",
   "source": "Visit Southampton",
   "location": "Southampton, UK",
-  "pages_pending": 523,
+  "pages_pending": 525,
   "events": [
-    {
-      "title": "Dan Patlansky",
-      "venue": "The Brook",
-      "time": "2026-11-18T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/dan-patlansky/283914101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Yndling",
-      "venue": "The Joiners",
-      "time": "2026-11-18T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/yndling/296342101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Forevanescence, Bring Me the Horizon UK, Sabotage",
-      "venue": "The 1865",
-      "time": "2026-11-19T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/forevanescence-bring-me-the-horizon-uk-sabotage/285134101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Mammoth",
-      "venue": "Engine Rooms",
-      "time": "2026-11-19T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/mammoth/299454101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "The North",
-      "venue": "The Joiners",
-      "time": "2026-11-19T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/the-north/291521101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "The Zangwills",
-      "venue": "Heartbreakers",
-      "time": "2026-11-19T19:30:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/the-zangwills/288865101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Harakiri For The Sky",
-      "venue": "Papillon",
-      "time": "2026-11-19T20:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/harakiri-for-the-sky/289792101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Heidi Talbot & Boo Hewardine",
-      "venue": "Turner Sims Southampton",
-      "time": "2026-11-19T20:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/heidi-talbot-%26-boo-hewardine/299026101/",
-      "source": "visit_southampton"
-    },
     {
       "title": "Beatles Complete",
       "venue": "Engine Rooms",
@@ -569,13 +513,6 @@
       "venue": "The 1865",
       "time": "2026-12-04T19:00:00Z",
       "url": "https://www.visitsouthampton.co.uk/event/the-tumbling-paddies/272527101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Milo Korbenski",
-      "venue": "Heartbreakers",
-      "time": "2026-12-04T19:30:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/milo-korbenski/289447101/",
       "source": "visit_southampton"
     },
     {
@@ -1150,13 +1087,6 @@
       "venue": "The 1865",
       "time": "2027-01-09T19:00:00Z",
       "url": "https://www.visitsouthampton.co.uk/event/wrong-jovi/260570101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Bootleg Bee Gees",
-      "venue": "Hanger Farm Arts Centre",
-      "time": "2027-01-09T19:30:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/bootleg-bee-gees/279258101/",
       "source": "visit_southampton"
     },
     {
@@ -1738,6 +1668,41 @@
       "venue": "Engine Rooms",
       "time": "2027-02-16T19:00:00Z",
       "url": "https://www.visitsouthampton.co.uk/event/as-everything-unfolds/288536101/",
+      "source": "visit_southampton"
+    },
+    {
+      "title": "Big Truck",
+      "venue": "The Joiners",
+      "time": "2027-02-17T19:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/big-truck/294762101/",
+      "source": "visit_southampton"
+    },
+    {
+      "title": "Thy Art Is Murder",
+      "venue": "Engine Rooms",
+      "time": "2027-02-17T19:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/thy-art-is-murder/299138101/",
+      "source": "visit_southampton"
+    },
+    {
+      "title": "Beth Nielsen Chapman: Celebrating 30 Years of Sand and Water",
+      "venue": "Hanger Farm Arts Centre",
+      "time": "2027-02-17T19:30:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/beth-nielsen-chapman%3a-celebrating-30-years-of-sand-and-water/284844101/",
+      "source": "visit_southampton"
+    },
+    {
+      "title": "Beaux Gris Gris & The Apocalypse",
+      "venue": "The Brook",
+      "time": "2027-02-18T19:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/beaux-gris-gris-%26-the-apocalypse/288460101/",
+      "source": "visit_southampton"
+    },
+    {
+      "title": "The Cheap Thrills",
+      "venue": "The Joiners",
+      "time": "2027-02-18T19:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/the-cheap-thrills/296865101/",
       "source": "visit_southampton"
     }
   ]

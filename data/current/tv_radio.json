@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-19T15:49:06+00:00",
+  "fetched_at": "2026-11-20T15:31:30+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -88,15 +88,7 @@
       "name": "BBC World Service",
       "type": "radio",
       "confidence": "medium",
-      "new_series": [
-        {
-          "title": "World of Secrets",
-          "series_number": null,
-          "start_time": "2026-11-18T23:32:30Z",
-          "synopsis": "Prisoners sold their skin for survival in mid-century America. But nobody knew how far the testing programme at Holmesburg Prison would go.",
-          "url": "https://www.bbc.co.uk/sounds/play/w4hr5zhn"
-        }
-      ]
+      "new_series": []
     },
     {
       "id": "itv1",

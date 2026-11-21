@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T15:31:30+00:00",
+  "fetched_at": "2026-11-21T14:42:49+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -9,13 +9,6 @@
       "type": "tv",
       "confidence": "high",
       "new_series": [
-        {
-          "title": "Bill's Included",
-          "series_number": 1,
-          "start_time": "2026-11-20T21:30:00Z",
-          "synopsis": "When Bill\u2019s wife walks out on him for the gardener, he\u2019s left lonely and broke. In the hope of turning his life around, he lets out his spare rooms to four students.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0032s6x"
-        },
         {
           "title": "The Witch Farm",
           "series_number": 1,
@@ -79,6 +72,13 @@
           "series_number": 5,
           "start_time": "2026-11-24T18:30:00Z",
           "synopsis": "Frank Skinner hosts the show based on what we all sit down and do at least once a day - shop online and leave a review, as a panel celebrate the good, the bad and the baffling.",
+          "url": null
+        },
+        {
+          "title": "Limelight",
+          "series_number": 3,
+          "start_time": "2026-11-27T14:15:00Z",
+          "synopsis": "Detectives Jess and Maya investigate a supposedly haunted house for a paranormal podcast. Award-winning thriller with Gina McKee, by Ben and Max Ringham with Dan Rebellato.",
           "url": null
         }
       ]

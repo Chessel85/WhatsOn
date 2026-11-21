@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T15:20:17+00:00",
+  "fetched_at": "2026-11-21T14:33:15+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -9,10 +9,10 @@
       "name": "Southampton FC",
       "league": {
         "competition": "Championship",
-        "position": 7,
-        "points": 24,
-        "played": 15,
-        "remaining": 31
+        "position": 6,
+        "points": 27,
+        "played": 16,
+        "remaining": 30
       },
       "cups": [
         {
@@ -21,13 +21,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-11-21T12:30Z",
-          "opponent": "Derby County",
-          "home_away": "home",
-          "venue": "St. Mary's Stadium",
-          "competition": "Championship"
-        },
         {
           "date": "2026-11-24T19:45Z",
           "opponent": "Sheffield United",
@@ -409,6 +402,16 @@
           "goals_for": 0,
           "goals_against": 1,
           "outcome": "L"
+        },
+        {
+          "date": "2026-11-21T12:30Z",
+          "opponent": "Derby County",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship",
+          "goals_for": 2,
+          "goals_against": 0,
+          "outcome": "W"
         }
       ]
     },
@@ -761,10 +764,10 @@
       "name": "Eastleigh FC",
       "league": {
         "competition": "National League",
-        "position": 18,
-        "points": 19,
-        "played": 17,
-        "remaining": 29
+        "position": 14,
+        "points": 22,
+        "played": 18,
+        "remaining": 28
       },
       "cups": [
         {
@@ -773,13 +776,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-11-21T12:30Z",
-          "opponent": "Tamworth",
-          "home_away": "away",
-          "venue": "The Lamb Ground",
-          "competition": "National League"
-        },
         {
           "date": "2026-11-24T19:45Z",
           "opponent": "Yeovil Town",
@@ -1157,6 +1153,16 @@
           "goals_for": 1,
           "goals_against": 2,
           "outcome": "L"
+        },
+        {
+          "date": "2026-11-21T12:30Z",
+          "opponent": "Tamworth",
+          "home_away": "away",
+          "venue": "The Lamb Ground",
+          "competition": "National League",
+          "goals_for": 3,
+          "goals_against": 1,
+          "outcome": "W"
         }
       ]
     }

@@ -1,44 +1,9 @@
 {
-  "fetched_at": "2026-11-20T16:01:14+00:00",
+  "fetched_at": "2026-11-21T15:14:25+00:00",
   "source": "Visit Southampton",
   "location": "Southampton, UK",
-  "pages_pending": 525,
+  "pages_pending": 532,
   "events": [
-    {
-      "title": "Beatles Complete",
-      "venue": "Engine Rooms",
-      "time": "2026-11-20T18:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/beatles-complete/276315101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Big Red",
-      "venue": "Heartbreakers",
-      "time": "2026-11-20T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/big-red/293080101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "The Undertones",
-      "venue": "The 1865",
-      "time": "2026-11-20T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/the-undertones/274274101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Tokyo Tea Room",
-      "venue": "The Joiners",
-      "time": "2026-11-20T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/tokyo-tea-room/286735101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Shri: Red Doors",
-      "venue": "Turner Sims Southampton",
-      "time": "2026-11-20T20:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/shri%3a-red-doors/299030101/",
-      "source": "visit_southampton"
-    },
     {
       "title": "Northwood String Orchestra Winter Concert",
       "venue": "St James Road Methodist Church",
@@ -723,13 +688,6 @@
       "venue": "Sobar",
       "time": "2026-12-12T14:00:00Z",
       "url": "https://www.visitsouthampton.co.uk/event/tempo-x-riddle%3a-jamie-fielding/299788101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "RnB Throwbacks: Over 30's day party with 90's & 00's RnB",
-      "venue": "Caf\u00e9 Parfait",
-      "time": "2026-12-12T16:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/rnb-throwbacks%3a-over-30s-day-party-with-90s-%26-00s-rnb/294949101/",
       "source": "visit_southampton"
     },
     {
@@ -1703,6 +1661,13 @@
       "venue": "The Joiners",
       "time": "2027-02-18T19:00:00Z",
       "url": "https://www.visitsouthampton.co.uk/event/the-cheap-thrills/296865101/",
+      "source": "visit_southampton"
+    },
+    {
+      "title": "Green Haze & Nirvanah",
+      "venue": "Engine Rooms",
+      "time": "2027-02-19T18:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/green-haze-%26-nirvanah/295780101/",
       "source": "visit_southampton"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T14:33:15+00:00",
+  "fetched_at": "2026-11-22T14:28:30+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -420,10 +420,10 @@
       "name": "AFC Bournemouth",
       "league": {
         "competition": "Premier League",
-        "position": 7,
-        "points": 15,
-        "played": 10,
-        "remaining": 28
+        "position": 4,
+        "points": 18,
+        "played": 11,
+        "remaining": 27
       },
       "cups": [
         {
@@ -432,13 +432,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-11-21T15:00Z",
-          "opponent": "Nottingham Forest",
-          "home_away": "home",
-          "venue": "Vitality Stadium",
-          "competition": "Premier League"
-        },
         {
           "date": "2026-11-29T14:05Z",
           "opponent": "Fulham",
@@ -756,6 +749,16 @@
           "goals_for": 2,
           "goals_against": 1,
           "outcome": "W"
+        },
+        {
+          "date": "2026-11-21T15:00Z",
+          "opponent": "Nottingham Forest",
+          "home_away": "home",
+          "venue": "Vitality Stadium",
+          "competition": "Premier League",
+          "goals_for": 2,
+          "goals_against": 0,
+          "outcome": "W"
         }
       ]
     },
@@ -764,7 +767,7 @@
       "name": "Eastleigh FC",
       "league": {
         "competition": "National League",
-        "position": 14,
+        "position": 16,
         "points": 22,
         "played": 18,
         "remaining": 28

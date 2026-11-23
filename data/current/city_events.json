@@ -1,62 +1,34 @@
 {
-  "fetched_at": "2026-11-22T13:45:45+00:00",
+  "fetched_at": "2026-11-23T16:48:31+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
     {
       "title": "Ice Skating Southampton: Westquay on Ice",
       "venue": "Westquay",
-      "time": "2026-11-22T09:00:00Z",
+      "time": "2026-11-23T09:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/ice-skating-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Artful Christmas Weekend 2026",
-      "venue": "Sir Harold Hillier Gardens",
-      "time": "2026-11-22T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/artful-christmas-weekend/",
       "source": "hellosouthampton"
     },
     {
       "title": "Christmas at Marwell Zoo 2026",
       "venue": "Marwell Zoo",
-      "time": "2026-11-22T10:00:00Z",
+      "time": "2026-11-23T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/christmas-at-marwell-zoo/",
       "source": "hellosouthampton"
     },
     {
       "title": "Winchester Cathedral Christmas Market",
       "venue": "Winchester Cathedral Close",
-      "time": "2026-11-22T10:00:00Z",
+      "time": "2026-11-23T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/winchester-cathedral-christmas-market/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Film Week 2026",
-      "venue": "Multiple Venues",
-      "time": "2026-11-22T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-film-week/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Visit Father Christmas at Tudor House & Garden 2026",
-      "venue": "Tudor House & Garden",
-      "time": "2026-11-22T10:15:00Z",
-      "url": "https://hellosouthampton.co.uk/events/visit-father-christmas-at-tudor-house-garden/",
       "source": "hellosouthampton"
     },
     {
       "title": "Southampton Christmas Market 2026",
       "venue": "The Bargate and Guildhall",
-      "time": "2026-11-22T11:00:00Z",
+      "time": "2026-11-23T11:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/southampton-christmas-market/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Wessex Sinfonietta Concert 2026",
-      "venue": "Royal Victoria Chapel",
-      "time": "2026-11-22T15:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/wessex-sinfonietta-concert/",
       "source": "hellosouthampton"
     },
     {
@@ -102,6 +74,14 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Southampton Snow Windows Trail: Snowmen on the Loose",
+      "venue": "Citywide",
+      "time": "2026-11-28T00:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/christmas-trail/",
+      "source": "visit_southampton",
+      "all_day": true
+    },
+    {
       "title": "Lymington Market",
       "venue": "High Street, Lymington",
       "time": "2026-11-28T07:00:00Z",
@@ -127,13 +107,6 @@
       "venue": "Itchen Valley Country Park",
       "time": "2026-11-28T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/christmas-trail-2026-whats-on-the-tree/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Snow Windows Trail 2026",
-      "venue": "Southampton City Centre",
-      "time": "2026-11-28T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-snow-windows-trail/",
       "source": "hellosouthampton"
     },
     {

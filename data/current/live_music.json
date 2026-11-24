@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-11-23T19:01:44+00:00",
+  "fetched_at": "2026-11-24T18:32:04+00:00",
   "source": "Visit Southampton",
   "location": "Southampton, UK",
-  "pages_pending": 512,
+  "pages_pending": 505,
   "events": [
     {
       "title": "The Hawklords",
@@ -782,6 +782,13 @@
       "source": "visit_southampton"
     },
     {
+      "title": "Gig Night End of Year Party 2026",
+      "venue": "Peartree United Reformed Church Hall",
+      "time": "2026-12-19T19:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/gig-night-end-of-year-party-2026/300226101/",
+      "source": "visit_southampton"
+    },
+    {
       "title": "Black Kat Boppers Christmas Party",
       "venue": "Heartbreakers",
       "time": "2026-12-19T19:30:00Z",
@@ -919,13 +926,6 @@
       "venue": "The Joiners",
       "time": "2027-01-08T19:00:00Z",
       "url": "https://www.visitsouthampton.co.uk/event/matt-embree-%26-vinnie-caruana/299139101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Candlelight: A Tribute to Coldplay",
-      "venue": "Royal Victoria Country Park",
-      "time": "2027-01-09T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/candlelight%3a-a-tribute-to-coldplay/265222101/",
       "source": "visit_southampton"
     },
     {
@@ -1339,13 +1339,6 @@
       "venue": "Caf\u00e9 Parfait",
       "time": "2027-02-06T16:00:00Z",
       "url": "https://www.visitsouthampton.co.uk/event/rnb-throwbacks%3a-over-30s-day-party/294949101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Candlelight: A Tribute to Coldplay",
-      "venue": "Royal Victoria Country Park",
-      "time": "2027-02-06T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/candlelight%3a-a-tribute-to-coldplay/265222101/",
       "source": "visit_southampton"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T18:17:01+00:00",
+  "fetched_at": "2026-11-24T17:51:08+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -15,15 +15,7 @@
       "name": "BBC Two",
       "type": "tv",
       "confidence": "high",
-      "new_series": [
-        {
-          "title": "Lucy Worsley's Keys to the Castle",
-          "series_number": 1,
-          "start_time": "2026-11-23T21:00:00Z",
-          "synopsis": "Lucy has the keys to the Doge\u2019s Palace in Venice, where she has a close shave in a torture chamber and discovers a 24-carat gold staircase, hidden doors and secret messages.",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0033jd2"
-        }
-      ]
+      "new_series": []
     },
     {
       "id": "bbc_three",
@@ -64,7 +56,7 @@
           "series_number": 86,
           "start_time": "2026-11-29T12:30:00Z",
           "synopsis": "Jack Dee visits Wimbledon with panellists Sandi Toksvig, Richard Coles, Lucy Porter and Tony Hawks.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/m0034m5t"
         },
         {
           "title": "Understand",
@@ -72,6 +64,20 @@
           "start_time": "2026-11-29T17:10:00Z",
           "synopsis": "Every UK government says it wants  strong and sustained economic growth. But for almost 20 years none have managed it. Ben Chu asks why generating growth seems so difficult?",
           "url": "https://www.bbc.co.uk/sounds/play/p0phrszt"
+        },
+        {
+          "title": "Peasants: Makers of the Modern World by Maryam Aslany",
+          "series_number": null,
+          "start_time": "2026-11-30T11:45:00Z",
+          "synopsis": "Living amongst the world\u2019s peasant communities, Maryam Aslany challenges the idea that \u2018peasant\u2019 labour is a thing of the past. She travels first to India\u2019s sugarcane region.",
+          "url": null
+        },
+        {
+          "title": "A Family Matter by Claire Lynch",
+          "series_number": null,
+          "start_time": "2026-11-30T22:45:00Z",
+          "synopsis": "November 2022. Heron goes to the supermarket, sticking to his routine, despite recent events.",
+          "url": null
         }
       ]
     },

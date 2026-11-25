@@ -1,37 +1,9 @@
 {
-  "fetched_at": "2026-11-24T18:32:04+00:00",
+  "fetched_at": "2026-11-25T17:49:30+00:00",
   "source": "Visit Southampton",
   "location": "Southampton, UK",
-  "pages_pending": 505,
+  "pages_pending": 494,
   "events": [
-    {
-      "title": "The Hawklords",
-      "venue": "The 1865",
-      "time": "2026-11-24T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/the-hawklords/264800101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Yard Act",
-      "venue": "O2 Guildhall Southampton",
-      "time": "2026-11-24T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/yard-act/285716101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Burt Bacharach - His Life Story in Words and Music",
-      "venue": "Hanger Farm Arts Centre",
-      "time": "2026-11-24T19:30:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/burt-bacharach-his-life-story-in-words-and-music/297479101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Jack Liebeck & Katya Apekisheva",
-      "venue": "Turner Sims Southampton",
-      "time": "2026-11-24T19:30:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/jack-liebeck-%26-katya-apekisheva/299032101/",
-      "source": "visit_southampton"
-    },
     {
       "title": "Evergrey",
       "venue": "The Brook",

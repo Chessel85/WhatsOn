@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T17:05:35+00:00",
+  "fetched_at": "2026-11-26T16:46:13+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -770,7 +770,7 @@
       "name": "Eastleigh FC",
       "league": {
         "competition": "National League",
-        "position": 17,
+        "position": 18,
         "points": 22,
         "played": 19,
         "remaining": 27

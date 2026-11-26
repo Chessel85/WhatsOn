@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-26T05:38:35+00:00",
+  "fetched_at": "2026-11-26T17:55:37+00:00",
   "source": "https://www.southamptonvts.co.uk/live_information/shipping_movements_and_cruise_ship_schedule/cruise_ship_schedule/",
   "location": "Southampton",
   "visits": [
@@ -66,7 +66,7 @@
       },
       "departure": {
         "date": "2026-11-29",
-        "time": "2026-11-29T16:00:00Z"
+        "time": "2026-11-29T18:00:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {
@@ -95,16 +95,14 @@
     },
     {
       "ship_name": "AIDANOVA",
-      "berth": "46",
+      "berth": "102",
       "arrival": {
         "date": "2026-11-30",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-11-30T06:00:00Z"
       },
       "departure": {
         "date": "2026-11-30",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-11-30T20:30:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {
@@ -115,16 +113,14 @@
     },
     {
       "ship_name": "ARCADIA",
-      "berth": "106",
+      "berth": "46",
       "arrival": {
         "date": "2026-11-30",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-11-30T06:15:00Z"
       },
       "departure": {
         "date": "2026-11-30",
-        "time": null,
-        "time_label": "TBA"
+        "time": "2026-11-30T16:00:00Z"
       },
       "agent": "CARNIVAL UK",
       "links": {

@@ -1,30 +1,9 @@
 {
-  "fetched_at": "2026-11-25T17:49:30+00:00",
+  "fetched_at": "2026-11-26T17:35:24+00:00",
   "source": "Visit Southampton",
   "location": "Southampton, UK",
-  "pages_pending": 494,
+  "pages_pending": 507,
   "events": [
-    {
-      "title": "Evergrey",
-      "venue": "The Brook",
-      "time": "2026-11-25T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/evergrey/287941101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Uncle Acid & The Deadbeats",
-      "venue": "Engine Rooms",
-      "time": "2026-11-25T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/uncle-acid-%26-the-deadbeats/284843101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Make Friends",
-      "venue": "Heartbreakers",
-      "time": "2026-11-25T19:30:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/make-friends/287288101/",
-      "source": "visit_southampton"
-    },
     {
       "title": "\u0120enn",
       "venue": "The Joiners",
@@ -712,13 +691,6 @@
       "source": "visit_southampton"
     },
     {
-      "title": "Suburbia Presents: Blink Daze Alternative Xmas Party",
-      "venue": "Suburbia",
-      "time": "2026-12-19T18:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/suburbia-presents%3a-blink-daze-alternative-xmas-party/293487101/",
-      "source": "visit_southampton"
-    },
-    {
       "title": "Nightwish Tribute Band Night-Ish",
       "venue": "The Attic",
       "time": "2026-12-19T19:00:00Z",
@@ -912,6 +884,13 @@
       "venue": "The 1865",
       "time": "2027-01-09T19:00:00Z",
       "url": "https://www.visitsouthampton.co.uk/event/wrong-jovi/260570101/",
+      "source": "visit_southampton"
+    },
+    {
+      "title": "Candlelight: Coldplay vs Ed Sheeran",
+      "venue": "Royal Victoria Country Park",
+      "time": "2027-01-09T19:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/candlelight%3a-coldplay-vs-ed-sheeran/300329101/",
       "source": "visit_southampton"
     },
     {
@@ -1332,6 +1311,13 @@
       "venue": "The 1865",
       "time": "2027-02-06T19:00:00Z",
       "url": "https://www.visitsouthampton.co.uk/event/the-devout%3a-depeche-mode-tribute/260577101/",
+      "source": "visit_southampton"
+    },
+    {
+      "title": "Candlelight: Coldplay vs Ed Sheeran",
+      "venue": "Royal Victoria Country Park",
+      "time": "2027-02-06T19:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/candlelight%3a-coldplay-vs-ed-sheeran/300329101/",
       "source": "visit_southampton"
     },
     {

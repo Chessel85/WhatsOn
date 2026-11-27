@@ -1,58 +1,9 @@
 {
-  "fetched_at": "2026-11-26T17:35:24+00:00",
+  "fetched_at": "2026-11-27T17:16:25+00:00",
   "source": "Visit Southampton",
   "location": "Southampton, UK",
-  "pages_pending": 507,
+  "pages_pending": 512,
   "events": [
-    {
-      "title": "\u0120enn",
-      "venue": "The Joiners",
-      "time": "2026-11-26T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/%c4%a0enn/293743101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Elles Bailey",
-      "venue": "The Brook",
-      "time": "2026-11-26T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/elles-bailey/283404101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "The Crawling - UK Tour",
-      "venue": "Suburbia",
-      "time": "2026-11-26T19:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/the-crawling-uk-tour/295703101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "The Ragdolls: Celebrating the music of Frankie Valli & the Four Seasons",
-      "venue": "Hanger Farm Arts Centre",
-      "time": "2026-11-26T19:30:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/the-ragdolls%3a-celebrating-the-music-of-frankie-valli-%26-the-four-seasons/272902101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Zen Juddhism, Daydream Massacre + more",
-      "venue": "Heartbreakers",
-      "time": "2026-11-26T19:30:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/zen-juddhism-daydream-massacre-%2b-more/295528101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Folk Platform",
-      "venue": "Turner Sims Southampton",
-      "time": "2026-11-26T20:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/folk-platform/299031101/",
-      "source": "visit_southampton"
-    },
-    {
-      "title": "Taking Back Thursdays: Myspace Core",
-      "venue": "Suburbia",
-      "time": "2026-11-26T22:30:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/taking-back-thursdays%3a-myspace-core/293173101/",
-      "source": "visit_southampton"
-    },
     {
       "title": "Embrace",
       "venue": "O2 Guildhall Southampton",
@@ -915,13 +866,6 @@
       "source": "visit_southampton"
     },
     {
-      "title": "Candlelight: Hans Zimmer's Best Works",
-      "venue": "Royal Victoria Country Park",
-      "time": "2027-01-09T21:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/candlelight%3a-hans-zimmers-best-works/290823101/",
-      "source": "visit_southampton"
-    },
-    {
       "title": "Tramhaus",
       "venue": "Heartbreakers",
       "time": "2027-01-10T19:00:00Z",
@@ -1321,13 +1265,6 @@
       "source": "visit_southampton"
     },
     {
-      "title": "Candlelight: A Tribute to Fleetwood Mac",
-      "venue": "Royal Victoria Country Park",
-      "time": "2027-02-06T21:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/event/candlelight%3a-a-tribute-to-fleetwood-mac/290822101/",
-      "source": "visit_southampton"
-    },
-    {
       "title": "In2It 001: Harold Heath & Resident DJ's",
       "venue": "Suburbia",
       "time": "2027-02-06T22:30:00Z",
@@ -1605,6 +1542,27 @@
       "venue": "The Brook",
       "time": "2027-02-21T19:00:00Z",
       "url": "https://www.visitsouthampton.co.uk/event/russ-ballard/300121101/",
+      "source": "visit_southampton"
+    },
+    {
+      "title": "Hammerdown Presents: Froglord + Support",
+      "venue": "Suburbia",
+      "time": "2027-02-25T18:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/hammerdown-presents%3a-froglord-%2b-support/297497101/",
+      "source": "visit_southampton"
+    },
+    {
+      "title": "Saxon",
+      "venue": "O2 Guildhall Southampton",
+      "time": "2027-02-25T19:00:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/saxon/288909101/",
+      "source": "visit_southampton"
+    },
+    {
+      "title": "Wearing Cheryl Baker",
+      "venue": "Hanger Farm Arts Centre",
+      "time": "2027-02-25T19:30:00Z",
+      "url": "https://www.visitsouthampton.co.uk/event/wearing-cheryl-baker/291522101/",
       "source": "visit_southampton"
     }
   ]

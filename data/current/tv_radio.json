@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-26T16:58:53+00:00",
+  "fetched_at": "2026-11-27T16:43:50+00:00",
   "source": "BBC iPlayer schedule API, BBC Sounds schedules, TVmaze",
   "window_days": 7,
   "channels": [
@@ -42,7 +42,7 @@
           "series_number": 3,
           "start_time": "2026-11-27T14:15:00Z",
           "synopsis": "Detectives Jess and Maya investigate a supposedly haunted house for a paranormal podcast. Award-winning thriller with Gina McKee, by Ben and Max Ringham with Dan Rebellato.",
-          "url": null
+          "url": "https://www.bbc.co.uk/sounds/play/p0pntlxd"
         },
         {
           "title": "I'm Sorry I Haven't A Clue",

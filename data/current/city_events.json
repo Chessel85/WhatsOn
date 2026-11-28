@@ -1,70 +1,20 @@
 {
-  "fetched_at": "2026-11-27T15:48:35+00:00",
+  "fetched_at": "2026-11-28T14:44:11+00:00",
   "source": "hellosouthampton.co.uk, University of Southampton and Visit Southampton",
   "location": "Southampton, UK",
   "events": [
-    {
-      "title": "Ice Skating Southampton: Westquay on Ice",
-      "venue": "Westquay",
-      "time": "2026-11-27T09:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/ice-skating-southampton/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Teeny Tiny Farmers at Manor Farm 2026",
-      "venue": "Manor Farm",
-      "time": "2026-11-27T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/teeny-tiny-farmers-at-manor-farm/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Christmas at Marwell Zoo 2026",
-      "venue": "Marwell Zoo",
-      "time": "2026-11-27T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/christmas-at-marwell-zoo/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Winchester Cathedral Christmas Market",
-      "venue": "Winchester Cathedral Close",
-      "time": "2026-11-27T10:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/winchester-cathedral-christmas-market/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Christmas Market 2026",
-      "venue": "The Bargate and Guildhall",
-      "time": "2026-11-27T11:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/southampton-christmas-market/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Lymington Christmas Light Switch-On 2026",
-      "venue": "Lymington Town Quay",
-      "time": "2026-11-27T16:00:00Z",
-      "url": "https://hellosouthampton.co.uk/events/lymington-christmas-light-switch-on/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Light Up Trails 2026",
-      "venue": "Sir Harold Hillier Gardens",
-      "time": "2026-11-27T16:30:00Z",
-      "url": "https://hellosouthampton.co.uk/events/light-up-trails-2026/",
-      "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Snow Windows Trail: Snowmen on the Loose",
-      "venue": "Citywide",
-      "time": "2026-11-28T00:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/christmas-trail/",
-      "source": "visit_southampton",
-      "all_day": true
-    },
     {
       "title": "Lymington Market",
       "venue": "High Street, Lymington",
       "time": "2026-11-28T07:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/lymington-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Ice Skating Southampton: Westquay on Ice",
+      "venue": "Westquay",
+      "time": "2026-11-28T09:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/ice-skating-southampton/",
       "source": "hellosouthampton"
     },
     {
@@ -89,6 +39,27 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Christmas at Marwell Zoo 2026",
+      "venue": "Marwell Zoo",
+      "time": "2026-11-28T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/christmas-at-marwell-zoo/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Winchester Cathedral Christmas Market",
+      "venue": "Winchester Cathedral Close",
+      "time": "2026-11-28T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/winchester-cathedral-christmas-market/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Southampton Snow Windows Trail 2026",
+      "venue": "Southampton City Centre",
+      "time": "2026-11-28T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-snow-windows-trail/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "Hythe Mistletoe Fayre 2026",
       "venue": "Hythe High Street",
       "time": "2026-11-28T10:00:00Z",
@@ -110,6 +81,13 @@
       "source": "hellosouthampton"
     },
     {
+      "title": "Southampton Christmas Market 2026",
+      "venue": "The Bargate and Guildhall",
+      "time": "2026-11-28T11:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/southampton-christmas-market/",
+      "source": "hellosouthampton"
+    },
+    {
       "title": "West End Christmas Light Switch On & Market 2026",
       "venue": "West End Parish Centre",
       "time": "2026-11-28T13:00:00Z",
@@ -128,6 +106,13 @@
       "venue": "The Watercress Line",
       "time": "2026-11-28T16:10:00Z",
       "url": "https://hellosouthampton.co.uk/events/watercress-line-steam-illuminations/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Light Up Trails 2026",
+      "venue": "Sir Harold Hillier Gardens",
+      "time": "2026-11-28T16:30:00Z",
+      "url": "https://hellosouthampton.co.uk/events/light-up-trails-2026/",
       "source": "hellosouthampton"
     },
     {
@@ -233,6 +218,13 @@
       "venue": "Eastleigh Lakeside Miniature Railway",
       "time": "2026-12-04T00:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/christmas-light-trains-2026/",
+      "source": "hellosouthampton"
+    },
+    {
+      "title": "Teeny Tiny Farmers at Manor Farm 2026",
+      "venue": "Manor Farm",
+      "time": "2026-12-04T10:00:00Z",
+      "url": "https://hellosouthampton.co.uk/events/teeny-tiny-farmers-at-manor-farm/",
       "source": "hellosouthampton"
     },
     {
@@ -451,14 +443,6 @@
       "time": "2026-12-26T10:00:00Z",
       "url": "https://hellosouthampton.co.uk/events/santa-fun-run-2026-romsey/",
       "source": "hellosouthampton"
-    },
-    {
-      "title": "Southampton Christmas Market",
-      "venue": "Above Bar Street",
-      "time": "2026-12-27T00:00:00Z",
-      "url": "https://www.visitsouthampton.co.uk/events/annual-events/",
-      "source": "visit_southampton",
-      "all_day": true
     },
     {
       "title": "RevPro Wrestling Southampton",

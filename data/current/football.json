@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T16:31:51+00:00",
+  "fetched_at": "2026-11-28T15:25:22+00:00",
   "source": "ESPN",
   "season_start": "2026-08-01",
   "season_end": "2027-07-31",
@@ -10,9 +10,9 @@
       "league": {
         "competition": "Championship",
         "position": 6,
-        "points": 28,
-        "played": 17,
-        "remaining": 29
+        "points": 31,
+        "played": 18,
+        "remaining": 28
       },
       "cups": [
         {
@@ -21,13 +21,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-11-27T20:00Z",
-          "opponent": "Middlesbrough",
-          "home_away": "home",
-          "venue": "St. Mary's Stadium",
-          "competition": "Championship"
-        },
         {
           "date": "2026-12-05T15:00Z",
           "opponent": "Wolverhampton Wanderers",
@@ -415,6 +408,16 @@
           "goals_for": 1,
           "goals_against": 1,
           "outcome": "D"
+        },
+        {
+          "date": "2026-11-27T20:00Z",
+          "opponent": "Middlesbrough",
+          "home_away": "home",
+          "venue": "St. Mary's Stadium",
+          "competition": "Championship",
+          "goals_for": 2,
+          "goals_against": 0,
+          "outcome": "W"
         }
       ]
     },
@@ -770,10 +773,10 @@
       "name": "Eastleigh FC",
       "league": {
         "competition": "National League",
-        "position": 18,
+        "position": 17,
         "points": 22,
         "played": 19,
-        "remaining": 27
+        "remaining": 26
       },
       "cups": [
         {
@@ -782,13 +785,6 @@
         }
       ],
       "fixtures": [
-        {
-          "date": "2026-11-28T15:00Z",
-          "opponent": "FC Halifax Town",
-          "home_away": "home",
-          "venue": "Silverlake Stadium",
-          "competition": "National League"
-        },
         {
           "date": "2026-12-05T15:00Z",
           "opponent": "Solihull Moors",
